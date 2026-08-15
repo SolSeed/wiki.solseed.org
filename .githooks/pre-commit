@@ -1,0 +1,64 @@
+#!/bin/sh
+
+set -eu
+
+repository_root=$(git rev-parse --show-toplevel)
+cd "$repository_root"
+
+if ! index_version=$(git show :VERSION 2>/dev/null); then
+  echo "pre-commit: VERSION must be tracked and staged" >&2
+  exit 1
+fi
+
+working_version=$(tr -d '\r\n' < VERSION)
+
+if [ "$working_version" != "$index_version" ]; then
+  echo "pre-commit: VERSION has unstaged changes; stage or restore them first" >&2
+  exit 1
+fi
+
+head_version=$(git show HEAD:VERSION 2>/dev/null || true)
+
+# A failed or cancelled commit may run this hook again. If the staged version
+# already differs from HEAD and has commit metadata, do not increment it twice.
+if [ "$index_version" != "$head_version" ]; then
+  case "$index_version" in
+    *+commit.*)
+      exit 0
+      ;;
+  esac
+fi
+
+case "$index_version" in
+  *+commit.*)
+    version_base=${index_version%+commit.*}
+    commit_number=${index_version##*+commit.}
+    ;;
+  *+*)
+    echo "pre-commit: unsupported VERSION build metadata: $index_version" >&2
+    exit 1
+    ;;
+  *)
+    version_base=$index_version
+    commit_number=0
+    ;;
+esac
+
+case "$commit_number" in
+  ''|*[!0-9]*)
+    echo "pre-commit: invalid commit counter in VERSION: $index_version" >&2
+    exit 1
+    ;;
+esac
+
+if ! printf '%s\n' "$version_base" | grep -Eq '^(0|[1-9][0-9]*)\.(0|[1-9][0-9]*)\.(0|[1-9][0-9]*)(-((0|[1-9][0-9]*|[0-9]*[A-Za-z-][0-9A-Za-z-]*)(\.(0|[1-9][0-9]*|[0-9]*[A-Za-z-][0-9A-Za-z-]*))*))?$'; then
+  echo "pre-commit: VERSION core is not valid SemVer 2: $version_base" >&2
+  exit 1
+fi
+
+next_commit_number=$((commit_number + 1))
+next_version="${version_base}+commit.${next_commit_number}"
+
+printf '%s\n' "$next_version" > VERSION
+git add -- VERSION
+echo "pre-commit: VERSION $index_version -> $next_version"

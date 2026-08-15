@@ -32,6 +32,28 @@ Each deployment also generates `/static-version/index.html`. Visiting
 Git commit SHA used by that deployment. Bump `VERSION` when publishing a new
 site release; it begins at `0.0.1`.
 
+## Commit versions
+
+The repository includes `.githooks/pre-commit`. It preserves the `MAJOR.MINOR.PATCH`
+release number and increments SemVer build metadata for each commit:
+
+```text
+0.0.1
+0.0.1+commit.1
+0.0.1+commit.2
+```
+
+Enable the versioned hooks once after cloning:
+
+```sh
+git config core.hooksPath .githooks
+```
+
+The hook updates and stages `VERSION` automatically. It is idempotent when a
+commit fails or is cancelled after the hook runs. To begin another release,
+replace `VERSION` with a new `MAJOR.MINOR.PATCH` value and stage it; the hook
+will add `+commit.1`.
+
 The production archive must provide `site/index.html`. It should preserve the
 historical MediaWiki routes wherever practical, including `/SolSeed` and
 `/A_Frame_of_Paper_And_Ink`, by using directory indexes or another static,
