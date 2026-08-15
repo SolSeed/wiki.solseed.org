@@ -27,6 +27,9 @@ jobs:
       - name: Assemble publication directory
         run: cp -a site _site
 
+      - name: Generate site version page
+        run: node scripts/build-static-version.mjs _site "$GITHUB_SHA"
+
       - name: Build Pagefind search index
         shell: bash
         run: |

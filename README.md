@@ -13,10 +13,12 @@ data, temporary uploads, and restoration tooling do not belong here.
 ```text
 .
 ├── .github/workflows/deploy-pages.yml  # Build search and publish Pages
+├── scripts/build-static-version.mjs    # Generate deployment identity page
 ├── site/                               # Public URL root
 │   ├── .nojekyll
 │   ├── CNAME
 │   └── ...generated archive...
+├── VERSION                             # SemVer 2 site release number
 └── README.md
 ```
 
@@ -24,6 +26,11 @@ GitHub Actions copies `site/` to an untracked `_site/` staging directory,
 builds a Pagefind search index there, and deploys `_site/` as a GitHub Pages
 artifact. Consequently, `site/index.html` is served as `/`, not `/site/`, and
 no deployment branch is required.
+
+Each deployment also generates `/static-version/index.html`. Visiting
+`/static-version` shows the SemVer 2 release number from `VERSION` and the full
+Git commit SHA used by that deployment. Bump `VERSION` when publishing a new
+site release; it begins at `0.0.1`.
 
 The production archive must provide `site/index.html`. It should preserve the
 historical MediaWiki routes wherever practical, including `/SolSeed` and
@@ -34,7 +41,8 @@ GitHub Pages-compatible layout.
 
 The workflow runs Pagefind 1.5.2 after staging the HTML. It writes the generated
 browser bundle and index to `_site/pagefind/`; those files are deployed but are
-not committed. Until HTML exists, the workflow deliberately skips this step.
+not committed. The generated version page ensures every deployment has at least
+one HTML document even before the historical archive is added.
 
 Generated pages can load Pagefind's component UI with:
 
@@ -54,6 +62,7 @@ After generating the archive, assemble and index it with:
 
 ```sh
 cp -a site _site
+node scripts/build-static-version.mjs _site "$(git rev-parse HEAD)"
 npx --yes pagefind@1.5.2 --site _site
 python3 -m http.server 8080 --directory _site
 ```
