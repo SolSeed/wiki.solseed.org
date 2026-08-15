@@ -2,3 +2,8 @@
 Thumbs.db
 *.log
 
+# GitHub Actions assembles the deployable site here.
+_site/
+
+# Pagefind output belongs only in the assembled Pages artifact.
+site/pagefind/
