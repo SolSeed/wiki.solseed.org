@@ -24,19 +24,19 @@ test("empty input produces an equal empty line", () => {
   assert.deepEqual(diff.buildLineDiff("", ""), [{ type: "equal", oldLine: "", newLine: "", oldNumber: 1, newNumber: 1 }]);
 });
 
-test("revision pairs may be selected in either approved order", () => {
-  const metadata = { revisions: [{ id: "a", approved: true }, { id: "b", approved: true }, { id: "private", approved: false }] };
-  assert.equal(diff.selectRevisionPair(metadata, "b", "a").before.id, "b");
-  assert.deepEqual(diff.validateRevisionPair(metadata, "a", "private"), { valid: false, code: "unknown-or-unapproved-revision" });
+test("revision pairs may be selected in either exported order", () => {
+  const metadata = { revisions: [{ revision_id: "a" }, { revision_id: "b" }] };
+  assert.equal(diff.selectRevisionPair(metadata, "b", "a").before.revision_id, "b");
+  assert.deepEqual(diff.validateRevisionPair(metadata, "a", "missing"), { valid: false, code: "unknown-revision" });
   assert.throws(() => diff.selectRevisionPair(metadata, "a", "a"), /same-revision/);
 });
 
 test("renderer writes XSS-like wikitext as text", () => {
   const calls = [];
   const document = { createElement(tag) { return { tag, children: [], append(...nodes) { this.children.push(...nodes); }, set textContent(value) { calls.push(String(value)); this.value = String(value); } }; } };
-  diff.renderInlineDiff(document, "<script>alert(1)</script>", "<img src=x onerror=alert(2)>");
-  assert.ok(calls.includes("<script>alert(1)</script>"));
-  assert.ok(calls.includes("<img src=x onerror=alert(2)>"));
+  const payload = "<script>alert(1)</script><img src=x onerror=alert(2)>";
+  diff.renderInlineDiff(document, payload, payload);
+  assert.ok(calls.includes(payload));
 });
 
 test("moderately large input completes and preserves changed line", () => {

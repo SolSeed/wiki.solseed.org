@@ -15,13 +15,13 @@ const model = buildLineDiff(before.wikitext, after.wikitext);
 document.querySelector("#diff").replaceChildren(renderSplitDiff(document, model));
 ```
 
-Revision metadata must provide an explicit `revisions` array. Only entries whose `approved` field is strictly `true` can be selected, and either approved revision may be chosen as the before or after side:
+Revision metadata must provide the exporter’s explicit `revisions` array. The exporter includes only approved entries; this module selects only from that exported list. Use the exporter’s `revision_id` field, and either exported revision may be chosen as the before or after side:
 
 ```js
 const revisionMetadata = {
   revisions: [
-    { id: "2026-01", approved: true, wikitext: "..." },
-    { id: "2026-02", approved: true, wikitext: "..." },
+    { revision_id: "2026-01", wikitext: "..." },
+    { revision_id: "2026-02", wikitext: "..." },
   ],
 };
 ```

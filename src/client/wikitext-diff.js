@@ -104,7 +104,8 @@ export function buildLineDiff(beforeText, afterText) {
       while (raw[index]?.type === "delete") deleted.push(raw[index++]);
       const added = [];
       while (raw[index]?.type === "add") added.push(raw[index++]);
-      rows.push(added.length ? makeChange(deleted, added) : ...deleted);
+      if (added.length) rows.push(makeChange(deleted, added));
+      else rows.push(...deleted);
     } else {
       rows.push(raw[index++]);
     }
@@ -169,18 +170,20 @@ export function renderSplitDiff(document, modelOrBefore, afterText) {
   return root;
 }
 
-function approvedRevisions(metadata) {
+function exportedRevisions(metadata) {
   const revisions = Array.isArray(metadata) ? metadata : metadata?.revisions;
-  return Array.isArray(revisions) ? revisions.filter((revision) => revision?.approved === true) : [];
+  // The history exporter has already applied its approval policy. Do not
+  // accept a separate caller-controlled flag here: only exported IDs count.
+  return Array.isArray(revisions) ? revisions : [];
 }
 
-/** Validate that a requested pair exists in explicit, approved revision metadata. */
+/** Validate that a requested pair exists in explicit exported revision metadata. */
 export function validateRevisionPair(metadata, beforeId, afterId) {
   if (beforeId === afterId) return { valid: false, code: "same-revision" };
-  const revisions = approvedRevisions(metadata);
-  const before = revisions.find((revision) => revision.id === beforeId);
-  const after = revisions.find((revision) => revision.id === afterId);
-  if (!before || !after) return { valid: false, code: "unknown-or-unapproved-revision" };
+  const revisions = exportedRevisions(metadata);
+  const before = revisions.find((revision) => revision?.revision_id === beforeId);
+  const after = revisions.find((revision) => revision?.revision_id === afterId);
+  if (!before || !after) return { valid: false, code: "unknown-revision" };
   return { valid: true, before, after };
 }
 
