@@ -22,6 +22,8 @@ test("renders the public page, history, revision, source, diff, and archive data
       "revision/103/SolSeed/source/index.html",
       "source/SolSeed/index.html",
       "diff/SolSeed/index.html",
+      "assets/history-controls.js",
+      "assets/wikitext-diff.js",
       "archive-data/pages/1/page.json",
       "archive-data/pages/1/revisions/101.wiki",
       "archive-data/pages/1/revisions/103.wiki",
@@ -32,7 +34,9 @@ test("renders the public page, history, revision, source, diff, and archive data
     const revision = await readFile(join(output, "revision/103/SolSeed/index.html"), "utf8");
     assert.match(revision, /Previous revision/); assert.match(revision, /View source/); assert.match(revision, /Citation review confirmed/);
     const diff = await readFile(join(output, "diff/SolSeed/index.html"), "utf8");
-    assert.match(diff, /data-diff-shell/); assert.match(diff, /Choose two revisions/);
+    assert.match(diff, /data-diff-shell/); assert.match(diff, /data-diff-result/);
+    const controls = await readFile(join(output, "assets/history-controls.js"), "utf8");
+    assert.match(controls, /selectRevisionPair/); assert.match(controls, /renderSplitDiff/); assert.match(controls, /renderInlineDiff/);
     const archivePage = JSON.parse(await readFile(join(output, "archive-data/pages/1/page.json"), "utf8"));
     assert.equal(archivePage.revisions.length, 3); assert.equal(archivePage.revisions[0].revision_id, "101");
     assert.equal(archivePage.revisions[0].source, undefined);

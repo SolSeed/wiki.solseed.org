@@ -11,7 +11,11 @@ import {
 } from "./src/client/wikitext-diff.js";
 
 const { before, after } = selectRevisionPair(revisionMetadata, requestedBeforeId, requestedAfterId);
-const model = buildLineDiff(before.wikitext, after.wikitext);
+const [beforeText, afterText] = await Promise.all([
+  fetch(`/archive-data/pages/1/revisions/${before.revision_id}.wiki`).then((response) => response.text()),
+  fetch(`/archive-data/pages/1/revisions/${after.revision_id}.wiki`).then((response) => response.text()),
+]);
+const model = buildLineDiff(beforeText, afterText);
 document.querySelector("#diff").replaceChildren(renderSplitDiff(document, model));
 ```
 
@@ -20,8 +24,8 @@ Revision metadata must provide the exporter’s explicit `revisions` array. The 
 ```js
 const revisionMetadata = {
   revisions: [
-    { revision_id: "2026-01", wikitext: "..." },
-    { revision_id: "2026-02", wikitext: "..." },
+    { revision_id: "2026-01" },
+    { revision_id: "2026-02" },
   ],
 };
 ```
