@@ -24,11 +24,11 @@ jobs:
       - name: Configure GitHub Pages
         uses: actions/configure-pages@v6
 
+      - name: Render public archive source
+        run: node scripts/build-archive.mjs _source site
+
       - name: Assemble publication directory
         run: cp -a site _site
-
-      - name: Render public archive source
-        run: node scripts/build-archive.mjs _source _site
 
       - name: Generate site version page
         run: node scripts/build-static-version.mjs _site "$GITHUB_SHA"
