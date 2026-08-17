@@ -1,0 +1,51 @@
+### Thursday Agenda
+- Check in
+- Opening Blessing
+- Logistics for Saturday
+- Project Work
+  - Ben: Work on content for the Spectacle
+- Evaluation
+- Closing Blessing
+
+### Check In
+- Eric … I did way too much walking, followed by way too much eating (repeat) and now I am really sleepy
+- Ben … I feel like I’m juggling about a dozen balls at once … because not only am I preparing for this trip, but I only have 3 days at home before I head out for Spokane for WorldCon
+- Brandon … I am reluctant to submit applications, feeling stressed by the process … delighted to have Eric and Michelle here, looking forward to Ben
+  - Eric interjects that Daniel says you shouldn’t work for a wage
+    - Ben says “Good luck trying to find a tribe” … “Ohh wait, isn’t this what this event is for?”
+
+### Opening Blessing
+As we come together, may we find within ourselves and within our group the resources we need to be who we aspire to be. May this call advance the work, may it bring life, may we find our enduring connection to all, may it hasten the Great Birthing.  -- Blessed Be
+
+### Logistics for Shiny Green
+- Ben … arriving 6th and Salmon at 10pm Friday night
+- Logistics for Saturday morning
+  - Brandon was hoping we could all bike to Goose Hollow, but Ben isn't bringing a bike
+    - Could we rent a bike before Ben arrives?
+    - Ben could ride Brandon's bike while Brandon drives the Prius with the boys?
+  - Riding MAX through downtown would be super slow
+  - Buses that could help: 6, 15
+  - Or Brandon, Eric, Ben, and the boys all squeeze into the car
+    - Shelley will meet us there after her morning exercise
+- Keith will be the only person other than us on Saturday
+  - Brandon is thinking of inviting Chris Walcott, a "Terra mystic"
+
+We need:
+- Open Space Materials
+  - Markers, paper, masking tape
+  - Signs
+  - Snacks
+- Open Space
+  - Activities for kids
+  - Lunch
+- Science on a Hemisphere
+  - Make the screen/ball
+- Order food right after opening circle before first session
+
+### Evaluation
+- Eric … I liked thinking about food
+- Brandon … I'm feeling a little less panicked
+- Ben … I’m wishing we had done more of this stuff further in advance … I think we have a lot to learn about event planning … it’s nice that Keith has confidence in us … I hope we don’t let him down
+
+### Closing
+We came together, we did another little piece of the work.  As each week, month, and year we come together to do these little pieces, they build on one another.  And slowly we are noticing there are others out there building toward similar goals, and our little pieces add together.  May we each take heart in the structure and resources that we have built and gathered, and that others have built and gathered, so that our week and our weekend to come are filled with joy and gratitude, life and love. --Blessed Be

@@ -1,0 +1,130 @@
+### Agenda
+- Check In
+- Review WWWs
+- Review [OnePagePlan](/OnePagePlan)
+- Work on Company Incorporation
+- Church?
+- SpaceWiki
+- Backyard cottage
+- What's going on with Disney?
+- Book
+
+### Check In
+- Sequoia has something to say ... he did his first waving today
+- Brandon had a headache today and didn't make much progress on stuff at work
+- Shelley worked all day on lecture and it is 80% complete (occurs on Wednesday) not sure about remaining 20% but feels good about being at 80%
+- Ben spent much of the day worrying about George who might delegitimize SolSeed by association ... he claims having a prophetic vision of the end of the world ... thought about things he should not do with his book
+
+### WWWs from last time
+- <s>Brandon ... check with Ryan that he has received the check ... Tuesday
+- Brandon ... talk to Ted about possibly hiring him to work on incorporating a business ... tomorrow (not only that, already hired him!)
+- Brandon ... put color corrected book images onto memory stick ... Tuesday
+- Brandon ... contact Kevin about bringing book images by ... Tuesday</s>
+- Shelley ... write up a description of the prospective financial system for the 3-person eco-village ... by next call
+- Shelley ... schedule time to talk with Brandon about Pocket Cottage 
+- <s>Ben ... ping Disney about the video ... by next call
+- Ben ... work on SpaceX VP articles and get three of them into decent shape ... by next call
+- Ben ... put up photos of the SpaceX VPs so Ryan can work on caricatures ... by Thursday</s>
+
+### [OnePagePlan](/OnePagePlan)
+#### Goals (1 Year)
+- Income run rate of $100,000/year (~$9000/month) -- Brandon is really worried about that
+  - Need to incorporate a business
+- <s>Place: Ownership of a site by Winter Solstice 2010</s>
+- Media: Publish 2 SolSeed books, a 6-minute video (and write script for a 15-minute one), and a great website -- Ben
+  - Both books are now moving
+  - Website: front page looks cooler, but need to work on it more next quarter
+- Spiritual Community: Regular, impactful ceremonies led by multiple people -- Shelley
+  - Going very well ...
+  - Next service will be on the Equinox, seed topic: Freedom from Judgement
+
+#### 3rd Quarter Goals
+- SpaceWiki:
+  - Yellow ... Created sponsor-specific inspiring materials and approached one potential sponsor with those to ask about them sponsoring an event
+  - Green ... One thorough sponsorship campaign
+  - Super Green ... Five thorough sponsorship campaigns
+
+- Place:
+  - Yellow ... firm decision and commitment for pocket cottage timeline
+  - Green ... inspiring concept plans for the pocket cottage
+    - [Ben](/Ben): might this be easier than committing to a timeline?
+  - Super Green ... plans you could build from, and a builder
+
+- Media:
+  - Yellow ... work on the big book every other week, average 250 words/week (500 per session)
+  - Green ... average 500 words/week for the big book all quarter (currently in danger of missing this goal)
+  - Super Green ... average 1400 words/week for the big book all quarter
+
+### Company Incorporation
+Articles of Incorporation: http://www.filinginoregon.com/forms/pdf/business/10.pdf <- My recommendation is that we get this filled out by hand or on this wiki page and then someone does the online filing here: https://secure.sos.state.or.us/ABNWeb/
+
+#### Articles of Incorporation
+##### 1)    NAME OF CORPORATION:
+SolSeed Inc.
+
+##### 2)    REGISTERED AGENT:(Individual or entity that will accept legal service for this business)
+*Ted will look into this*
+
+##### 3)    REGISTERED AGENT'S PUBLICLY AVAILABLE ADDRESS:
+##### 4)    ADDRESS WHERE THE DIVISION MAY MAIL NOTICES:
+1824 SE Oak St, Portland, OR 97214
+
+##### 5)    OPTIONAL PROVISIONS: (Attach a separate sheet if necessary.)
+##### 6)    NUMBER OF SHARES: (At least one share must be listed.)
+- 3 Shares ... 1 for each incorporator
+
+##### 7) (not needed)
+##### 8)    WHO IS FORMING THIS BUSINESS? (INCORPORATORS)
+Brandon Sanders  
+
+1824 SE Oak St  
+
+Portland, OR 97214
+
+Shelley Sanders  
+
+1824 SE Oak St  
+
+Portland, OR 97214
+
+Benjamin Sibelman  
+
+*is currently feeling too paranoid about identity theft to post his address on a wiki*
+
+##### 9)    EXECUTION/SIGNATURE(S):
+*(All Incorporators must sign.) (Attach a separate sheet if necessary.)* By my signature, I declare as an authorized authority, that this filing has been examined by me and is, to the best of my knowledge and belief, true, correct, and complete. Making false statements in this document is against the law and may be penalized by fines, imprisonment or both.  
+
+*Signature:    Printed Name:*
+
+##### CONTACT NAME:
+Brandon Sanders
+
+*(To resolve questions with this filing.)*
+##### PHONE NUMBER:
+503.729.9269
+
+### The church question
+- A church can:
+  - be more choosy about who's "in" than a nonprofit
+  - be more central to people's lives, as it is to [Brandon](/Brandon)'s life
+  - be a certain type of educational institution, with a set of values to teach that then certify students to teach those values themselves
+  - serve as a filter so we don't have a bunch of people signing up who really only want to make a surface/ephemeral commitment
+- But a church can also:
+  - be a revolting idea to lots of people interested in space (even those who feel that looking at Earth from space is a quasi-spiritual experience)
+  - make people who've read the "SolSeed is not a religion" statements on the wiki feel betrayed
+  - make it difficult for us to get respect as an organization
+- In any case, it will take awhile to develop a fully coherent set of beliefs, so found the business and nonprofit first
+
+### SpaceWiki
+- Wiki pages are in pretty good shape
+- Still need to put together the rest of the sponsorship-campaign packet (quotes, photos, etc)
+- Target next week for sending it to SpaceX
+
+### Backyard cottage
+- Brandon and Shelley still considering whether there should be a private-ownership model vs. a model where the [SolSeedVillage](/SolSeedVillage) is owned by the nonprofit or the church or something
+
+### WWWs
+- Brandon: Send out 10 more requests for positive quotes about SpaceWiki ... by next call
+- Ben: Send email to Christina asking her to contact Desiree
+- Shelley ... write up a description of the prospective financial system for the 3-person eco-village ... by next call
+- Brandon and Shelley ... schedule a time to talk about the cottage ... immediately after this call

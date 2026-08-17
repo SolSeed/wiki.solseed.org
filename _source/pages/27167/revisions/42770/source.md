@@ -1,0 +1,112 @@
+### Agenda
+- Check In
+- Review WWWs
+- Weekly Events Logistics
+- Review Agenda
+- [GaiasHeartbeat](http://thesanders.us/GaiasHeartbeat)
+- Solstice
+- SolSeed Soundbite
+- Funding: 
+  - Children International
+- Evaluation
+
+### Check In
+- Brandon ... excited about my galaxy plate, and about the Gaia's Heartbeat video ... also eager for my lip to heal from a basketball injury
+- Ben ... good news: pretty sure that the people moving the fuel rods aren't going to trigger an insane radio-active release ... bad news: if a major earthquake happens while they are still moving them
+
+### WWWs from last time
+- Ben ... follow your topical community protocol for this week ... ongoing
+- Ben ... meditate and keep track of which days ... ongoing
+- Ben ... think about funding structures (and specifically the Children International funding)
+- <s>Brandon ... follow your topical community protocol for this week ... ongoing</s>
+- Brandon ... meditate and keep track of which days ... ongoing
+- <s>Brandon ... think about funding structures (and specifically the Children International funding)</s>
+- Eric ... follow your topical community protocol for this week ... ongoing
+- Eric ... meditate and keep track of which days ... ongoing
+- Eric ... think about funding structures (and specifically the Children International funding)
+
+### WWWs
+- Ben ... follow your topical community protocol for this week ... ongoing
+- Ben ... meditate and keep track of which days ... ongoing
+- Ben ... think about funding structures and put together a simple proposal ... by next call
+- Ben ... sign up for Children International ... by today
+- Brandon ... follow your topical community protocol for this week ... ongoing
+- Brandon ... meditate and keep track of which days ... ongoing
+- Brandon ... finalize the solstice with Shelley ... by Monday
+- Brandon ... sign up for Children International ... by next call
+- Brandon ... check in with John about the song ... by next call
+- Brandon ... create the next version of his galaxy plate ... by next call
+- Shelley ... sign up for Children International ... by next call
+- Eric ... follow your topical community protocol for this week ... ongoing
+- Eric ... meditate and keep track of which days ... ongoing
+- Eric ... think about funding structures (and specifically the Children International funding)
+- Eric ... sign up for Children International ... by next call
+
+### Weekly Events Logistics
+Service rotation: Eric, Shelley, Brandon, Ben
+
+- November 23 Service:  9:00 am PDT (12:00 EDT) (Brandon on his birthday!)
+- November 30 Service: 9:00 am PDT (12:00 EDT) (Ben)
+
+- November 24 Work-Bee: 1:30 pm PDT (16:30 EDT) 
+
+- November 17 Seeing Nature Readings and Practices (Ottawa): 13:00 EST
+
+### Solstice
+- Shelley is arranging the Music Together teacher to come, bring instruments etc, and lead the singing
+- Winter solstice is at 9:11am on December 21st (Saturday)
+
+Saturday December 21st Schedule:
+- 9:11am (during the service ... mark the Solstice)
+- prep for the solstice
+- 6:00-6:30pm start the music part of the party
+- 6:30-6:45pm break for refreshments (relish trays with cheese and crackers, cider, etc)
+- 6:45-7:15pm more music
+- 7:15- mingle and refreshments
+- 9:00- sleep by the solstice tree
+
+Other Ideas:
+- Optional before-6 trip to Mount Tabor (like last year) ... try to watch the sunset at 4:19pm?
+- Cool if we could include the "Psalm of Solstice" from Hymnody of Earth
+- Also "When the winter comes we gather"
+
+Guest List:
+- 2,2  Brandon, Shelley, Sequoia, Ren
+- 3,0  Ben, Steve, Judy
+- 2,2  Laura, Jesus, Diego, Sylvio
+- 1,0  Molly
+- 2,0  Carol and Vicki
+- 2,2  Sarvatas
+- 1,0  Jillian or Betsy
+- 13,6 (Total: 13 adults, 6 children)
+
+### SolSeed Soundbite
+- Ben: "SolSeed is a tiny quasi-religious movement.  We believe that all life is precious, and that we should help it thrive, grow, and spread to the stars." Meets the DFA criteria of 27 words, 9 seconds, 3 points.
+  - Thinking about using Eric's "agnostic religion"
+
+- Brandon: "SolSeed is a cosmic Wisdom Tradition whose central tenet is that Life, in all its messiness, is worthy of veneration. We seek to express Life's vitality through our practice, both individual and collective."
+
+- Eric: "SolSeed is an agnostic religion.  We believe that all Life is precious, that we should nurture lives, help Life thrive on Earth, and spread to the stars."
+
+- We call it [SolSeed](/SolSeed) ... but that word is supposed to mean the body of all life.  We are using it in these soundbites to refer to our [movement](/SolSeedMovement).
+  - How weird would it be to say "The SolSeed Movement is an agnostic religion"?
+
+### Children International
+- Brandon: Are we doing this individually, or pulling funds from the shared pool?
+- Can we create a shared account to automatically fund this (and serve as our shared SolSeed money pool)?
+  - We'd need an official organization, which may cost $500-$1000 per year in directors' liability and general liability insurance
+    - Eric is in a club, a community association, and a community garden project, and each of them is struggling with funding these insurance policies
+  - Brandon: Having a huge percentage of Eric's tithe go to Children's International before it even "gets to the virtual pool" doesn't seem right to me
+    - Eric: We could temporarily just send our tithes to Brandon
+    - Brandon: I don't feel great about that either ... it doesn't feel wise to do that with any one member
+  - Brandon: We could set up an account for which I act as custodian but the statements go to Ben or Eric
+    - Pretend we have an organization, so we can practice for when we eventually officially do so ... this would involve officers (President, Secretary, Treasurer)
+    - Ben thinks this would be a good idea to do at some point ... this might not be the right time
+  - Brandon: Another alternative: We all keep our money, but Shelley and Brandon pay for all four of the Children International projects, and Ben and Eric would pay for something else in the future
+    - Eric: Children International USA may be confused by a donation that says to send the mail to a Canadian address
+    - Shelley thought this was kind of silly, and Ben thinks it's "virtually equivalent" since Eric is still considered to be contributing to this project from the virtual pool
+    - Brandon agrees that it would be cumbersome to redistribute the materials from "Ben's" and "Eric's" sponsee child from the Sanders to Ben and Eric
+
+### Evaluation
+- Brandon: I enjoyed being with you
+- Ben: Kind of relieved that we are not tackling some sort of complex funding scheme immediately, because it sounded tricky to manage.

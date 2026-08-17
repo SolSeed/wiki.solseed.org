@@ -1,0 +1,56 @@
+{
+  "canonical_path": "/File:Biosphere_2_ocean.jpg",
+  "current_revision_id": 43017,
+  "database_title": "Biosphere_2_ocean.jpg",
+  "display_title": "File:Biosphere 2 ocean.jpg",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 6,
+  "original_revision_count": 2,
+  "page_id": 27418,
+  "published_revision_count": 2,
+  "revisions": [
+    {
+      "author": "BenSibelman",
+      "comment": "The ocean biome inside [[Biosphere 2]].",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 40370,
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": 40369,
+      "same_as_previous_public": false,
+      "timestamp": "2015-03-09T04:11:20Z",
+      "wikitext_bytes": 39,
+      "wikitext_sha256": "f7d509b7877c8b6d2f7ff1a0b019f5e457d4264e1f2d3cb8fa4643524dde5b0f"
+    },
+    {
+      "author": "BenSibelman",
+      "comment": "Improved description",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 43017,
+      "original_parent_revision_id": 40369,
+      "previous_public_revision_id": 40369,
+      "revision_id": 40370,
+      "same_as_previous_public": false,
+      "timestamp": "2015-03-09T04:13:17Z",
+      "wikitext_bytes": 130,
+      "wikitext_sha256": "8470eff798ad0c66cb70b4d32295334591aa24365ee20d7f6adf19d65601cee9"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 40370,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 143,
+      "markdown_sha256": "c6699ccd2dba314eb22278ec745da1659bae7d51566e0ca190b425bcaee3e829",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": 40370,
+      "previous_public_revision_id": 40370,
+      "revision_id": 43017,
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z"
+    }
+  ],
+  "site_revision_count": 1
+}

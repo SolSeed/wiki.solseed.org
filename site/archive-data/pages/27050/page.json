@@ -1,0 +1,48 @@
+{
+  "canonical_path": "/File:Searching_for_amphipods.jpg",
+  "current_revision_id": "42655",
+  "database_title": "Searching_for_amphipods.jpg",
+  "display_title": "File:Searching for amphipods.jpg",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 6,
+  "original_revision_count": 1,
+  "page_id": "27050",
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "BenSibelman",
+      "comment": "[[Brandon]], [[Sequoia]], [[Ben]], and [[Hank]] search for tiny critters called amphipods in the wetland at Oaks Bottom, recruiting them for the crews of a set of tiny biospheres.  Photo taken by [[Shelley]].",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": "42655",
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": "39090",
+      "same_as_previous_public": false,
+      "timestamp": "2012-10-28T18:15:53Z",
+      "wikitext_bytes": 208,
+      "wikitext_sha256": "888867017075f812db837679813ee0eb693fcbde4699e87a2f017f912a2bb65c",
+      "source_format": "wikitext",
+      "source_extension": "wiki"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 39090,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 242,
+      "markdown_sha256": "a789fdb76343bd69dda14d20190dff4bc15bdcdf98e81497b228ef4d56a3f9d6",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": "39090",
+      "previous_public_revision_id": "39090",
+      "revision_id": "42655",
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z",
+      "wikitext_bytes": 242,
+      "wikitext_sha256": "a789fdb76343bd69dda14d20190dff4bc15bdcdf98e81497b228ef4d56a3f9d6",
+      "source_extension": "md"
+    }
+  ],
+  "site_revision_count": 1
+}

@@ -1,0 +1,48 @@
+{
+  "canonical_path": "/April_20,_2014:_Online_Work_Bee",
+  "current_revision_id": "42815",
+  "database_title": "April_20,_2014:_Online_Work_Bee",
+  "display_title": "April 20, 2014: Online Work Bee",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 1,
+  "page_id": "27214",
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "Brandon CS Sanders",
+      "comment": "Created page with \"== Agenda == * Good News/Check In * Review WWWs * Weekly Events Logistics * Review Agenda * Earth day ... possible launch of Gaia's Heartbeat? * Evaluation  == Gratinews == * Bra...\"",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": "42815",
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": "39658",
+      "same_as_previous_public": false,
+      "timestamp": "2014-04-27T20:36:37Z",
+      "wikitext_bytes": 3075,
+      "wikitext_sha256": "f18e0ac057cf40aff39de433a9980ffa41d6800a43feeed75945f01bb376c6f0",
+      "source_format": "wikitext",
+      "source_extension": "wiki"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 39658,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 3086,
+      "markdown_sha256": "70a09a8edfde5b0cbc76052e0ac7832543d152fd6d322ccc4c8045df85f05a8b",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": "39658",
+      "previous_public_revision_id": "39658",
+      "revision_id": "42815",
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z",
+      "wikitext_bytes": 3086,
+      "wikitext_sha256": "70a09a8edfde5b0cbc76052e0ac7832543d152fd6d322ccc4c8045df85f05a8b",
+      "source_extension": "md"
+    }
+  ],
+  "site_revision_count": 1
+}

@@ -1,0 +1,63 @@
+{
+  "canonical_path": "/October_27,_2013:_Online_Work_Bee",
+  "current_revision_id": "42761",
+  "database_title": "October_27,_2013:_Online_Work_Bee",
+  "display_title": "October 27, 2013: Online Work Bee",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 2,
+  "page_id": "27158",
+  "published_revision_count": 2,
+  "revisions": [
+    {
+      "author": "BenSibelman",
+      "comment": "Created page from the EtherPad",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": "39453",
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": "39452",
+      "same_as_previous_public": false,
+      "timestamp": "2013-10-27T19:04:45Z",
+      "wikitext_bytes": 4617,
+      "wikitext_sha256": "fc5280e0cf69be7948249a6a71449ff9deaafa3640c2c66617e4c583015abc49",
+      "source_format": "wikitext",
+      "source_extension": "wiki"
+    },
+    {
+      "author": "BenSibelman",
+      "comment": "/* Spiritual Experience Experiments */",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": "42761",
+      "original_parent_revision_id": "39452",
+      "previous_public_revision_id": "39452",
+      "revision_id": "39453",
+      "same_as_previous_public": false,
+      "timestamp": "2013-10-27T19:05:03Z",
+      "wikitext_bytes": 4615,
+      "wikitext_sha256": "179a793a393e0e0931f955f5e89847209474572be7ce314aecee24f500d36f56",
+      "source_format": "wikitext",
+      "source_extension": "wiki"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 39453,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 4662,
+      "markdown_sha256": "9e3633a8bc76a79ccf3326b89c43f926a9064c56701888dd13484f6c5b928d64",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": "39453",
+      "previous_public_revision_id": "39453",
+      "revision_id": "42761",
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z",
+      "wikitext_bytes": 4662,
+      "wikitext_sha256": "9e3633a8bc76a79ccf3326b89c43f926a9064c56701888dd13484f6c5b928d64",
+      "source_extension": "md"
+    }
+  ],
+  "site_revision_count": 1
+}

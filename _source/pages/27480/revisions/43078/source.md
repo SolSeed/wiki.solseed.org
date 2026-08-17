@@ -1,0 +1,1 @@
+Gaia statue in the clearing in the Bank street valley.

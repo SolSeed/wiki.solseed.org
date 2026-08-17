@@ -1,0 +1,48 @@
+{
+  "canonical_path": "/SelfLove",
+  "current_revision_id": "42631",
+  "database_title": "SelfLove",
+  "display_title": "SelfLove",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 1,
+  "page_id": "24949",
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "BenSibelman",
+      "comment": "moved [[SelfLove]] to [[Passion]]: This is a less derogatory-sounding term, and we switched to using it in the Creed months ago.",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": "42631",
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": "35234",
+      "same_as_previous_public": false,
+      "timestamp": "2012-09-03T04:39:52Z",
+      "wikitext_bytes": 21,
+      "wikitext_sha256": "fbe5b80f2636e63b4d7724f44d96dcb3f0d10b2c825d551072a704d4e2a56de8",
+      "source_format": "wikitext",
+      "source_extension": "wiki"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 35234,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 53,
+      "markdown_sha256": "7c2abe55a5eedd2e6f216aefa93bd4083de8b7169994e5d27edbd3bebfbb3e2f",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": "35234",
+      "previous_public_revision_id": "35234",
+      "revision_id": "42631",
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z",
+      "wikitext_bytes": 53,
+      "wikitext_sha256": "7c2abe55a5eedd2e6f216aefa93bd4083de8b7169994e5d27edbd3bebfbb3e2f",
+      "source_extension": "md"
+    }
+  ],
+  "site_revision_count": 1
+}

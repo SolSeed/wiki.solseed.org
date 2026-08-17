@@ -1,0 +1,48 @@
+{
+  "canonical_path": "/December_26th_:_Patterns_Not_Atoms",
+  "current_revision_id": "43209",
+  "database_title": "December_26th_:_Patterns_Not_Atoms",
+  "display_title": "December 26th : Patterns Not Atoms",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 1,
+  "page_id": "27611",
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "EricSaumur",
+      "comment": "moved [[December 26th : Patterns Not Atoms]] to [[Patterns Not Atoms]]: bod date should not be part of title",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": "43209",
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": "40938",
+      "same_as_previous_public": false,
+      "timestamp": "2017-01-15T15:36:12Z",
+      "wikitext_bytes": 32,
+      "wikitext_sha256": "184bea284000b79e2e2f25ed9f5434da5b0bf469225b2f2a67c4cd006d473a3a",
+      "source_format": "wikitext",
+      "source_extension": "wiki"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 40938,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 75,
+      "markdown_sha256": "d0a0791468da51945271e0bd5e2369bf5b9ce15ca8061002b4149f9adc3a0f25",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": "40938",
+      "previous_public_revision_id": "40938",
+      "revision_id": "43209",
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z",
+      "wikitext_bytes": 75,
+      "wikitext_sha256": "d0a0791468da51945271e0bd5e2369bf5b9ce15ca8061002b4149f9adc3a0f25",
+      "source_extension": "md"
+    }
+  ],
+  "site_revision_count": 1
+}

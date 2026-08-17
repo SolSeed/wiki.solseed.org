@@ -1,0 +1,69 @@
+{
+  "canonical_path": "/2nd_Season",
+  "current_revision_id": 42747,
+  "database_title": "2nd_Season",
+  "display_title": "2nd Season",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 3,
+  "page_id": 27142,
+  "published_revision_count": 3,
+  "revisions": [
+    {
+      "author": "BenSibelman",
+      "comment": "Created page from Eric's notes",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 39419,
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": 39417,
+      "same_as_previous_public": false,
+      "timestamp": "2013-10-06T00:41:23Z",
+      "wikitext_bytes": 1642,
+      "wikitext_sha256": "0557e372e758ac267c605ec7fcc34fab2b78f81f7429b137b4dbbe432568bcf8"
+    },
+    {
+      "author": "BenSibelman",
+      "comment": "Added discussion",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 39666,
+      "original_parent_revision_id": 39417,
+      "previous_public_revision_id": 39417,
+      "revision_id": 39419,
+      "same_as_previous_public": false,
+      "timestamp": "2013-10-06T00:45:10Z",
+      "wikitext_bytes": 1833,
+      "wikitext_sha256": "e650272a0726ec2e28fd071b4026fbbb00a27e2c8db68afcae61712e55a8d870"
+    },
+    {
+      "author": "Brandon CS Sanders",
+      "comment": "Redirected page to [[Conflatorium]]",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 42747,
+      "original_parent_revision_id": 39419,
+      "previous_public_revision_id": 39419,
+      "revision_id": 39666,
+      "same_as_previous_public": false,
+      "timestamp": "2014-04-27T21:02:27Z",
+      "wikitext_bytes": 26,
+      "wikitext_sha256": "c4aaa979bff5291eb8dc8656f5aa90240d2e4a232b4ba9de4e9ddd1b79b5f241"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 39666,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 63,
+      "markdown_sha256": "58a8f23f99822cab698a75fffdc3563994ee2e2d06017c136891071ef49df9ea",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": 39666,
+      "previous_public_revision_id": 39666,
+      "revision_id": 42747,
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z"
+    }
+  ],
+  "site_revision_count": 1
+}

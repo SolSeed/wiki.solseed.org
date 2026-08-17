@@ -1,0 +1,43 @@
+{
+  "canonical_path": "/Been",
+  "current_revision_id": 42973,
+  "database_title": "Been",
+  "display_title": "Been",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 1,
+  "page_id": 27374,
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "Brandon CS Sanders",
+      "comment": "Created page with \"[http://www.signingsavvy.com/sign/BEEN/6093/1 ASL Sign]\"",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 42973,
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": 40267,
+      "same_as_previous_public": false,
+      "timestamp": "2015-01-09T02:42:49Z",
+      "wikitext_bytes": 55,
+      "wikitext_sha256": "eb632645798b41a9fe040167ad8c501e9ac6cdc9014aa2f4802fd83118c826ed"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 40267,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 57,
+      "markdown_sha256": "70bb1bfbaa50e8e67a5c3918aea1c47a6e07108dcd3d303dc49ba33f33bbbacd",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": 40267,
+      "previous_public_revision_id": 40267,
+      "revision_id": 42973,
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z"
+    }
+  ],
+  "site_revision_count": 1
+}

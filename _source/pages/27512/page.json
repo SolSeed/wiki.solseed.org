@@ -1,0 +1,43 @@
+{
+  "canonical_path": "/SolSeed_Creed_v4",
+  "current_revision_id": 43110,
+  "database_title": "SolSeed_Creed_v4",
+  "display_title": "SolSeed Creed v4",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 1,
+  "page_id": 27512,
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "BenSibelman",
+      "comment": "added only the new verses I wrote",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 43110,
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": 40687,
+      "same_as_previous_public": false,
+      "timestamp": "2015-12-28T06:49:26Z",
+      "wikitext_bytes": 1046,
+      "wikitext_sha256": "e0a4ea75a65754fd4d29b301d9256e735d3020d0b4c5b520d2655be3affc7e6b"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 40687,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 1032,
+      "markdown_sha256": "3a3c474345e2eb14c4c3c1f9b9a6b2fd87e95850129e2378b1cd979d87cfe3a8",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": 40687,
+      "previous_public_revision_id": 40687,
+      "revision_id": 43110,
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z"
+    }
+  ],
+  "site_revision_count": 1
+}

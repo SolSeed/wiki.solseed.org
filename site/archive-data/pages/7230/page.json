@@ -1,0 +1,63 @@
+{
+  "canonical_path": "/Talk:Bringing_life_to_each_other_and_our_communities",
+  "current_revision_id": "42542",
+  "database_title": "Bringing_life_to_each_other_and_our_communities",
+  "display_title": "Talk:Bringing life to each other and our communities",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 1,
+  "original_revision_count": 2,
+  "page_id": "7230",
+  "published_revision_count": 2,
+  "revisions": [
+    {
+      "author": "BenSibelman",
+      "comment": "Added comment on the Cooperation section",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": "10249",
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": "10248",
+      "same_as_previous_public": false,
+      "timestamp": "2012-04-14T19:38:02Z",
+      "wikitext_bytes": 1144,
+      "wikitext_sha256": "a7b4a42171d3e0683321395e79424c997a439eac2edd709fe8e497e3ebb13571",
+      "source_format": "wikitext",
+      "source_extension": "wiki"
+    },
+    {
+      "author": "BenSibelman",
+      "comment": "Fixed link",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": "42542",
+      "original_parent_revision_id": "10248",
+      "previous_public_revision_id": "10248",
+      "revision_id": "10249",
+      "same_as_previous_public": false,
+      "timestamp": "2012-04-14T19:38:16Z",
+      "wikitext_bytes": 1145,
+      "wikitext_sha256": "917d2246b6983b6c84710552d91f4d7a1868ad0d92353a8cfdcc67d996f07449",
+      "source_format": "wikitext",
+      "source_extension": "wiki"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 10249,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 1144,
+      "markdown_sha256": "f22de47433fb065d6004f0c3605be8dc1de77e2d7790a1381c208a25af93137f",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": "10249",
+      "previous_public_revision_id": "10249",
+      "revision_id": "42542",
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z",
+      "wikitext_bytes": 1144,
+      "wikitext_sha256": "f22de47433fb065d6004f0c3605be8dc1de77e2d7790a1381c208a25af93137f",
+      "source_extension": "md"
+    }
+  ],
+  "site_revision_count": 1
+}

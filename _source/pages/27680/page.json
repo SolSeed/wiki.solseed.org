@@ -1,0 +1,69 @@
+{
+  "canonical_path": "/January_7,_2018:_Business_Call",
+  "current_revision_id": 43278,
+  "database_title": "January_7,_2018:_Business_Call",
+  "display_title": "January 7, 2018: Business Call",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 3,
+  "page_id": 27680,
+  "published_revision_count": 3,
+  "revisions": [
+    {
+      "author": "BenSibelman",
+      "comment": "Created page from the Google doc",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 41167,
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": 41166,
+      "same_as_previous_public": false,
+      "timestamp": "2018-01-07T18:10:33Z",
+      "wikitext_bytes": 7935,
+      "wikitext_sha256": "7ed7618230c633060d02fdd2bb17e7cd7fd3c8ed813a7747566bfc7164e586e4"
+    },
+    {
+      "author": "BenSibelman",
+      "comment": "Removed undiscussed section",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 41170,
+      "original_parent_revision_id": 41166,
+      "previous_public_revision_id": 41166,
+      "revision_id": 41167,
+      "same_as_previous_public": false,
+      "timestamp": "2018-01-07T18:11:29Z",
+      "wikitext_bytes": 7676,
+      "wikitext_sha256": "c26ab2dd1321520a062fd58529a72e8e39e61c52defedbd6fd4071955651101c"
+    },
+    {
+      "author": "BenSibelman",
+      "comment": "moved [[January 6, 2017: Business Call]] to [[January 7, 2018: Business Call]]: fixed date",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 43278,
+      "original_parent_revision_id": 41167,
+      "previous_public_revision_id": 41167,
+      "revision_id": 41170,
+      "same_as_previous_public": true,
+      "timestamp": "2018-01-07T18:18:39Z",
+      "wikitext_bytes": 7676,
+      "wikitext_sha256": "c26ab2dd1321520a062fd58529a72e8e39e61c52defedbd6fd4071955651101c"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 41170,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 7736,
+      "markdown_sha256": "79965ef930cb368ac1c118ebe2d0f00394b2d56b54b80c78f7fa66fabe08656d",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": 41170,
+      "previous_public_revision_id": 41170,
+      "revision_id": 43278,
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z"
+    }
+  ],
+  "site_revision_count": 1
+}

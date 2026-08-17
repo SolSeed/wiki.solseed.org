@@ -1,0 +1,29 @@
+{| cellpadding="5px" cellspacing="0px" width="100%" background-color:"#AACCAA"; border:"1px"  style="padding-top:0px; border:1px solid #35727A;"
+|align="center" colspan="3" style="background-color:#eeffdf; padding-top:0px; padding-right:0px; padding-left:0px; padding-bottom:0px;" valign="top"|
+{| style="margin:0; width:100%; background:#010042; font-family:sans-serif; font-size:120%; text-align:left; color:#ffffff; padding-left:0.4em; padding-top:0em; padding-bottom:0em;"
+|<div style="float:right;">'''[http://solseed.org/index.php?title=SolSeedMovementNews&action=edit Add your news!]'''</div>'''[[SolSeedMovement]] News'''
+|}
+|-
+|align="left" style="background-color:#DFDFED; padding-top:5px; padding-right:10px; padding-left:10px; padding-bottom:10px;" valign="top"|
+<div style="float: left; width: 75%; height:320px; overflow:auto;">
+{{:SolSeedMovementNews}}
+</div>
+<div style="float: right; width: 22%;">
+<big>'''Quick links'''</big>
+
+[[SolSeedCreed]]: 
+* [[TheDestiny]]
+* [[Starfarers]]
+* [[SelfLove]]
+* [[Empathy]]
+* [[Wisdom]]
+[[Group Experiences]]:
+* [[SolSeedCalls]]
+* [[SolSeed Services]]
+[[SolSeedProjects]]:
+* [[Media]]
+* [[SolSeedVillage]]
+* [[Stories]]!
+</div>
+{{Clear}}
+|}

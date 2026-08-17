@@ -1,0 +1,48 @@
+{
+  "canonical_path": "/File:Attribution_Noncommercial_ShareAlike.PNG",
+  "current_revision_id": "42281",
+  "database_title": "Attribution_Noncommercial_ShareAlike.PNG",
+  "display_title": "File:Attribution Noncommercial ShareAlike.PNG",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 6,
+  "original_revision_count": 1,
+  "page_id": "725",
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "BenSibelman",
+      "comment": "Creative Commons license symbols used to describe [[Media:Dusty attic.jpg]].",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": "42281",
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": "1854",
+      "same_as_previous_public": false,
+      "timestamp": "2010-09-06T22:31:08Z",
+      "wikitext_bytes": 76,
+      "wikitext_sha256": "b8a60fb9a02c56aaeaf5f4cbfd54005058ac2023898f510e745a865f7be527b7",
+      "source_format": "wikitext",
+      "source_extension": "wiki"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 1854,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 93,
+      "markdown_sha256": "93b50a33c1d43c2140774572f56daac357de0f56b300bc73c278e524baae7c0f",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": "1854",
+      "previous_public_revision_id": "1854",
+      "revision_id": "42281",
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z",
+      "wikitext_bytes": 93,
+      "wikitext_sha256": "93b50a33c1d43c2140774572f56daac357de0f56b300bc73c278e524baae7c0f",
+      "source_extension": "md"
+    }
+  ],
+  "site_revision_count": 1
+}

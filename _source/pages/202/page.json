@@ -1,0 +1,69 @@
+{
+  "canonical_path": "/CleanDrinkingWater",
+  "current_revision_id": 41768,
+  "database_title": "CleanDrinkingWater",
+  "display_title": "CleanDrinkingWater",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 3,
+  "page_id": 202,
+  "published_revision_count": 3,
+  "revisions": [
+    {
+      "author": "Brandon CS Sanders",
+      "comment": "New page: * [http://water.org/ WaterPartners International] ... [[Brandon]] interviewed them about 4 years ago and was really impressed with the longevity of their projects and the efficiency with w...",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 551,
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": 511,
+      "same_as_previous_public": false,
+      "timestamp": "2009-02-02T05:27:27Z",
+      "wikitext_bytes": 307,
+      "wikitext_sha256": "f2ab966e08bcca1f2278cfd7e346993dbb0670563407ad89fc1eaac97f36c579"
+    },
+    {
+      "author": "TedErnst",
+      "comment": "",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 2134,
+      "original_parent_revision_id": 511,
+      "previous_public_revision_id": 511,
+      "revision_id": 551,
+      "same_as_previous_public": false,
+      "timestamp": "2009-02-12T18:32:27Z",
+      "wikitext_bytes": 378,
+      "wikitext_sha256": "64858b4442fafa15d003b499c4fb6c19f92b585d5eaaa0a4f439b21cbba50a14"
+    },
+    {
+      "author": "BenSibelman",
+      "comment": "Added quote",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 41768,
+      "original_parent_revision_id": 551,
+      "previous_public_revision_id": 551,
+      "revision_id": 2134,
+      "same_as_previous_public": false,
+      "timestamp": "2011-01-02T22:46:38Z",
+      "wikitext_bytes": 711,
+      "wikitext_sha256": "11f274d2b8fab0adb6f3c1424464dee158c6f586e5b8f86799baed330c9f06ec"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 2134,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 718,
+      "markdown_sha256": "e309f45d7688572ecaefd5aee51400559867b555953a2f1a8b383ebe0ff71f6a",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": 2134,
+      "previous_public_revision_id": 2134,
+      "revision_id": 41768,
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z"
+    }
+  ],
+  "site_revision_count": 1
+}

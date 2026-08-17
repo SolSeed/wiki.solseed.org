@@ -1,0 +1,43 @@
+{
+  "canonical_path": "/File:Sol2009Sandcastle.JPG",
+  "current_revision_id": 41941,
+  "database_title": "Sol2009Sandcastle.JPG",
+  "display_title": "File:Sol2009Sandcastle.JPG",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 6,
+  "original_revision_count": 1,
+  "page_id": 377,
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "BenSibelman",
+      "comment": "Sandcastle built at [[Sol 2009]].",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 41941,
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": 1091,
+      "same_as_previous_public": false,
+      "timestamp": "2009-11-13T04:15:18Z",
+      "wikitext_bytes": 33,
+      "wikitext_sha256": "80ef4b7f2a022c96614db763eeff28b3a1b1fefb439cbf39342189c4a93264dc"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 1091,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 43,
+      "markdown_sha256": "ffc4c7641e7d9464057742a3ef4880cce791d5786a9b93839ffd1deee41c7868",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": 1091,
+      "previous_public_revision_id": 1091,
+      "revision_id": 41941,
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z"
+    }
+  ],
+  "site_revision_count": 1
+}

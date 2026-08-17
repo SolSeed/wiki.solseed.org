@@ -1,0 +1,43 @@
+{
+  "canonical_path": "/Personification",
+  "current_revision_id": 43300,
+  "database_title": "Personification",
+  "display_title": "Personification",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 1,
+  "page_id": 27702,
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "EricSaumur",
+      "comment": "Created page with \"A personification is a type of metaphor in which an abstract concept is equated with a fictional person.  It is a useful device in fiction in that abstract concepts can be given ...\"",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 43300,
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": 41246,
+      "same_as_previous_public": false,
+      "timestamp": "2018-04-08T01:59:22Z",
+      "wikitext_bytes": 385,
+      "wikitext_sha256": "5512308d5ca9a1eeffb141112e00079c8f484ca9c3d4c9fba1c730de08e1e043"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 41246,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 386,
+      "markdown_sha256": "49c3ee2f832359a06801aba5d3cb966e3aad85aac92e66052473b33f2277abfd",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": 41246,
+      "previous_public_revision_id": 41246,
+      "revision_id": 43300,
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z"
+    }
+  ],
+  "site_revision_count": 1
+}

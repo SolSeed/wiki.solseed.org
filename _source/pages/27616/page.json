@@ -1,0 +1,43 @@
+{
+  "canonical_path": "/January_17th:_Terra,_Our_First_Home",
+  "current_revision_id": 43214,
+  "database_title": "January_17th:_Terra,_Our_First_Home",
+  "display_title": "January 17th: Terra, Our First Home",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 1,
+  "page_id": 27616,
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "EricSaumur",
+      "comment": "moved [[January 17th: Terra, Our First Home]] to [[Terra, Our First Home]]: bod date should not be part of title",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 43214,
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": 40949,
+      "same_as_previous_public": false,
+      "timestamp": "2017-01-15T15:45:49Z",
+      "wikitext_bytes": 35,
+      "wikitext_sha256": "1a337bfde7acfa1874161777a81a162ddc9f53808a45cf03b55a4afd4705fcbb"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 40949,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 81,
+      "markdown_sha256": "6dfb2828bb5548ac7fbe0aa00182c8ff0577c59807b33281c059b16771aff937",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": 40949,
+      "previous_public_revision_id": 40949,
+      "revision_id": 43214,
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z"
+    }
+  ],
+  "site_revision_count": 1
+}

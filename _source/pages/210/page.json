@@ -1,0 +1,82 @@
+{
+  "canonical_path": "/Alternative_Dates_for_Sol_2009",
+  "current_revision_id": 41776,
+  "database_title": "Alternative_Dates_for_Sol_2009",
+  "display_title": "Alternative Dates for Sol 2009",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 4,
+  "page_id": 210,
+  "published_revision_count": 4,
+  "revisions": [
+    {
+      "author": "Shelley Schoepflin Sanders",
+      "comment": "New page: Tentatively, we're planning on '''Thursday, July 23 to Sunday, July 26, 2009''' for [[Sol 2009]].  If those dates don't work for you, write your name and propose alternative dates below! W...",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 545,
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": 539,
+      "same_as_previous_public": false,
+      "timestamp": "2009-02-09T00:52:00Z",
+      "wikitext_bytes": 320,
+      "wikitext_sha256": "d3c1c6e5ab1695bd9ae591dd1823a30dbef427dc558e3174130ea00bd2d79098"
+    },
+    {
+      "author": "Shelley Schoepflin Sanders",
+      "comment": "",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 548,
+      "original_parent_revision_id": 539,
+      "previous_public_revision_id": 539,
+      "revision_id": 545,
+      "same_as_previous_public": false,
+      "timestamp": "2009-02-12T16:16:51Z",
+      "wikitext_bytes": 530,
+      "wikitext_sha256": "52f5ae95a01319e6d0020ead2fec54d09b024b530e777d153e45ed1017aa1d1b"
+    },
+    {
+      "author": "TedErnst",
+      "comment": "",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 592,
+      "original_parent_revision_id": 545,
+      "previous_public_revision_id": 545,
+      "revision_id": 548,
+      "same_as_previous_public": false,
+      "timestamp": "2009-02-12T17:30:31Z",
+      "wikitext_bytes": 975,
+      "wikitext_sha256": "8616e1c97bf12d6e04e9565d3dc389ae8640d44ea1e908a4b00daf3fe5dea5a9"
+    },
+    {
+      "author": "Shelley Schoepflin Sanders",
+      "comment": "",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 41776,
+      "original_parent_revision_id": 548,
+      "previous_public_revision_id": 548,
+      "revision_id": 592,
+      "same_as_previous_public": false,
+      "timestamp": "2009-03-06T00:28:40Z",
+      "wikitext_bytes": 1234,
+      "wikitext_sha256": "4d772fa5f0d07d709268572a4ba5b4b0871a4b3cf93ac9c6147d532cc9b17591"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 592,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 1238,
+      "markdown_sha256": "ff3f332ff542f7422cb3d96c3ae91a7461f07f2552ac3b6aa8131c20c287a7a2",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": 592,
+      "previous_public_revision_id": 592,
+      "revision_id": 41776,
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z"
+    }
+  ],
+  "site_revision_count": 1
+}

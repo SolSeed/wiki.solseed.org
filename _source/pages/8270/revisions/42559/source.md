@@ -1,0 +1,1 @@
+[Ben](/Ben)'s drawing of one of the alien cultures invented for the Cultures of the Imagination game at the 2012 [Contact Conference](/Contact_Conference). The name Smokerville is based on the sea-bottom hydrothermal vents, known as "black smokers," from which these aliens are extracting and refining minerals.

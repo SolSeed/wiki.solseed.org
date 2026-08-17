@@ -1,0 +1,43 @@
+{
+  "canonical_path": "/Who_are_we?_part_2_/_Sanders_family_announcement",
+  "current_revision_id": 43336,
+  "database_title": "Who_are_we?_part_2_/_Sanders_family_announcement",
+  "display_title": "Who are we? part 2 / Sanders family announcement",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 1,
+  "page_id": 27738,
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "BenSibelman",
+      "comment": "Created page",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 43336,
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": 41464,
+      "same_as_previous_public": false,
+      "timestamp": "2018-08-06T22:57:39Z",
+      "wikitext_bytes": 2731,
+      "wikitext_sha256": "30c5e9aea37d9e9d2c4dc3c8adb0414ae7d5a4f3051c6fb115230a348e1a867d"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 41464,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 2809,
+      "markdown_sha256": "71b03e6bd748d4e69492e00c9fe6bfd35c992a969ac07fc4554f31211a87d6e4",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": 41464,
+      "previous_public_revision_id": 41464,
+      "revision_id": 43336,
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z"
+    }
+  ],
+  "site_revision_count": 1
+}

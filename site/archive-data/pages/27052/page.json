@@ -1,0 +1,48 @@
+{
+  "canonical_path": "/File:Terra_Lumina.jpg",
+  "current_revision_id": "42657",
+  "database_title": "Terra_Lumina.jpg",
+  "display_title": "File:Terra Lumina.jpg",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 6,
+  "original_revision_count": 1,
+  "page_id": "27052",
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "BenSibelman",
+      "comment": "The logo for John Boswell and Will Crowley's album of songs about science.",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": "42657",
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": "39092",
+      "same_as_previous_public": false,
+      "timestamp": "2012-10-28T18:18:24Z",
+      "wikitext_bytes": 74,
+      "wikitext_sha256": "0eb7533229c6a86994656e4757c11d9489b3f218c509e4d6a88973ba71816d7e",
+      "source_format": "wikitext",
+      "source_extension": "wiki"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 39092,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 75,
+      "markdown_sha256": "71edd4acd0b9d71ab15dce1b82d0be27886f79b6acf8f1b2c5a18f06c3db432b",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": "39092",
+      "previous_public_revision_id": "39092",
+      "revision_id": "42657",
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z",
+      "wikitext_bytes": 75,
+      "wikitext_sha256": "71edd4acd0b9d71ab15dce1b82d0be27886f79b6acf8f1b2c5a18f06c3db432b",
+      "source_extension": "md"
+    }
+  ],
+  "site_revision_count": 1
+}

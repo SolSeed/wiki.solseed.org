@@ -1,0 +1,1 @@
+I like being six. I live with my dad (Matt), my mom (Brenna), and my bother (Barak). I am a special part of soul seed:)

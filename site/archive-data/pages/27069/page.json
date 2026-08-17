@@ -1,0 +1,48 @@
+{
+  "canonical_path": "/File:RocketToTheDestinySupplies.png",
+  "current_revision_id": "42674",
+  "database_title": "RocketToTheDestinySupplies.png",
+  "display_title": "File:RocketToTheDestinySupplies.png",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 6,
+  "original_revision_count": 1,
+  "page_id": "27069",
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "EricSaumur",
+      "comment": "Rocket to the Destiny - Ottawa - 2012 supplies",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": "42674",
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": "39144",
+      "same_as_previous_public": false,
+      "timestamp": "2012-12-16T22:38:27Z",
+      "wikitext_bytes": 46,
+      "wikitext_sha256": "8f61eb48ec0e6a813a281e02a0211de24afb3571acf3ad9045c0978812d03ecf",
+      "source_format": "wikitext",
+      "source_extension": "wiki"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 39144,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 47,
+      "markdown_sha256": "d1e3cb76e04f5e6b457ac64239f32a7a083b258c68d2d8c599ccf2a1dcb14d5b",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": "39144",
+      "previous_public_revision_id": "39144",
+      "revision_id": "42674",
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z",
+      "wikitext_bytes": 47,
+      "wikitext_sha256": "d1e3cb76e04f5e6b457ac64239f32a7a083b258c68d2d8c599ccf2a1dcb14d5b",
+      "source_extension": "md"
+    }
+  ],
+  "site_revision_count": 1
+}

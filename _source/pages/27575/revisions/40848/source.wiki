@@ -1,0 +1,16 @@
+''This was a session at the [[Shiny Green Acorn Festival]].''
+
+== Participants ==
+* [[Brandon]] (convener)
+* [[Ben]]
+* [[Eric]]
+
+== Discussion ==
+Brandon’s idea for the next phase of SolSeed is:
+* We focus on projects we can work on habitually, preferably with a very sustainable work regimen like 15 minutes per day
+** Brandon has been trying this with reading stuff about machine learning and AI to present on the podcast. He does it in the morning while drinking his coffee.
+** Ben has been doing this by working on [[Flight in a Cage]] during his bus commute. Brandon suggests picking either morning or afternoon as the time when Ben will always do this; Ben prefers afternoon.
+** Eric initially says working on Buckleberry is more of a several-hours-every-few-weeks kind of thing, but then admits there are things he can do from home. His plan is to do this after he has breakfast with Michelle and she leaves for work, and to also drink coffee while doing it.
+* Then our meetings can involve mainly reporting our progress and writing up each other’s progress for a blog, which would hopefully give SolSeed some “mojo,” attracting people the way Windward’s blog attracts interns.
+** Eric likes this because so much of our current meetings are occupied with planning events on the west coast that he can’t attend (or at least can’t help with the logistics).
+** Ben suggests having special meetings with just Ben and the Sanders for that purpose, which would be regular for short periods.

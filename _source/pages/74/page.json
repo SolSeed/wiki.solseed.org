@@ -1,0 +1,69 @@
+{
+  "canonical_path": "/BatchOfNine",
+  "current_revision_id": 41644,
+  "database_title": "BatchOfNine",
+  "display_title": "BatchOfNine",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 3,
+  "page_id": 74,
+  "published_revision_count": 3,
+  "revisions": [
+    {
+      "author": "Brandon CS Sanders",
+      "comment": "New page: [[Image:YellowLandscape.jpg|150px]][[Image:Image:SpiralSky.jpg|150px]][[Image:HorsePetroGlyph.jpg|150px]]<br /> [[Image:TransformationButterfly.jpg|150px]][[Image:Sol.jpg|150px]][[Image:Le...",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 135,
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": 134,
+      "same_as_previous_public": false,
+      "timestamp": "2008-09-26T16:14:03Z",
+      "wikitext_bytes": 332,
+      "wikitext_sha256": "19cf30ab7b8cc0c5338917ea4b624a88a2abbde8d19b6e9b151c3399ed0f4ef4"
+    },
+    {
+      "author": "Brandon CS Sanders",
+      "comment": "",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 137,
+      "original_parent_revision_id": 134,
+      "previous_public_revision_id": 134,
+      "revision_id": 135,
+      "same_as_previous_public": false,
+      "timestamp": "2008-09-26T16:14:33Z",
+      "wikitext_bytes": 382,
+      "wikitext_sha256": "cfcfaac311fdb19fc45de40dbb87c1b046490f5911394c5d328a9a8779986cc3"
+    },
+    {
+      "author": "Brandon CS Sanders",
+      "comment": "",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 41644,
+      "original_parent_revision_id": 135,
+      "previous_public_revision_id": 135,
+      "revision_id": 137,
+      "same_as_previous_public": false,
+      "timestamp": "2008-09-26T16:20:10Z",
+      "wikitext_bytes": 443,
+      "wikitext_sha256": "d1302ddb1bae449f9232a87a7918587b9d6532585b3e0f48faf5a00e05e53567"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 137,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 557,
+      "markdown_sha256": "fcd8b1924973a997e993008c87ce834d9340710a2ed1e4f59fbfb2a69a58636f",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": 137,
+      "previous_public_revision_id": 137,
+      "revision_id": 41644,
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z"
+    }
+  ],
+  "site_revision_count": 1
+}

@@ -1,0 +1,43 @@
+{
+  "canonical_path": "/Bonnie_Sanders",
+  "current_revision_id": 41886,
+  "database_title": "Bonnie_Sanders",
+  "display_title": "Bonnie Sanders",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 1,
+  "page_id": 322,
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "Brandon CS Sanders",
+      "comment": "Redirecting to [[User:Bonnie Sanders]]",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 41886,
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": 885,
+      "same_as_previous_public": false,
+      "timestamp": "2009-06-05T03:34:05Z",
+      "wikitext_bytes": 33,
+      "wikitext_sha256": "35916ac1e1e4d2ffe98a96314ce63ecb79344615a902487bbf742c2f426fbc5b"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 885,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 77,
+      "markdown_sha256": "a605ffc010c055ad474ce414258ee36582dbbb87254876901a5cd62aff85050f",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": 885,
+      "previous_public_revision_id": 885,
+      "revision_id": 41886,
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z"
+    }
+  ],
+  "site_revision_count": 1
+}

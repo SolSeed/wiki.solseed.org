@@ -1,0 +1,1 @@
+A shinning 5 + 15 pointed star symbolizing the 5 and 15 principles of the Pagan Renewal movement

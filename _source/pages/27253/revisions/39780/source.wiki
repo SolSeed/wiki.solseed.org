@@ -1,0 +1,4 @@
+Sensors for pc-board integrations:
+* pH https://www.sparkfun.com/products/10972
+* dissolved oxygen https://www.sparkfun.com/products/11194
+* IR thermometer https://www.sparkfun.com/products/10740

@@ -1,0 +1,48 @@
+{
+  "canonical_path": "/User:BenSibelman",
+  "current_revision_id": "41666",
+  "database_title": "BenSibelman",
+  "display_title": "User:BenSibelman",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 2,
+  "original_revision_count": 1,
+  "page_id": "96",
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "BenSibelman",
+      "comment": "Redirecting to [[User:Scifiben]]",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": "41666",
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": "189",
+      "same_as_previous_public": false,
+      "timestamp": "2008-12-18T05:02:10Z",
+      "wikitext_bytes": 27,
+      "wikitext_sha256": "248e3fc62b30d8bf20a0d34451e418cd19faf7d2719b675a35264585784d6e82",
+      "source_format": "wikitext",
+      "source_extension": "wiki"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 189,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 65,
+      "markdown_sha256": "949ba25f15bf22b38f66cee3ac3d61070e1fe53efa0cf849059e10e9296a6a9d",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": "189",
+      "previous_public_revision_id": "189",
+      "revision_id": "41666",
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z",
+      "wikitext_bytes": 65,
+      "wikitext_sha256": "949ba25f15bf22b38f66cee3ac3d61070e1fe53efa0cf849059e10e9296a6a9d",
+      "source_extension": "md"
+    }
+  ],
+  "site_revision_count": 1
+}

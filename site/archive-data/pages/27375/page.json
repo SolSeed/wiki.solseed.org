@@ -1,0 +1,48 @@
+{
+  "canonical_path": "/Be",
+  "current_revision_id": "42974",
+  "database_title": "Be",
+  "display_title": "Be",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 1,
+  "page_id": "27375",
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "Brandon CS Sanders",
+      "comment": "Created page with \"[http://www.signingsavvy.com/sign/BE/6085/1 ASL Sign]\"",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": "42974",
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": "40268",
+      "same_as_previous_public": false,
+      "timestamp": "2015-01-09T02:43:37Z",
+      "wikitext_bytes": 53,
+      "wikitext_sha256": "a195ee60aaea2776b6d9f3356e5269e1e4f642499300483fd98cf7b3583689c6",
+      "source_format": "wikitext",
+      "source_extension": "wiki"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 40268,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 55,
+      "markdown_sha256": "9a152626028b69e2a812837bf772a69e5b139684b05aafafe1d872e2d5152f47",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": "40268",
+      "previous_public_revision_id": "40268",
+      "revision_id": "42974",
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z",
+      "wikitext_bytes": 55,
+      "wikitext_sha256": "9a152626028b69e2a812837bf772a69e5b139684b05aafafe1d872e2d5152f47",
+      "source_extension": "md"
+    }
+  ],
+  "site_revision_count": 1
+}

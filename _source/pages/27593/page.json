@@ -1,0 +1,56 @@
+{
+  "canonical_path": "/November_13,_2016:_Business_Call",
+  "current_revision_id": 43191,
+  "database_title": "November_13,_2016:_Business_Call",
+  "display_title": "November 13, 2016: Business Call",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 2,
+  "page_id": 27593,
+  "published_revision_count": 2,
+  "revisions": [
+    {
+      "author": "BenSibelman",
+      "comment": "Created page from the Google doc",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 40892,
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": 40891,
+      "same_as_previous_public": false,
+      "timestamp": "2016-11-13T17:21:49Z",
+      "wikitext_bytes": 8945,
+      "wikitext_sha256": "7dffd58dd619c21e4219a068bd90fb207c83674a4b561fa7bff3ed30979d10e5"
+    },
+    {
+      "author": "BenSibelman",
+      "comment": "/* WWW(s) = */",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 43191,
+      "original_parent_revision_id": 40891,
+      "previous_public_revision_id": 40891,
+      "revision_id": 40892,
+      "same_as_previous_public": false,
+      "timestamp": "2016-11-13T17:22:07Z",
+      "wikitext_bytes": 8943,
+      "wikitext_sha256": "9c87491bb34b6a77271f527c540126b4a356fc33ecf1ef9d3c7f59b6e1b6cbb6"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 40892,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 8942,
+      "markdown_sha256": "4c6a4ea2943c89e65196367836d623080965ceafd1a773ea39e87fa2f5e088ab",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": 40892,
+      "previous_public_revision_id": 40892,
+      "revision_id": 43191,
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z"
+    }
+  ],
+  "site_revision_count": 1
+}

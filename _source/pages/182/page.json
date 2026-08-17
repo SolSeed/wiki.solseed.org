@@ -1,0 +1,69 @@
+{
+  "canonical_path": "/Denver_Church_Group_Names",
+  "current_revision_id": 41748,
+  "database_title": "Denver_Church_Group_Names",
+  "display_title": "Denver Church Group Names",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 3,
+  "page_id": 182,
+  "published_revision_count": 3,
+  "revisions": [
+    {
+      "author": "Shelley Schoepflin Sanders",
+      "comment": "New page: We are in the process of collaborating to construct a church. Here are some ideas for names.  :Church of Divine Creation :Church of Divinity :Church of Creation :Chuch of Creativity :Found...",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 696,
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": 467,
+      "same_as_previous_public": false,
+      "timestamp": "2009-01-22T19:58:30Z",
+      "wikitext_bytes": 960,
+      "wikitext_sha256": "edc80bc26d685a76710b576850b7f541dd1ed11d1ab6ab1fba35dd638ae7f42f"
+    },
+    {
+      "author": "BenSibelman",
+      "comment": "[[Names]] moved to [[Denver Church Group Names]]: This is not a SolSeed page per se; we're providing hosting for the Denver group, which currently has no website of its own.",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 698,
+      "original_parent_revision_id": 467,
+      "previous_public_revision_id": 467,
+      "revision_id": 696,
+      "same_as_previous_public": true,
+      "timestamp": "2009-03-30T05:09:41Z",
+      "wikitext_bytes": 960,
+      "wikitext_sha256": "edc80bc26d685a76710b576850b7f541dd1ed11d1ab6ab1fba35dd638ae7f42f"
+    },
+    {
+      "author": "BenSibelman",
+      "comment": "Modified the intro to make it clearer who is working on this",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 41748,
+      "original_parent_revision_id": 696,
+      "previous_public_revision_id": 696,
+      "revision_id": 698,
+      "same_as_previous_public": false,
+      "timestamp": "2009-03-30T05:14:28Z",
+      "wikitext_bytes": 1069,
+      "wikitext_sha256": "2553e1b3ce273d6c594551053940c526ce888d34e98776d9be15eee8470cdc08"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 698,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 1082,
+      "markdown_sha256": "bbb06e303f3987f58e7e3228d9e55ceaeb2e11e7b56ead9143fe89476f332dc4",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": 698,
+      "previous_public_revision_id": 698,
+      "revision_id": 41748,
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z"
+    }
+  ],
+  "site_revision_count": 1
+}

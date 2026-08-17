@@ -1,0 +1,48 @@
+{
+  "canonical_path": "/May_5,_2009:_Levels_of_Focus",
+  "current_revision_id": "41867",
+  "database_title": "May_5,_2009:_Levels_of_Focus",
+  "display_title": "May 5, 2009: Levels of Focus",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 1,
+  "page_id": "302",
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "BenSibelman",
+      "comment": "[[May 5, 2009: Levels of Focus]] moved to [[May 12, 2009: Levels of Focus]]: Last week we didn't have a conference call due to the Sanders' Hawaii trip.",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": "41867",
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": "802",
+      "same_as_previous_public": false,
+      "timestamp": "2009-05-13T02:39:43Z",
+      "wikitext_bytes": 43,
+      "wikitext_sha256": "3ddba98671b67ca30a5b6649296123bfbc31d57aeadc36303aa2dd3b5bc32b67",
+      "source_format": "wikitext",
+      "source_extension": "wiki"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 802,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 97,
+      "markdown_sha256": "f47168f79d2a528a4221ce8e270e263c20218ffa60d34f9d4d44e17fe50f7308",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": "802",
+      "previous_public_revision_id": "802",
+      "revision_id": "41867",
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z",
+      "wikitext_bytes": 97,
+      "wikitext_sha256": "f47168f79d2a528a4221ce8e270e263c20218ffa60d34f9d4d44e17fe50f7308",
+      "source_extension": "md"
+    }
+  ],
+  "site_revision_count": 1
+}

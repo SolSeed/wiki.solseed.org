@@ -1,0 +1,63 @@
+{
+  "canonical_path": "/Business_Ideas",
+  "current_revision_id": "42511",
+  "database_title": "Business_Ideas",
+  "display_title": "Business Ideas",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 2,
+  "page_id": "5212",
+  "published_revision_count": 2,
+  "revisions": [
+    {
+      "author": "Brandon CS Sanders",
+      "comment": "Moved from the [[Kindred]] interview of [[Shelley]]",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": "7457",
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": "7455",
+      "same_as_previous_public": false,
+      "timestamp": "2012-03-10T00:05:35Z",
+      "wikitext_bytes": 51,
+      "wikitext_sha256": "34414b511ae3547bd47b94d7b95cf3b444981a21707afa43d0ff04c80b2e129b",
+      "source_format": "wikitext",
+      "source_extension": "wiki"
+    },
+    {
+      "author": "Brandon CS Sanders",
+      "comment": "A related page already exists at [[Industry]]",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": "42511",
+      "original_parent_revision_id": "7455",
+      "previous_public_revision_id": "7455",
+      "revision_id": "7457",
+      "same_as_previous_public": false,
+      "timestamp": "2012-03-10T00:07:15Z",
+      "wikitext_bytes": 22,
+      "wikitext_sha256": "c6358237896239322f856d64d8a56c245d709bce2f3785948fa4a3af3b6a7e2c",
+      "source_format": "wikitext",
+      "source_extension": "wiki"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 7457,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 55,
+      "markdown_sha256": "427891a51a48bb8eddf90d1b79ebb9092ba979bcbcaeee3802be9e670336384f",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": "7457",
+      "previous_public_revision_id": "7457",
+      "revision_id": "42511",
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z",
+      "wikitext_bytes": 55,
+      "wikitext_sha256": "427891a51a48bb8eddf90d1b79ebb9092ba979bcbcaeee3802be9e670336384f",
+      "source_extension": "md"
+    }
+  ],
+  "site_revision_count": 1
+}

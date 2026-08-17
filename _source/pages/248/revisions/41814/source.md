@@ -1,0 +1,33 @@
+Saturday morning conference calls
+- [UpwardSpiralChurch](/UpwardSpiralChurch) ... Art and Mickey in Denver: looking to start something similar to SolSeed, but not with similar ultimate aims
+- [Spiriata](/Spiriata) ... Lion and friends in Seattle in process of developing an [Intentional Society](/Intentional_Society)
+
+2010 get-together being planned with kindred groups
+- What sort of groups are we looking for?
+- Stacey ... forum for intentional community ... I like the Open Space format ... open to lots of topics and lots of different people (community binds it together)
+- Boni ... I'd like to think about it
+- Shelley ... not in many groups 
+  - In what way would a book club be kindred?
+  - Interested in topic ... maybe learning things to share with us
+- Ben ... advocacy groups ... not intentional societies but share some similarities
+- Stacey ... unclear about what you want to attract ... definition of "kindred?"
+  - Brandon: groups that "exonerate or appreciate the differences of others" and aren't trying to convert everyone else
+  - Stacey : is kindred as characteristics, or is it a way of being? open to everyone?
+  - Shelley ... invite Unitarians
+  - Share something
+    - Possibility and Life ... "Groups that radiate life"
+      - What group doesn't?
+      - Probably not AboutUs
+    - Groups that "exonerate or appreciate the differences of others" and aren't trying to convert everyone else
+    - Improve people's lives
+    - Improve the planet
+    - Potentially traveling to other worlds
+      - Bob the predetator: I think the starships should be built using green technology
+    - Ideas that contribute to the previous three (philosophy, religion, etc)
+    - Living together in community (touching all aspects of life)
+  - Don't need to embrace all three
+  - Stacey thinks book club meets with criteria for kindred spirits. I don't see the criteria as specific enough to define what the group wants to attract.
+  - Groups that would consider us kindred (appreciate our kookiness) ... do we think they are worthy of having the spirit of discernment
+  - Stacey sees possibility and life as all-inclusive.
+  - Local or global group?
+    - Trending toward living together ... is that an intention or a long term goal?

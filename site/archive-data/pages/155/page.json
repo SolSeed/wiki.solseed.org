@@ -1,0 +1,63 @@
+{
+  "canonical_path": "/File:BrandonBringLifeSign.jpg",
+  "current_revision_id": "41721",
+  "database_title": "BrandonBringLifeSign.jpg",
+  "display_title": "File:BrandonBringLifeSign.jpg",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 6,
+  "original_revision_count": 2,
+  "page_id": "155",
+  "published_revision_count": 2,
+  "revisions": [
+    {
+      "author": "Brandon CS Sanders",
+      "comment": "[[Brandon]] holds a sign welcoming folks to [[Seed2009]].",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": "397",
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": "396",
+      "same_as_previous_public": false,
+      "timestamp": "2009-01-17T04:37:39Z",
+      "wikitext_bytes": 57,
+      "wikitext_sha256": "55b0886f6ecc10b478568c42e49de571da6a9d0b78da51e863404230e58a8b88",
+      "source_format": "wikitext",
+      "source_extension": "wiki"
+    },
+    {
+      "author": "Brandon CS Sanders",
+      "comment": "uploaded a new version of \"[[Image:BrandonBringLifeSign.jpg]]\"",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": "41721",
+      "original_parent_revision_id": "396",
+      "previous_public_revision_id": "396",
+      "revision_id": "397",
+      "same_as_previous_public": true,
+      "timestamp": "2009-01-17T04:43:20Z",
+      "wikitext_bytes": 57,
+      "wikitext_sha256": "55b0886f6ecc10b478568c42e49de571da6a9d0b78da51e863404230e58a8b88",
+      "source_format": "wikitext",
+      "source_extension": "wiki"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 397,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 75,
+      "markdown_sha256": "91b828dd6667a7e4284713adae1dc5c6d2bc2ba57dc20c8d64c2802011e79ddb",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": "397",
+      "previous_public_revision_id": "397",
+      "revision_id": "41721",
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z",
+      "wikitext_bytes": 75,
+      "wikitext_sha256": "91b828dd6667a7e4284713adae1dc5c6d2bc2ba57dc20c8d64c2802011e79ddb",
+      "source_extension": "md"
+    }
+  ],
+  "site_revision_count": 1
+}

@@ -1,0 +1,170 @@
+### Agenda
+- Check In
+- Review WWWs
+- Next Service
+- Earth Day
+- Seed Village
+
+### Check In
+- Brandon ... depressed, feel badly about myself and don't feel excited about anything
+- Shelley ... I like Ben's haircut ... feel a lot more centered after run with Heather, will work that into my routine ... discovered parenting is a legitimate task, can tell people "I can't do that because I'm parenting during that time"
+- Ben ... I'm excited and somewhat freaked out by fact that I've committed to going to East Coast --> Israel --> East Coast --> back (flights booked, have hotel for one night in NY)
+- Sequoia ... very expressive ... lots of vocab
+
+### WWWs from last time
+- <s>Ben,</s> Shelley and Brandon ... write stories about times we felt especially fulfilled in a community-like setting ... by next call
+- <s>Ben ... print and laminate the ["Lettuce" Bring Life](/"Lettuce"_Bring_Life) photos ... by next call
+- Ben ... print and laminate the covers for the sign-up clipboards ... by next call (did one)
+- Ben ... email Shelley the vision statement ... tonight
+- Ben ... ping the Microsoft guy about the Space Elevator Conference ... Tuesday
+- Shelley ... buy dirt ... by next call</s> (not necessary after all)
+- Shelley ... buy flowers for the galactic-core pot ... by next call
+- Shelley ... buy lettuce seeds ... by next call
+- <s>Shelley ... wordsmith the vision statement</s> (decided not to change it)
+- Shelley ... create the Earth Day sign-up form ... by next call
+- Brandon ... ask Kevin to fix the back cover (Cherishing the earth,  Embracing science, Living in community, Bringing life to the Galaxy,  SolSeed.org)
+- Brandon ... ask Kevin to fix the front cover to include "Happy in the Sun!"
+- Brandon ... ask Kevin to make the 8.5x11 version for the clipboard covers
+- <s>Brandon ... reserve the Earth Day tents ... by tomorrow
+- Brandon ... cowork with M&M ... broach using the starfarer tee-shirts ... by next call</s> (tried but it didn't work out)
+- <s>Brandon ... get the canvas ... by next call
+- Brandon ... drill holes in pot ... by Wednesday
+- Brandon ... clean</s> and repaint the lettuce bring life board ... by next call
+- <s>Brandon ... clip the screws and grind them down off the back ... by next call
+- Brandon ... get the angle joiners ... by next call</s>
+- Brandon ... get cover sheets for the signup clipboards ... by next call
+- Brandon ... design story for space based solar/space catapult exhibit ... by next call
+- <s>Brandon ... order Earth marbles ... by tomorrow</s>
+
+### Next Service
+10am Saturday, week after next (30th) ... Brandon will prepare and lead
+
+### Earth Day
+Schedule and planning:
+
+- Starts at 10 am
+- Done at 7 pm
+- Aim for the 3 of us there most of the time
+- We will not "control" Mathew, Molly or Gus
+
+- Stuff to take to Earth Day
+  - MURAL (IN THE ROCKET BOX): Canvas, frame with bases, paint, peanut butter jars full of water, saw horses, paint board, paint brushes, staples, drill (cordless, charged ahead of time), 2 batteries, screws, metal framing pieces
+  - LETTUCE (WALK THERE): Galaxy board, wheelbarrow, dirt, 2 spades, lettuce seeds, watering can, metal measuring cups, center pot full of marigolds, Ben's picture/poster of 2010
+  - SEED VILLAGE IMAGES: 3 way board, solar power on one panel, the village drawings (laminated) in middle
+  - OUTREACH STUFF (In the trunk): T-shirts, books, earth marbles (?), brochures, signup sheets, 2 clipboards, children's books?, 2 clipboard covers
+  - SolSeed banner
+  - Chairs
+
+- Stuff to give away
+  - Brochures
+  - T-shirts
+  - Books
+
+- Unifying concepts
+  - Molly facepaint us
+  - SolSeed shirts (grey)
+  - Marbles for: Ben, Shelley, Brandon, Gus?
+
+- Banner
+  - SolSeed
+    - Don't include the rocket for the L
+  - Four phrases: Cherishing the Earth, Embracing science, Living in community, Bringing Life to the Galaxy
+  - Background is water from space blue
+  - Words are white, and a fairly standard font
+
+### [Seed Village](/Seed_Village)
+#### Ben/Sanders Contract concept
+Phases
+
+- One loan ... mortgage on existing house/land $400k
+- Two loans ... mortgage $400k + construction loan $126k
+- Seed Village ... mortgage $550
+
+##### One loan
+Ben, Brandon, and Shelley split the soft costs three ways as they occur.  If Ben or the Sanders back out during this phase, no one gets a refund ... all money spent so far is considered sunk costs.  We expect the total for this phase to come to around $24k ... $8k for Ben and $16k for the Sanders.  This phase includes all architect fees, permits, structural engineering, surveys, etc.  Basically every cost that precedes breaking ground and actually building the pod.  Early in this phase we will take some time out to complete the vision document and legal structure for the Seed Village.
+
+Out of pocket at end of "One loan" phase
+
+ Ben      $ 8,000
+ Sanders  $16,000
+ ----------------
+ Total    $24,000
+
+##### Two loans
+At the end of August, after Ben and the Sanders are pre-approved for the $570k loan we will get later, the Sanders take out a construction loan for $126k (113,400 + 12,600 down).  The down payment of $12,600 is split three ways with Ben contributing $4,200 and the Sanders contributing $8,400.  As soon as the loan is received, the Sanders will start making payments of ~$1200/mo.  The Sanders will make these payments during the months of September, October, November, December, January, and February for a total of $7,200.  If Ben or the Sanders back out during this phase, no one gets a refund ... all money spent so far is considered sunk costs and "earnest money".
+
+Out of pocket at end of "Two loans" phase
+
+ Ben     $12,200 ($8000 + $4200)
+ Sanders $31,600 ($16,000 + $8,400 + $7,200)
+ ---------------
+ Total   $43,800
+
+##### Seed Village
+Middle of February 2012, Ben and the Sanders co-sign for the Seed Village entity to receive a new loan for $570k to purchase the property from the Sanders.  This completely retires the $400k mortgage + $113k construction loan leaving $57k for the down payment (the Sanders make the down payment).  Any remaining difference, positive or negative is absorbed by the Sanders.  On March 1, 2012 we start making a collective payment of $4,200/mo to the Seed Village.  Split three ways this becomes 1,400/mo for Ben and 2,800/mo for the Sanders.
+
+Out of pocket at the start of "Seed Village" phase
+
+ Ben     $12,200
+ Sanders $31,600 = $24,400 + $7,200 +/- D 
+ --------------
+ Total   $43,800
+
+(D = any difference between the $570k loan and the big-house mortgage + construction costs)
+
+##### Concerns
+- Everything going to the Seed Village is used for the mortgage and property taxes (mortgage is around $3,900/mo and property taxes are more than the remaining $3,600/yr).  There is no buildup of an operating fund.
+
+- Right now the Sanders are paying $3,000/mo for a property and house that they will own outright in 27 years.  That will be worth $400k in today's dollars.
+
+- Where does the equity go?
+
+- How to house children as they get old enough?
+
+- Is it worth considering private financing?
+
+- Sanders are making a second down payment on the same property
+
+- In the land-trust model, the members of Seed Village wouldn't own the property when the loan is paid off ... the "cause" would own it
+
+- Sanders can't get nearly as much money if they sell their share of the village that they would if they still owned the whole property
+
+- This is committing a large chunk of our lives (opportunity cost)
+
+##### Alternatives
+- Rent the house next door ($1800 a month) and house Ben plus a roommate there
+
+- Remodel the basement (really expensive) and have Ben rent it
+
+- Have Ben move into a local apartment complex
+
+- Have Brandon and Shelley move to Seattle (unreasonable for a number of reasons)
+
+### WWWs
+- Brandon ... email the back page to Ben and Shelley ... tonight
+
+- Brandon ... email Ben the dimensions of the small display-board panel ... tomorrow
+
+- Brandon ... order three table skirts ... by tomorrow
+
+- Brandon ... laminate Jason's Seed Village concept drawings ... Friday
+
+- Brandon ... print and laminate images for the space exhibit ... by Friday
+
+- Brandon ... get more velcro ... by Saturday
+
+- Shelley ... buy dirt ... by tomorrow
+
+- Shelley ... buy flowers for the galactic-core pot ... tomorrow
+
+- Shelley ... buy lettuce seeds ... tomorrow
+
+- Shelley ... finish and print sign-up sheets for 100 people ... by Saturday
+
+- Brandon and Shelley ... talk to neighbors ... by Friday
+
+- Ben ... put together and print banner ... Thursday
+
+- Ben ... print and laminate another clipboard cover ... by Thursday
+
+- Ben ... print and laminate pictures from our events ... by Thursday

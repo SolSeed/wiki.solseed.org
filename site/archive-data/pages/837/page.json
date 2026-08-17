@@ -1,0 +1,48 @@
+{
+  "canonical_path": "/Earth_as_organism,_humans_as_?",
+  "current_revision_id": "42392",
+  "database_title": "Earth_as_organism,_humans_as_?",
+  "display_title": "Earth as organism, humans as ?",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 1,
+  "page_id": "837",
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "BenSibelman",
+      "comment": "Created page",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": "42392",
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": "2194",
+      "same_as_previous_public": false,
+      "timestamp": "2011-02-06T02:39:01Z",
+      "wikitext_bytes": 2767,
+      "wikitext_sha256": "18a95d5fc37965ba90c5c3fa750507bb349083454e2a1b2c07174923867339ee",
+      "source_format": "wikitext",
+      "source_extension": "wiki"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 2194,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 2851,
+      "markdown_sha256": "d2d3649ee42ebefb3db525ded494b7618911a8627b172a170dab04ae79a33373",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": "2194",
+      "previous_public_revision_id": "2194",
+      "revision_id": "42392",
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z",
+      "wikitext_bytes": 2851,
+      "wikitext_sha256": "d2d3649ee42ebefb3db525ded494b7618911a8627b172a170dab04ae79a33373",
+      "source_extension": "md"
+    }
+  ],
+  "site_revision_count": 1
+}

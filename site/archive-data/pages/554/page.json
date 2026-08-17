@@ -1,0 +1,48 @@
+{
+  "canonical_path": "/Book_47",
+  "current_revision_id": "42113",
+  "database_title": "Book_47",
+  "display_title": "Book 47",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 1,
+  "page_id": "554",
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "Brandon CS Sanders",
+      "comment": "New page: Book 47 is part of the [[SolSeed Book Program]].  Did you get Book 47?  We'd love to see all of the places Book 47 has been and meet all the people who have read it.  If you've encountered...",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": "42113",
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": "1450",
+      "same_as_previous_public": false,
+      "timestamp": "2010-04-05T02:00:44Z",
+      "wikitext_bytes": 440,
+      "wikitext_sha256": "833dab7afbdb765afa8820e461d4c54c75cc31b275895e31fb422a6c55a5780b",
+      "source_format": "wikitext",
+      "source_extension": "wiki"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 1450,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 511,
+      "markdown_sha256": "97079aceeb8e7f8d9962b21b2fda960aca6df8c48268b66331645eed96327b24",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": "1450",
+      "previous_public_revision_id": "1450",
+      "revision_id": "42113",
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z",
+      "wikitext_bytes": 511,
+      "wikitext_sha256": "97079aceeb8e7f8d9962b21b2fda960aca6df8c48268b66331645eed96327b24",
+      "source_extension": "md"
+    }
+  ],
+  "site_revision_count": 1
+}

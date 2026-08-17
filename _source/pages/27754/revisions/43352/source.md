@@ -1,0 +1,1 @@
+Hand holding soil and plant symbolizing the role of humanity in shaping the Earth.

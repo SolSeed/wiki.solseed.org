@@ -1,0 +1,23 @@
+![800px](/assets/uploads/MarkJulieLionSeed2009.jpg)
+
+ I stand for propagating world peace beginning on the inside.  I agitate for personal transformation and incite empowerment.
+ I am currently teaching myself finger-style guitar so I can play old Simon and Garfunkel and Dan Fogelberg songs.
+ Regular communer in the forest, flagrant tree hugger. Explorer of the soul, handy man, poet.
+Books:
+   I am reading The Untethered Soul by Michael Singer right now. Recent readings:
+   Big Mind, Big Heart. Into the Silent Land. Spiral Dynamics. The Meaning of Shakespeare. Blue like Jazz.
+   A brief list of influential books:
+   The Origin of Consciousness in the Breakdown of the Bicameral Mind, the White Goddess, Faces in a Cloud,
+ The Gift of Fire.  Authors: All things Shakespeare, Carl Jung, Joseph Campbell, Diane Ackerman, Irvin Yalom, ken Wilber
+Current Quotations:
+   Strange as it may seem today to say, the aim of life is to live,
+   and to live means to be aware, joyously, drunkenly, serenely,
+   divinely aware. In this state of god-like awareness one sings; in
+   this realm the world exists as a poem.
+   - Henry Miller
+   I hold a beast, an angel and a madman inside me. And my inquiry is as to their working,
+ and my problem is their subjugation and victory, downthrow and upheaval, and my effort is their self-expression.
+   - Dylan Thomas
+About Me:
+ I am a licensed psychotherapist (LMFT) in both California and Oregon.
+ I work in Portland Oregon as a personal development coach and therapist in private practice, (markjhansen.com)

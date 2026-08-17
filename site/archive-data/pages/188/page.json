@@ -1,0 +1,63 @@
+{
+  "canonical_path": "/SolSeed_Creed",
+  "current_revision_id": "41754",
+  "database_title": "SolSeed_Creed",
+  "display_title": "SolSeed Creed",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 2,
+  "page_id": "188",
+  "published_revision_count": 2,
+  "revisions": [
+    {
+      "author": "Brandon CS Sanders",
+      "comment": "[[SolSeed Creed]] moved to [[SolSeedCreed/CallAndResponse]]: To differentiate the two",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": "489",
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": "485",
+      "same_as_previous_public": false,
+      "timestamp": "2009-01-29T16:28:47Z",
+      "wikitext_bytes": 42,
+      "wikitext_sha256": "09f17b8898d92eff433836d52a7c3de07392f3c8950710ad2ec5ef45f661b776",
+      "source_format": "wikitext",
+      "source_extension": "wiki"
+    },
+    {
+      "author": "Brandon CS Sanders",
+      "comment": "Redirecting to [[SolSeedCreed]]",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": "41754",
+      "original_parent_revision_id": "485",
+      "previous_public_revision_id": "485",
+      "revision_id": "489",
+      "same_as_previous_public": false,
+      "timestamp": "2009-01-29T16:31:03Z",
+      "wikitext_bytes": 26,
+      "wikitext_sha256": "dd8766dfc219a1157bc1358a9db340af5ad17e574c7fa3305203352b159fbeaa",
+      "source_format": "wikitext",
+      "source_extension": "wiki"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 489,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 63,
+      "markdown_sha256": "604e286721625f5a29c864a26f49370f37e660b1a343975eedfaeaf429e6b131",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": "489",
+      "previous_public_revision_id": "489",
+      "revision_id": "41754",
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z",
+      "wikitext_bytes": 63,
+      "wikitext_sha256": "604e286721625f5a29c864a26f49370f37e660b1a343975eedfaeaf429e6b131",
+      "source_extension": "md"
+    }
+  ],
+  "site_revision_count": 1
+}

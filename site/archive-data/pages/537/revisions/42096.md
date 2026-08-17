@@ -1,0 +1,82 @@
+### Agenda
+- Review WWWs
+- Norwescon
+  - Signs
+  - Final decision on selling vs. giving away shirts and books
+- Earth Day
+- March newsletter
+- Fundraising conversation
+- Do some role playing
+
+### WWWs from last time
+- [Shelley](/Shelley)
+  - will assess cost and amount of work required to set up a PayPal donation system (looked at it and it looks good)
+- [Ben](/Ben)
+  - will complete Trifold and print 150 of them by next weekend (almost done)
+  - will get some ideas together for March newsletter by next weekend (done)
+- [Brandon](/Brandon)
+  - will create signs for review at next meeting (sort of done)
+  - will get us an Earth Day booth by next weekend (in process)
+
+### NorWesCon
+#### Signs with intriguing questions
+- Put them up on a sort of flagpole on the side of the table
+- Have people come up with answers, write them down, and get a picture w/ them and their answer
+  - They get a printed copy of the picture
+    - Can we find a place to plug in the printer?
+  - We also display the pictures at the booth
+- Question ideas
+  - Why do you do what you do?
+  - What is possible?
+  - Spaceships or gardens?  Can't we do both?
+  - Are you happy in the sun?
+  - Life is ___
+  - Can't we do both?
+  - Chocolate or Vanilla? Choose
+  - More clapping?
+  - Half full?
+  - What is TheDestiny?
+  - Starfarer?
+  - Does one hand clapping in a forest make a sound even if there is no one there to hear it?
+
+#### T-shirts and books
+- T-shirts: say "if you wear it it's free, otherwise suggested donation $10"
+- Book: only people who are genuinely interested, so "free w/ membership commitment, otherwise $10"
+  - Membership means "I will test-drive involvement with your organization"--a commitment of time or resources that is generous within your means
+
+### Earth Day
+- They want interactive booths
+  - We could use learnings from NorWesCon
+  - Galaxy-shaped dirt tray for visitors to plant seeds in
+
+### March newsletter
+#### Brief updates
+- We held the second [SolSeed Service](/SolSeed_Service) on March 20, the Spring Equinox, honoring the holiday with the seed topic of [Balance](/Balance).  It was another big success, integrating art and balance-focused games in addition to music, poetry, and discussion.
+- We're about to attend our second science fiction convention, NorWesCon, from April 1-4, hoping to attract some new [Starfarers](/Starfarers) to join our active membership.
+- Coming up soon is the Portland Earth Day celebration, where we'll be talking up our [planned eco-village](/SolSeedVillage) and looking for more people who might want to get involved.
+
+#### So what is a Starfarer, anyway?
+As we focus on finding new members, we're looking for a very special group of people.  By our definition, a Starfarer is someone who shares the basic values that lead us to believe in [The Destiny](/The_Destiny) of seeding the galaxy with life.
+
+At first glance, these values are a union of seeming opposites: the progressive technological exuberance of the space enthusiast, merged with the cautious conservationist ethic that criticizes technology for the damage it does to the natural world.  But this paradox is easily resolved: a Starfarer supports anything that creates more possibilities and the conditions for more life, and opposes anything that destroys possibility and life.
+
+The SolSeed vision is not the tired old mechanized future of robot slaves and sterile tin-can spacecraft and city-covered worlds.  It's a future where gleaming blue solar arrays power homes both on Earth and in orbit, while silver-white wind-turbine blades sweep the skies with regrown wilderness flourishing around their feet.  In this future, spaceships are like little worlds unto themselves, filled with living ecosystems that sustain our souls while maintaining the air, water, and food supply far more robustly than mere machinery ever could.
+
+And in this future, we go into space not to escape a dying world, nor to plunder the solar system to feed an insatiable exponential-growth economy, but as the seeds of Mother Earth seeking to grow new living worlds and expand the domain of Life.
+
+### Fundraising
+- Brandon likes tithing: "I would like to give this % of my budget to life-giving causes and missions"
+  - But is that too tied to conservative religious traditions?
+  - For people very deep into the funnel of engagement, maybe only the core circle
+- Ben will consider how he might do this
+
+### WWWs
+- Brandon will care for the signs
+  - Print and laminate the signs
+  - Get velcro
+  - Wooden Dowel and Sign Mounting Surface
+  - Extension cord and power strip
+- Shelley
+  - Camera and Printer and Ink and Paper and Cutter
+  - Make spreadsheet and measurement apparatus - by when she's in the car on the way there
+- Ben will finish the trifolds

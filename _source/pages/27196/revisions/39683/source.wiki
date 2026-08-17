@@ -1,0 +1,12 @@
+see also: [[Website Optimization]], [[Orientation Emails]]
+
+== Websites we admire from organizations with similar tactical goals ==
+* [http://www.pbs.org/wgbh/nova/ Nova] ... clean, nice carousel, reflows perfectly from large to mobile ([http://builtwith.com/?http%3a%2f%2fwww.pbs.org%2fwgbh%2fnova%2f built with html5boilerplate, Foundation, and jQuery])
+* [http://www.mercycorps.org/ MercyCorps] ... clean, nice carousel, reflows perfectly from large to mobile ([http://builtwith.com/mercycorps.org built with Drupal CMS and jQuery])
+* [http://www.amnh.org/ American Museum of Natural History] ... clean, nice carousel, reflows perfectly from large to mobile ([http://builtwith.com/amnh.org built with eZ Systems CMS and jQuery (JCarousel])
+* [http://worldwildlife.org/ World Wildlife Foundation] ... clean (amazing pictures), reflows perfectly from large to mobile ([http://builtwith.com/worldwildlife.org built with rails, jQuery, scriptaculous, etc])
+* [http://www.bellagaia.com/ Bella Gaia] if it reflowed cleanly it would probably be my favorite ... it emphasizes their trailer very well, very little clutter around it, yet it still has social media buttons and a significant menu system, nice carousel on subpages ... ([http://builtwith.com/bellagaia.com built with Weebly drag and drop CMS, FancyBox for carousel, jQuery, vimeo rather than YouTube for video)
+* [https://www.ikat.org/ Central Asia Institute] ... I primarily appreciate their effective use of pictures (simpler site uses a slideshow rather than a carousel)
+* [http://www.oregonhumane.org/ Oregon Humane Society] and [http://vladimirkush.com/ Vladimir Kush] for the effective use of art rather than photos
+
+Almost all of these are using HTML5

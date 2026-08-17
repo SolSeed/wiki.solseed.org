@@ -1,0 +1,70 @@
+### Agenda
+- Check In
+- Review WWWs
+- Review Agenda
+- Weekly Events Logistics
+- Brandon: More Meetups, Opportunity Profiles
+- Shelley: Plan for a field trip to the Zen Center
+- Ben: 2012 Third Quarter Report
+- Eric: More Meetups, Mid-Autumn costume party planning, Resource relationships
+- Evaluation
+
+### Check In
+- Ben ... working at the Sustainable Ballard event (Get Money Out of Politics Booth)
+- Shelley ... I have a new camera ... looking at about 100 pictures of Evie holding Ren
+- Eric ... hung over, not my normal kind of thing ... Jessica got married yesterday, beautiful ceremony ... talked about the sacredness of nature ... they have an after-party that started about 8pm and at 3am I left and they were still playing the piano, guitar, dancing ... I got home about 4:30 in the morning
+- Brandon ... a little hungover because I stayed up late reading *Existence* by David Brin
+
+### WWWs from last time
+- Ben ... follow your topical community protocol for this week ... ongoing
+- <s>Ben ... meditate and keep track of which days ... ongoing</s>
+- Brandon ... follow your topical community protocol for this week ... ongoing
+- <s>Brandon ... meditate and keep track of which days ... ongoing
+- Shelley ... follow your topical community protocol for this week ... ongoing (Above and Beyond)
+- Shelley ... meditate and keep track of which days ... ongoing</s>
+- Eric ... follow your topical community protocol for this week ... ongoing
+- <s>Eric ... meditate and keep track of which days ... ongoing</s>
+
+### WWWs
+- Ben ... follow your topical community protocol for this week ... ongoing
+- Ben ... meditate and keep track of which days ... ongoing
+- Ben ... contact Space Elevator Conference people about possibly making my paper publicly available online ... by next call
+- Brandon ... follow your topical community protocol for this week ... ongoing
+- Brandon ... meditate and keep track of which days ... ongoing
+- Brandon ... revise Ben's newsletter draft ... by next call
+- Shelley ... follow your topical community protocol for this week ... ongoing (Above and Beyond)
+- Shelley ... meditate and keep track of which days ... ongoing
+- Eric ... follow your topical community protocol for this week ... ongoing
+- Eric ... meditate and keep track of which days ... ongoing
+
+### Weekly Events Logistics
+Service Saturday October 6, 9:00 am PDT ... (Ben)
+Rotation: Brandon, Eric, Shelley, Ben
+
+Work-Bee Sunday October 7, 1:30 pm PDT (ended up not happening, we all had schedule conflicts)
+
+In-person service with Vliets: none
+Ottawa Seeing Nature Excursion: Sunday October 7th 1400 EDT (11 am PDT)
+
+### Newsletter
+Hi everybody!  This will be the last SolSeed Quarterly Report -- but only because we've decided to switch over to Seasonal Reports instead, in keeping with our spiritual practice of celebrating the Solstices and Equinoxes.
+    
+Speaking of which, for the Fall Equinox this year, we traded event concepts between Portland and Ottawa.  Brandon, Shelley, and I adopted Eric's space-themed idea for the Equinox by creating prototype Closed Ecological Life Support Systems, sealed jars each containing plants, snails, copepods and amphipods, and a single shrimp.  Joined by our friend Hank from the CELSS Facebook group, we had loads of fun gathering some of the organisms from a local wetland called Oaks Bottom.  Unfortunately, we still have a lot to learn about the complex process of sustaining a miniature ecosystem; none of our shrimp "eco-nauts" survived more than a few days.  We'll probably try again next year.
+Meanwhile, in Ottawa, Eric and his family had adopted our idea of a more down-to-Earth trip to pick apples at a local orchard.  This plan was thwarted by rain, but they did get to bake and eat tasty apple crumble while also pretending to be in space (with all the tableware Velcro'd to the table to keep it from floating away!)  Because the Equinox was on a Saturday this year, we also joined Eric via Skype (after dinner for him, midafternoon for us) for our regular Sabbath service.
+
+As for the rest of the quarter, we've largely spent it focusing on the long-term future, revising our One-Page Plan away from a narrow focus on the next quarter and toward a vision for the direction we're headed over the next few decades.  I also gave a talk about future-focused motivations, specifically answers to the question "Why go to space?" at the annual Space Elevator Conference in late August, which this year was relocated to the inspirational environment of the Museum of Flight in south Seattle.  I was also inspired by Michael Laine's pitch at the conference for his company, Liftport, and its new lunar elevator project, and SolSeed decided to make a donation to the Liftport Kickstarter as a result.
+
+Earlier in August, we made a major donation to another Kickstarter run by our friend and ally, John Boswell, for his new album of songs celebrating science, this time written from scratch and sung by his collaborator Will Crowley, rather than using clips of famous scientists as in his popular Symphony of Science videos.  John and Will are also going to create a song for SolSeed, as thanks for our contribution!
+
+### Lifeboat Foundation Facebook Post
+Lifeboat or Destiny? Fear or Hope? 
+
+Our core audience is quite similar to that of The Lifeboat Foundation.  Both organizations seek to attract science enthusiasts who care about the long perspective and believe that we can do something positive for Life.  One major difference is that the Lifeboat Foundation plays to the fear end of the hope/fear continuum of future-focused motivations, while SolSeed springs from hope. Their reach is significantly greater than ours; for example, the Lifeboat Foundation is featured prominently in the book *Existence* by David Brin. 
+ 
+How much of the superiority of their reach comes from better planning and execution, and how much comes from the relative roles of fear and hope in the human psyche?  Our built-in negativity bias was highly adaptive back when fear helped us dodge predators on the African savannah, but today it tends to motivate hasty, panicked efforts to solve problems that require careful long-term planning.  Focusing on hope for a positive future, by contrast, removes panic from the equation and instead calls on our creativity. Flee or Build? Survive or Flourish? Lifeboat or SolSeed?
+
+### Evaluation
+- Ben ... I was glad that I had something to do this time ... it means less homework when we work on things that would ordinarily be homework on the call
+- Brandon ... I just worked on things and it felt good
+- Shelley ... I agree, but I don't have a report on the field trip yet
+- Eric ... Really enjoyed  getting stuff done until I made a mistake at the end and lost what I had done.

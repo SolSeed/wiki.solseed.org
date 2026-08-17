@@ -1,0 +1,99 @@
+### Agenda
+- Check In
+- Review WWWs
+- Review Agenda
+- Next Service Logistics
+- Winter Solstice
+- Paul
+- Book
+- Next meetup
+- Topical Communities
+- Video(s)
+- One-Page Plan
+- Services
+- Evaluation
+
+### Check In
+- Ben ... depressed by the National Defense Authorization Act of 2012 ... concerned that some government sweep will find something I write as seditious and they will lock me up and throw away the key ... would like to be able to say I feel something about how tragic what's happening to our country is ... but fear comes first ... 
+- Shelley ... I'm good
+- Brandon ... enjoying my work for AboutUs
+- Sequoia ... likes Curious George fold-out page with the puppy ... had some adventures today
+
+### WWWs from last time
+- <s>Brandon ... follow your topical community protocol for this week ... ongoing</s> (just SolSeed for now)
+- <s>Brandon ... meditate and keep track of which days ... ongoing</s> (missed Thursday, Friday)
+- <s>Brandon ... make a doodle to schedule the SoS meetup ... by next call</s>
+- Brandon ... write 1000 words ... by next call (425ish)
+- <s>Brandon ... revise the Facebook page ... by next call
+- Ben ... follow your topical community protocol for this week ... ongoing</s> (interacting with west coast eco-village/CELSS planners group)
+- <s>Ben ... meditate and keep track of which days ... ongoing</s>
+- Ben ... create character art for "Something You Learn" ... by next call
+- Ben ... write 750 words ... by next call (144)
+- <s>Shelley ... follow your topical community protocol for this week ... ongoing
+- Shelley ... meditate and keep track of which days ... ongoing</s>
+
+### WWWs
+- Brandon ... follow your topical community protocol for this week ... ongoing (just SolSeed for now)
+- Brandon ... meditate and keep track of which days ... ongoing
+- Brandon ... look at what is available for red bags online ... by next call
+- Brandon ... write letter back to Paul ... by tomorrow
+- Brandon ... schedule a go-over of the introduction with Shelley ... by tonight
+- Brandon ... go over the introduction and table of contents with Shelley ... by next call
+- Brandon ... make a pass through the entire book, shoring up parts that need shoring up ... by next call
+- Brandon ... add the Symphony of Science Popcorn and Apples for January 28th at 6pm to the meetup group ... by next call
+- Brandon ... think about the first meetup and figure out a checklist for it to present to Ben and Shelley ... by next call
+- Ben ... follow your topical community protocol for this week ... ongoing
+- Ben ... meditate and keep track of which days ... ongoing
+- Ben ... check in with parents about Solstice ... by Saturday
+- Ben ... finish Chapter 4 ... by next call
+- Ben ... create character art for "Something You Learn" ... by next call
+- Shelley ... follow your topical community protocol for this week ... ongoing
+- Shelley ... meditate and keep track of which days ... ongoing
+- Shelley ... schedule time to work on Solstice service with Brandon ... by tonight
+- Shelley ... work with Brandon on the Solstice service ... by next call
+- Shelley ... look at TJ Max bag for red lights ... by next call
+
+### Next Service Logistics
+Saturday December 17, 2011 ... Ben
+Rotation: Brandon, Jerry?, Shelley, Ben
+
+### Winter Solstice
+Can't go to GeerCrest Farm because their event is on the 21st after all
+- New Years Eve? Probably not Shelley
+
+Guest List
+- Yes - Laura+Jesus+Diego+Sylvio+Laura's Parents 
+- Yes - Shelley+Brandon+Sequoia
+- Yes - Ben
+- Probably - Steve+Judy
+- Probably - Mickki+Justin
+- No - Meg+Lyric (might come on hike)
+- No - Jerry+Shirley
+
+Red lights
+- Could get red bags at Radio Shack? Or do they have to obey the Oregon plastic ban?
+- TJ Max bag
+- Bike taillights could use a cone of paper to help avoid looking directly at the LEDs
+
+### Book
+- Brandon feels good about the "why" parts
+- We still need to fill in gaps and add some missing concepts 
+  - Possibly have a list of "things to add later"?
+
+### Next Meetup
+Keep the videos a bit mysterious so they don't watch them in advance?
+
+### Topical communities
+- Brandon: emailed Ben B and Ted and Will, heard back from Ted, tweeted something, added a Facebook post
+- Shelley: might need to take on an additional community
+- Ben: found out that this West Coast group is committed to plain language while the Indiana group uses some mystical language (they refer to Andor Projex, Jade Dragon)
+
+### Services
+Next step is to have a dinner or snack meeting with the Hartleys and Vliets
+- Also invite Jerry
+- Ben could Skype in
+
+### Evaluation
+- Shelley: unusually productive, going from topic to topic
+- Brandon: feeling really good about what we've been up to the last couple of months
+- Ben: I'm feeling like it is good that I have this routine, it let's me have something to do with other people every week that is not just frustrating computer stuff

@@ -1,0 +1,43 @@
+{
+  "canonical_path": "/File:LifeSlowsEntropy.jpg",
+  "current_revision_id": 42830,
+  "database_title": "LifeSlowsEntropy.jpg",
+  "display_title": "File:LifeSlowsEntropy.jpg",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 6,
+  "original_revision_count": 1,
+  "page_id": 27229,
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "EricSaumur",
+      "comment": "An artists conception of an exoplanet with its red sun in the distance and the following quote on a background of stars, \"The More Life Thrives In the Universe The More it Will Thrive.\"",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 42830,
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": 39709,
+      "same_as_previous_public": false,
+      "timestamp": "2014-05-16T23:18:20Z",
+      "wikitext_bytes": 185,
+      "wikitext_sha256": "4baf8e2b2e9ff7e3fbd9db8966d1684750dad14de7526add998c2a16eb778c07"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 39709,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 186,
+      "markdown_sha256": "d9e0e9a41a932a4cdde9f6b9753e2747e6233405d359c062410d7d8b9c7a9d91",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": 39709,
+      "previous_public_revision_id": 39709,
+      "revision_id": 42830,
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z"
+    }
+  ],
+  "site_revision_count": 1
+}

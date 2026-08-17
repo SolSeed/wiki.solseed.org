@@ -1,0 +1,48 @@
+{
+  "canonical_path": "/Questioning_Core_Assumptions",
+  "current_revision_id": "42039",
+  "database_title": "Questioning_Core_Assumptions",
+  "display_title": "Questioning Core Assumptions",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 1,
+  "page_id": "477",
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "BenSibelman",
+      "comment": "Created page",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": "42039",
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": "1294",
+      "same_as_previous_public": false,
+      "timestamp": "2009-12-21T19:53:24Z",
+      "wikitext_bytes": 975,
+      "wikitext_sha256": "1fd939b0cf7403d5cde642fd333fc17e302155100e1190872e1b662d1787c2b8",
+      "source_format": "wikitext",
+      "source_extension": "wiki"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 1294,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 1027,
+      "markdown_sha256": "1ea4339555eeb648c4e869b21c48272806bab1ba908c2fe90898f15067c44c48",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": "1294",
+      "previous_public_revision_id": "1294",
+      "revision_id": "42039",
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z",
+      "wikitext_bytes": 1027,
+      "wikitext_sha256": "1ea4339555eeb648c4e869b21c48272806bab1ba908c2fe90898f15067c44c48",
+      "source_extension": "md"
+    }
+  ],
+  "site_revision_count": 1
+}

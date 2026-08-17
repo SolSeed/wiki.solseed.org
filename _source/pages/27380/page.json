@@ -1,0 +1,56 @@
+{
+  "canonical_path": "/Flower",
+  "current_revision_id": 42979,
+  "database_title": "Flower",
+  "display_title": "Flower",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 2,
+  "page_id": 27380,
+  "published_revision_count": 2,
+  "revisions": [
+    {
+      "author": "Brandon CS Sanders",
+      "comment": "Created page with \"[http://www.signingsavvy.com/sign/BLOSSOM/5395/1 ASL Sing for blossom] (the one we use for flower in the [[SolSeedCreed]])  [http://www.signingsavvy.com/sign/FLOWER/5399/1 ASL Si...\"",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 40275,
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": 40274,
+      "same_as_previous_public": false,
+      "timestamp": "2015-01-09T02:53:09Z",
+      "wikitext_bytes": 276,
+      "wikitext_sha256": "81bf3f78a8db536d8fd008b7f8970da6b1066893dd97ecf46211a2c890e14340"
+    },
+    {
+      "author": "Brandon CS Sanders",
+      "comment": "speling",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 42979,
+      "original_parent_revision_id": 40274,
+      "previous_public_revision_id": 40274,
+      "revision_id": 40275,
+      "same_as_previous_public": false,
+      "timestamp": "2015-01-09T02:53:25Z",
+      "wikitext_bytes": 276,
+      "wikitext_sha256": "2db5455d265e979598b3c5528e006474364677111455968db34f158e247ae3b5"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 40275,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 293,
+      "markdown_sha256": "35d9f26b0112afb32a77035ed4e2b44c69ab93f786cc9951975d43743ac7f385",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": 40275,
+      "previous_public_revision_id": 40275,
+      "revision_id": 42979,
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z"
+    }
+  ],
+  "site_revision_count": 1
+}

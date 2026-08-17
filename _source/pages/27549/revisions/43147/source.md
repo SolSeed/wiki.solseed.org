@@ -1,0 +1,26 @@
+### Thursday Agenda
+- Check in
+- Opening Blessing
+- Project Work
+  - Brandon: Work on getting spacewiki.com back up
+  - Brandon: Earthseed panel
+  - Brandon: Beginner’s study guide draft
+  - Ben: Learn more about the OEB event and register for it
+- Evaluation
+- Closing Blessing
+
+### Check In
+- Brandon … it's amazing that a person can be stressed and having a hard time in life even though they're one of the luckiest people in the world … I guess I need to practice some gratitude.
+
+- Ben … it’s a beautiful and unseasonably hot day and I’m hoping that when I get home I can sit outside working on a graphic design project for some people who want to help solve the climate crisis.
+
+### Opening Blessing
+As we sit here basking in the Goldilocks zone of a very hospitable solar system, on a very hospitable planet, at the end of an unbroken thread of ancestors billions of links long, may we at least glimpse occasionally the bounty and find within our hearts gratitude for the exceptionally favorable circumstances that we find ourselves in. --Blessed Be
+
+### Evaluation
+- Brandon … I enjoyed the time I spent … not sure I'm any closer on getting Spacewiki back up because I got distracted by infrastructure stuff
+
+- Ben … I was disappointed that the conference has so little info … and I tried to find something else to work on but I ended up just reading my email … now that we are past the deadline for proposals for the conference, maybe we’ll get more info soon.
+
+### Closing Blessing
+In being grateful for all that we have including the opportunity to pursue our highest aspirations we see that part of gratitude is willingness to use what we have been given in the best way that we can.  Although we cannot always find clear ways to make progress, we must keep trying.  May our efforts bear fruit.  --Blessed Be

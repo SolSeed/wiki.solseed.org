@@ -1,0 +1,82 @@
+{
+  "canonical_path": "/Rise_Anew",
+  "current_revision_id": 42630,
+  "database_title": "Rise_Anew",
+  "display_title": "Rise Anew",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 4,
+  "page_id": 24626,
+  "published_revision_count": 4,
+  "revisions": [
+    {
+      "author": "BenSibelman",
+      "comment": "Created page",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 34324,
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": 34313,
+      "same_as_previous_public": false,
+      "timestamp": "2012-09-01T20:24:21Z",
+      "wikitext_bytes": 3941,
+      "wikitext_sha256": "8ffa9ab443f38cb021e1a2e6f48f924ec76439d4c8644d7b73d8f5b4db1a1cbe"
+    },
+    {
+      "author": "BenSibelman",
+      "comment": "Added details to the description",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 39646,
+      "original_parent_revision_id": 34313,
+      "previous_public_revision_id": 34313,
+      "revision_id": 34324,
+      "same_as_previous_public": false,
+      "timestamp": "2012-09-01T20:51:12Z",
+      "wikitext_bytes": 4310,
+      "wikitext_sha256": "4cd985da5608aed92464c9c7d9a5307895e02b07e5ffc9dd8b98bd7399c30077"
+    },
+    {
+      "author": "BenSibelman",
+      "comment": "Corrected a lyric",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 40337,
+      "original_parent_revision_id": 34324,
+      "previous_public_revision_id": 34324,
+      "revision_id": 39646,
+      "same_as_previous_public": false,
+      "timestamp": "2014-03-30T22:29:05Z",
+      "wikitext_bytes": 4313,
+      "wikitext_sha256": "28ad9634d81b3b11419d455d01a1a9951ce9706a30d204b43342bc91fda4695b"
+    },
+    {
+      "author": "BenSibelman",
+      "comment": "New ideas for the ending",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 42630,
+      "original_parent_revision_id": 39646,
+      "previous_public_revision_id": 39646,
+      "revision_id": 40337,
+      "same_as_previous_public": false,
+      "timestamp": "2015-01-30T03:24:01Z",
+      "wikitext_bytes": 4562,
+      "wikitext_sha256": "5265750006fa3ba288f5853cfcf824de317bbe7f1bcfed71648f79524c8b5cf3"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 40337,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 4425,
+      "markdown_sha256": "37ecfa678443a40fa4d47d6edd2fae10c0df862f401973010bb1cee9a1bfae6c",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": 40337,
+      "previous_public_revision_id": 40337,
+      "revision_id": 42630,
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z"
+    }
+  ],
+  "site_revision_count": 1
+}

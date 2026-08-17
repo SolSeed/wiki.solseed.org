@@ -1,0 +1,43 @@
+{
+  "canonical_path": "/Joy",
+  "current_revision_id": 41739,
+  "database_title": "Joy",
+  "display_title": "Joy",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 1,
+  "page_id": 173,
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "Brandon CS Sanders",
+      "comment": "Redirecting to [[User:Joy Marie]]",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 41739,
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": 418,
+      "same_as_previous_public": false,
+      "timestamp": "2009-01-17T05:14:09Z",
+      "wikitext_bytes": 28,
+      "wikitext_sha256": "f855ba1316b3a7053b4547a0c97efc756840e31fd22ec0140f5b3ddee7a6c558"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 418,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 67,
+      "markdown_sha256": "6c92776b777195cb7f2a4970edc0390ed3ee1ddd04c541c41112f3bf6c9d4f64",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": 418,
+      "previous_public_revision_id": 418,
+      "revision_id": 41739,
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z"
+    }
+  ],
+  "site_revision_count": 1
+}

@@ -1,0 +1,43 @@
+{
+  "canonical_path": "/File:Gaia_statue_with_tattoos.jpg",
+  "current_revision_id": 43273,
+  "database_title": "Gaia_statue_with_tattoos.jpg",
+  "display_title": "File:Gaia statue with tattoos.jpg",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 6,
+  "original_revision_count": 1,
+  "page_id": 27675,
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "BenSibelman",
+      "comment": "The Gaia statue after we painted her with life-form stencils at the [[Buckleberry Dedication]] in September 2017.",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 43273,
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": 41148,
+      "same_as_previous_public": false,
+      "timestamp": "2017-12-08T05:17:21Z",
+      "wikitext_bytes": 113,
+      "wikitext_sha256": "8dd8004a035d920c271078ef67c22addacfb394759261755e8be54f339d28510"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 41148,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 137,
+      "markdown_sha256": "66e4839bc3fd61af504f9015638f94696748bc7350e9b77673fb6f1bb260a8d8",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": 41148,
+      "previous_public_revision_id": 41148,
+      "revision_id": 43273,
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z"
+    }
+  ],
+  "site_revision_count": 1
+}

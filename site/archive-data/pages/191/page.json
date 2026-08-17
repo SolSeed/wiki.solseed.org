@@ -1,0 +1,63 @@
+{
+  "canonical_path": "/January_29,_2009",
+  "current_revision_id": "41757",
+  "database_title": "January_29,_2009",
+  "display_title": "January 29, 2009",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 2,
+  "page_id": "191",
+  "published_revision_count": 2,
+  "revisions": [
+    {
+      "author": "Brandon CS Sanders",
+      "comment": "[[January 29, 2009]] moved to [[Group Experiences/January 29, 2009]]",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": "522",
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": "493",
+      "same_as_previous_public": false,
+      "timestamp": "2009-01-29T16:36:38Z",
+      "wikitext_bytes": 48,
+      "wikitext_sha256": "19e86812a6737dc411a8c4439806499760dbab79e75485de0091ca38f1543495",
+      "source_format": "wikitext",
+      "source_extension": "wiki"
+    },
+    {
+      "author": "Redirect fixer",
+      "comment": "[[Group Experiences/January 29, 2009]] has been moved, it is now a redirect to [[2009.01.29]]",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": "41757",
+      "original_parent_revision_id": "493",
+      "previous_public_revision_id": "493",
+      "revision_id": "522",
+      "same_as_previous_public": false,
+      "timestamp": "2009-02-07T03:08:14Z",
+      "wikitext_bytes": 24,
+      "wikitext_sha256": "e588a5fb1c80cac8cb9866bccedebe17ff930b3037081979dd4fc00abbb8cb40",
+      "source_format": "wikitext",
+      "source_extension": "wiki"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 522,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 59,
+      "markdown_sha256": "56830814ec1dd25cc6ac222e08bc75569d4da9ca0df3be206619ad9607edc96f",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": "522",
+      "previous_public_revision_id": "522",
+      "revision_id": "41757",
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z",
+      "wikitext_bytes": 59,
+      "wikitext_sha256": "56830814ec1dd25cc6ac222e08bc75569d4da9ca0df3be206619ad9607edc96f",
+      "source_extension": "md"
+    }
+  ],
+  "site_revision_count": 1
+}

@@ -1,0 +1,48 @@
+{
+  "canonical_path": "/File:BookInHand-Open.jpg",
+  "current_revision_id": "42702",
+  "database_title": "BookInHand-Open.jpg",
+  "display_title": "File:BookInHand-Open.jpg",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 6,
+  "original_revision_count": 1,
+  "page_id": "27097",
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "BenSibelman",
+      "comment": "Photo of an early test copy of the [[SolSeed book]].",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": "42702",
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": "39243",
+      "same_as_previous_public": false,
+      "timestamp": "2013-03-31T02:28:10Z",
+      "wikitext_bytes": 52,
+      "wikitext_sha256": "2121f7d86dc1a3f177ce56b87c7ee2f325d4d79b8e9c7b86cb8919dc50df66d5",
+      "source_format": "wikitext",
+      "source_extension": "wiki"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 39243,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 66,
+      "markdown_sha256": "cf1e7d2b17265c293a9f494544d69841f44fd0348074df1b9780b9312ea1add7",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": "39243",
+      "previous_public_revision_id": "39243",
+      "revision_id": "42702",
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z",
+      "wikitext_bytes": 66,
+      "wikitext_sha256": "cf1e7d2b17265c293a9f494544d69841f44fd0348074df1b9780b9312ea1add7",
+      "source_extension": "md"
+    }
+  ],
+  "site_revision_count": 1
+}

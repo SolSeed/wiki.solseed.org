@@ -1,0 +1,48 @@
+### Agenda
+- Copy notes from last time into the appropriate page on the wiki
+- Review WWWs
+- Sending newsletters to [Facebook group](http://www.facebook.com/group.php?gid=232314258760)
+- Norwescon
+- Work on Book chapter
+- Work on March Newsletter
+
+### WWWs from last time
+- Shelley:
+  - Work on guitar
+    - Not done yet
+  - Contact the Sibleman's about music
+    - Sibelmans have a possible conflict
+- Ben
+  - Send newsletter ... by Tuesday
+    - Done late, but done
+  - Contact one person in a quest to get permission to use "Down To Earth" song ... by Sunday
+    - Used web form on Disney.com and got a phone number to call
+
+### NorWesCon
+#### Draft of trifold language
+The word SolSeed means "the body of all life on Earth."
+
+We believe that:
+- All life is precious.
+- The Destiny of SolSeed is to take root amongst the stars.
+
+What we're about:
+- Healing, sustaining, and nurturing life on Earth.
+- Becoming a society of "starfarers," people with the values and consciousness needed to fulfill the Destiny.
+- Fulfilling the Destiny: Helping life spread out from Earth to plant the seeds of new living worlds throughout the Galaxy.
+
+Where we come from:
+- Partly inspired by the fictional Earthseed religion in Octavia Butler's two Parable novels.
+- Established five years ago as a wiki site, now hosted at solseed.org.
+- Attracted members and friends in Oregon, Washington, Colorado, Illinois, Virginia, and New York.
+- Held three major in-person gatherings in Oregon in 2009.
+
+### WWWs
+- Shelley
+  - This Monday will practice guitar ... tomorrow 
+  - Call Judy tomorrow after triad at 503.297.6955 ... tomorrow
+  - Call Meg and invite to lead meditation piece and balance for children ... tomorrow
+- Ben
+  - Call Walt Disney copyrighted music usage hotline in a quest to get permission to use "Down To Earth" song ... by Wednesday
+  - Create a copy of the video with disclaimer in place of credits ... by March 13
+  - Later, look into stock photo companies who might have images to replace the Creative Commons ShareAlike-licensed photos in [Pick a Future](/Pick_a_Future)

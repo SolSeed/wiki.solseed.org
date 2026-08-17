@@ -1,0 +1,43 @@
+{
+  "canonical_path": "/Kindred2010",
+  "current_revision_id": 42370,
+  "database_title": "Kindred2010",
+  "display_title": "Kindred2010",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 1,
+  "page_id": 815,
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "BenSibelman",
+      "comment": "moved [[Kindred2010]] to [[Kindred2011]]: We didn't have the event in 2010!",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 42370,
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": 2143,
+      "same_as_previous_public": false,
+      "timestamp": "2011-01-10T06:15:03Z",
+      "wikitext_bytes": 25,
+      "wikitext_sha256": "49b8851f2770575c18a411ef167bf0e1907cd735912e274f19b195c79ae73f6c"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 2143,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 61,
+      "markdown_sha256": "b0a2eb753f37b9c13638274e3f21a7238726dd51db3559931284c6f6276cad84",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": 2143,
+      "previous_public_revision_id": 2143,
+      "revision_id": 42370,
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z"
+    }
+  ],
+  "site_revision_count": 1
+}

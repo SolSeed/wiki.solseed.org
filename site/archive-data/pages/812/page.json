@@ -1,0 +1,48 @@
+{
+  "canonical_path": "/SolSeed_Businesses",
+  "current_revision_id": "42367",
+  "database_title": "SolSeed_Businesses",
+  "display_title": "SolSeed Businesses",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 1,
+  "page_id": "812",
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "BenSibelman",
+      "comment": "redirect",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": "42367",
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": "2133",
+      "same_as_previous_public": false,
+      "timestamp": "2011-01-02T21:43:10Z",
+      "wikitext_bytes": 29,
+      "wikitext_sha256": "a79cddd119c14f16f7120ec137614d1e686d00228f4146586a37ca051e4093ed",
+      "source_format": "wikitext",
+      "source_extension": "wiki"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 2133,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 69,
+      "markdown_sha256": "e99a83bf1c75e05067dd835283ab921c4936da154259b42c12bfe9dc468ab38a",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": "2133",
+      "previous_public_revision_id": "2133",
+      "revision_id": "42367",
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z",
+      "wikitext_bytes": 69,
+      "wikitext_sha256": "e99a83bf1c75e05067dd835283ab921c4936da154259b42c12bfe9dc468ab38a",
+      "source_extension": "md"
+    }
+  ],
+  "site_revision_count": 1
+}

@@ -1,0 +1,48 @@
+{
+  "canonical_path": "/Book_5",
+  "current_revision_id": "41966",
+  "database_title": "Book_5",
+  "display_title": "Book 5",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 1,
+  "page_id": "402",
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "Brandon CS Sanders",
+      "comment": "Starting the [[Book 5]] page.",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": "41966",
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": "1163",
+      "same_as_previous_public": false,
+      "timestamp": "2009-11-28T23:32:02Z",
+      "wikitext_bytes": 431,
+      "wikitext_sha256": "8fc48a46d027bd8adb1f2042f753612b119cea7849bbd9c6407ad6deeea10913",
+      "source_format": "wikitext",
+      "source_extension": "wiki"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 1163,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 491,
+      "markdown_sha256": "7eda47a4560ca0ee53331fda66e97ae545d9d6b1f63c90b349dbfcf974625d7c",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": "1163",
+      "previous_public_revision_id": "1163",
+      "revision_id": "41966",
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z",
+      "wikitext_bytes": 491,
+      "wikitext_sha256": "7eda47a4560ca0ee53331fda66e97ae545d9d6b1f63c90b349dbfcf974625d7c",
+      "source_extension": "md"
+    }
+  ],
+  "site_revision_count": 1
+}

@@ -1,0 +1,48 @@
+{
+  "canonical_path": "/Seed_2009/Food",
+  "current_revision_id": "41694",
+  "database_title": "Seed_2009/Food",
+  "display_title": "Seed 2009/Food",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 1,
+  "page_id": "124",
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "Brandon CS Sanders",
+      "comment": "The menu",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": "41694",
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": "288",
+      "same_as_previous_public": false,
+      "timestamp": "2009-01-06T16:07:18Z",
+      "wikitext_bytes": 937,
+      "wikitext_sha256": "4d9039229ad89205cd6132a52a15add52e7d33cd5ca4182a66836d14abc6cb1e",
+      "source_format": "wikitext",
+      "source_extension": "wiki"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 288,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 902,
+      "markdown_sha256": "1c4740953bbb5602f40099d46cb0a819cf3b010bc9aeae41ef36c9243be83d83",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": "288",
+      "previous_public_revision_id": "288",
+      "revision_id": "41694",
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z",
+      "wikitext_bytes": 902,
+      "wikitext_sha256": "1c4740953bbb5602f40099d46cb0a819cf3b010bc9aeae41ef36c9243be83d83",
+      "source_extension": "md"
+    }
+  ],
+  "site_revision_count": 1
+}

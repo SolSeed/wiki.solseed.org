@@ -1,0 +1,43 @@
+{
+  "canonical_path": "/June_12,_2014:_Online_Work_Bee",
+  "current_revision_id": 42851,
+  "database_title": "June_12,_2014:_Online_Work_Bee",
+  "display_title": "June 12, 2014: Online Work Bee",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 1,
+  "page_id": 27250,
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "Brandon CS Sanders",
+      "comment": "Created page with \"== Agenda == * Good News/Check In * Review WWWs * Weekly Events Logistics * Review Agenda * TekSavvy Report * Kindred 2015 venues * Work items for [[Sol 2014]] * Evaluation  == G...\"",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 42851,
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": 39774,
+      "same_as_previous_public": false,
+      "timestamp": "2014-06-15T20:18:31Z",
+      "wikitext_bytes": 2798,
+      "wikitext_sha256": "1d3799b59e3f89f6ecca9eedf5120b6030453dbffef19404af9f172fe8b4654b"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 39774,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 2801,
+      "markdown_sha256": "ee0987916c211385e8b9068cafacbf2941681c041dc6fa95693bf373720dc3b5",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": 39774,
+      "previous_public_revision_id": 39774,
+      "revision_id": 42851,
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z"
+    }
+  ],
+  "site_revision_count": 1
+}

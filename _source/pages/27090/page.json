@@ -1,0 +1,56 @@
+{
+  "canonical_path": "/Talk:Metaphoriuminomicon",
+  "current_revision_id": 42695,
+  "database_title": "Metaphoriuminomicon",
+  "display_title": "Talk:Metaphoriuminomicon",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 1,
+  "original_revision_count": 2,
+  "page_id": 27090,
+  "published_revision_count": 2,
+  "revisions": [
+    {
+      "author": "EricSaumur",
+      "comment": "Idea for a second day",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 41552,
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": 39221,
+      "same_as_previous_public": false,
+      "timestamp": "2013-03-12T02:57:15Z",
+      "wikitext_bytes": 451,
+      "wikitext_sha256": "48d2dbb74f7ba4519e732508de2508ae763c3bd6b2079c51bef06c3bc969918e"
+    },
+    {
+      "author": "EricSaumur",
+      "comment": "moved [[Talk:SolSeed Book of Days]] to [[Talk:Metaphoriuminomicon]]: Better name!",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 42695,
+      "original_parent_revision_id": 39221,
+      "previous_public_revision_id": 39221,
+      "revision_id": 41552,
+      "same_as_previous_public": true,
+      "timestamp": "2018-09-21T22:20:15Z",
+      "wikitext_bytes": 451,
+      "wikitext_sha256": "48d2dbb74f7ba4519e732508de2508ae763c3bd6b2079c51bef06c3bc969918e"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 41552,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 452,
+      "markdown_sha256": "dc6586d4ddcb3016d3a64d801d459651c4dbb75ee663b57a0e66e025c9c56b28",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": 41552,
+      "previous_public_revision_id": 41552,
+      "revision_id": 42695,
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z"
+    }
+  ],
+  "site_revision_count": 1
+}

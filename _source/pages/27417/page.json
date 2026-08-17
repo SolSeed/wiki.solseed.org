@@ -1,0 +1,43 @@
+{
+  "canonical_path": "/File:Biosphere_2_Landscape_Evolution_Observatory.JPG",
+  "current_revision_id": 43016,
+  "database_title": "Biosphere_2_Landscape_Evolution_Observatory.JPG",
+  "display_title": "File:Biosphere 2 Landscape Evolution Observatory.JPG",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 6,
+  "original_revision_count": 1,
+  "page_id": 27417,
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "BenSibelman",
+      "comment": "An exterior view of the [[Biosphere 2]] module containing the Landscape Evolution Observatory experiment (it used to house the agricultural biome for the human occupants).",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 43016,
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": 40368,
+      "same_as_previous_public": false,
+      "timestamp": "2015-03-09T04:10:21Z",
+      "wikitext_bytes": 171,
+      "wikitext_sha256": "481862f275fe558e8721310dd0bab49615a8419b5cc5ee1fd0ff53328e45a08f"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 40368,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 184,
+      "markdown_sha256": "8e72a1241f921eee5f1b59656cfd8d4ba452018fb3fa1cf526569e7cfee8763f",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": 40368,
+      "previous_public_revision_id": 40368,
+      "revision_id": 43016,
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z"
+    }
+  ],
+  "site_revision_count": 1
+}

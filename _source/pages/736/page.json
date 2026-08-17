@@ -1,0 +1,56 @@
+{
+  "canonical_path": "/September_27,_2010:_Online_Work_Bee",
+  "current_revision_id": 42292,
+  "database_title": "September_27,_2010:_Online_Work_Bee",
+  "display_title": "September 27, 2010: Online Work Bee",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 2,
+  "page_id": 736,
+  "published_revision_count": 2,
+  "revisions": [
+    {
+      "author": "BenSibelman",
+      "comment": "Created page from the EtherPad clone",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 1890,
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": 1889,
+      "same_as_previous_public": false,
+      "timestamp": "2010-09-28T04:48:09Z",
+      "wikitext_bytes": 8406,
+      "wikitext_sha256": "f46e8fe88e3d67ae807d0db3d10969a414da81721f83458f34505ef36b3d46ae"
+    },
+    {
+      "author": "BenSibelman",
+      "comment": "/* Book */",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 42292,
+      "original_parent_revision_id": 1889,
+      "previous_public_revision_id": 1889,
+      "revision_id": 1890,
+      "same_as_previous_public": false,
+      "timestamp": "2010-09-28T05:07:17Z",
+      "wikitext_bytes": 8405,
+      "wikitext_sha256": "2fe876485eb33c48b5bd7c736321d8ea25ad74c6d3cf4133d33bd4cbcb66854d"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 1890,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 8480,
+      "markdown_sha256": "7d32ec74dfb784bbe84e104d0dd07524c057a8817eb58f263753b2a505b8123d",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": 1890,
+      "previous_public_revision_id": 1890,
+      "revision_id": 42292,
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z"
+    }
+  ],
+  "site_revision_count": 1
+}

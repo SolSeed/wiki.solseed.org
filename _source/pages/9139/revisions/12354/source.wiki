@@ -1,0 +1,1 @@
+From: http://commons.wikimedia.org/wiki/File:Leafcutter_ant_carrying_leaf.jpg

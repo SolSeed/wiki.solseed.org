@@ -1,0 +1,43 @@
+{
+  "canonical_path": "/Check-out",
+  "current_revision_id": 42349,
+  "database_title": "Check-out",
+  "display_title": "Check-out",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 1,
+  "page_id": 794,
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "Shelley Schoepflin Sanders",
+      "comment": "Created page with \"Serenity Checkout Instructions   Guest must adhere to the following checkout procedures, and should Guest  elect not to perform the following checklist items, Guest hereby agrees...\"",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 42349,
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": 2062,
+      "same_as_previous_public": false,
+      "timestamp": "2010-12-08T06:53:04Z",
+      "wikitext_bytes": 1637,
+      "wikitext_sha256": "3c7f89467f313e19e283a5a64385e4b1bca8da7b537dfe6ad3730f8b9a98bbcc"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 2062,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 1646,
+      "markdown_sha256": "07fda9f7f0c2556a9bb9f4cfcec1172320ec58662b6c829bf0e2d4fb40205c58",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": 2062,
+      "previous_public_revision_id": 2062,
+      "revision_id": 42349,
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z"
+    }
+  ],
+  "site_revision_count": 1
+}

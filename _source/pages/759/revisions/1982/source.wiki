@@ -1,0 +1,1 @@
+Free stock image of abstract swirls of light, from http://www.sxc.hu/photo/1284217 (scaled down for upload from 2048x2074 pixels)

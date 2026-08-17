@@ -1,0 +1,43 @@
+{
+  "canonical_path": "/Book_34",
+  "current_revision_id": 42100,
+  "database_title": "Book_34",
+  "display_title": "Book 34",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 1,
+  "page_id": 541,
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "Brandon CS Sanders",
+      "comment": "New page: Book 34 is part of the [[SolSeed Book Program]].  Did you get Book 34?  We'd love to see all of the places Book 34 has been and meet all the people who have read it.  If you've encountered...",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 42100,
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": 1437,
+      "same_as_previous_public": false,
+      "timestamp": "2010-04-05T01:57:15Z",
+      "wikitext_bytes": 440,
+      "wikitext_sha256": "134767231a0775153a5eeb72831b4ef88a91f1f36c9f30452c5f72ad4796ff97"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 1437,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 511,
+      "markdown_sha256": "f2a483ab97f0e61c1aeb619d36c8698b3b8ca6b5421a553d4cb046f113d1bf35",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": 1437,
+      "previous_public_revision_id": 1437,
+      "revision_id": 42100,
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z"
+    }
+  ],
+  "site_revision_count": 1
+}

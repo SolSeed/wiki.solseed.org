@@ -1,0 +1,48 @@
+{
+  "canonical_path": "/Template:AddNewsSmall",
+  "current_revision_id": "41585",
+  "database_title": "AddNewsSmall",
+  "display_title": "Template:AddNewsSmall",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 10,
+  "original_revision_count": 1,
+  "page_id": "14",
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "Brandon CS Sanders",
+      "comment": "New page: <small>'''<span class=\"plainlinks\">[http://solseed.org/index.php?title=SolSeedMovementNews&action=edit Add your news!]</span>'''</small>",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": "41585",
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": "15",
+      "same_as_previous_public": false,
+      "timestamp": "2008-09-13T05:31:22Z",
+      "wikitext_bytes": 136,
+      "wikitext_sha256": "1273ae7fa614759d19e4e872b141cddcf0f1131020cd4a525bfbf45e305b781b",
+      "source_format": "wikitext",
+      "source_extension": "wiki"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 15,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 3,
+      "markdown_sha256": "27f8eb8e845cec69706c9322b65654b2b1d0c8a226bfa711f99b8b7df24c217d",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": "15",
+      "previous_public_revision_id": "15",
+      "revision_id": "41585",
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z",
+      "wikitext_bytes": 3,
+      "wikitext_sha256": "27f8eb8e845cec69706c9322b65654b2b1d0c8a226bfa711f99b8b7df24c217d",
+      "source_extension": "md"
+    }
+  ],
+  "site_revision_count": 1
+}

@@ -1,0 +1,48 @@
+{
+  "canonical_path": "/Observership",
+  "current_revision_id": "43243",
+  "database_title": "Observership",
+  "display_title": "Observership",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 1,
+  "page_id": "27645",
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "EricSaumur",
+      "comment": "Created page with \"Observership is the concept that Life is capable of detecting, understanding and modeling itself.  This is most developed in conscious beings but even plants are capable of detec...\"",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": "43243",
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": "41045",
+      "same_as_previous_public": false,
+      "timestamp": "2017-05-06T13:43:31Z",
+      "wikitext_bytes": 470,
+      "wikitext_sha256": "600c196fd686873649c7d8d70528073d88fdc91a819d837a6fccb5f93f5a4647",
+      "source_format": "wikitext",
+      "source_extension": "wiki"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 41045,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 481,
+      "markdown_sha256": "6a15dc792d7778039df7eb4dbd7c9d6e38726a2deb12320904207475c068dd0e",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": "41045",
+      "previous_public_revision_id": "41045",
+      "revision_id": "43243",
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z",
+      "wikitext_bytes": 481,
+      "wikitext_sha256": "6a15dc792d7778039df7eb4dbd7c9d6e38726a2deb12320904207475c068dd0e",
+      "source_extension": "md"
+    }
+  ],
+  "site_revision_count": 1
+}

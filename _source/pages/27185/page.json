@@ -1,0 +1,43 @@
+{
+  "canonical_path": "/File:GenesisService.JPG",
+  "current_revision_id": 42787,
+  "database_title": "GenesisService.JPG",
+  "display_title": "File:GenesisService.JPG",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 6,
+  "original_revision_count": 1,
+  "page_id": 27185,
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "EricSaumur",
+      "comment": "Genesis Service",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 42787,
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": 39557,
+      "same_as_previous_public": false,
+      "timestamp": "2014-01-04T21:46:40Z",
+      "wikitext_bytes": 15,
+      "wikitext_sha256": "7da435e7d743db32af1a8b3c11d55de52cf11544a92af401d746cf1e36d4e4b9"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 39557,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 16,
+      "markdown_sha256": "62ab4bb3fa5b141b367969e54d9a49499f1398b4e3236eae46365144e05e2f7a",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": 39557,
+      "previous_public_revision_id": 39557,
+      "revision_id": 42787,
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z"
+    }
+  ],
+  "site_revision_count": 1
+}

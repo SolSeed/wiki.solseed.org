@@ -1,0 +1,63 @@
+{
+  "canonical_path": "/File:BuildingTheClimber.jpg",
+  "current_revision_id": "43122",
+  "database_title": "BuildingTheClimber.jpg",
+  "display_title": "File:BuildingTheClimber.jpg",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 6,
+  "original_revision_count": 2,
+  "page_id": "27524",
+  "published_revision_count": 2,
+  "revisions": [
+    {
+      "author": "BenSibelman",
+      "comment": "Rodrigo, Augusto, and Dozie from the [http://www.meetup.com/Redmond-Sci-Fi-Fantasy-Book-Club/ Redmond Science Fiction/Fantasy Book Club] working on the LEGO space elevator climber at [[A Space Elevator Solstice]].",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": "40708",
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": "40706",
+      "same_as_previous_public": false,
+      "timestamp": "2016-01-22T05:46:16Z",
+      "wikitext_bytes": 213,
+      "wikitext_sha256": "52077e2909699ab78ac5e90b9bf0a45745ce043d191f31b5abf44ec0f2d51a51",
+      "source_format": "wikitext",
+      "source_extension": "wiki"
+    },
+    {
+      "author": "BenSibelman",
+      "comment": "uploaded a new version of &quot;[[File:BuildingTheClimber.jpg]]&quot;: smaller size",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": "43122",
+      "original_parent_revision_id": "40706",
+      "previous_public_revision_id": "40706",
+      "revision_id": "40708",
+      "same_as_previous_public": true,
+      "timestamp": "2016-01-22T05:50:01Z",
+      "wikitext_bytes": 213,
+      "wikitext_sha256": "52077e2909699ab78ac5e90b9bf0a45745ce043d191f31b5abf44ec0f2d51a51",
+      "source_format": "wikitext",
+      "source_extension": "wiki"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 40708,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 241,
+      "markdown_sha256": "f294b89adfde18ae2fd21a3e01ea473a4610b5d4dfe3406d2ab36c1cc1252ca5",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": "40708",
+      "previous_public_revision_id": "40708",
+      "revision_id": "43122",
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z",
+      "wikitext_bytes": 241,
+      "wikitext_sha256": "f294b89adfde18ae2fd21a3e01ea473a4610b5d4dfe3406d2ab36c1cc1252ca5",
+      "source_extension": "md"
+    }
+  ],
+  "site_revision_count": 1
+}

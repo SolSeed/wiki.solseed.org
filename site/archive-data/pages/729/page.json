@@ -1,0 +1,48 @@
+{
+  "canonical_path": "/File:SpaceWikiLogo.png",
+  "current_revision_id": "42285",
+  "database_title": "SpaceWikiLogo.png",
+  "display_title": "File:SpaceWikiLogo.png",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 6,
+  "original_revision_count": 1,
+  "page_id": "729",
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "BenSibelman",
+      "comment": "Official logo of [[SpaceWiki]].",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": "42285",
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": "1859",
+      "same_as_previous_public": false,
+      "timestamp": "2010-09-06T22:48:42Z",
+      "wikitext_bytes": 31,
+      "wikitext_sha256": "86c3435563953b35de4395f6c96b990fb580551ccf260361c007c067af5bb8ae",
+      "source_format": "wikitext",
+      "source_extension": "wiki"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 1859,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 42,
+      "markdown_sha256": "5c9057679e8eb6cab441310b88a03faddac6669457b5588cf35338dc093fea7d",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": "1859",
+      "previous_public_revision_id": "1859",
+      "revision_id": "42285",
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z",
+      "wikitext_bytes": 42,
+      "wikitext_sha256": "5c9057679e8eb6cab441310b88a03faddac6669457b5588cf35338dc093fea7d",
+      "source_extension": "md"
+    }
+  ],
+  "site_revision_count": 1
+}

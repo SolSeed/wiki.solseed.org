@@ -1,0 +1,63 @@
+{
+  "canonical_path": "/OpenSpace",
+  "current_revision_id": "41648",
+  "database_title": "OpenSpace",
+  "display_title": "OpenSpace",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 2,
+  "page_id": "78",
+  "published_revision_count": 2,
+  "revisions": [
+    {
+      "author": "TedErnst",
+      "comment": "New page: OpenSpace has all the energy of a good coffee break, and guarantees that whatever is most important to the participants will be addressed during the event.  Bring your passion, and create ...",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": "2246",
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": "145",
+      "same_as_previous_public": false,
+      "timestamp": "2008-10-22T00:58:15Z",
+      "wikitext_bytes": 199,
+      "wikitext_sha256": "d1b8febe1ab15713368ae02fccc029c49dfabe7f824ed1fcb964e791d8f187f7",
+      "source_format": "wikitext",
+      "source_extension": "wiki"
+    },
+    {
+      "author": "BenSibelman",
+      "comment": "Added details and links",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": "41648",
+      "original_parent_revision_id": "145",
+      "previous_public_revision_id": "145",
+      "revision_id": "2246",
+      "same_as_previous_public": false,
+      "timestamp": "2011-02-12T20:46:01Z",
+      "wikitext_bytes": 1978,
+      "wikitext_sha256": "c12378b243148893ab806316eec62d82ea06f77f6dafb2e34e5b8b27918a3520",
+      "source_format": "wikitext",
+      "source_extension": "wiki"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 2246,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 2027,
+      "markdown_sha256": "67ec77221c9a812ca4dcf0c15c9db93afa0e9667618c9dbb5e12e57fed3f43ad",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": "2246",
+      "previous_public_revision_id": "2246",
+      "revision_id": "41648",
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z",
+      "wikitext_bytes": 2027,
+      "wikitext_sha256": "67ec77221c9a812ca4dcf0c15c9db93afa0e9667618c9dbb5e12e57fed3f43ad",
+      "source_extension": "md"
+    }
+  ],
+  "site_revision_count": 1
+}

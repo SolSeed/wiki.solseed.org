@@ -1,0 +1,1 @@
+Photo of the seven participants in the SolSeed [350 by Bike](http://www.moving-planet.org/events/us/portland/1142) event, just before departing the [big Portland Moving Planet event](http://www.moving-planet.org/events/us/portland/527) on our way back to the [Seed Village](/Seed_Village).

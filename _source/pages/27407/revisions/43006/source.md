@@ -1,0 +1,19 @@
+### Check-in (gratinews)
+- Brandon … I am going through a kind of introspection and reflection and some ways renewal with respect to SolSeed.
+- Eric … I am excited about Jambala in August.
+
+### Summer Solstice
+- Yuri's Night celebration at OMSI in Portland ... April 12, 2015
+- PSAS rocket launch in Brothers … June 21, 2015
+- General Assembly (UUA) in Portland … June 24-28, 2015
+- Newspace (Silicon Valley)  … July 16-18, 2015 (Sanders on vacation in Hood River)
+- Festival of Belly Dance ... http://www.jamballahnw.com/ … August 7-9th 2015
+- Haggart Public Night (Observatory) … August 8, 2015
+- Oregon Star Party (1 hr east of Prineville Oregon) … August 11-16, 2015
+- Sasquan (Worldcon 73), Spokane WA … August 19-23
+- Mini-Maker Faire in Portland … September 12-13, 2015
+- 100yss … September 2015
+
+### Evaluation
+- Eric … I’m pumped about going to see you guys again
+- Ben … I’m stoked about you guys coming out to see us again

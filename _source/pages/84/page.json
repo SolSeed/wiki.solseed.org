@@ -1,0 +1,69 @@
+{
+  "canonical_path": "/User:Scifiben",
+  "current_revision_id": 41654,
+  "database_title": "Scifiben",
+  "display_title": "User:Scifiben",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 2,
+  "original_revision_count": 3,
+  "page_id": 84,
+  "published_revision_count": 3,
+  "revisions": [
+    {
+      "author": "Scifiben",
+      "comment": "New page: Hi, I'm Ben Sibelman, a software developer at [http://www.microsoft.com Microsoft] in Redmond, Washington.  This is me with my most recently acquired poster, which nicely sums up my desire...",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 162,
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": 161,
+      "same_as_previous_public": false,
+      "timestamp": "2008-11-08T21:37:41Z",
+      "wikitext_bytes": 2037,
+      "wikitext_sha256": "f7373c2a879fe6171c9525ae9f384709a7c37a5c0772bd247f5e7f6c79427cc8"
+    },
+    {
+      "author": "Scifiben",
+      "comment": "",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 8847,
+      "original_parent_revision_id": 161,
+      "previous_public_revision_id": 161,
+      "revision_id": 162,
+      "same_as_previous_public": false,
+      "timestamp": "2008-11-08T21:40:32Z",
+      "wikitext_bytes": 2132,
+      "wikitext_sha256": "08e0115e0d54d80a8189c8720c1ec999bb1bdfe9e7327a626833c36b81799823"
+    },
+    {
+      "author": "BenSibelman",
+      "comment": "Updated details",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 41654,
+      "original_parent_revision_id": 162,
+      "previous_public_revision_id": 162,
+      "revision_id": 8847,
+      "same_as_previous_public": false,
+      "timestamp": "2012-03-25T19:38:39Z",
+      "wikitext_bytes": 2268,
+      "wikitext_sha256": "3bc88cc57fedb234b53058fd72c6df0be5a565776bdfaeb2923baca2ec54620b"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 8847,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 2343,
+      "markdown_sha256": "cf29427043b77310d76e0a10a14a0b3f05a1aa7e07e7e8955bdcbefc3fd35f6e",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": 8847,
+      "previous_public_revision_id": 8847,
+      "revision_id": 41654,
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z"
+    }
+  ],
+  "site_revision_count": 1
+}

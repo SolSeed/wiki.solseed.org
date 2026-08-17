@@ -1,0 +1,48 @@
+{
+  "canonical_path": "/File:Lori_playing_piano.JPG",
+  "current_revision_id": "42385",
+  "database_title": "Lori_playing_piano.JPG",
+  "display_title": "File:Lori playing piano.JPG",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 6,
+  "original_revision_count": 1,
+  "page_id": "830",
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "BenSibelman",
+      "comment": "Photo of Lori Henriques performing her music at the January 2011 [[Music Festival]].",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": "42385",
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": "2183",
+      "same_as_previous_public": false,
+      "timestamp": "2011-02-03T04:57:19Z",
+      "wikitext_bytes": 84,
+      "wikitext_sha256": "87bc6e535c534412d612bbe927f5ef7bc941bdac9c173775fcc076d328d6d0df",
+      "source_format": "wikitext",
+      "source_extension": "wiki"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 2183,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 100,
+      "markdown_sha256": "329dc2ad9d9be052bc45e05458e3a3482e165070395412f1acc33b7324be5d6a",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": "2183",
+      "previous_public_revision_id": "2183",
+      "revision_id": "42385",
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z",
+      "wikitext_bytes": 100,
+      "wikitext_sha256": "329dc2ad9d9be052bc45e05458e3a3482e165070395412f1acc33b7324be5d6a",
+      "source_extension": "md"
+    }
+  ],
+  "site_revision_count": 1
+}

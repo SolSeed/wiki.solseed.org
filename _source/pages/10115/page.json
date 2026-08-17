@@ -1,0 +1,56 @@
+{
+  "canonical_path": "/File:SolSeed-Emblem.png",
+  "current_revision_id": 42585,
+  "database_title": "SolSeed-Emblem.png",
+  "display_title": "File:SolSeed-Emblem.png",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 6,
+  "original_revision_count": 2,
+  "page_id": 10115,
+  "published_revision_count": 2,
+  "revisions": [
+    {
+      "author": "Brandon CS Sanders",
+      "comment": "",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 13371,
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": 13368,
+      "same_as_previous_public": false,
+      "timestamp": "2012-06-04T04:37:26Z",
+      "wikitext_bytes": 0,
+      "wikitext_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "author": "Brandon CS Sanders",
+      "comment": "uploaded a new version of &quot;[[File:SolSeed-Emblem.png]]&quot;",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 42585,
+      "original_parent_revision_id": 13368,
+      "previous_public_revision_id": 13368,
+      "revision_id": 13371,
+      "same_as_previous_public": true,
+      "timestamp": "2012-06-04T04:51:22Z",
+      "wikitext_bytes": 0,
+      "wikitext_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 13371,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 45,
+      "markdown_sha256": "252140068a92a43adc08c92c83b7dcebf93357b7e39a6a517958df64a49b38ca",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": 13371,
+      "previous_public_revision_id": 13371,
+      "revision_id": 42585,
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z"
+    }
+  ],
+  "site_revision_count": 1
+}

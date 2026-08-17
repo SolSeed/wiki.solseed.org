@@ -1,0 +1,48 @@
+{
+  "canonical_path": "/Cautious_Optimism",
+  "current_revision_id": "41930",
+  "database_title": "Cautious_Optimism",
+  "display_title": "Cautious Optimism",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 1,
+  "page_id": "366",
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "BenSibelman",
+      "comment": "Copied page over from AboutUs, with minor edits.",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": "41930",
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": "1059",
+      "same_as_previous_public": false,
+      "timestamp": "2009-11-09T01:27:57Z",
+      "wikitext_bytes": 1439,
+      "wikitext_sha256": "8894e6d21b72b9090b81b6c3a89ef6abff991215e979aa49fdbb109256cce522",
+      "source_format": "wikitext",
+      "source_extension": "wiki"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 1059,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 1442,
+      "markdown_sha256": "c9faeebf91425f2e47c2c6ea97e545dca425f2ca94ed0cf15cf52e0e2cfb49d4",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": "1059",
+      "previous_public_revision_id": "1059",
+      "revision_id": "41930",
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z",
+      "wikitext_bytes": 1442,
+      "wikitext_sha256": "c9faeebf91425f2e47c2c6ea97e545dca425f2ca94ed0cf15cf52e0e2cfb49d4",
+      "source_extension": "md"
+    }
+  ],
+  "site_revision_count": 1
+}

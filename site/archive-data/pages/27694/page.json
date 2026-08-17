@@ -1,0 +1,63 @@
+{
+  "canonical_path": "/Foundation",
+  "current_revision_id": "43292",
+  "database_title": "Foundation",
+  "display_title": "Foundation",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 2,
+  "page_id": "27694",
+  "published_revision_count": 2,
+  "revisions": [
+    {
+      "author": "Shawn G Marincas",
+      "comment": "Created the Foundation page as a copy of the section with some additional resources and skeleton",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": "41210",
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": "41208",
+      "same_as_previous_public": false,
+      "timestamp": "2018-03-05T23:32:19Z",
+      "wikitext_bytes": 3766,
+      "wikitext_sha256": "016bbb5ba686c0a3732a6c037a58d08d6c93be4e75075e463204b4c67268a797",
+      "source_format": "wikitext",
+      "source_extension": "wiki"
+    },
+    {
+      "author": "Shawn G Marincas",
+      "comment": "changing some headings and structure",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": "43292",
+      "original_parent_revision_id": "41208",
+      "previous_public_revision_id": "41208",
+      "revision_id": "41210",
+      "same_as_previous_public": false,
+      "timestamp": "2018-03-06T18:20:24Z",
+      "wikitext_bytes": 4017,
+      "wikitext_sha256": "72565eef7ed9fa1b2bd98360a3e548563051eec4622aee8d00752f4cefe4728c",
+      "source_format": "wikitext",
+      "source_extension": "wiki"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 41210,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 4005,
+      "markdown_sha256": "5365d3e02804a726a5aac5456835c3703449532f97fb761c33de1bbda6ee82d8",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": "41210",
+      "previous_public_revision_id": "41210",
+      "revision_id": "43292",
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z",
+      "wikitext_bytes": 4005,
+      "wikitext_sha256": "5365d3e02804a726a5aac5456835c3703449532f97fb761c33de1bbda6ee82d8",
+      "source_extension": "md"
+    }
+  ],
+  "site_revision_count": 1
+}

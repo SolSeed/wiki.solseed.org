@@ -1,0 +1,48 @@
+{
+  "canonical_path": "/Peer_Coaching_Triads",
+  "current_revision_id": "42057",
+  "database_title": "Peer_Coaching_Triads",
+  "display_title": "Peer Coaching Triads",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 1,
+  "page_id": "495",
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "BenSibelman",
+      "comment": "Created page.",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": "42057",
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": "1329",
+      "same_as_previous_public": false,
+      "timestamp": "2010-01-03T23:35:59Z",
+      "wikitext_bytes": 1648,
+      "wikitext_sha256": "8f852080b53d5b685de803973bfb7132027fdf97468066a31b9f99ce69d000b0",
+      "source_format": "wikitext",
+      "source_extension": "wiki"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 1329,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 1678,
+      "markdown_sha256": "0128dac20a8dd10da52ae07f6bab3fe83e9a02a94357825a03ac0fd0a6343b52",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": "1329",
+      "previous_public_revision_id": "1329",
+      "revision_id": "42057",
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z",
+      "wikitext_bytes": 1678,
+      "wikitext_sha256": "0128dac20a8dd10da52ae07f6bab3fe83e9a02a94357825a03ac0fd0a6343b52",
+      "source_extension": "md"
+    }
+  ],
+  "site_revision_count": 1
+}

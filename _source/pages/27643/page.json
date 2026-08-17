@@ -1,0 +1,43 @@
+{
+  "canonical_path": "/SolSeed_Philosophy",
+  "current_revision_id": 43241,
+  "database_title": "SolSeed_Philosophy",
+  "display_title": "SolSeed Philosophy",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 1,
+  "page_id": 27643,
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "EricSaumur",
+      "comment": "Created page with \"The SolSeed Philosophy is the philosophy of the [[SolSeed Movement]].  It has three parts: *Cherish [[Gaia]] *Respect Science *Achieve [[The Destiny]]  It's root concept is that ...\"",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 43241,
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": 41042,
+      "same_as_previous_public": false,
+      "timestamp": "2017-05-06T13:25:22Z",
+      "wikitext_bytes": 1652,
+      "wikitext_sha256": "95e465ac91ac9ac4b34c2b9ca7211daa78c57bcae30a794328b1d8ab376f3c17"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 41042,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 1699,
+      "markdown_sha256": "e13c695105cc081f359f19ac55d744a75aa054f38cb641555069724bc6122384",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": 41042,
+      "previous_public_revision_id": 41042,
+      "revision_id": 43241,
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z"
+    }
+  ],
+  "site_revision_count": 1
+}

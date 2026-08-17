@@ -1,7 +1,8 @@
 #!/usr/bin/env node
 import { createHash } from "node:crypto";
-import { mkdir, readFile, readdir, rm, writeFile } from "node:fs/promises";
+import { cp, mkdir, readFile, readdir, rm, writeFile } from "node:fs/promises";
 import { dirname, join, resolve } from "node:path";
+import { renderMarkdown } from "../src/markdown/render.mjs";
 
 const ID = /^[1-9]\d*$/;
 const esc = (value) => String(value ?? "")
@@ -49,12 +50,13 @@ if(shell&&from&&to){
   getJson('/archive-data/pages/'+pageId+'/page.json').then(async page=>{
     const pair=selectRevisionPair(page,from,to);
     const base='/archive-data/pages/'+pageId+'/revisions/';
-    const texts=await Promise.all([getText(base+encodeURIComponent(pair.before.revision_id)+'.wiki'),getText(base+encodeURIComponent(pair.after.revision_id)+'.wiki')]);
+    const texts=await Promise.all([getText(base+encodeURIComponent(pair.before.revision_id)+'.'+(pair.before.source_extension||'wiki')),getText(base+encodeURIComponent(pair.after.revision_id)+'.'+(pair.after.source_extension||'wiki'))]);
     if(status)status.textContent='Revision '+from+' compared with revision '+to+'.';
     if(result)result.replaceChildren(mode==='inline'?renderInlineDiff(document,...texts):renderSplitDiff(document,...texts));
   }).catch(()=>{if(status)status.textContent='That revision pair is not public for this page.';if(result)result.replaceChildren()});
 }`;
-const documentHtml = (title, body, scripts = false) => `<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>${esc(title)}</title><link rel="stylesheet" href="/assets/history.css"></head><body>${body}${scripts ? '<script type="module" src="/assets/history-controls.js"></script>' : ""}</body></html>\n`;
+const archiveNotice = `<aside class="archive-notice" aria-label="Archive notice">This is a static archive of the SolSeed wiki as it existed in 2018. All spam has been removed.</aside>`;
+const documentHtml = (title, body, scripts = false) => `<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>${esc(title)}</title><link rel="stylesheet" href="/assets/history.css"></head><body>${archiveNotice}${body}${scripts ? '<script type="module" src="/assets/history-controls.js"></script>' : ""}</body></html>\n`;
 const nav = (page, extras = []) => `<nav aria-label="Archive navigation"><ul><li><a href="${href(pageRoute(page))}">Current page</a></li><li><a href="${href(historyRoute(page))}">History</a></li>${extras.map((item) => `<li>${item}</li>`).join("")}</ul></nav>`;
 const meta = (revision, delta = null) => `<dl class="metadata"><dt>Date</dt><dd><time datetime="${esc(iso(revision.timestamp))}">${esc(iso(revision.timestamp))}</time></dd><dt>Author</dt><dd>${esc(revision.author || "Unknown")}</dd><dt>Comment</dt><dd>${esc(revision.comment || "(no comment)")}</dd><dt>Size</dt><dd>${revision.wikitext_bytes} bytes</dd><dt>Delta</dt><dd>${delta === null ? "—" : `${delta > 0 ? "+" : ""}${delta} bytes`}</dd></dl>`;
 const options = (revisions, selected) => revisions.map((revision) => `<option value="${esc(revision.revision_id)}"${revision.revision_id === selected ? " selected" : ""}>${esc(revision.revision_id)} — ${esc(revision.timestamp)}</option>`).join("");
@@ -69,10 +71,15 @@ async function loadPage(source, pageId) {
     if (Number(revisionId) <= prior) throw new Error(`page ${pageId}.revisions must be oldest first`); prior = Number(revisionId);
     const metadata = await readJson(join(source, "pages", pageId, "revisions", revisionId, "revision.json"));
     if (id(metadata.revision_id, "revision metadata ID") !== revisionId) throw new Error(`revision ${revisionId} metadata does not match its directory`);
-    const text = await readFile(join(source, "pages", pageId, "revisions", revisionId, "source.wiki"), "utf8");
+    const sourceFormat = metadata.source_format ?? compact.source_format ?? "wikitext";
+    if (!new Set(["wikitext", "markdown"]).has(sourceFormat)) throw new Error(`revision ${revisionId} has unsupported source_format ${sourceFormat}`);
+    const extension = sourceFormat === "markdown" ? "md" : "wiki";
+    const text = await readFile(join(source, "pages", pageId, "revisions", revisionId, `source.${extension}`), "utf8");
     const bytes = Buffer.byteLength(text); const digest = hash(text);
-    if (Number(metadata.wikitext_bytes ?? compact.wikitext_bytes) !== bytes) throw new Error(`revision ${revisionId} has incorrect wikitext_bytes`);
-    if ((metadata.wikitext_sha256 ?? compact.wikitext_sha256) && (metadata.wikitext_sha256 ?? compact.wikitext_sha256) !== digest) throw new Error(`revision ${revisionId} has incorrect wikitext_sha256`);
+    const declaredBytes = sourceFormat === "markdown" ? metadata.markdown_bytes ?? compact.markdown_bytes : metadata.wikitext_bytes ?? compact.wikitext_bytes;
+    const declaredHash = sourceFormat === "markdown" ? metadata.markdown_sha256 ?? compact.markdown_sha256 : metadata.wikitext_sha256 ?? compact.wikitext_sha256;
+    if (Number(declaredBytes) !== bytes) throw new Error(`revision ${revisionId} has incorrect ${sourceFormat}_bytes`);
+    if (declaredHash && declaredHash !== digest) throw new Error(`revision ${revisionId} has incorrect ${sourceFormat}_sha256`);
     const merged = {
       ...compact,
       ...metadata,
@@ -82,6 +89,8 @@ async function loadPage(source, pageId) {
       next_public_revision_id: optionalId(metadata.next_public_revision_id ?? compact.next_public_revision_id, "next public revision ID"),
       wikitext_bytes: bytes,
       wikitext_sha256: digest,
+      source_format: sourceFormat,
+      source_extension: extension,
     };
     iso(merged.timestamp); if (!("author" in merged)) throw new Error(`revision ${revisionId} has no author`);
     revisions.push({ ...merged, source: text });
@@ -103,7 +112,9 @@ const revisionHtml = (page, revision, previous, next) => {
   links.push(`<a href="${href([...revRoute(page, revision.revision_id), "source"])}">View source</a>`);
   if (previous) links.push(`<a href="${href(diffRoute(page))}?from=${previous.revision_id}&amp;to=${revision.revision_id}">Compare with previous</a>`);
   const delta = previous ? revision.wikitext_bytes - previous.wikitext_bytes : null;
-  return documentHtml(`${page.display_title} — revision ${revision.revision_id}`, `<main data-pagefind-body>${nav(page, links)}<h1>${esc(page.display_title)}</h1><p>Revision <code>${esc(revision.revision_id)}</code></p>${meta(revision, delta)}${revision.historical_note ? `<aside><h2>Historical note</h2><p>${esc(revision.historical_note)}</p></aside>` : ""}<article class="wiki" aria-label="Wikitext content">${esc(revision.source)}</article></main>`);
+  const contents = revision.source_format === "markdown" ? renderMarkdown(revision.source) : esc(revision.source);
+  const label = revision.source_format === "markdown" ? "Page content" : "Wikitext content";
+  return documentHtml(`${page.display_title} — revision ${revision.revision_id}`, `<main>${nav(page, links)}<h1>${esc(page.display_title)}</h1><p>Revision <code>${esc(revision.revision_id)}</code></p>${meta(revision, delta)}${revision.historical_note ? `<aside><h2>Historical note</h2><p>${esc(revision.historical_note)}</p></aside>` : ""}<article class="wiki" aria-label="${label}">${contents}</article></main>`);
 };
 
 const sourceHtml = (page, revision) => documentHtml(`Source: ${page.display_title} revision ${revision.revision_id}`, `<main>${nav(page, [`<a href="${href(revRoute(page, revision.revision_id))}">Revision ${revision.revision_id}</a>`])}<h1>Source: ${esc(page.display_title)}</h1>${meta(revision)}<pre class="source" tabindex="0"><code>${esc(revision.source)}</code></pre></main>`);
@@ -117,15 +128,15 @@ const historyHtml = (page) => {
     return `<tr><th scope="row"><a href="${revisionHref}">Revision ${revision.revision_id}</a></th><td><time datetime="${esc(iso(revision.timestamp))}">${esc(iso(revision.timestamp))}</time></td><td>${esc(revision.author || "Unknown")}</td><td>${esc(revision.comment || "(no comment)")}</td><td>${revision.wikitext_bytes} bytes</td><td>${delta === null ? "—" : `${delta > 0 ? "+" : ""}${delta} bytes`}</td><td><a href="${revisionHref}/source">Source</a></td></tr>`;
   }).join("");
   const controls = `<form action="${href(diffRoute(page))}" method="get" data-diff-controls data-page-id="${page.page_id}"><fieldset><legend>Compare two public revisions</legend><label for="from-revision">From</label><select id="from-revision" name="from" required>${options(newest, first.revision_id)}</select><label for="to-revision">To</label><select id="to-revision" name="to" required>${options(newest, last.revision_id)}</select><input type="hidden" name="mode" value="split"><button type="submit">Compare revisions</button><p class="help" id="comparison-help">Choose any two approved public revisions.</p></fieldset></form>`;
-  return documentHtml(`${page.display_title} — revision history`, `<main data-pagefind-body>${nav(page)}<h1>${esc(page.display_title)} history</h1><p>Public revisions are shown newest first. Excluded revisions are represented only by gap metadata.</p>${controls}<div class="table-wrap"><table><caption>Public revision history</caption><thead><tr><th scope="col">Revision</th><th scope="col">Date</th><th scope="col">Author</th><th scope="col">Comment</th><th scope="col">Size</th><th scope="col">Delta</th><th scope="col">Text</th></tr></thead><tbody>${rows}</tbody></table></div></main>`, true);
+  return documentHtml(`${page.display_title} — revision history`, `<main>${nav(page)}<h1>${esc(page.display_title)} history</h1><p>Public revisions are shown newest first. Excluded revisions are represented only by gap metadata.</p>${controls}<div class="table-wrap"><table><caption>Public revision history</caption><thead><tr><th scope="col">Revision</th><th scope="col">Date</th><th scope="col">Author</th><th scope="col">Comment</th><th scope="col">Size</th><th scope="col">Delta</th><th scope="col">Text</th></tr></thead><tbody>${rows}</tbody></table></div></main>`, true);
 };
 
 const diffHtml = (page) => {
   const revisions = [...page.revisions].reverse();
-  return documentHtml(`${page.display_title} — compare revisions`, `<main data-pagefind-body data-diff-shell data-page-id="${page.page_id}">${nav(page, [`<a href="${href(historyRoute(page))}">Choose from history</a>`])}<h1>Compare ${esc(page.display_title)} revisions</h1><form action="${href(diffRoute(page))}" method="get" data-diff-controls data-page-id="${page.page_id}"><fieldset><legend>Revision pair</legend><label for="from-revision">From</label><select id="from-revision" name="from" required>${options(revisions, revisions[1]?.revision_id || revisions[0].revision_id)}</select><label for="to-revision">To</label><select id="to-revision" name="to" required>${options(revisions, revisions[0].revision_id)}</select><label for="diff-mode">Mode</label><select id="diff-mode" name="mode"><option value="split">Split</option><option value="inline">Inline</option></select><button type="submit">Load comparison</button></fieldset></form><section class="diff-output" aria-live="polite"><h2>Comparison</h2><p data-diff-status>Choose two revisions to load the wikitext comparison.</p><div data-diff-result></div></section></main>`, true);
+  return documentHtml(`${page.display_title} — compare revisions`, `<main data-diff-shell data-page-id="${page.page_id}">${nav(page, [`<a href="${href(historyRoute(page))}">Choose from history</a>`])}<h1>Compare ${esc(page.display_title)} revisions</h1><form action="${href(diffRoute(page))}" method="get" data-diff-controls data-page-id="${page.page_id}"><fieldset><legend>Revision pair</legend><label for="from-revision">From</label><select id="from-revision" name="from" required>${options(revisions, revisions[1]?.revision_id || revisions[0].revision_id)}</select><label for="to-revision">To</label><select id="to-revision" name="to" required>${options(revisions, revisions[0].revision_id)}</select><label for="diff-mode">Mode</label><select id="diff-mode" name="mode"><option value="split">Split</option><option value="inline">Inline</option></select><button type="submit">Load comparison</button></fieldset></form><section class="diff-output" aria-live="polite"><h2>Comparison</h2><p data-diff-status>Choose two revisions to load the wikitext comparison.</p><div data-diff-result></div></section></main>`, true);
 };
 
-const landingHtml = (pages) => documentHtml("SolSeed Wiki Archive", `<main data-pagefind-body><h1>SolSeed Wiki Archive</h1><p>Public historical pages preserved from the SolSeed archive.</p><ul>${pages.map((page) => `<li><a href="${href(pageRoute(page))}">${esc(page.display_title)}</a> — <a href="${href(historyRoute(page))}">history</a></li>`).join("")}</ul></main>`);
+const landingHtml = (pages) => documentHtml("SolSeed Wiki Archive", `<main><h1>SolSeed Wiki Archive</h1><p>Public historical pages preserved from the SolSeed archive.</p><ul>${pages.map((page) => `<li><a href="${href(pageRoute(page))}">${esc(page.display_title)}</a> — <a href="${href(historyRoute(page))}">history</a></li>`).join("")}</ul></main>`);
 
 async function discover(source, manifest) {
   if (Array.isArray(manifest.pages)) return manifest.pages.map((entry) => id(typeof entry === "object" ? entry.page_id : entry, "manifest page ID"));
@@ -133,15 +144,20 @@ async function discover(source, manifest) {
   return entries.filter((entry) => entry.isDirectory() && ID.test(entry.name)).map((entry) => entry.name).sort((a, b) => Number(a) - Number(b));
 }
 
-export async function buildArchive({ sourceDir = "_source", outputDir = "site" } = {}) {
+export async function buildArchive({ sourceDir = "_source", outputDir = "site", pageIds = null } = {}) {
   const source = resolve(sourceDir); const output = resolve(outputDir); const manifest = await readJson(join(source, "manifest.json"));
   if (manifest.schema_version !== undefined && Number(manifest.schema_version) !== 1) throw new Error(`unsupported schema_version ${manifest.schema_version}`);
-  const pages = []; for (const pageId of await discover(source, manifest)) pages.push(await loadPage(source, pageId));
+  const requested = pageIds ? new Set(pageIds.map((value) => id(value, "requested page ID"))) : null;
+  const discovered = await discover(source, manifest);
+  if (requested) for (const pageId of requested) if (!discovered.includes(pageId)) throw new Error(`requested page ${pageId} is not in the manifest`);
+  const pages = []; for (const pageId of discovered) if (!requested || requested.has(pageId)) pages.push(await loadPage(source, pageId));
   await mkdir(output, { recursive: true });
-  for (const generated of ["index.html", "history", "revision", "diff", "source", "archive-data", "assets/history.css", "assets/history-controls.js", "assets/wikitext-diff.js"]) await rm(join(output, generated), { recursive: true, force: true });
+  if (!requested) for (const generated of ["index.html", "history", "revision", "diff", "source", "archive-data", "assets/history.css", "assets/history-controls.js", "assets/wikitext-diff.js"]) await rm(join(output, generated), { recursive: true, force: true });
   await put(join(output, "assets/history.css"), css); await put(join(output, "assets/history-controls.js"), controls);
+  await rm(join(output, "assets", "uploads"), { recursive: true, force: true });
+  try { await cp(join(source, "media"), join(output, "assets", "uploads"), { recursive: true }); } catch (error) { if (error.code !== "ENOENT") throw error; }
   await put(join(output, "assets/wikitext-diff.js"), await readFile(new URL("../src/client/wikitext-diff.js", import.meta.url), "utf8"));
-  await putRoute(output, [], landingHtml(pages));
+  if (!requested) await putRoute(output, [], landingHtml(pages));
   for (const page of pages) {
     const current = page.revisions.find((revision) => revision.revision_id === page.current_revision_id);
     await putRoute(output, pageRoute(page), revisionHtml(page, current, page.revisions.find((r) => r.revision_id === current.previous_public_revision_id), page.revisions.find((r) => r.revision_id === current.next_public_revision_id)));
@@ -153,12 +169,12 @@ export async function buildArchive({ sourceDir = "_source", outputDir = "site" }
     const archive = join(output, "archive-data", "pages", page.page_id);
     const publicPage = { ...page, revisions: page.revisions.map(({ source: _source, ...revision }) => revision) };
     await put(join(archive, "page.json"), `${JSON.stringify(publicPage, null, 2)}\n`);
-    for (const revision of page.revisions) await put(join(archive, "revisions", `${revision.revision_id}.wiki`), revision.source);
+    for (const revision of page.revisions) await put(join(archive, "revisions", `${revision.revision_id}.${revision.source_extension}`), revision.source);
   }
   return { pages: pages.map((page) => page.page_id), outputDir: output };
 }
 
 if (import.meta.url === `file://${process.argv[1]}`) {
-  const [, , sourceDir = "_source", outputDir = "site"] = process.argv;
-  buildArchive({ sourceDir, outputDir }).then((result) => console.log(`Rendered ${result.pages.length} page(s) into ${result.outputDir}`)).catch((error) => { console.error(error.message); process.exitCode = 1; });
+  const [, , sourceDir = "_source", outputDir = "site", ...pageIds] = process.argv;
+  buildArchive({ sourceDir, outputDir, pageIds: pageIds.length ? pageIds : null }).then((result) => console.log(`Rendered ${result.pages.length} page(s) into ${result.outputDir}`)).catch((error) => { console.error(error.message); process.exitCode = 1; });
 }

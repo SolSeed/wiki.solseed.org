@@ -1,0 +1,1 @@
+Self-portrait with one of my favorite posters. I made it myself using a digital camera and a small bit of Photoshopping (red-eye and color correction, as well as re-adding the pale blue dot itself).

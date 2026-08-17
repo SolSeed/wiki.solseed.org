@@ -1,0 +1,1 @@
+[Patch](/Patrick) carrying a sign saying "UUFO supports MHI", [Eric](/Eric) carrying a sign saying "SolSeed supports MHI" and [Michelle](/Michelle) carrying a sign saying "Saint Paul's Eastern United Church supports MHI" at the Tulipathon

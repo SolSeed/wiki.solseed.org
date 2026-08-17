@@ -1,0 +1,48 @@
+{
+  "canonical_path": "/BringLife",
+  "current_revision_id": "42023",
+  "database_title": "BringLife",
+  "display_title": "BringLife",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 1,
+  "page_id": "461",
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "BenSibelman",
+      "comment": "Changed redirect",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": "42023",
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": "1238",
+      "same_as_previous_public": false,
+      "timestamp": "2009-12-04T04:34:35Z",
+      "wikitext_bytes": 27,
+      "wikitext_sha256": "562c7f05c5841f53b860f1278c29dc104ef7ef63c6c1c7228d4aa433128da872",
+      "source_format": "wikitext",
+      "source_extension": "wiki"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 1238,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 65,
+      "markdown_sha256": "6f92451cd84f969a8a55119644c2642e74d04f14774e3a3e2f5b39a827a01069",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": "1238",
+      "previous_public_revision_id": "1238",
+      "revision_id": "42023",
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z",
+      "wikitext_bytes": 65,
+      "wikitext_sha256": "6f92451cd84f969a8a55119644c2642e74d04f14774e3a3e2f5b39a827a01069",
+      "source_extension": "md"
+    }
+  ],
+  "site_revision_count": 1
+}

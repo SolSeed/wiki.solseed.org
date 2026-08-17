@@ -1,0 +1,35 @@
+Imagine a network of trees covering the ocean. From the air, the trees would look like a normal forest with a dense canopy. Except for a rare glint of sunlight reflected off the sea water perhaps hundreds of feet below, the forest looks like any you might have seen today. But now waves are passing through the ocean water on which the forest floats. You see the waves passing through the canopy and hear the water lapping harder and harder at the trunks and lower network branches of the forest.
+
+But the network resists the waves, pulling down on trees that the waves are pushing up and vice versa. The energy of the waves is reduced by this resistance and by the turbulence in the water as it is forced to flow around trunks, branches and roots. If you follow the waves toward the shore you will see them diminish and disappear rather than break and crash into the land. This has allowed the network to spread up onto land.
+
+So where did the waves come from? Looking toward the horizon you see the source now; dark clouds tell you that a storm is approaching. The trees below you are also aware of the approaching storm. Anchor roots are tightening, gas bladders are shrinking and the forest is sinking. The trees were informed of the coming storm by the network, signal chemicals were injected into the shared fluid streams, tensions in the networking branches changed, and the ocean waves themselves were allowed to pass through the forest as far as they were needed to help send the signal.
+
+Already, between your position in the air over the forest and the approaching storm clouds, you can see open water. At the edge of the open water the forest canopy is sinking below the ever worsening waves. As more and more canopy sinks the edge of the open water spreads toward you. As it passes under you, you find yourself suspended over a dark green sea. Here and there wave troughs expose green boughs.
+
+The black clouds are reaching across the sky over you. Lightening flashes; the wind mounts. Below you the sea has turned black; the forest has sunk too deep to be visible; no green boughs are visible in the wave troughs. The forest is safe from the storm in the still waters below the wave bases.
+
+The sea is getting rougher. Where only minutes a calm forest canopy stretched from horizon to horizon, now all you can see is storm-wracked sea.
+
+The clouds are over you now. The dark streaks of rain are only miles away. The clouds blot out the sun and it is suddenly dark as twilight. The lightening flashes get brighter. The crashes of thunder shake you. The first drops of rain splatter you.
+
+Now the storm is upon you. Wind rain and hail lash at you. You can't even see the waves below you, except for the tallest crests which loom out of the grey gloom without warning. Gone is the horizon, there is only wind, rain and grey gloom in every direction.
+
+But eventually the storm passes; the wing and rain slow. Through the mist raised by the storm, you can see blueish sky in the distance. The waves are still roiling below you. The sun breaks through the clouds projecting a beautiful rainbow in the mist. You are captivated by the rainbow but already it is fading as the mist disperses.
+
+The horizon appears again and already it is turning dark green. The forest is rising, calming the waves now the wind has passed. You glide toward the horizon but more quickly still the horizon is spreading toward you. Forest canopy is breaking through the surface in a wave of rising trees. Gas bladders are being filled; anchor roots are relaxing; photosynthesis is beginning again.
+
+You circle above the canopy. Something has caught your eye. A species of vine has taken hold. It is a species that does not share its nectar with the network. You dive toward it feeling something akin to passionate anger.
+
+You land on the fine and tear at its tendrils. You gorge yourself on its seed pods and tender foliage; you slice its tough stems with your razor sharp beak. Stuffed with seed pods and unable to eat more you continue working; slicing away the vine and dropping its offensive carcass through the canopy and into the watery abyss. When you are certain that the entire vine is gone, you rest, preening your feathers.
+
+While you worked on the fine the network calmed the waves. You hop from branch to branch and find a friendly epiphyte with a pool of fresh water in it. The drink of clean fresh water is refreshing.
+
+Then you feel the wave smoothly lifting the forest and lowering it again. You smell the signaling chemicals. Another storm is coming and this one will be worse. A column of bubbles breaks the ocean surface nearby. A gas bladder is once again releasing its air. The forest begins to sink.
+
+You dive into the water; you are too full to fly through this storm. You follow the column of bubbles down to the submerged gas bladder. You swim around and under it and come up inside it. Another bird, a species that eats insect pests joins you. The bladder is a small one and it is getting smaller in order to allow the forest to sink. Normally two birds your size would consume all of the oxygen in a space this size in minutes and die of asphyxiation.
+
+You brush your feathers against a clump of what looks like black moss. Strands in the moss respond to species-specific oils on your feathers. The network knows your species and in some sense understands the service you provide in consuming and killing parasitic epiphytes.
+
+The walls of the air bladder begin to excrete oxygen and absorb carbon dioxide. It recognizes your contribution and will take care of you.
+
+Smelling the freshness of the air around you, you calm. As the forest sinks it becomes pitch black and cold. But these are things you have the ability to survive. You know you are safe.

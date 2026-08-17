@@ -1,0 +1,56 @@
+{
+  "canonical_path": "/Working_Theology",
+  "current_revision_id": 41744,
+  "database_title": "Working_Theology",
+  "display_title": "Working Theology",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 2,
+  "page_id": 178,
+  "published_revision_count": 2,
+  "revisions": [
+    {
+      "author": "Shelley Schoepflin Sanders",
+      "comment": "New page: The SolSeed Movement is a truth, beauty and values movement. It is not a [http://en.wikipedia.org/wiki/Religion religion], but it shares some of the functions of a religion by providing st...",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 1057,
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": 461,
+      "same_as_previous_public": false,
+      "timestamp": "2009-01-22T06:26:27Z",
+      "wikitext_bytes": 831,
+      "wikitext_sha256": "67f3faa37856283f02396659cc866e9066b3f267dbb6f0d43207e53eb84ab003"
+    },
+    {
+      "author": "BenSibelman",
+      "comment": "Added a link",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 41744,
+      "original_parent_revision_id": 461,
+      "previous_public_revision_id": 461,
+      "revision_id": 1057,
+      "same_as_previous_public": false,
+      "timestamp": "2009-11-09T01:15:32Z",
+      "wikitext_bytes": 839,
+      "wikitext_sha256": "055b6016024fe7fa6e17dc98187f9da6db91890d0aaa317dc6ab52f77fa574f9"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 1057,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 1002,
+      "markdown_sha256": "d22c1ac241623a711f472f2e4fe6e69fc993136fd40e61a50e15bc82cceff92c",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": 1057,
+      "previous_public_revision_id": 1057,
+      "revision_id": 41744,
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z"
+    }
+  ],
+  "site_revision_count": 1
+}

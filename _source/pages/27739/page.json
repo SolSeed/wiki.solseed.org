@@ -1,0 +1,56 @@
+{
+  "canonical_path": "/Systems_science",
+  "current_revision_id": 43337,
+  "database_title": "Systems_science",
+  "display_title": "Systems science",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 2,
+  "page_id": 27739,
+  "published_revision_count": 2,
+  "revisions": [
+    {
+      "author": "BenSibelman",
+      "comment": "Created page",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 41472,
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": 41467,
+      "same_as_previous_public": false,
+      "timestamp": "2018-08-06T23:09:17Z",
+      "wikitext_bytes": 951,
+      "wikitext_sha256": "370c06afaefbb28351ecb6c5f91faea2a43813f1c23a02ff91c0ee137fd8f09d"
+    },
+    {
+      "author": "BenSibelman",
+      "comment": "Updated other session name",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 43337,
+      "original_parent_revision_id": 41467,
+      "previous_public_revision_id": 41467,
+      "revision_id": 41472,
+      "same_as_previous_public": false,
+      "timestamp": "2018-08-07T00:32:08Z",
+      "wikitext_bytes": 920,
+      "wikitext_sha256": "1e030b7385391a0df9847d7838fa96cfb56e733500d73e4b71f2b1e90c6b72a5"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 41472,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 1094,
+      "markdown_sha256": "af94b3a1e0daff123cc3c19af30fa15a69abf195f18f03a0aeabba4707ebb858",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": 41472,
+      "previous_public_revision_id": 41472,
+      "revision_id": 43337,
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z"
+    }
+  ],
+  "site_revision_count": 1
+}

@@ -1,0 +1,19 @@
+==The Gospel according to Biophysics : Life Slows the Growth of Entropy.==
+
+[[File:LifeSlowsEntropy.jpg|500px|thumb|right|The more Life thrives in the universe, the longer it will thrive]]
+
+At first glance, this statement seems to contradict the second law of thermodynamics.   One of the consequences of the second law is that when you do work you increase entropy.   When a lioness does the work of chewing up a zebra, the lioness reduces her entropy by virtue of the stored energy she takes from the zebra but the zebra increases in entropy more than lioness decreases in entropy and, so, the total entropy of the Serengeti is increased by the event.
+
+This is the typical description of Life and its effect on entropy.  The same description applies to a plant photosynthesizing.  The plant absorbs some high energy  photons and stores some of the energy in the chemical bonds of organic molecules releasing the rest as low energy infrared photons or heat.  The entropy of the plant is decreased by the stored energy but the increase in entropy of the outgoing photons over the incoming photons is much greater and so the total entropy of the plant and photons taken together is increased.
+
+But consider what would happen if the plant weren't there. Instead the photons would strike bare rock.   Many of the photons would be absorbed, heating the rock,  and then almost immediately re-radiated as low energy photons.  There is no law to say which system (plant or rock) will convert a greater proportion of the photons to infrared.  Different plants have very different efficiencies and different rocks have very different albedos.  So perhaps the proportions  would be the same. 
+
+So the difference would be in what happened to the other photons. In the case of the plant, they are converted into energy stored in chemical bonds.  In the case of the rock they would be returned (reflected)  back to space unchanged.  But that wouldn't mean that their entropy would remain the same.  
+
+Consider photons as they reach Earth from the Sun.  Their energy density is about 1 kW/m^2 and they are travelling in directions which are near-parallel to each other.  Photons reflected off a stone will be travelling in a large variety of directions.  So even though the individual photons are unchanged, this decrease in organization represents an increase in entropy. 
+
+Furthermore, consider that most of the photons reflected of the stone will travel up into the sky in directions vaguely toward the Sun.  The distance from the Earth to the Sun is called one AU.  These photons will pass through various points one AU past the Sun after roughly 16 minutes.  After that they will head out into regions of ever decreasing energy density as they travel into the outer Solar system.  This immersion into regions of lower temperature also represents increasing entropy.  In one year, they will reach regions of roughly 1 / 100 000 000 the energy density around Earth.  This represents a state of almost maximum entropy possible in our contemporary universe.
+
+On the other hand, the relatively low entropy state of the chemical bonds in the photosynthate, is likely to last for years.   If it is lucky enough to be deposited as fossil fuels, it could last 10's of millions or even billions of years.
+
+This is how Life can at the same time both cause an immediate, local increase in entropy and an long term slowing in the growth of entropy.   This is very good news indeed.  The possibilities for Life will be very limited as the universe approaches a state of maximum entropy.  But the more Life thrives in the universe, the longer it will be able to thrive because Life thriving will delay the approach of the state of maximum entropy.

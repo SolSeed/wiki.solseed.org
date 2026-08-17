@@ -1,0 +1,113 @@
+### Agenda
+- Check In
+- Review WWWs
+- Review Agenda
+- Next Service Logistics
+- Topical Community Protocols
+- Summer Solstice trip
+  - Theme for Solstice
+  - Invitation for Solstice
+  - Solstice itself
+  - Make list of invitees
+  - Triathlon
+- Book
+- Evaluation
+
+### Check In
+- Brandon ... Tired; fell asleep waiting for the call.
+- Sequoia ... Asleep, and enjoyed OMSI this morning
+- Shelley ... One plane (not present)
+- Ben ... On greyhound, can't see the notes, feeling inept about the connect the dots (350 rallies that took place yesterday, NOT today) ... iSing at the circus was spectacular and a bit frightening
+- Eric ... Happy in the sun
+
+### WWWs from last time
+- Ben ... follow your topical community protocol for this week ... ongoing
+- Ben ... meditate and keep track of which days ... ongoing
+- Ben ... email Shelley her WWWs ... by today
+- Ben ... send Eric links to our previous retreat invitations ... by tonight
+- Ben ... write up the rest of the notes from the Contact Conference on the wiki ... by next call
+- Ben ... look into a bicycle evolution design ... by next call
+- Brandon ... send Eric a reimbursement for his plane ticket ... tomorrow
+- Brandon ... follow your topical community protocol for this week ... ongoing
+- Brandon ... meditate and keep track of which days ... ongoing
+- Brandon ... post two blog posts ... by next call
+- Brandon ... reserve the lodge ... by next call
+- Brandon ... revise the invitation ... by Thursday
+- Shelley ... invite Jerry to the service call ... today
+- Shelley ... plan a visit to Vancouver lake
+- Shelley ... talk to Heather about the Evolution aspect (have a date with her for Thursday)
+- Shelley ... try to make a draft of the triathlon invitation
+- Eric ... Boil down the Religious Method idea to a few sentence invititation ... by Tuesday
+- Eric ... meditate and keep track of which days ... ongoing 
+- Eric ... write one more section of chapter 7... by next call 
+- Eric ... work on list of possible topical communities to follow, using http://meetup.com ... by next call
+
+### WWWs
+- Ben ... follow your topical community protocol for this week ... ongoing
+- Ben ... meditate and keep track of which days ... ongoing
+- Ben ... draw a background for the biking shot (second shot) ... by next call
+- Ben ... review list of names for the triathlon ... by Tuesday
+- Ben ... graphic for the triathlon ... by next call
+- Ben ... think about symbolic things to do at moment of solstice ... by next call
+- Ben ... send invitation to Ursula Goodenough ... by next call
+- Brandon ... follow your topical community protocol for this week ... ongoing
+- Brandon ... meditate and keep track of which days ... ongoing
+- Brandon ... check with Shelley about how we can work with 4:09 on Wednesday ... by Tuesday
+- Brandon ... reserve the shelter at cape lookout ... by Tuesday
+- Brandon ... invite Jonathan Haidt to the Solstice ... by Tuesday
+- Brandon ... write one blog post ... by next call
+- Brandon ... bring over the pictures and stuff from the blog posts ... by next call
+- Brandon ... think about symbolic things to do at moment of solstice ... by next call
+- Eric ... come up with suggestions for symbolic things to do at moment of solstice ... by next call
+- Eric ... meditate and keep track of which days ... ongoing 
+- Eric ... write one more section of chapter 7... by next call 
+- Eric ... work on list of possible topical communities to follow, using http://meetup.com ... by next call
+- Shelley ... get Blue Lake permit ... by next call
+- Shelley ... think about symbolic things to do at moment of solstice ... by next call
+
+### Next Calls' Logistics
+#### Services
+Service Saturday May 12, 10am PDT, (Ben)
+Rotation: Brandon, Eric, Jerry?, Shelley, Ben
+?In-person service May 12, evening with the Vliets
+
+#### Work-Bee
+Sunday 1:30pm PDT
+
+### Topical Community Protocols
+- Usually involves contacting an individual or the group that week
+- Eric has signed up for three meetups and been to two ... signed up for seven groups
+  - The less wrong group ... try to understand how thought works and how to make better decisions (secularists, atheists)
+  - The center for inquiry ... (atheists, secularists, interested in rationalism) ... followers of the new atheists
+
+### Solstice
+#### Options
+- Unconference Wed-Fri (Solstice embedded)
+- Solstice on Wed, Unconference Thur-Sat
+- Contributing members on Wed (Solstice embedded), Unconference Thur-Sat
+
+#### Moment of the Solstice
+- Could symbolize (In the biospheric communionism formulation of the year, the summer solstice is around the emergence of technology ... anything involving a campfire would be good, wheels would be good ... early technology)
+- Anything to do with the beginning of summer.  Sun reaches the highpoint in its figure eight in the sky.  Would go out and take off my jacket.
+- Starting to darken
+
+#### Invitee list (friends)
+  - Ben's parents
+  - Art
+  - Mickki
+  - Paul Krafel ... maybe
+  - Mathew and Molly ... maybe
+  - Gus ... maybe
+  - Ted ... maybe
+  - Lion ... maybe
+  - Lori ... maybe
+  - Vliets ... maybe
+  - Krista Hughes
+  - Jonathan Haidt
+  - Ursula Goodenough
+  - Freeman Dyson
+
+#### Triathlon
+- 100m swim (can wade)
+- 400m run
+- 1500m on wheels (bike, rollerblades, scooters ... etc)

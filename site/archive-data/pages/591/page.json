@@ -1,0 +1,48 @@
+{
+  "canonical_path": "/Earth",
+  "current_revision_id": "42147",
+  "database_title": "Earth",
+  "display_title": "Earth",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 1,
+  "page_id": "591",
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "BenSibelman",
+      "comment": "redirect",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": "42147",
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": "1522",
+      "same_as_previous_public": false,
+      "timestamp": "2010-05-04T03:27:15Z",
+      "wikitext_bytes": 19,
+      "wikitext_sha256": "d6a70910d880e5ad2f6d296bac72f1f9d878378aa9701e34f4d04f977b68f8ad",
+      "source_format": "wikitext",
+      "source_extension": "wiki"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 1522,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 49,
+      "markdown_sha256": "ac4414f2966808ef1065ef3a4b6af9ea357cde43730395506bee982e33ef40f7",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": "1522",
+      "previous_public_revision_id": "1522",
+      "revision_id": "42147",
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z",
+      "wikitext_bytes": 49,
+      "wikitext_sha256": "ac4414f2966808ef1065ef3a4b6af9ea357cde43730395506bee982e33ef40f7",
+      "source_extension": "md"
+    }
+  ],
+  "site_revision_count": 1
+}

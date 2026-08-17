@@ -1,0 +1,73 @@
+### Agenda
+- Check in
+- Opening Blessing
+- Review WWWs
+- Year Plan
+- Weekly event logistics
+  - Winter Solstice
+- Review Agenda
+- Gaia.wiki, wiki.solseed.org, space.wiki (spacewiki.com)
+- Newsletter
+- Evaluations
+- Closing Blessing
+
+### Check-in
+- Brandon: I've been doing some crafting, mostly related to Gaia's People, and that feels good
+- Ben: I’m having a mostly relaxing weekend, but still really worried about Saab
+
+### Opening Blessing
+May we find in our circle the passion, wisdom, and empathy to be our great selves.
+--Blessed Be
+
+### WW(W)s from last time
+- <s>Ben … work on a wiki page for the gathering in Canada</s> … by next call (worked on photos to include)
+- <s>Brandon … Check in with Shelley about trip photos again
+- Brandon … Talk to Shelley about the Longest Night Festival … by tomorrow</s>
+- Eric … Don’t forget to be awesome … ongoing
+- Eric … Block out time to meditate with Brandon and text him with which days will work … by tomorrow
+
+### WW(W)s
+- Ben … work on a wiki page for the gathering in Canada … by next call
+- Brandon … get the SolSeed wiki back up, and look into making it more reliable … by next workbee
+- Brandon … redirect space.wiki to spacewiki.com … by next workbee
+- Brandon … get gaia.wiki up after the transfer … by next workbee
+
+### Year Plan
+#### Winter Solstice
+Thursday, December 21, 8:28 AM PST / 11:28 EST
+- Shelley will be on the wards again the 23rd through the 30th, and that week is super busy for Brandon as well
+- Holly King/Queen play on Wednesday the 20th
+- Space Elevator climbers event: maybe around the new year? Or the weekend of the 16th and 17th?
+
+### Weekly Events Logistics
+Service rotation: Eric, Ben, Brandon, Rico, Shelley
+- Nov 18 Service: 8:30 AM PDT / 11:30 EDT … Ben
+- Nov 19 Business Call: 8:30 AM PDT / 11:30 EDT
+
+### Gaia.wiki, wiki.solseed.org, space.wiki
+- Gaia.wiki is in the process of transferring to our ownership
+- wiki.solseed.org is down again
+- Brandon already owns space.wiki but hasn't redirected it yet
+
+### Newsletter
+Fall 2017 Gaia's People Newsletter
+ 
+You may notice something a little different about the heading above. It's an early step in a trial "rebranding" effort, to see how we feel about centralizing our focus on the Gaia metaphor and on working in the present day toward a more harmonious Earth. Will reducing our emphasis on a wondrous starfaring future make us less excited about our work? Will it make us more dedicated to helping to build a future where humans act as though we belong to the Earth rather than vice versa? Will it attract others who share our curious mix of commitment to scientific realism with attraction to the Gaia metaphor and religious ritual, or only people who literally believe in a supernatural Earth goddess? Only time will tell.
+ 
+Where did this idea come from? Well, it's actually been brewing for years in our very modest recruitment efforts on Meetup.com, but the big boost came when Eric decided to build his own Gaia statue and install it on top of the highest hill at Buckleberry. The rest of us quickly realized that this would be a pivotal event in SolSeed history and committed to joining him on the Fall Equinox for a dedication ceremony. With a freer schedule, I was able to arrive in Ottawa/Gatineau a week early, giving Eric a chance to show me around the area, including a visit to an amazing topiary exhibition that also features a beautiful depiction of Mother Earth, and to take me out to his Greycliff cottage for some kayaking. When the Sanders arrived, we were ready with spray-paint stencils that we used during the dedication ceremony to populate Gaia's body with animals, plants, fungi, protists, bacteria, and even a virus. The next day, we returned to the hilltop to celebrate the changing seasons with three sabbath rituals (including Genesis to cement the importance of this new beginning) and a performance of the old classic, Drumming the Eons.
+ 
+The event also marked the beginning of a new experiment for the Sanders family, as Shelley brought us a fun and educational tree-identification project that would earn us the first-ever Gaia Scouts badge. The Sanders plan to make scouting a key new part of their children's lives, whether through our own efforts with Gaia Scouts, or by joining an existing scouting program such as SpiralScouts or Boy Scouts.  While researching scouting options in the Portland area, the Sanders were pleased to discover that over the last few years the Boy Scout policies on LGBTQ participants have substantially progressed, including ending bans on openly gay and transgender scouts and leaders.  The Sanders see scouting as an opportunity to pave a pathway of regular practice that connects their boys with a wider community of families that collectively emphasize slow gratification and nature immersion.
+ 
+Now, all this focus on Gaia may sound like we're abandoning the shiny half of our shiny green ethos/aesthetic, but you wouldn't know it from looking at Brandon and Ted's Concerning AI podcast. They've been continuing to post about three new episodes a month dedicated to exploring both the dangers and the possibilities opened by the possible near-future evolution of superintelligent machines. In August, they did an episode referencing Eric's Spring Equinox sci-fi stories, exploring the parallels between his worlds ruled by sapient forests and the equally inhuman AIs that might come to rule the Earth. And in September, the podcast reached a new level when Brandon and Ted got to interview novelist Rob Reid, who recently came out with a new book about the Singularity.
+ 
+Stay tuned for more updates about what it means to be Gaia's People!
+
+May your season be filled with life and love. Thanks for reading.
+Ben Sibelman
+
+### Evaluation
+- Brandon: Still feeling my energy rising to participate more actively again, including tithing
+- Ben: I’m happy about collaborating on the newsletter and I also hope that we have a wonderful winter solstice celebration.
+
+### Closing Blessing
+In working together we practice who we want to be.  We share our passions, empathize with each other, and seek the shared wisdom to effectively progress toward our highest aspirations.  May this work continue.  May we Bring Life.  -- Blessed Be

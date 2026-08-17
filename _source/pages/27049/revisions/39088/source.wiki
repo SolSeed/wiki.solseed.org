@@ -1,0 +1,1 @@
+This work has been released into the public domain by its author, Владимир Иванов at the Russian Wikipedia project. This applies worldwide.  see http://commons.wikimedia.org/wiki/File:Botanical_Garden_V.L._Komarov_Botanical_Institute.jpg for more details.

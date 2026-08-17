@@ -1,0 +1,48 @@
+{
+  "canonical_path": "/File:EqualityNow.png",
+  "current_revision_id": "41906",
+  "database_title": "EqualityNow.png",
+  "display_title": "File:EqualityNow.png",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 6,
+  "original_revision_count": 1,
+  "page_id": "342",
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "BenSibelman",
+      "comment": "Logo of the nonprofit women's rights advocacy group, Equality Now.  For comparison with a new [[SolSeed Emblem]] concept.",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": "41906",
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": "996",
+      "same_as_previous_public": false,
+      "timestamp": "2009-08-12T05:00:57Z",
+      "wikitext_bytes": 121,
+      "wikitext_sha256": "39342e8fa6dee895bab7c7cbc1fd13954a48096e844bf6badb2b4f43cc6e2973",
+      "source_format": "wikitext",
+      "source_extension": "wiki"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 996,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 137,
+      "markdown_sha256": "436b7fb9470798659e0c95ecc671ef14557935ac3b212cc34ae966d71c9896d1",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": "996",
+      "previous_public_revision_id": "996",
+      "revision_id": "41906",
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z",
+      "wikitext_bytes": 137,
+      "wikitext_sha256": "436b7fb9470798659e0c95ecc671ef14557935ac3b212cc34ae966d71c9896d1",
+      "source_extension": "md"
+    }
+  ],
+  "site_revision_count": 1
+}

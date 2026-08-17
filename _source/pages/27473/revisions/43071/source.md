@@ -1,0 +1,44 @@
+### Thursday Agenda
+- Check in
+- Opening Blessing
+- Project Work
+  - Brandon: Correspondence with John Halstead about Kindred
+  - Brandon: Correspondence with Paul Krafel about Kindred
+  - Brandon: Work on a Gaian version of the Creed  http://wiki.solseed.org/GaianCreed
+  - Brandon: Work on the invitation
+  - Brandon: Work on Gaia.Wiki
+  - Brandon: Correspondence
+  - Ben: Work on the newsletter
+  - Ben: Join the new Meetup
+  - Ben: Post stuff to Gaia.wiki
+  - Ben: Work on the "[Gospel According to Ben](/SolSeed:The_Book_of_Life)"
+- Evaluation
+- Closing Blessing
+
+### Check In
+- Ben … I don’t feel like I have a lot of energy and am looking forward to relaxing a lot this weekend (although I do want to get some stuff done) … I did the rainforest action network “change the course” visioning process (changethecourse.org) and it was really cool … but ended up going to bed late
+- Brandon … Excited about the Shiny Green Festival, but finding it daunting … also I found a piece of property that I think is cool (to fantasize about) http://portofcascadelocks.org/documents/Cascade-Locks-Waterfront-Property.pdf Biosphere 3 anyone?
+
+### Opening Blessing
+We push against the wheel, and nothing happens. We push more; it begins to turn, slowly, slowly. Once it's moving with momentum, it's hard to look back and see a point at which things changed from stopped to moving. We know this, and so we work and we push, even though it feels like things aren't moving. May we continue the work, regardless of external markers.
+--Blessed Be
+
+### Newsletter
+The SolSeed Movement is in full event-planning mode. In and around the ongoing discussions for our big August event, the [Shiny Green Festival](http://gaia.wiki/Shiny_Green_Festival), we've somehow managed to pull off celebrations of both the mid-Spring cross-quarter and the Summer Solstice on both sides of the continent. We've also found time for philosophical discussions about artificial intelligence and the sacred stories we live by.
+
+Eric has been participating in tree-planting events around the midpoint of Spring for years. This year, he [joined *two*](http://www.meetup.com/SolSeed-Ottawa/events/219390697/) [such events](http://www.meetup.com/SolSeed-Ottawa/events/222224803/), and also participated in a ["Tulipathon"](/2015_Multifaith_Housing_Initative_Tulipathon) to benefit the Multifaith Housing Initiative. Meanwhile, in Portland, we traveled to the planned location of the Shiny Green Tribal Convergence to participate in a [Hoyt Arboretum gardening work bee](http://www.meetup.com/SolSeed/events/222122349/), helping to weed and mulch the Winter Garden and plant a few new flowers. That evening, we held a [movie screening](http://www.meetup.com/SolSeed/events/222175778/) at the Seed Village.
+
+The movie, a new documentary called [*Planetary*](http://weareplanetary.org), provided part of the motivation for our subsequent discussions and a [blog post](/Blog/What_is_the_New_Story?) about sacred stories. The currently dominant sacred story in our culture says that "each of us is a free, independent individual separate from nature and in competition with everyone else." Both *Planetary* and the Pachamama Alliance, whose [Game Changer Intensive](http://www.pachamama.org/engage/intensive) course I participated in from late March through early May, agree on the need for a new story of connection and interdependence, which dovetails neatly with [SolSeed's ideas](/GaiasHeartbeat) about how "each of us is a cell in Gaia's body."
+
+Of course, we also embrace Carl Sagan's insight that "we are star-stuff," which helped motivate the West Coast contingent's decision to focus on stargazing for this year's Summer Solstice celebration. We traveled to Maryhill, Washington, to visit a [replica](https://en.wikipedia.org/wiki/Maryhill_Stonehenge) of Stonehenge, a monument which may well have been built by [ancient astronomers](https://en.wikipedia.org/wiki/Archaeoastronomy_and_Stonehenge), and which provided a stunningly beautiful setting for our [Drumming the Eons](/Drumming_the_Eons) ritual, with a great view of the Columbia Gorge, Mt. Hood, and dozens of nearby wind turbines. That evening at a nearby campground, we got to try out Brandon's new telescope, taking advantage of the dark skies far from city lights.
+
+Throughout the season, we've been working hard on developing the plan for the Shiny Green Festival. Of course a lot of the agenda will come together after the event begins, [Open Space](/Open_Space) style, but we're coming up with a few activities in advance to help draw people in. These include hikes through the Arboretum and around Portland's slightly famous [4T Trail](http://www.travelportland.com/article/4t-trail/), hands-on activities like making [Permaculture seed balls](http://www.permaculture.co.uk/videos/how-make-guerrilla-gardening-seed-bomb) and new test [CELSS](http://gaia.wiki/CELSS) jars for our [duckweed greenhouse experiment](/Duck_Weed_Experiment_One), a visit to a belly-dancing festival that Eric's wife Michelle is participating in, and an exciting Spectacle I'm putting together that will have to remain a secret for now. If you want to find out what it is before the next newsletter, you can join us at the Festival!
+
+May your season be blessed with life and love. Thanks for reading.
+
+### Evaluation
+- Brandon … pretty productive; got a couple mails out, one to Paul and one to John, and about to post to the Atheopagan Facebook group
+- Ben … felt kind of scatter brained but I got some stuff done on the newsletter, meetups, and gaia.wiki
+
+### Closing Blessing
+We don’t know how fast we are moving toward our vision or our highest aspiration or even if we are moving at all.  By embracing science we can maybe learn whether the strategies we have chosen are bearing fruit.  Until then we do the work, believing that it is worthwhile in and of itself. -- Blessed Be

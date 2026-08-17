@@ -1,0 +1,56 @@
+{
+  "canonical_path": "/May_6,_2012:_Online_Work_Bee",
+  "current_revision_id": 42568,
+  "database_title": "May_6,_2012:_Online_Work_Bee",
+  "display_title": "May 6, 2012: Online Work Bee",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 2,
+  "page_id": 9054,
+  "published_revision_count": 2,
+  "revisions": [
+    {
+      "author": "EricSaumur",
+      "comment": "Created page with \"== Agenda == * Check In * Review WWWs * Review Agenda * Next Service Logistics * Topical Community Protocols * Summer Solstice trip ** Theme for Solstice ** Invitation for Solsti...\"",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 12258,
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": 12257,
+      "same_as_previous_public": false,
+      "timestamp": "2012-05-09T00:37:37Z",
+      "wikitext_bytes": 5224,
+      "wikitext_sha256": "81de37110a7f86ea3d1bda1078a9cdebf61c4ccd992bd26f36a91407ab16553d"
+    },
+    {
+      "author": "EricSaumur",
+      "comment": "/* Next Calls' Logistics */ formatting",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 42568,
+      "original_parent_revision_id": 12257,
+      "previous_public_revision_id": 12257,
+      "revision_id": 12258,
+      "same_as_previous_public": false,
+      "timestamp": "2012-05-09T00:39:01Z",
+      "wikitext_bytes": 5246,
+      "wikitext_sha256": "46f868a6525b756c6c03efac271d94646f430e2875e2a34cb79b639b5529cb8a"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 12258,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 5239,
+      "markdown_sha256": "82c0450bbddc6268081a9b36018360c60116a4aa5b50cd61d2d212b020613e4d",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": 12258,
+      "previous_public_revision_id": 12258,
+      "revision_id": 42568,
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z"
+    }
+  ],
+  "site_revision_count": 1
+}

@@ -1,0 +1,43 @@
+{
+  "canonical_path": "/File:TulipathonPoster.png",
+  "current_revision_id": 43045,
+  "database_title": "TulipathonPoster.png",
+  "display_title": "File:TulipathonPoster.png",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 6,
+  "original_revision_count": 1,
+  "page_id": 27447,
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "EricSaumur",
+      "comment": "SolSeed supports MHI with SolSeed logo supporting the [[Multifaith Housing Initative]] logo.",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 43045,
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": 40488,
+      "same_as_previous_public": false,
+      "timestamp": "2015-05-04T22:41:09Z",
+      "wikitext_bytes": 92,
+      "wikitext_sha256": "fc9f7541ffa5adf79257194f267228fc450c5121ace21c36ef78249ed4d3983e"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 40488,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 122,
+      "markdown_sha256": "12b9c6703233574ffd67611261aa02aaf1d63b95a3edc2d0c549ec9eae896630",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": 40488,
+      "previous_public_revision_id": 40488,
+      "revision_id": 43045,
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z"
+    }
+  ],
+  "site_revision_count": 1
+}

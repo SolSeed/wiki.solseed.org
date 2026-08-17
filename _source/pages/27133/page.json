@@ -1,0 +1,43 @@
+{
+  "canonical_path": "/Eric_Saumur",
+  "current_revision_id": 42738,
+  "database_title": "Eric_Saumur",
+  "display_title": "Eric Saumur",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 1,
+  "page_id": 27133,
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "Brandon CS Sanders",
+      "comment": "Redirected page to [[User:EricSaumur]]",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 42738,
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": 39395,
+      "same_as_previous_public": false,
+      "timestamp": "2013-08-11T20:45:46Z",
+      "wikitext_bytes": 29,
+      "wikitext_sha256": "19942bf6a16e84d9fbeab80521634e3ad03165ae1bf67e6330def9e1631e6624"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 39395,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 69,
+      "markdown_sha256": "fdb408b03f3672bbb8faeb020eedd77541fd679a7023d190ef950da06c7d6201",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": 39395,
+      "previous_public_revision_id": 39395,
+      "revision_id": 42738,
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z"
+    }
+  ],
+  "site_revision_count": 1
+}

@@ -1,0 +1,48 @@
+{
+  "canonical_path": "/January_22,_2009",
+  "current_revision_id": "41772",
+  "database_title": "January_22,_2009",
+  "display_title": "January 22, 2009",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 1,
+  "page_id": "206",
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "Brandon CS Sanders",
+      "comment": "[[January 22, 2009]] moved to [[2009.01.22]]: Better URLs",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": "41772",
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": "524",
+      "same_as_previous_public": false,
+      "timestamp": "2009-02-07T03:08:48Z",
+      "wikitext_bytes": 24,
+      "wikitext_sha256": "2a1e9b13339b777b3516b30148b43d1e15102eaf8092036e80d0a2b1b063f61b",
+      "source_format": "wikitext",
+      "source_extension": "wiki"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 524,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 59,
+      "markdown_sha256": "db8849c5af7906e7335c9e7d2c8d983fab80c9dd4280a32d93c40e9fb4b3f352",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": "524",
+      "previous_public_revision_id": "524",
+      "revision_id": "41772",
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z",
+      "wikitext_bytes": 59,
+      "wikitext_sha256": "db8849c5af7906e7335c9e7d2c8d983fab80c9dd4280a32d93c40e9fb4b3f352",
+      "source_extension": "md"
+    }
+  ],
+  "site_revision_count": 1
+}

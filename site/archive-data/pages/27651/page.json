@@ -1,0 +1,48 @@
+{
+  "canonical_path": "/Celebration",
+  "current_revision_id": "43249",
+  "database_title": "Celebration",
+  "display_title": "Celebration",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 1,
+  "page_id": "27651",
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "Brandon CS Sanders",
+      "comment": "Redirected page to [[Celebrations]]",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": "43249",
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": "41078",
+      "same_as_previous_public": false,
+      "timestamp": "2017-07-09T15:50:06Z",
+      "wikitext_bytes": 26,
+      "wikitext_sha256": "13eafea619e59f87d133caa7c063ca560f154bc191671e1ae362059e23483cfd",
+      "source_format": "wikitext",
+      "source_extension": "wiki"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 41078,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 63,
+      "markdown_sha256": "8b52a87a1392202fe3d0f6aebd81277dcfa86b39976e5229b6f1f33cdc026c78",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": "41078",
+      "previous_public_revision_id": "41078",
+      "revision_id": "43249",
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z",
+      "wikitext_bytes": 63,
+      "wikitext_sha256": "8b52a87a1392202fe3d0f6aebd81277dcfa86b39976e5229b6f1f33cdc026c78",
+      "source_extension": "md"
+    }
+  ],
+  "site_revision_count": 1
+}

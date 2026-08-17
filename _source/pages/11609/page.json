@@ -1,0 +1,43 @@
+{
+  "canonical_path": "/Fruits:_How_to_judge_a_religion",
+  "current_revision_id": 42595,
+  "database_title": "Fruits:_How_to_judge_a_religion",
+  "display_title": "Fruits: How to judge a religion",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 1,
+  "page_id": 11609,
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "BenSibelman",
+      "comment": "Created page from my notes",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 42595,
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": 15018,
+      "same_as_previous_public": false,
+      "timestamp": "2012-06-25T20:26:30Z",
+      "wikitext_bytes": 2067,
+      "wikitext_sha256": "447fcf53ed03b0a06707de004f532f3c72bd72fb1ffc08d6fe7a216aec3db3ba"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 15018,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 2117,
+      "markdown_sha256": "e17b10fe261d34f9b7d96cbdda72335e796bf5ba63340d3a77836fa5e1dac79f",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": 15018,
+      "previous_public_revision_id": 15018,
+      "revision_id": 42595,
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z"
+    }
+  ],
+  "site_revision_count": 1
+}

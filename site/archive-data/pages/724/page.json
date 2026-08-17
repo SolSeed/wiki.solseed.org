@@ -1,0 +1,48 @@
+{
+  "canonical_path": "/File:Dusty_attic.jpg",
+  "current_revision_id": "42280",
+  "database_title": "Dusty_attic.jpg",
+  "display_title": "File:Dusty attic.jpg",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 6,
+  "original_revision_count": 1,
+  "page_id": "724",
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "BenSibelman",
+      "comment": "Image used in the [[June 2010 Mini-Newsletter]].",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": "42280",
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": "1853",
+      "same_as_previous_public": false,
+      "timestamp": "2010-09-06T22:29:39Z",
+      "wikitext_bytes": 48,
+      "wikitext_sha256": "f37dbc665cdb52c1184e14750ffda243a5bc24127d1eff6c62b11b014e06ed4d",
+      "source_format": "wikitext",
+      "source_extension": "wiki"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 1853,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 75,
+      "markdown_sha256": "af16f85a8014010961b2f56d2a12abeefa5b06ee49465f2a8edf719fb870e418",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": "1853",
+      "previous_public_revision_id": "1853",
+      "revision_id": "42280",
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z",
+      "wikitext_bytes": 75,
+      "wikitext_sha256": "af16f85a8014010961b2f56d2a12abeefa5b06ee49465f2a8edf719fb870e418",
+      "source_extension": "md"
+    }
+  ],
+  "site_revision_count": 1
+}

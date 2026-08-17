@@ -1,0 +1,63 @@
+{
+  "canonical_path": "/File:Jardim_Botanico.jpg",
+  "current_revision_id": "42319",
+  "database_title": "Jardim_Botanico.jpg",
+  "display_title": "File:Jardim Botanico.jpg",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 6,
+  "original_revision_count": 2,
+  "page_id": "763",
+  "published_revision_count": 2,
+  "revisions": [
+    {
+      "author": "BenSibelman",
+      "comment": "Free stock photo of a botanical garden and conservatory, from http://www.sxc.hu/photo/1313628",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": "1974",
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": "1967",
+      "same_as_previous_public": false,
+      "timestamp": "2010-11-14T22:20:50Z",
+      "wikitext_bytes": 93,
+      "wikitext_sha256": "55e09aa38ff40bf996a7d3c28cd95d286299a15f2270db09569ebc6c14a01351",
+      "source_format": "wikitext",
+      "source_extension": "wiki"
+    },
+    {
+      "author": "BenSibelman",
+      "comment": "Added note about scaling",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": "42319",
+      "original_parent_revision_id": "1967",
+      "previous_public_revision_id": "1967",
+      "revision_id": "1974",
+      "same_as_previous_public": false,
+      "timestamp": "2010-11-14T22:27:51Z",
+      "wikitext_bytes": 140,
+      "wikitext_sha256": "21a7006c447e958fec88645e3b6e0f5fd3f5e9148e56ae6e56b9408b5ac20b4e",
+      "source_format": "wikitext",
+      "source_extension": "wiki"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 1974,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 141,
+      "markdown_sha256": "5ec87d76be23ed54f8a0ac1b0d6927066fb271f82e48566ab28f39d42c724f61",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": "1974",
+      "previous_public_revision_id": "1974",
+      "revision_id": "42319",
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z",
+      "wikitext_bytes": 141,
+      "wikitext_sha256": "5ec87d76be23ed54f8a0ac1b0d6927066fb271f82e48566ab28f39d42c724f61",
+      "source_extension": "md"
+    }
+  ],
+  "site_revision_count": 1
+}

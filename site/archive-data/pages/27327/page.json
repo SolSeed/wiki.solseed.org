@@ -1,0 +1,63 @@
+{
+  "canonical_path": "/Inspiring_Quotes",
+  "current_revision_id": "42926",
+  "database_title": "Inspiring_Quotes",
+  "display_title": "Inspiring Quotes",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 2,
+  "page_id": "27327",
+  "published_revision_count": 2,
+  "revisions": [
+    {
+      "author": "Brandon CS Sanders",
+      "comment": "Created page with \"{{Quote |text=Nothing that is worth doing can be achieved in our lifetime; therefore, we must be saved by hope.  Nothing which is true or beautiful or good makes complete sense i...\"",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": "40121",
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": "40119",
+      "same_as_previous_public": false,
+      "timestamp": "2014-10-17T17:33:00Z",
+      "wikitext_bytes": 698,
+      "wikitext_sha256": "0ebf9b4a723c12401476cec0241aa7e7ca5cebf3888cac4a5a33557c81d680c7",
+      "source_format": "wikitext",
+      "source_extension": "wiki"
+    },
+    {
+      "author": "Brandon CS Sanders",
+      "comment": "",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": "42926",
+      "original_parent_revision_id": "40119",
+      "previous_public_revision_id": "40119",
+      "revision_id": "40121",
+      "same_as_previous_public": false,
+      "timestamp": "2014-10-17T17:35:56Z",
+      "wikitext_bytes": 738,
+      "wikitext_sha256": "7ee7f4baba022a2e3c6102ec90689bc2ce676bb72e21665bbf89e87db264b470",
+      "source_format": "wikitext",
+      "source_extension": "wiki"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 40121,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 779,
+      "markdown_sha256": "dd7b6687b23097759b9421b1e4963dcbcb512c8fdeef5d6242f705d74d6816f4",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": "40121",
+      "previous_public_revision_id": "40121",
+      "revision_id": "42926",
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z",
+      "wikitext_bytes": 779,
+      "wikitext_sha256": "dd7b6687b23097759b9421b1e4963dcbcb512c8fdeef5d6242f705d74d6816f4",
+      "source_extension": "md"
+    }
+  ],
+  "site_revision_count": 1
+}

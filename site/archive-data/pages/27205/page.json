@@ -1,0 +1,48 @@
+{
+  "canonical_path": "/SolSeed_and_Utilitarianism",
+  "current_revision_id": "42806",
+  "database_title": "SolSeed_and_Utilitarianism",
+  "display_title": "SolSeed and Utilitarianism",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 1,
+  "page_id": "27205",
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "EricSaumur",
+      "comment": "Created page with \"SolSeed and Utilitarianism The SolSeed philosophy is not utilitarian.   Utilitarianism is defined as \"a theory in normative ethics holding that the proper course of action is the...\"",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": "42806",
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": "39615",
+      "same_as_previous_public": false,
+      "timestamp": "2014-02-13T14:35:49Z",
+      "wikitext_bytes": 2921,
+      "wikitext_sha256": "a8bfc54097bc9c44275a63cbce87bbcb1516c6df0c3242ce26119b6cb7ac6619",
+      "source_format": "wikitext",
+      "source_extension": "wiki"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 39615,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 2922,
+      "markdown_sha256": "6c31868f46975428f0e33ecf8b97d5e896c37db8553b9c68ccfce7a367c9757e",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": "39615",
+      "previous_public_revision_id": "39615",
+      "revision_id": "42806",
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z",
+      "wikitext_bytes": 2922,
+      "wikitext_sha256": "6c31868f46975428f0e33ecf8b97d5e896c37db8553b9c68ccfce7a367c9757e",
+      "source_extension": "md"
+    }
+  ],
+  "site_revision_count": 1
+}

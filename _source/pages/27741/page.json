@@ -1,0 +1,56 @@
+{
+  "canonical_path": "/Can_we_make_resilience_look_more_smooth_and_avoid_collapses?",
+  "current_revision_id": 43339,
+  "database_title": "Can_we_make_resilience_look_more_smooth_and_avoid_collapses?",
+  "display_title": "Can we make resilience look more smooth and avoid collapses?",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 2,
+  "page_id": 27741,
+  "published_revision_count": 2,
+  "revisions": [
+    {
+      "author": "BenSibelman",
+      "comment": "Created page",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 41477,
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": 41476,
+      "same_as_previous_public": false,
+      "timestamp": "2018-08-07T00:40:49Z",
+      "wikitext_bytes": 1026,
+      "wikitext_sha256": "7c62174c16ceeb03cdb8fd437d8d60218c80e1c20c3a79130f46e944fda037ad"
+    },
+    {
+      "author": "BenSibelman",
+      "comment": "/* Discussion */",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 43339,
+      "original_parent_revision_id": 41476,
+      "previous_public_revision_id": 41476,
+      "revision_id": 41477,
+      "same_as_previous_public": false,
+      "timestamp": "2018-08-07T00:50:32Z",
+      "wikitext_bytes": 1087,
+      "wikitext_sha256": "55a6fdcc65279f0bbe8aca48a099178321df0949447f025871a7750026523ae9"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 41477,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 1236,
+      "markdown_sha256": "3b81f10a3985ffd6b517ab5a662881b8bb5c06fa7982f832246bea7c6218b5f5",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": 41477,
+      "previous_public_revision_id": 41477,
+      "revision_id": 43339,
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z"
+    }
+  ],
+  "site_revision_count": 1
+}

@@ -1,0 +1,43 @@
+{
+  "canonical_path": "/File:Sol_2012_meeting_hall.JPG",
+  "current_revision_id": 42659,
+  "database_title": "Sol_2012_meeting_hall.JPG",
+  "display_title": "File:Sol 2012 meeting hall.JPG",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 6,
+  "original_revision_count": 1,
+  "page_id": 27054,
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "BenSibelman",
+      "comment": "Hanging out in the meeting hall during [[Sol 2012]].",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 42659,
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": 39094,
+      "same_as_previous_public": false,
+      "timestamp": "2012-10-28T18:25:32Z",
+      "wikitext_bytes": 52,
+      "wikitext_sha256": "aa351b13b8f229d28d545a00b2dec151980b323e535933a5a4c45d1d90f3f8a1"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 39094,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 62,
+      "markdown_sha256": "d0e253f1417ad6540115ba7c33672dc668cf4ef486c2e1e81b52d40c9492ac93",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": 39094,
+      "previous_public_revision_id": 39094,
+      "revision_id": 42659,
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z"
+    }
+  ],
+  "site_revision_count": 1
+}

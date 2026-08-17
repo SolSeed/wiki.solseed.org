@@ -1,0 +1,56 @@
+{
+  "canonical_path": "/October_11,_2015:_Business_Call",
+  "current_revision_id": 43099,
+  "database_title": "October_11,_2015:_Business_Call",
+  "display_title": "October 11, 2015: Business Call",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 2,
+  "page_id": 27501,
+  "published_revision_count": 2,
+  "revisions": [
+    {
+      "author": "BenSibelman",
+      "comment": "Created page from the Google doc, with adjustments",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 40661,
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": 40660,
+      "same_as_previous_public": false,
+      "timestamp": "2015-10-12T00:35:35Z",
+      "wikitext_bytes": 6413,
+      "wikitext_sha256": "bc0d2ae3f15363a4170364f2c64d02afa4765b36573220f8a3d2b98e92110192"
+    },
+    {
+      "author": "BenSibelman",
+      "comment": "/* Halloween */",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 43099,
+      "original_parent_revision_id": 40660,
+      "previous_public_revision_id": 40660,
+      "revision_id": 40661,
+      "same_as_previous_public": false,
+      "timestamp": "2015-10-12T00:36:00Z",
+      "wikitext_bytes": 6413,
+      "wikitext_sha256": "ab6de6691cdc1a44bac8b964e9d46c0cc78c1f077bea4dd49e387085b478f47c"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 40661,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 6424,
+      "markdown_sha256": "9ff30fc2ff798305642101e1e08b191e2c96921787aac7c19fdb0554d89e9716",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": 40661,
+      "previous_public_revision_id": 40661,
+      "revision_id": 43099,
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z"
+    }
+  ],
+  "site_revision_count": 1
+}

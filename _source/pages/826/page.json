@@ -1,0 +1,43 @@
+{
+  "canonical_path": "/John_Wayne_Potato_Casserole",
+  "current_revision_id": 42381,
+  "database_title": "John_Wayne_Potato_Casserole",
+  "display_title": "John Wayne Potato Casserole",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 1,
+  "page_id": 826,
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "Shelley Schoepflin Sanders",
+      "comment": "Created page with \"John Wayne Potatoes  Heat oven to 350 degrees  Spray 9 x 13 pan with cooking spray.    Line with tater tots (1 large bag)    Sprinkle with 2 cups grated cheese.  Mix together in ...\"",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 42381,
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": 2177,
+      "same_as_previous_public": false,
+      "timestamp": "2011-01-31T18:37:02Z",
+      "wikitext_bytes": 516,
+      "wikitext_sha256": "b1333dfb4cf110bb2af01e4ecbe484de568d71d808c66e8a39eb480a0960e788"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 2177,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 514,
+      "markdown_sha256": "3102da65740aec17fd685998ee308e293607082326974c5b1f949710530d782e",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": 2177,
+      "previous_public_revision_id": 2177,
+      "revision_id": 42381,
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z"
+    }
+  ],
+  "site_revision_count": 1
+}

@@ -1,0 +1,13 @@
+{
+  "author": "BenSibelman",
+  "comment": "Fixed a phone dictation typo",
+  "excluded_revision_count_since_previous_public": 0,
+  "next_public_revision_id": 43331,
+  "original_parent_revision_id": 41452,
+  "previous_public_revision_id": 41452,
+  "revision_id": 41453,
+  "same_as_previous_public": false,
+  "timestamp": "2018-07-23T04:58:28Z",
+  "wikitext_bytes": 5358,
+  "wikitext_sha256": "dd30df2f206508dc8709ab769e5b4edd1ea11d1846feee8d3faab288e29e05e4"
+}

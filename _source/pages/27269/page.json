@@ -1,0 +1,56 @@
+{
+  "canonical_path": "/July_31,_2014:_Online_Work_Bee",
+  "current_revision_id": 42870,
+  "database_title": "July_31,_2014:_Online_Work_Bee",
+  "display_title": "July 31, 2014: Online Work Bee",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 2,
+  "page_id": 27269,
+  "published_revision_count": 2,
+  "revisions": [
+    {
+      "author": "BenSibelman",
+      "comment": "Created page from the Google doc",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 39906,
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": 39905,
+      "same_as_previous_public": false,
+      "timestamp": "2014-08-01T03:45:51Z",
+      "wikitext_bytes": 6951,
+      "wikitext_sha256": "8e089e21c7ee3a840d0e7280f71f2444f2a72480111fdd3088ea50c2c9f946d8"
+    },
+    {
+      "author": "BenSibelman",
+      "comment": "/* Weekly Events Logistics */",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 42870,
+      "original_parent_revision_id": 39905,
+      "previous_public_revision_id": 39905,
+      "revision_id": 39906,
+      "same_as_previous_public": false,
+      "timestamp": "2014-08-01T03:46:25Z",
+      "wikitext_bytes": 6868,
+      "wikitext_sha256": "0b737c73359711545c506d7851637df5048cc93cdf639250e576c752a7ea1022"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 39906,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 6871,
+      "markdown_sha256": "9f36ff0817e908e3fd05f7a31df46f524073ab638c10a9fe2539db7d6c1338d3",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": 39906,
+      "previous_public_revision_id": 39906,
+      "revision_id": 42870,
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z"
+    }
+  ],
+  "site_revision_count": 1
+}

@@ -1,0 +1,5 @@
+Hi Ben,
+
+I'm reading through your changes ... they look great!  I think the area I'll be contributing to next will be working on [[SolSeedMovement/Organizing]].  The work on that page will spread out to touch on [[Purpose]], [[Core Values]], [[5 Year Goals]], [[Brand Promises]], etc
+
+--[[Brandon]]

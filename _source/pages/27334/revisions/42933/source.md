@@ -1,0 +1,1 @@
+This archived page redirects to [Unitarian Universalist Fellowship of Ottawa Service Entitled SolSeed: An Example of Defining a Life Purpose](/Unitarian_Universalist_Fellowship_of_Ottawa_Service_Entitled_SolSeed:_An_Example_of_Defining_a_Life_Purpose).

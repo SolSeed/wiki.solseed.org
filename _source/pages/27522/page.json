@@ -1,0 +1,56 @@
+{
+  "canonical_path": "/File:SESolsticeApple1.jpg",
+  "current_revision_id": 43120,
+  "database_title": "SESolsticeApple1.jpg",
+  "display_title": "File:SESolsticeApple1.jpg",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 6,
+  "original_revision_count": 2,
+  "page_id": 27522,
+  "published_revision_count": 2,
+  "revisions": [
+    {
+      "author": "BenSibelman",
+      "comment": "[[Brandon]] and Dozie using the spiral apple slicer at [[A Space Elevator Solstice]].",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 40711,
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": 40704,
+      "same_as_previous_public": false,
+      "timestamp": "2016-01-22T05:42:16Z",
+      "wikitext_bytes": 85,
+      "wikitext_sha256": "0386584c0c7192b6ab8b424de94fe869e6349718dd56783cf68cdfbf953d252f"
+    },
+    {
+      "author": "BenSibelman",
+      "comment": "uploaded a new version of &quot;[[File:SESolsticeApple1.jpg]]&quot;: smaller",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 43120,
+      "original_parent_revision_id": 40704,
+      "previous_public_revision_id": 40704,
+      "revision_id": 40711,
+      "same_as_previous_public": true,
+      "timestamp": "2016-01-22T05:54:05Z",
+      "wikitext_bytes": 85,
+      "wikitext_sha256": "0386584c0c7192b6ab8b424de94fe869e6349718dd56783cf68cdfbf953d252f"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 40711,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 120,
+      "markdown_sha256": "0a6303f3d25f63958fd175ce507b594df2a1df393cc509af11590563d911fc7a",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": 40711,
+      "previous_public_revision_id": 40711,
+      "revision_id": 43120,
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z"
+    }
+  ],
+  "site_revision_count": 1
+}

@@ -1,0 +1,69 @@
+{
+  "canonical_path": "/Longest_Night_Masquerade",
+  "current_revision_id": 42962,
+  "database_title": "Longest_Night_Masquerade",
+  "display_title": "Longest Night Masquerade",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 3,
+  "page_id": 27363,
+  "published_revision_count": 3,
+  "revisions": [
+    {
+      "author": "Brandon CS Sanders",
+      "comment": "Created page with \"== Program ==  [[Image:LongestNightMasquerade2015-Program1.png]]  [[Image:LongestNightMasquerade2015-Program2.png]]  [[Image:LongestNightMasquerade2015-Program3.png]]  [[Image:Lo...\"",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 40252,
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": 40248,
+      "same_as_previous_public": false,
+      "timestamp": "2015-01-06T06:06:15Z",
+      "wikitext_bytes": 217,
+      "wikitext_sha256": "680a83a7a48d8f94ae7567222b42269f4b5934b822f2420a003802e70d0a6560"
+    },
+    {
+      "author": "Brandon CS Sanders",
+      "comment": "",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 40254,
+      "original_parent_revision_id": 40248,
+      "previous_public_revision_id": 40248,
+      "revision_id": 40252,
+      "same_as_previous_public": false,
+      "timestamp": "2015-01-06T06:09:02Z",
+      "wikitext_bytes": 238,
+      "wikitext_sha256": "b4257d8b14ed7d3f31e1e0a785a068a770287d17909a5e36ed5fbb5f5da95ebc"
+    },
+    {
+      "author": "Brandon CS Sanders",
+      "comment": "",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 42962,
+      "original_parent_revision_id": 40252,
+      "previous_public_revision_id": 40252,
+      "revision_id": 40254,
+      "same_as_previous_public": false,
+      "timestamp": "2015-01-06T06:15:32Z",
+      "wikitext_bytes": 641,
+      "wikitext_sha256": "b139883b3cdfa67c76b3cfc9ce7be1e3de186ccd060cdee2726b65e06f6d3d13"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 40254,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 763,
+      "markdown_sha256": "06319fe7d8870ea3dcc2ea13fde45064464dbb9810aae179f2421721b27ebc0b",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": 40254,
+      "previous_public_revision_id": 40254,
+      "revision_id": 42962,
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z"
+    }
+  ],
+  "site_revision_count": 1
+}

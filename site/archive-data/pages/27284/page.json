@@ -1,0 +1,63 @@
+{
+  "canonical_path": "/File:SolSeedPrideMobile.jpg",
+  "current_revision_id": "42885",
+  "database_title": "SolSeedPrideMobile.jpg",
+  "display_title": "File:SolSeedPrideMobile.jpg",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 6,
+  "original_revision_count": 2,
+  "page_id": "27284",
+  "published_revision_count": 2,
+  "revisions": [
+    {
+      "author": "EricSaumur",
+      "comment": "Created page with \"Picture of bicycle with PridePoster on back\"",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": "39959",
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": "39955",
+      "same_as_previous_public": false,
+      "timestamp": "2014-08-24T22:35:39Z",
+      "wikitext_bytes": 43,
+      "wikitext_sha256": "029f545c6b8ecf5d983595d74f42c7a6ca90e257e3519ea5157b7376144577b4",
+      "source_format": "wikitext",
+      "source_extension": "wiki"
+    },
+    {
+      "author": "EricSaumur",
+      "comment": "uploaded &quot;[[File:SolSeedPrideMobile.jpg]]&quot;: A Picture of [[Patrick]] standing in front of the SolSeed PrideMobile, a bicycle with three copies of the [[PridePoster.jpg]] attached to it.  The PrideMobile is parked on a pedestal at the entrance to",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": "42885",
+      "original_parent_revision_id": "39955",
+      "previous_public_revision_id": "39955",
+      "revision_id": "39959",
+      "same_as_previous_public": true,
+      "timestamp": "2014-08-24T22:48:51Z",
+      "wikitext_bytes": 43,
+      "wikitext_sha256": "029f545c6b8ecf5d983595d74f42c7a6ca90e257e3519ea5157b7376144577b4",
+      "source_format": "wikitext",
+      "source_extension": "wiki"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 39959,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 44,
+      "markdown_sha256": "215be16e7d62f1b489b6942f4cb7d9d986ce7046aca6bd2f812c77afe20e04bf",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": "39959",
+      "previous_public_revision_id": "39959",
+      "revision_id": "42885",
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z",
+      "wikitext_bytes": 44,
+      "wikitext_sha256": "215be16e7d62f1b489b6942f4cb7d9d986ce7046aca6bd2f812c77afe20e04bf",
+      "source_extension": "md"
+    }
+  ],
+  "site_revision_count": 1
+}

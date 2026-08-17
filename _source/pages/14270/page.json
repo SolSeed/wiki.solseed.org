@@ -1,0 +1,43 @@
+{
+  "canonical_path": "/File:Big_dome_at_Sol_2012.JPG",
+  "current_revision_id": 42622,
+  "database_title": "Big_dome_at_Sol_2012.JPG",
+  "display_title": "File:Big dome at Sol 2012.JPG",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 6,
+  "original_revision_count": 1,
+  "page_id": 14270,
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "BenSibelman",
+      "comment": "A large geodesic dome we built, used as a location for other sessions, and then dismantled during [[Sol 2012]].",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 42622,
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": 17941,
+      "same_as_previous_public": false,
+      "timestamp": "2012-07-22T23:12:43Z",
+      "wikitext_bytes": 111,
+      "wikitext_sha256": "dd06f7507461291b4131da6cf745c9de3393ba85932454b6b083fb8df19cddbc"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 17941,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 121,
+      "markdown_sha256": "083c72b9d384ffdb22e3f48802837453bb1adc5d7eda0efeaacaf3a3e2d0632f",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": 17941,
+      "previous_public_revision_id": 17941,
+      "revision_id": 42622,
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z"
+    }
+  ],
+  "site_revision_count": 1
+}

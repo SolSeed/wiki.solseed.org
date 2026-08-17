@@ -1,0 +1,48 @@
+{
+  "canonical_path": "/Kim",
+  "current_revision_id": "42052",
+  "database_title": "Kim",
+  "display_title": "Kim",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 1,
+  "page_id": "490",
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "BenSibelman",
+      "comment": "Redirecting to [[Kim Edwards]]",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": "42052",
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": "1323",
+      "same_as_previous_public": false,
+      "timestamp": "2010-01-03T23:15:23Z",
+      "wikitext_bytes": 25,
+      "wikitext_sha256": "2fd1330184ed51a3953985a4686296fae55b0fb4284e922da29919bc55fae855",
+      "source_format": "wikitext",
+      "source_extension": "wiki"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 1323,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 61,
+      "markdown_sha256": "d5926c7598dbfcf0ecbd4252bf8f68578e45cd5f5ace5272cc3600af1f6f7eea",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": "1323",
+      "previous_public_revision_id": "1323",
+      "revision_id": "42052",
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z",
+      "wikitext_bytes": 61,
+      "wikitext_sha256": "d5926c7598dbfcf0ecbd4252bf8f68578e45cd5f5ace5272cc3600af1f6f7eea",
+      "source_extension": "md"
+    }
+  ],
+  "site_revision_count": 1
+}

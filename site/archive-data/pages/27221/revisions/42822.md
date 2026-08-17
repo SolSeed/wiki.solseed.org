@@ -1,0 +1,28 @@
+These are part of our [Website](/Website) outreach effort
+
+#### Orientation Emails
+Once a week for 12 weeks send a picture and very short email with a few links if people want to go deeper
+
+Week 1:  Definition of SolSeed (What does SolSeed mean?) (Brandon)
+
+Week 2: The Upward Spiral (Eric)
+
+Week 3: The Divided Mind (Elephant and Rider) (Brandon)
+
+Week 4: Passion ... Happy in the Sun (Elephant + Rider) (Ben)
+
+Week 5: Life has invested in us (Eric)
+
+Week 6: Empathy is transcendant (from righteous mind)
+
+Week 7: TheDestiny (Ben)
+
+Week 8: Perspective (skinbag, life itself) (Brandon)
+
+Week 9: Precious and Worthy
+
+Week 10: Wisdom ... Habit and Instinct ... Regular Practice
+
+Week 11: The Critical Role of Religion
+
+Week 12: More or Less Alive ... Bring Life

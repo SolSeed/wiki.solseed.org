@@ -1,0 +1,48 @@
+{
+  "canonical_path": "/User_talk:Kimisu",
+  "current_revision_id": "41692",
+  "database_title": "Kimisu",
+  "display_title": "User talk:Kimisu",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 3,
+  "original_revision_count": 1,
+  "page_id": "122",
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "Brandon CS Sanders",
+      "comment": "New page: Hi Kim,  We're preparing vegetarian meals at the lodge ourselves.  There are also a couple of local restaurants that folks may go to.  Please feel warmly welcomed to bring food that you kn...",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": "41692",
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": "260",
+      "same_as_previous_public": false,
+      "timestamp": "2008-12-31T15:49:29Z",
+      "wikitext_bytes": 218,
+      "wikitext_sha256": "dc77779e35b1d1cf17e8305dabefb4ad9b4a7af2a35bb6586f26f86c2f47132b",
+      "source_format": "wikitext",
+      "source_extension": "wiki"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 260,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 219,
+      "markdown_sha256": "a859c226c29b824be433a3c87608f9f81c945b3b33929c87e02a4ba1ac89f4f9",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": "260",
+      "previous_public_revision_id": "260",
+      "revision_id": "41692",
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z",
+      "wikitext_bytes": 219,
+      "wikitext_sha256": "a859c226c29b824be433a3c87608f9f81c945b3b33929c87e02a4ba1ac89f4f9",
+      "source_extension": "md"
+    }
+  ],
+  "site_revision_count": 1
+}

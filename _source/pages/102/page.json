@@ -1,0 +1,56 @@
+{
+  "canonical_path": "/Gaia",
+  "current_revision_id": 41672,
+  "database_title": "Gaia",
+  "display_title": "Gaia",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 2,
+  "page_id": 102,
+  "published_revision_count": 2,
+  "revisions": [
+    {
+      "author": "BenSibelman",
+      "comment": "Created page using material from AboutUs",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 41242,
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": 201,
+      "same_as_previous_public": false,
+      "timestamp": "2008-12-18T06:23:32Z",
+      "wikitext_bytes": 807,
+      "wikitext_sha256": "809ffa0c1974230b9c675841aa0ca77e6e96e34671873fc88e8ae79f7dfaaa26"
+    },
+    {
+      "author": "EricSaumur",
+      "comment": "",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 41672,
+      "original_parent_revision_id": 201,
+      "previous_public_revision_id": 201,
+      "revision_id": 41242,
+      "same_as_previous_public": false,
+      "timestamp": "2018-04-08T01:42:03Z",
+      "wikitext_bytes": 1851,
+      "wikitext_sha256": "83657729635d16100fa99ddb91e1c1ab0608e50c80aec0fce4b7283f0ce6d3f2"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 41242,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 1876,
+      "markdown_sha256": "58bfa958a6cefb609114f5fbc36ebc58c81284499d97de50f0b9972f3af14466",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": 41242,
+      "previous_public_revision_id": 41242,
+      "revision_id": 41672,
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z"
+    }
+  ],
+  "site_revision_count": 1
+}

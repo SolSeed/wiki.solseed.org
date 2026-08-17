@@ -1,0 +1,48 @@
+{
+  "canonical_path": "/August_2010_Newsletter",
+  "current_revision_id": "42287",
+  "database_title": "August_2010_Newsletter",
+  "display_title": "August 2010 Newsletter",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 1,
+  "page_id": "731",
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "BenSibelman",
+      "comment": "Created page from the email",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": "42287",
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": "1861",
+      "same_as_previous_public": false,
+      "timestamp": "2010-09-06T22:59:10Z",
+      "wikitext_bytes": 1065,
+      "wikitext_sha256": "602d238356c0c557e119dc0fd1c5fb70f884ec92c45c4f5ed3e9218c1a3851fd",
+      "source_format": "wikitext",
+      "source_extension": "wiki"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 1861,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 1116,
+      "markdown_sha256": "0d3f75ef7b801afdba218415ef57c7b4a3a5354554d3f6358e85900ec7391e4d",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": "1861",
+      "previous_public_revision_id": "1861",
+      "revision_id": "42287",
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z",
+      "wikitext_bytes": 1116,
+      "wikitext_sha256": "0d3f75ef7b801afdba218415ef57c7b4a3a5354554d3f6358e85900ec7391e4d",
+      "source_extension": "md"
+    }
+  ],
+  "site_revision_count": 1
+}

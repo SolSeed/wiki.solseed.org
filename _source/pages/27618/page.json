@@ -1,0 +1,69 @@
+{
+  "canonical_path": "/Talk:Gaia_and_the_Stellar_Lottery",
+  "current_revision_id": 43216,
+  "database_title": "Gaia_and_the_Stellar_Lottery",
+  "display_title": "Talk:Gaia and the Stellar Lottery",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 1,
+  "original_revision_count": 3,
+  "page_id": 27618,
+  "published_revision_count": 3,
+  "revisions": [
+    {
+      "author": "EricSaumur",
+      "comment": "Created page with \"In the discussion after the reading of the play within the January 14th [[Weekly Service Call]], [[Ben]] critiqued this play in two ways:  The first one that I would like to disc...\"",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 40959,
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": 40953,
+      "same_as_previous_public": false,
+      "timestamp": "2017-01-15T16:06:38Z",
+      "wikitext_bytes": 2330,
+      "wikitext_sha256": "5eb0f18b04289e94e8371ed498d1e9a45ede7a61a0213e90d05e2c2e0f06c6b0"
+    },
+    {
+      "author": "EricSaumur",
+      "comment": "",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 40960,
+      "original_parent_revision_id": 40953,
+      "previous_public_revision_id": 40953,
+      "revision_id": 40959,
+      "same_as_previous_public": false,
+      "timestamp": "2017-01-15T17:28:40Z",
+      "wikitext_bytes": 4075,
+      "wikitext_sha256": "90f45ec6c382a9c4d0f4d82a45b85f2769a31c428e71c17c15fc44c948ce7a77"
+    },
+    {
+      "author": "EricSaumur",
+      "comment": "",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 43216,
+      "original_parent_revision_id": 40959,
+      "previous_public_revision_id": 40959,
+      "revision_id": 40960,
+      "same_as_previous_public": false,
+      "timestamp": "2017-01-15T17:29:24Z",
+      "wikitext_bytes": 4076,
+      "wikitext_sha256": "a0b2ff8dbe7465340568f862bfdf123725ba91e9c308d105a054956f75a1d7b8"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 40960,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 4148,
+      "markdown_sha256": "6b47079e2af713cc274356a16a57270d0b7f4906f25be5c7c4fd33e449361aa3",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": 40960,
+      "previous_public_revision_id": 40960,
+      "revision_id": 43216,
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z"
+    }
+  ],
+  "site_revision_count": 1
+}

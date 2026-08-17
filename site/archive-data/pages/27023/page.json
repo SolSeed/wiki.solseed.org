@@ -1,0 +1,48 @@
+{
+  "canonical_path": "/Making_a_New_SolSeed_Music_Video",
+  "current_revision_id": "42642",
+  "database_title": "Making_a_New_SolSeed_Music_Video",
+  "display_title": "Making a New SolSeed Music Video",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 1,
+  "page_id": "27023",
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "BenSibelman",
+      "comment": "Created page",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": "42642",
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": "39045",
+      "same_as_previous_public": false,
+      "timestamp": "2012-09-23T19:05:02Z",
+      "wikitext_bytes": 1051,
+      "wikitext_sha256": "748aaff445003e518700b7e4b2be6b81271a78ae18dd890579aaa7bfb1ea1d39",
+      "source_format": "wikitext",
+      "source_extension": "wiki"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 39045,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 1094,
+      "markdown_sha256": "4b175d49bcd9e4ebb73aa44444890e030d645773549d627e68fe897eac231104",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": "39045",
+      "previous_public_revision_id": "39045",
+      "revision_id": "42642",
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z",
+      "wikitext_bytes": 1094,
+      "wikitext_sha256": "4b175d49bcd9e4ebb73aa44444890e030d645773549d627e68fe897eac231104",
+      "source_extension": "md"
+    }
+  ],
+  "site_revision_count": 1
+}

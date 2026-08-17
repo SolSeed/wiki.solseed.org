@@ -1,0 +1,56 @@
+{
+  "canonical_path": "/Religion-shaped_hole",
+  "current_revision_id": 42762,
+  "database_title": "Religion-shaped_hole",
+  "display_title": "Religion-shaped hole",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 2,
+  "page_id": 27159,
+  "published_revision_count": 2,
+  "revisions": [
+    {
+      "author": "EricSaumur",
+      "comment": "Created page with \"Religion-shaped hole   Human beings tend to have a religion-shaped hole, that is, a set of desires that are fulfilled only by participating in a religion, or at least in an insti...\"",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 39457,
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": 39456,
+      "same_as_previous_public": false,
+      "timestamp": "2013-11-01T13:18:52Z",
+      "wikitext_bytes": 5565,
+      "wikitext_sha256": "06dd756d029a6f7ce286bd386bcb2d5f397b314add7fdea8cb5cb00cb76bf6d6"
+    },
+    {
+      "author": "EricSaumur",
+      "comment": "added picture",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 42762,
+      "original_parent_revision_id": 39456,
+      "previous_public_revision_id": 39456,
+      "revision_id": 39457,
+      "same_as_previous_public": false,
+      "timestamp": "2013-11-01T13:35:40Z",
+      "wikitext_bytes": 5592,
+      "wikitext_sha256": "63bb5f2262bfcab68670108f733f8c632e265cf042256dfe4794d37beb53f4b7"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 39457,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 5621,
+      "markdown_sha256": "5f03f6b0b724c09879faff2775ab6ae8e20fb355a5bf260eac2ad692385dc4b0",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": 39457,
+      "previous_public_revision_id": 39457,
+      "revision_id": 42762,
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z"
+    }
+  ],
+  "site_revision_count": 1
+}

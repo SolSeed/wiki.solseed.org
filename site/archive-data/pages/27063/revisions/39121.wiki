@@ -1,0 +1,78 @@
+== Agenda ==
+* Check In
+* Review WWWs
+* Review Agenda
+* Weekly Events Logistics
+* Brandon's evangelism
+* Song
+* Book
+* Revise topical community protocols
+* Solstice
+* Evaluation
+
+== Check In ==
+* Eric ... my eye is better!
+* Ben ... was feeling really depressed this morning and now feeling better after reading some Always Coming Home by Ursula Le Guin.
+* Brandon ... good, but distracted by trying to commit some changes on the book
+* Sequoia ... good, listening to Zen Ties (a children's book) on the iPad
+* Ren ... just woke up from his nap, he's pretty Zen
+* Shelley ... doing well
+
+== WWWs from last time ==
+* <s>Shelley ... follow your topical community protocol for this week ... ongoing
+* Shelley ... meditate and keep track of which days ... ongoing
+* Brandon ... follow your topical community protocol for this week ... ongoing (changed to focus on Facebook)
+* Brandon ... meditate and keep track of which days ... ongoing
+* Brandon ... order rocket engines and launch apparatus ... by next call
+* Brandon ... get the page numbering working on the book ... by next call (mostly)
+* Brandon ... get the even/odd margins displaying properly in 2page mode in preview ... by next call
+* Brandon ... get the margins set to an appropriate size ... by next call</s>
+* Brandon ... get the images for the first two chapters included and laid out ... by next call
+* Brandon ... get a copy of ''Varieties of Scientific Experience: A Personal View of the Search for God'' ... by next call
+* <s>Ben... follow your topical community protocol for this week ... ongoing
+* Ben... meditate and keep track of which days ... ongoing
+* Ben ... check Terra Lumina about the rights to the song, we'd like to be able to give it away (with attribution) ... by next call</s>
+* Eric... follow your topical community protocol for this week ... ongoing (not sure, need to formalize my protocol)
+* <s>Eric... meditate and keep track of which days ... ongoing</s>
+* Eric ... buy rockets, <s>fireworks(2012-10-30)</s> ... place order before next call
+
+== WWWs ==
+* Shelley ... follow your topical community protocol for this week ... ongoing
+* Shelley ... meditate and keep track of which days ... ongoing
+* Brandon ... follow your topical community protocol for this week ... ongoing
+* Brandon ... meditate and keep track of which days ... ongoing
+* Brandon ... get the images for the first two chapters included and laid out ... by next call
+* Brandon ... create a full-bleed branch and a branch that has margins ... by next call
+* Brandon ... order a copy of a lulu version of each branch ... by next call
+* Brandon ... get a copy of ''Varieties of Scientific Experience: A Personal View of the Search for God'' ... by next call
+* Ben ... follow your topical community protocol for this week ... ongoing
+* Ben ... meditate and keep track of which days ... ongoing
+* Ben ... learn about the Git command line ... by next call
+* Eric ... follow your topical community protocol for this week ... ongoing
+* Eric ... meditate and keep track of which days ... ongoing
+* Eric ... learn about the Git command line ... by next call
+* Eric ... write my topical community protocol ... by next call
+* Eric ... buy rockets ... place order before next call
+
+== Weekly Events Logistics ==
+: Service Saturday November 10, 9:00 am PST ... (Brandon)
+: Rotation: Brandon, Eric, Shelley, Ben
+
+Work-Bee Sunday November 10, 1:30 pm PST 16:30 EST
+
+:In-person service with Vliets: ?
+
+== Book ==
+* http://code.google.com/p/gitextensions/ ... for visualizing the history
+* Need to click Commit and then Sync to publish a change
+
+== Topical Community Protocols ==
+* Ben:
+** Current protocol is to post something to the CELSS Facebook group every week
+** Could go back to the protocol that includes contacting others who might be interested
+** Not sure I want to take on more work; can I count stuff I'm already doing with other groups, even if I don't talk about SolSeed with them?
+
+== Evaluation ==
+* Eric ... git feels like a steep learning curve, it's going to be a lot of work before I become fluent enough to get any payback on the work
+* Shelley ... I'm glad I'm not going to be learning git this week (just kidding) ... Sequoia is off, Ren is calm, now we can start the call
+* Brandon ... fun, yay!

@@ -1,0 +1,56 @@
+{
+  "canonical_path": "/Definitions_of_religion",
+  "current_revision_id": 42596,
+  "database_title": "Definitions_of_religion",
+  "display_title": "Definitions of religion",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 2,
+  "page_id": 11610,
+  "published_revision_count": 2,
+  "revisions": [
+    {
+      "author": "BenSibelman",
+      "comment": "Created page from my notes",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 15029,
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": 15019,
+      "same_as_previous_public": false,
+      "timestamp": "2012-06-25T20:32:42Z",
+      "wikitext_bytes": 2626,
+      "wikitext_sha256": "8a8fbab254c28198d5bccafc181a8db13e40b2de547447779accddb1143f3b7e"
+    },
+    {
+      "author": "BenSibelman",
+      "comment": "Added links",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 42596,
+      "original_parent_revision_id": 15019,
+      "previous_public_revision_id": 15019,
+      "revision_id": 15029,
+      "same_as_previous_public": false,
+      "timestamp": "2012-06-25T20:54:50Z",
+      "wikitext_bytes": 2717,
+      "wikitext_sha256": "06377c898ba5344a90140e269bd39a8d0939c9306d54adcfccc8a760404e0ea7"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 15029,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 2771,
+      "markdown_sha256": "0c9ee6fe832e895c9b34b0cfb615a31f7d981df0fbdf7e20fed1a9d9f7bdf039",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": 15029,
+      "previous_public_revision_id": 15029,
+      "revision_id": 42596,
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z"
+    }
+  ],
+  "site_revision_count": 1
+}

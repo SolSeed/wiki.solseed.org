@@ -1,0 +1,5 @@
+<br style="clear:both"/><noinclude>
+
+Add {{TemplateLink|Clear}} to remove formatting from images or any other "div".
+
+</noinclude>

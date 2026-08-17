@@ -1,0 +1,1 @@
+Photo of [Bonnie](/Bonnie), [Brandon](/Brandon), [Sequoia](/Sequoia), and [Ben](/Ben) heading back to the Orlando hotel where the [100 Year Starship Symposium](/100_Year_Starship_Symposium) is taking place.

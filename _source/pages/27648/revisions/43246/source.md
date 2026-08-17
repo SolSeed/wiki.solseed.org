@@ -1,0 +1,68 @@
+This is one page of the [SolSeed Book of Days](/SolSeed_Book_of_Days)
+
+#### Quotes of the Day
+And for every species ... there is a story!
+-- SolSeed Sabbath Ritual for the [Diversitas](/Diversitas) season
+
+<strong>Life is precious</strong>
+It has always been precious
+It always will be precious
+-- SolSeed Creed
+
+#### Contemplation for the Day
+[Let us imagine](/Suspension_of_Skyfall)
+
+There are flashing red lights and a pounding klaxon.  You are stepping into an airlock sealing a helmet to your spacesuit as you go.  There is another astronaut ahead of you doing the same.  You hear a count down, 'Core breach in 20 seconds, 19, 18...'
+
+The door seals behind you, with a swooshing sound, and a hissing sound starts as the airlock begins to evacuate.  On the far side of the airlock is a door with a clear window and beyond that, just the black of space. 
+
+The countdown continues, '15, 14, 13, ...'  The astronaut ahead of you grabs a big red handle and pulls it.  The door on the far side of the air lock opens, '...11...' and with a woosh you and the other astronaut are fired through the door like a champagne cork.  Even as it begins the woosh rapidly fades and in a second there is no sound except your breathing and the countdown continuing in your ear, '8, 7, 6'.
+
+You are tumbling and as you flip over you see the airlock receding behind you and you see it in context, part of a huge spacecraft dark in the black of space against a backdrop of stars. '4, 3, 2' You flip over again to see the other astronaut tumbling before you. '1, --' there is a bright flash reflected off the spacesuit tumbling ahead.
+
+Now the only sound is your breathing.  You flip over again.  The space ship is gone, replaced only by rapidly dispersing cloud of debris which you are receding from quickly.  You flip over again and see the spacesuit ahead of you stabilized and facing you, the faceplate a blank gold tint.
+
+[Gaia](/Gaia)'s voice comes over your suit-to-suit radio, 'Little one, use your suits maneuvering jets to stabilize or you will end up sick from tumbling.'
+
+'Shouldn't we conserve all supplies?' you say, 'With the ship destroyed these suits are all we have.'  Your tumble turns your back on Gaia and gives you another glimpse of the debris that was your ship.  It is rapidly dispersing and you don't actually see much.
+
+'Maneuvering jets will not be our limiting factor, little one. But getting sick from tumbling might severely limit your survival time.'  You flip back to face Gaia.  You finger the controls on your maneuvering jets.  Once activated they automatically slow and stop your tumbling motion.  They bring you to a stop facing at 90 degrees to Gaia.  
+
+'We are dead regardless, aren't we?'  You play with them until you are facing Gaia, who still just appears as a white space suit with a gold face plate albeit with a bulge in the tummy.  Do they make maternity space suits?
+
+'Not yet, little one. Each moment that we live is precious.'  Gaia replies.  As the glow of the debris from the destroyed ship fades, the stars become more visible.  The galaxy is breathtakingly beautiful from the depths of interstellar space.
+'To whom is our living precious?' you ask.  Gaia is now just a dark silhouette against the backdrop of the stars.
+
+'To all living things in all of the universe.' Gaia replies.  Behind her a large piece of debris looms up.  It doesn't make sense that you would be gaining on it but you are.  Somehow Gaia knows it is there because just before she strikes it, she uses her maneuvering jets to spin around and grabs a handhold in order to land on the debris.
+
+'Is it a salvageable part of the spaceship?' you ask. The distance between you and her is shrinking rapidly.
+
+'No, little one, it is just a telescope.'  Gaia replies, grabbing your hand and pulling onto the huge metal object.
+
+'What good will a telescope be to us?' you ask. Gaia presses a button on the telescope and a monitor lights up showing you a magnified view of the stars.
+
+'It will teach us and show us beautiful things.' Gaia replies.  She adjusts the telescope and a nebula comes into view 'Look, the pillars of the universe.  Wow!'
+
+'How am I supposed to take the time to look at pretty pictures right now.  We have to find shelter, a new spaceship, something.  We've lost our ship.  We are floating in interstellar space with nothing but these suits to keep us alive!'  You are frustrated.  Your toes are getting cold.
+
+'Little one, there will always be crises, and pressing things to do.  If you don't stop to enjoy the beauty of the universe around you at every opportunity, eventually all of the opportunities will slip by you.'  Gaia manipulates some controls and the telescope begins to rotate.
+
+You aren't certain about the idea of stopping to enjoy beauty at this point.  Your oxygen meter is counting down on your heads up display.  Gaia focuses the telescope and zooms it in, on a planet, its view zooms in until the planet's blue green surface more than fills the display.  The telescope seems to penetrate the planet's clouds and then the surface of its ocean and you can see little trilobite-like creatures roaming the bottom of the ocean.  'Little one, when we look out into space we can see into the distant past.  These creatures lived in another galaxy hundreds of millions of years before Terra formed in Sol's heat.  Look closely at them.'
+
+Gaia zooms the telescope in further so that the monitor shows only about a half a dozen of the little creatures but shows them very clearly.  Each one is holding a tiny telescope and looking back at you.
+
+'How can they have telescopes?  They are too primitive aren't they?'  You frown and harrumph at the view in the monitor.
+
+Gaia laughs, 'There is a rare element on their world, called [metaphorium](/metaphorium).  Without it they wouldn't have been able to create these telescopes.  But they are looking into the future with these scopes and seeing you.  They are awed by you.  You are the purpose of their lives. You are why they struggle to survive.  You are why they reproduce.  You are, from their perspective, the future of life and you are, from their perspective, precious.'
+
+Gaia manipulates the controls on the telescope again and you see on the monitor, the words, 'Switching to tachyon mode.'  The view on the monitor shows a large Dyson Tree attached to an icy world floating in the depths of space.  'Now look closely at the life of the future, little one.'  She zooms in on the tree and you see that it too is holding a telescope and looking back at you.
+
+'Are you telling me that it too is watching?' You ask Gaia,
+
+'Yes, the tree also has access to metaphorium.  And it too considers you precious.  You are the past history of Life.  For you it survives and reproduces so that Life will continue as it did in your time.  It honors your efforts at survival by surviving.'  She adjusts the scope again and the monitor says, 'Wide-angle perspective corrected view engaged'  The monitor now shows the Milky Way Galaxy.  The galaxy is holding a telescope with its spiral arms and looking back at you.
+
+'I suppose metaphorium isn't really that rare?' you ask.
+
+'No I suppose not.'  Gaia laughs, 'The galaxy is alive, not very alive, but it is alive and it is watching you as a being that is more alive than it and holding you in awe.'  She adjusts the telescope again.  The monitor says, 'Internal microscope engaged'  It shows millions of bacteria crawling over the inner surfaces of the telescope. 'Bacteria from the outside of your space suit have made their way inside the telescope, little one.  They are preparing to ride this telescope to wherever it is going.'  She zooms in and yes, each bacterium is holding a tiny telescope and looking back at you.  
+
+'That isn't surprising,' you say.  I was beginning to suspect that this entire telescope was made of metaphorium.'

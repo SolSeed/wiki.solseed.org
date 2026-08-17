@@ -1,0 +1,27 @@
+This is one page of the [SolSeed Book of Days](/SolSeed_Book_of_Days)
+
+### January 9th: Sol Formed Like a Broken Cup Jumping Together
+#### Quote of the Day
+Sol, the sun, the fire that sparks life into being --Opening Words of the SolSeed Service in the Season of Genesis
+
+“You may see a cup of tea fall off of a table and break into pieces on the floor.  But you will never see the cup gather itself back together and jump back onto the table.” – Stephen Hawking, A Brief History of Time
+
+#### Thoughts for the Day
+Sometimes an increase in entropy is a wonderfully creative thing.  We are used to thinking about increasing entropy as the death knell of order and Life.  Increasing entropy represents the decreasing potential for work to be done in the universe.  Once entropy has reached a maximum, the universe will be cold and dead with no potential for further work to be done.  Work in the context of physics, includes pumping blood and thinking thoughts.  So once there is no potential for further work to be done there will be no Life.
+
+Cups don't spontaneously form.  Or do they?  A cup is an ordered bit of matter.  Cups are made by potters.  Without a potter, the cup can't come about.  But the potter is also an ordered bit of matter, requiring an ordered bit of matter to create her.  Her mother is the answer to that, but that leads to an infinite regression.  What is the first bit of ordered matter to come about that leads to all of these others.  
+
+One could argue that the universe is and to some degree that is true.  One could argue that the Galaxy was and to an even large degree that is true.  But before the formation of stars, the galaxy would have been a pretty chaotic gas cloud.  The formation of our Sun was in some ways, the first really big ordering event that leads to Hawking's proverbial cup.
+
+The Sun formed from a dense patch of a gas cloud.  As I said, in reality the Universe contained a certain amount of order from the beginning and this was concentrated in Galaxies, and the generations of stars which formed in the galaxy before our Sun were numerous.  And, yes, to some degree those other stars were the potters to our Sun.  Their stellar winds probably blew the gas of our Sun's natal cloud into lumps, one of which ended up becoming our Sun and its Solar system.
+
+But consider that in the midst of that dense patch of gas and dust, the Sun formed itself spontaneously.  The collapsing of that dense patch looks rather like the pieces of a cup gathering themselves up and jumping onto a table.  The atoms in the cloud were attracted together by their mutual gravitation.  The friction between the atoms kept them from swirling at the same radius around their gravitational barycentre.  Friction used up their ballistic energy and converted it into heat.  With ever dropping levels of ballistic energy the atoms fell toward the barycentre.  As they came closer together their mutual gravitational attraction increased, as if the pieces of the cup were even more drawn to repair themselves as they got closer to their goal.  But as the atoms fell toward each other they gained more ballistic energy, converting gravitational potential energy into ballistic energy, and then collisions between them burned that energy up into heat. 
+
+Finally the atoms were concentrated around the Barycenter and they had heated up so much that their collisions were so energetic as to overcome the repulsive forces between very close atoms.  The Hydrogen atoms began to fuse together to form Helium atoms.  Although each Helium atom was more massive than each of the four Hydrogen atoms that formed it, it was less massive than the total mass of the four Hydrogen atoms.  The drop in total mass was small but the missing mass became Energy.  And this Energy became yet more heat.  The atoms became so hot that they glowed in visible light.  The Sun had formed.  Sol literally fell together.
+
+None of this breaks the laws of entropy that Hawking is trying to demonstrate with his idea of cups spontaneously forming.  Matter-Energy had to be degraded in order for the Sun to spontaneously form.  The gravitational potential energy and Mass that came together to form the Sun had more potential to do work than the heat and light that the Sun has emitted since.  But that heat and light were still more than enough to power the spontaneous formation of Life on Earth.  And once that Life formed, it spontaneously gained the ability to replicate, again powered by degrading energy it received from Sol.  And it continued to replicate always powered by degrading energy from Sol.  And eventually that replication led to the potter.  In effect the spontaneous formation of Sol, like a cup magically jumping together, led directly to the cup forming.  The gravitational potential energy and Mass of the gas cloud were what powered the cup's formation and the entire chain of events came about spontaneously from the initial state of the gas cloud.
+
+#### Contemplation for the Day
+[Let us imagine](/Suspension_of_Skyfall)
+
+Spend a few minutes considering how wonderfully creative the universe is, that something so beautiful and useful as the Sun could just fall together, not once but billions of times.  It is, as if, the universe is a kind of magic potter.  And, given that, the spontaneous formation of the Solar system led directly to the evolution of potters and the construction of millions of cups, in a sense, cups do just spontaneously come together out of disorder.

@@ -1,0 +1,43 @@
+{
+  "canonical_path": "/Solstice_Party_Ritual_Planning",
+  "current_revision_id": 42040,
+  "database_title": "Solstice_Party_Ritual_Planning",
+  "display_title": "Solstice Party Ritual Planning",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 1,
+  "page_id": 478,
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "BenSibelman",
+      "comment": "Created page",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 42040,
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": 1297,
+      "same_as_previous_public": false,
+      "timestamp": "2009-12-21T21:45:20Z",
+      "wikitext_bytes": 890,
+      "wikitext_sha256": "743c5b5a0ddf9e9c6a1799508a1566fd73555eb6e6fec2b980455100228551d4"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 1297,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 926,
+      "markdown_sha256": "0fc0ce9f540169b36f2e3803de7c87cd91c175bf64a3899848bec7b41c2754e3",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": 1297,
+      "previous_public_revision_id": 1297,
+      "revision_id": 42040,
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z"
+    }
+  ],
+  "site_revision_count": 1
+}

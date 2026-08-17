@@ -1,0 +1,82 @@
+{
+  "canonical_path": "/SolSeed_book_preface",
+  "current_revision_id": 42493,
+  "database_title": "SolSeed_book_preface",
+  "display_title": "SolSeed book preface",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 4,
+  "page_id": 3172,
+  "published_revision_count": 4,
+  "revisions": [
+    {
+      "author": "BenSibelman",
+      "comment": "Created page with content moved from the Introduction",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 5831,
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": 5168,
+      "same_as_previous_public": false,
+      "timestamp": "2012-02-02T05:09:14Z",
+      "wikitext_bytes": 5126,
+      "wikitext_sha256": "565bab979300bf56c428e29229c73a776d2923e7951822d8380f525305511473"
+    },
+    {
+      "author": "Brandon CS Sanders",
+      "comment": "Finished the preface ... could use a pass by Shelley and Ben",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 6539,
+      "original_parent_revision_id": 5168,
+      "previous_public_revision_id": 5168,
+      "revision_id": 5831,
+      "same_as_previous_public": false,
+      "timestamp": "2012-02-20T04:12:31Z",
+      "wikitext_bytes": 5081,
+      "wikitext_sha256": "8a669fb9ba845c168e5a01a494ab5ef9ceeaaef71d464aae762f13c0aea6c606"
+    },
+    {
+      "author": "Brandon CS Sanders",
+      "comment": "wording tweaks",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 6824,
+      "original_parent_revision_id": 5831,
+      "previous_public_revision_id": 5831,
+      "revision_id": 6539,
+      "same_as_previous_public": false,
+      "timestamp": "2012-02-26T20:59:33Z",
+      "wikitext_bytes": 5052,
+      "wikitext_sha256": "ceeb335dbd339a86b662621dd52929e6ef1d8c4e1a3751d5153552bccaaacfa5"
+    },
+    {
+      "author": "Brandon CS Sanders",
+      "comment": "Taking Eric's suggestion",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 42493,
+      "original_parent_revision_id": 6539,
+      "previous_public_revision_id": 6539,
+      "revision_id": 6824,
+      "same_as_previous_public": false,
+      "timestamp": "2012-03-01T04:45:39Z",
+      "wikitext_bytes": 4704,
+      "wikitext_sha256": "9b500bf3dc19747fad805e824c1c64b9bdf62d71221ca2306b0efaf573efa1c9"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 6824,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 4745,
+      "markdown_sha256": "263acb6fcc1e397082f3afcaca6db8409d435813e930497ee77e7de256fad83f",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": 6824,
+      "previous_public_revision_id": 6824,
+      "revision_id": 42493,
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z"
+    }
+  ],
+  "site_revision_count": 1
+}

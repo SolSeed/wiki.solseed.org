@@ -1,0 +1,48 @@
+{
+  "canonical_path": "/File:AmoniaWorld.jpg",
+  "current_revision_id": "43067",
+  "database_title": "AmoniaWorld.jpg",
+  "display_title": "File:AmoniaWorld.jpg",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 6,
+  "original_revision_count": 1,
+  "page_id": "27469",
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "EricSaumur",
+      "comment": "Artist conception of world with Amonia based life.  (from Wikipedia.org)",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": "43067",
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": "40554",
+      "same_as_previous_public": false,
+      "timestamp": "2015-06-19T02:59:15Z",
+      "wikitext_bytes": 72,
+      "wikitext_sha256": "5ab309ffc6fa8503a66f12f294c9b333b2412bcdd3a528de20a8d7c0c2b3f6ca",
+      "source_format": "wikitext",
+      "source_extension": "wiki"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 40554,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 73,
+      "markdown_sha256": "d66e7d034951b3d0d2e27b11bb627a153bcd8d4aec058daac7158f4e9f416d3a",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": "40554",
+      "previous_public_revision_id": "40554",
+      "revision_id": "43067",
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z",
+      "wikitext_bytes": 73,
+      "wikitext_sha256": "d66e7d034951b3d0d2e27b11bb627a153bcd8d4aec058daac7158f4e9f416d3a",
+      "source_extension": "md"
+    }
+  ],
+  "site_revision_count": 1
+}

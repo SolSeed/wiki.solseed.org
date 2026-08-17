@@ -1,0 +1,48 @@
+{
+  "canonical_path": "/Winter_Solstice_Chant",
+  "current_revision_id": "42989",
+  "database_title": "Winter_Solstice_Chant",
+  "display_title": "Winter Solstice Chant",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 1,
+  "page_id": "27390",
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "BenSibelman",
+      "comment": "Created page from John's blog entry",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": "42989",
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": "40289",
+      "same_as_previous_public": false,
+      "timestamp": "2015-01-11T23:59:37Z",
+      "wikitext_bytes": 765,
+      "wikitext_sha256": "8b759a4272276963bdea31bdfc25ee5da704854ca61a2054471f5166954757f8",
+      "source_format": "wikitext",
+      "source_extension": "wiki"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 40289,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 774,
+      "markdown_sha256": "e15a68af9a8c93cfc448aba41597327c112e0677d76c82e4a21e4a38d9a0539a",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": "40289",
+      "previous_public_revision_id": "40289",
+      "revision_id": "42989",
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z",
+      "wikitext_bytes": 774,
+      "wikitext_sha256": "e15a68af9a8c93cfc448aba41597327c112e0677d76c82e4a21e4a38d9a0539a",
+      "source_extension": "md"
+    }
+  ],
+  "site_revision_count": 1
+}

@@ -1,0 +1,48 @@
+{
+  "canonical_path": "/File:Lori's_concert_at_2012_Spring_Festival.JPG",
+  "current_revision_id": "42531",
+  "database_title": "Lori's_concert_at_2012_Spring_Festival.JPG",
+  "display_title": "File:Lori's concert at 2012 Spring Festival.JPG",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 6,
+  "original_revision_count": 1,
+  "page_id": "6112",
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "BenSibelman",
+      "comment": "A panorama of Lori and her audience.",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": "42531",
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": "8773",
+      "same_as_previous_public": false,
+      "timestamp": "2012-03-25T05:41:18Z",
+      "wikitext_bytes": 36,
+      "wikitext_sha256": "22a64dc29eb71c87852916896e07969a0334d05e7740ef7341b1e43c96bd55ab",
+      "source_format": "wikitext",
+      "source_extension": "wiki"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 8773,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 37,
+      "markdown_sha256": "785f1d429f67f7fe5f52a5e039c780bf0d4244e8aa8da3a8761819ec64f98878",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": "8773",
+      "previous_public_revision_id": "8773",
+      "revision_id": "42531",
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z",
+      "wikitext_bytes": 37,
+      "wikitext_sha256": "785f1d429f67f7fe5f52a5e039c780bf0d4244e8aa8da3a8761819ec64f98878",
+      "source_extension": "md"
+    }
+  ],
+  "site_revision_count": 1
+}

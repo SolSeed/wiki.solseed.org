@@ -1,0 +1,48 @@
+{
+  "canonical_path": "/File:350_by_Bike.JPG",
+  "current_revision_id": "42469",
+  "database_title": "350_by_Bike.JPG",
+  "display_title": "File:350 by Bike.JPG",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 6,
+  "original_revision_count": 1,
+  "page_id": "1773",
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "BenSibelman",
+      "comment": "Photo of the seven participants in the SolSeed [http://www.moving-planet.org/events/us/portland/1142 350 by Bike] event, just before departing the [http://www.moving-planet.org/events/us/portland/527 big Portland Moving Planet event] on our way back to th",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": "42469",
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": "3420",
+      "same_as_previous_public": false,
+      "timestamp": "2011-10-22T18:49:43Z",
+      "wikitext_bytes": 274,
+      "wikitext_sha256": "3f502e322cf22cb4508ba08786b28a65da6e068fc09e42d2f8a4c1575fbda65b",
+      "source_format": "wikitext",
+      "source_extension": "wiki"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 3420,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 290,
+      "markdown_sha256": "3b4ded6c5227b389bcb751e2c214f5931b3c4f90a810f0fb3f166eb501376d9c",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": "3420",
+      "previous_public_revision_id": "3420",
+      "revision_id": "42469",
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z",
+      "wikitext_bytes": 290,
+      "wikitext_sha256": "3b4ded6c5227b389bcb751e2c214f5931b3c4f90a810f0fb3f166eb501376d9c",
+      "source_extension": "md"
+    }
+  ],
+  "site_revision_count": 1
+}

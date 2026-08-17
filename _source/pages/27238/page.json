@@ -1,0 +1,82 @@
+{
+  "canonical_path": "/Summer_Solstice_ritual",
+  "current_revision_id": 42839,
+  "database_title": "Summer_Solstice_ritual",
+  "display_title": "Summer Solstice ritual",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 4,
+  "page_id": 27238,
+  "published_revision_count": 4,
+  "revisions": [
+    {
+      "author": "BenSibelman",
+      "comment": "Created page",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 40062,
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": 39727,
+      "same_as_previous_public": false,
+      "timestamp": "2014-05-24T19:06:17Z",
+      "wikitext_bytes": 2393,
+      "wikitext_sha256": "7a716f326f85fa9faadd7432dcb9252c0d693a9586e88e8790be5516e750a81c"
+    },
+    {
+      "author": "Brandon CS Sanders",
+      "comment": "Name the ritual",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 40063,
+      "original_parent_revision_id": 39727,
+      "previous_public_revision_id": 39727,
+      "revision_id": 40062,
+      "same_as_previous_public": false,
+      "timestamp": "2014-10-13T19:30:35Z",
+      "wikitext_bytes": 2419,
+      "wikitext_sha256": "f7d7e0c4aa26f9377bba4964bc9c5947c3be6a28b45e75e7b4b7fbe9ca9ebf4d"
+    },
+    {
+      "author": "Brandon CS Sanders",
+      "comment": "",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 40064,
+      "original_parent_revision_id": 40062,
+      "previous_public_revision_id": 40062,
+      "revision_id": 40063,
+      "same_as_previous_public": false,
+      "timestamp": "2014-10-13T19:30:43Z",
+      "wikitext_bytes": 2420,
+      "wikitext_sha256": "395df8589702e0c828ffde05dffbfecbc42f767d342389b2618b9946d6432763"
+    },
+    {
+      "author": "Brandon CS Sanders",
+      "comment": "Redirected page to [[Drumming the Eons]]",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 42839,
+      "original_parent_revision_id": 40063,
+      "previous_public_revision_id": 40063,
+      "revision_id": 40064,
+      "same_as_previous_public": false,
+      "timestamp": "2014-10-13T19:30:57Z",
+      "wikitext_bytes": 31,
+      "wikitext_sha256": "eb2ef1de8ace8c88b4205eb55fcdbf07281ad30529ae2f45cf2cb6a530377b09"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 40064,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 73,
+      "markdown_sha256": "d4e321c2d94f60b087c80acbba325a4c1ce3427eedd12d3f6ee6abd24c550fab",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": 40064,
+      "previous_public_revision_id": 40064,
+      "revision_id": 42839,
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z"
+    }
+  ],
+  "site_revision_count": 1
+}

@@ -1,0 +1,48 @@
+{
+  "canonical_path": "/File:SolSeed_Village_visualization_2.jpg",
+  "current_revision_id": "41949",
+  "database_title": "SolSeed_Village_visualization_2.jpg",
+  "display_title": "File:SolSeed Village visualization 2.jpg",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 6,
+  "original_revision_count": 1,
+  "page_id": "385",
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "BenSibelman",
+      "comment": "Closer-to-finished version of [[Ben]]'s PhotoShop visualization of the [[SolSeedVillage]] for his video [[Pick a Future]].",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": "41949",
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": "1107",
+      "same_as_previous_public": false,
+      "timestamp": "2009-11-14T07:35:23Z",
+      "wikitext_bytes": 122,
+      "wikitext_sha256": "432ef0f23b5a4c939be7f9e09a0dbafbd05782282c688e34e96bb5b64c5d5738",
+      "source_format": "wikitext",
+      "source_extension": "wiki"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 1107,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 156,
+      "markdown_sha256": "ebea7835b8125df110f549d8365c22951011f8380c3667d32fcb666cc27d12a2",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": "1107",
+      "previous_public_revision_id": "1107",
+      "revision_id": "41949",
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z",
+      "wikitext_bytes": 156,
+      "wikitext_sha256": "ebea7835b8125df110f549d8365c22951011f8380c3667d32fcb666cc27d12a2",
+      "source_extension": "md"
+    }
+  ],
+  "site_revision_count": 1
+}

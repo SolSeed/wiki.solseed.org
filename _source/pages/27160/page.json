@@ -1,0 +1,43 @@
+{
+  "canonical_path": "/File:SocialChimps.jpg",
+  "current_revision_id": 42763,
+  "database_title": "SocialChimps.jpg",
+  "display_title": "File:SocialChimps.jpg",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 6,
+  "original_revision_count": 1,
+  "page_id": 27160,
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "EricSaumur",
+      "comment": "A picture of two chimpanzees in their natural habitat with the words, \"We have evolved in tightly bound social groups and we are happier when we are immersed in that ancient habitat. \"",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 42763,
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": 39458,
+      "same_as_previous_public": false,
+      "timestamp": "2013-11-01T13:39:21Z",
+      "wikitext_bytes": 184,
+      "wikitext_sha256": "747c30eeec5d2daf7af192f272713312f0e65963e8d1affa71898595c53078b3"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 39458,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 185,
+      "markdown_sha256": "cb44b172f09b5a12068d7111d5b638902be61e81ec2d4d4b249595c0ff6fdf81",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": 39458,
+      "previous_public_revision_id": 39458,
+      "revision_id": 42763,
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z"
+    }
+  ],
+  "site_revision_count": 1
+}

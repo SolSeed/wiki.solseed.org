@@ -1,0 +1,43 @@
+{
+  "canonical_path": "/File:Sol2009rocket.JPG",
+  "current_revision_id": 41938,
+  "database_title": "Sol2009rocket.JPG",
+  "display_title": "File:Sol2009rocket.JPG",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 6,
+  "original_revision_count": 1,
+  "page_id": 374,
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "BenSibelman",
+      "comment": "Photo of the painted papier-mache rocket from [[Sol 2009]].",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 41938,
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": 1088,
+      "same_as_previous_public": false,
+      "timestamp": "2009-11-13T04:08:21Z",
+      "wikitext_bytes": 59,
+      "wikitext_sha256": "0b1a5fcb4d3094a7ade0ced8ba14dae3ca2fb2193dd7bef08cbeb6bdd1ccfb8f"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 1088,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 69,
+      "markdown_sha256": "c7bb0ab8983e05f9f50d234f11dd1b9ad274c1652762c334d2f9c0cc184be056",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": 1088,
+      "previous_public_revision_id": 1088,
+      "revision_id": 41938,
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z"
+    }
+  ],
+  "site_revision_count": 1
+}

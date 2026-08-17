@@ -1,0 +1,69 @@
+{
+  "canonical_path": "/Duck_Weed_Experiment_One",
+  "current_revision_id": 42889,
+  "database_title": "Duck_Weed_Experiment_One",
+  "display_title": "Duck Weed Experiment One",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 3,
+  "page_id": 27289,
+  "published_revision_count": 3,
+  "revisions": [
+    {
+      "author": "EricSaumur",
+      "comment": "Created page with \"<html> <head><title>Experiments In Duck Weed Growth</title></head> <body>  <h1>Experiments in Duck Weed Growth</h1>  <h2>Introduction</h2> <p> These experiments were conducted in...\"",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 39968,
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": 39967,
+      "same_as_previous_public": false,
+      "timestamp": "2014-09-04T02:07:09Z",
+      "wikitext_bytes": 7266,
+      "wikitext_sha256": "acae6418a746dde320c7140ac4dd27a0429b4271b98df46833453c2893ef6aaf"
+    },
+    {
+      "author": "EricSaumur",
+      "comment": "",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 39969,
+      "original_parent_revision_id": 39967,
+      "previous_public_revision_id": 39967,
+      "revision_id": 39968,
+      "same_as_previous_public": false,
+      "timestamp": "2014-09-04T02:07:33Z",
+      "wikitext_bytes": 7192,
+      "wikitext_sha256": "178fa0ce3dd5d4ae097b99559a93a395c7d7e0a6c9f0b8d3a3ec5717da1697e7"
+    },
+    {
+      "author": "EricSaumur",
+      "comment": "spelling check",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 42889,
+      "original_parent_revision_id": 39968,
+      "previous_public_revision_id": 39968,
+      "revision_id": 39969,
+      "same_as_previous_public": false,
+      "timestamp": "2014-09-04T02:10:10Z",
+      "wikitext_bytes": 7161,
+      "wikitext_sha256": "d765923b5378cba2917b64cc67c8b5c8b8821dc280fec4e0a28f2bc1ffe04179"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 39969,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 6794,
+      "markdown_sha256": "e05c0fc51e76a8682c4f90d3a07afde3bc337988848cad1dcb76c6a78b23a059",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": 39969,
+      "previous_public_revision_id": 39969,
+      "revision_id": 42889,
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z"
+    }
+  ],
+  "site_revision_count": 1
+}

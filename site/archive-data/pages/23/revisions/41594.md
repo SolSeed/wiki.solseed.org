@@ -1,0 +1,466 @@
+[SolSeed](/SolSeed) < [SolSeedMovement](/SolSeedMovement)
+
+From the [SolSeedCreed](/SolSeedCreed)
+----
+![right](/assets/uploads/SolSeedEmblemThumbnail.jpg)
+
+We believe that:
+
+[TheDestiny](/TheDestiny) of [SolSeed](/SolSeed)
+is to take root amongst the stars.
+
+[Sol](/Sol),
+[Terra](/Terra),
+you,
+me,
+we,
+ALL,
+are precious [SolSeed](/SolSeed).
+
+As [SolSeed](/SolSeed)'s intelligent spark, 
+WE are its caretakers,
+WE must fulfill [TheDestiny](/TheDestiny).
+
+Members of the [SolSeedMovement](/SolSeedMovement) are united by a single tenet: Life is Precious. We invite you to **[join our community](/JoiningTheMovement)**. The SolSeedMovement exists to support **all** people who believe that life is precious.
+
+The [SolSeedMovement](/SolSeedMovement) is a practical philosophy, a praxis, a way of being in community with the body of all life. We are a coalition of diverse people brought together by the core values that we all share. Rather than spend our energy on questions of faith, politics, or policy that too often divide us, we are working out what it means to live our shared truth, beauty, and values. 
+
+Working alone, we can each have an impact on our local community, but working together we can change the world!
+
+The [SolSeed](/SolSeed) Movement is a "Truth, Beauty, and Values Movement":
+
+The [SolSeed](/SolSeed) movement is a [TruthMovement](/TruthMovement) because it pursues truth (i.e., the concepts that best model observable reality) via the scientific method. (See [Wisdom](/Wisdom).)
+
+The [SolSeed](/SolSeed) movement is a [BeautyMovement](/BeautyMovement) because it embraces the power of human passion and seeks to encourage it through the development of the arts.  (See [SelfLove](/SelfLove).)
+
+The [SolSeed](/SolSeed) movement is a [ValuesMovement](/ValuesMovement) because it cultivates moral behavior that is grounded on the assertion that all life is precious and good. (See [Empathy](/Empathy).)
+
+Please feel warmly invited to join us in shaping the body of all life into a community of sharing that cares for each of us.
+
+The [SolSeed](/SolSeed) movement's name and [TheDestiny](/TheDestiny) are inspired by the novels [Parable of the Sower](/Parable_of_the_Sower) and [Parable of the Talents](/Parable_of_the_Talents) by the late [OctaviaButler](/OctaviaButler).
+
+#### Barnraising
+- **<b>Follow the [SolSeedMovement Activity](/Special:Recentchangeslinked/Category:SolSeedMovement)!**
+- Help [organize](/SolSeedMovement/Organizing) the movement
+- You are warmly invited to ** in the [comments sectio](/SolSeedComments)n, or to comment anywhere in the page.
+- The [SolSeed Movement](/SolSeedMovement) is in "alpha". We are still working out the goals, direction, and shape of our movement. This is an exciting time to [join](/JoinTheMovement), participate, and [be a builder](/Category:ITryToBeABuilder). Your influence and ideas are welcomed and needed!
+- Planning for the [Longest Night Festival](/Longest_Night_Festival) is underway. Join us December 19-21, 2009!
+
+#### Tasks
+**Help [SolSeed](/SolSeed) by completing items on the task list!
+<b>** to the task list. 
++ <s>The [Discipline](/Discipline) entry under Related Topics needs to be filled in.</s>
++ The [Sabbath](/Sabbath) and [Sowing](/Sowing) entries need to be filled in.  Perhaps these should be moved to the [Religion and SolSeed](/ValuesMovement) pages? 
++ The SolSeedMovementMember category is not listing all users who have signed in under [JoinTheMovement](/JoinTheMovement). Needs to be addressed. 
++ [Stubs](/Definition:Stub) need to be created for all categories under "Institutions and Tangibles".
++ [ValueJudgement](/ValueJudgement) under [ValuesMovement](/ValuesMovement) points to a page that doesn't exist yet. Need to either create the page or revise the statement. 
++ The [SolSeedVision](/SolSeedVision) is currently a draft of the creed. We need to articulate the vision of this movement. This is a large group task. I'd like to have some input from members in [SolSeedComments](/SolSeedComments) or [organize](/SolSeedMovement/Organizing) in order to address this. 
++ Idea for refactoring: [SolSeed](/SolSeed) is more than just a movement--depending on what a prospective member wants from it, it can also be viewed as a [community](/SolSeedCommunity), a [philosophy](/SolSeedPhilosophy), and/or a dynamic set of [scripture](/SolSeed_and_Religion) that can be added without conflict to any type of faith (including [atheism](/SolSeed_and_Atheism)).  Please comment on this at [SolSeedFacets](/SolSeedFacets).
++ Symbols are important.  It would be nice to get a group decision on what to use for the [SolSeed Emblem](/SolSeed_Emblem).
+  
+
+----
+
+#### Related Topics:
+- The [SolSeedVision](/SolSeedVision)
+- [SolSeed and Religion](/SolSeed_and_Religion)
+- [GaiaEarthseed and the SolSeedMovement](/GaiaEarthseed_and_the_SolSeedMovement) (historical)
+- Human attributes and abilities that should be nurtured and balanced
+  - [SelfLove](/SelfLove)
+  - [Empathy](/Empathy)
+  - [Wisdom](/Wisdom)
+  - [Discipline](/Discipline)
+- [SolSeed and the Human Being](/SolSeed_and_the_Human_Being) (the [SolSeedAnthropology](/SolSeedAnthropology))
+  - [Sabbath](/Sabbath)
+  - [Sowing](/Sowing)
+- Institutions and tangibles that the [SolSeedMovement](/SolSeedMovement) will set up to enable its members
+  - [SolSeedNetwork](/SolSeedNetwork)
+  - [SolSeedCommunityCenter](/SolSeedCommunityCenter)
+  - [SolSeedTeeShirt](/SolSeedTeeShirt)
+  - [SolSeedPersonalServer](/SolSeedPersonalServer)
+
+**[SolSeedMovement](/SolSeedMovement) News**
+
+#### August 2018
+[Gaia's People](/Gaia's_People) begins to explore collaboration with [Pagan Renewal](/Pagan_Renewal)
+
+#### August 2018
+Unconference in Portland Oregon on Resilient Communities
+
+#### March 2018
+[2018 Spring Equinox Storytelling and Sushi Feast](/2018_Spring_Equinox_Storytelling_and_Sushi_Feast)
+
+#### February 2017
+Mexican dinner outings in both Portland and Ottawa
+
+#### September 2017
+- [Brandon](/Brandon), [Shelley](/Shelley), [Sequoia](/Sequoia), [Ren](/Ren), [Ben](/Ben) and [Eric](/Eric) painted Eric's Gaia Statue at Buckleberry.
+
+#### June 2017
+- [Brandon](/Brandon), [Shelley](/Shelley), [Sequoia](/Sequoia), and [Ren](/Ren) celebrated the Summer Solstice on June 20th with a canoe trip to Ross Island, including [Drumming the Eons](/Drumming_the_Eons).
+- [Eric](/Eric) did a [YayLifeTri](/YayLifeTri) in separate segments on June 23rd, 24th, and 25th, including the [Perth Kilt Run](http://www.perthkiltrun.ca/) as the running segment.
+
+#### May 2017
+- Workbee in Hoyt Arboretum, Tree planting at Buckleberry
+
+#### March 2017
+- [2017 Spring Equinox Storytelling and Sushi Feast](/2017_Spring_Equinox_Storytelling_and_Sushi_Feast) in Seattle and Ottawa
+
+#### February 2017
+- Riverrain hike in Tryon Creek State Park in Oregon, Skating outing in Ottawa on the Rideau Canal, Mexican dinner outings in both Portland and Ottawa, Terra Mystica - Fire and Ice in Ottawa.
+
+#### December 2016
+- We held our second annual [Space Elevator Solstice](https://www.meetup.com/SolSeed/events/236232325/) in Portland and Gatineau. This time we built two climbers and a conveyor-belt elevator.
+
+#### October/November 2016
+- [Brandon](/Brandon), [Shelley](/Shelley), [Sequoia](/Sequoia), [Ren](/Ren) and [Ben](/Ben) gathered in Portland for the [Saturn Holloween](/Saturn_Holloween) event while [Eric](/Eric) and his family celebrated [Samhain](/Samhain) in [Gatineau](/Gatineau) a week later.  At both events we played the Xtronaut boardgame to celebrate the space program.   
+
+#### September 2016
+- We participated in the [Earthseed Festival of Changes](/Earthseed_Festival_of_Changes), part of John Halstead and Tony Schlisser's new [Earthseed](http://www.godischange.org) Wheel of the Year.
+
+#### August 2016
+- [Brandon](/Brandon), [Shelley](/Shelley), [Sequoia](/Sequoia), [Ren](/Ren), [Ben](/Ben), and [Eric](/Eric) gathered in Portland for the [Shiny Green Acorn Festival](/Shiny_Green_Acorn_Festival) from the 12th to the 14th, joined by friends of SolSeed including Eric's wife Michelle, Ben's father Steve, and Ted Sarvata.
+
+#### July 2016
+- On July 1, we joined John and his daughter Katya for the first event in the new Earthseed Wheel of the Year, the [Festival of the Teacher](https://godischange.org/2016/07/02/festival-of-the-teacher-outline/).
+
+#### June 2016
+- [[Brandon and [Ben](/Ben) joined Earthseed Shaper John Halstead to attend the [Shaping Change Conference](/Shaping_Change_Conference) in San Diego from June 3-5.
+- On June 18th, we joined John Halstead and fellow Shaper Tony Schlisser for an [Earthseed Rite of Remembrance for the Orlando shooting victims](https://godischange.org/2016/06/17/shape-god-shape-change-shape-gun-control-legislation/).
+
+#### April 2016
+- [Ben](/Ben) was a speaker at the [Contact Conference](http://contact-conference.com/) in Silicon Valley from Friday the 1st to Sunday the 3rd, presenting a [talk](https://onedrive.live.com/redir?resid=5FC9CD5EA201996E!3577&authkey=!ANyLuSxWHdkuHMk&ithint=file%2cdocx) on Friday expanding on [Eric](/Eric)'s vision of [Biospheric Communionism](https://sites.google.com/site/biosphericcommu/).
+- On Saturday the 30th, [Brandon](/Brandon), [Shelley](/Shelley), [Sequoia](/Sequoia), [Ren](/Ren), and [Ben](/Ben) joined a work party to clear English ivy from trees in Marquam Nature Park in Portland.
+
+#### March 2016
+- On Sunday the 20th, we held the [2016 Spring Equinox Storytelling and Sushi Feast](/2016_Spring_Equinox_Storytelling_and_Sushi_Feast) in Redmond and Gatineau, including the board games Evolution and Terra Mystica: Fire & Ice.
+
+#### February 2016
+- On Saturday the 6th, [Brandon](/Brandon), [Shelley](/Shelley), [Sequoia](/Sequoia), [Ren](/Ren), and [Ben](/Ben) went on a [Riverain hike](http://www.meetup.com/SolSeed/events/228142309/) in Portland with old and new friends, including [Ted](/Ted) and his family. Then we went to dinner with Ben's parents and Keith Lofstrom at a Mexican place that serves deep-fried ice cream.
+
+#### January 2016
+- [Brandon](/Brandon), [Eric](/Eric), and [Ben](/Ben) became Shapers of John Halstead's [Earthseed](http://www.godischange.org) and [Eric](/Eric) started contributing posts to its blog.
+
+#### December 2015
+- On Saturday the 19th, we held the first [Space Elevator Solstice](/A_Space_Elevator_Solstice) in Redmond, with all of our [Contributing Members](/Contributing_Members) ([Eric](/Eric) and Patrick joined via Skype from Gatineau), space-elevator luminaries Michael Laine and Bryan Laubscher, and people from Ben's sci-fi book club.
+
+#### November 2015
+- [Eric](/Eric), Michelle, and Patrick moved to a new home in Gatineau, right next to the immense urban forest of [Gatineau Park](https://www.bing.com/mapspreview?&ty=17&q=Gatineau%20Provincial%20Park%2c%20Quebec%2c%20Canada&vdpid=11853&mb=45.690517~-76.273888~45.414062~-75.737007&ppois=45.5807418823242_-76.0283432006836_Gatineau%20Provincial%20Park%2c%20Quebec%2c%20Canada_~&cp=45.580742~-76.028343&v=2&sV=1&qpvt=gatineau+park+map&FORM=MIRE).
+
+#### October 2015
+- On Saturday the 31st, [Brandon](/Brandon), [Shelley](/Shelley), [Sequoia](/Sequoia), [Ren](/Ren), and [Ben](/Ben) turned the [Seed Village](/Seed_Village) into a space colony for [A Martian Halloween](/A_Martian_Halloween).
+
+#### September 2015
+- On Sunday the 20th, [Brandon](/Brandon), [Shelley](/Shelley), [Sequoia](/Sequoia), [Ren](/Ren), and [Ben](/Ben) had a "Shiny Green equinox" in Portland, featuring a visit to the Industrial Cafe, a [Pagan Pride Day](http://www.owow.org/columbia-willamette-pagan-pride-day/) festival, and Oaks Amusement Park.
+
+#### August 2015
+- On Saturday the 8th through Monday the 10th, we held our first annual [Shiny Green Festival](http://gaia.wiki/Shiny_Green_Festival) in Portland with all of the SolSeed [Contributing Members](/Contributing_Members) and friends both old and new, including Michelle Saumur, Keith Lofstrom, and John, Ruth, Katya, and William Halstead.
+- We started developing a [Kickstarter campaign](/Gaia_Kickstarter) to fund the production of human-sized versions of Oberon Zell's Millennial Gaia statue.
+
+#### July 2015
+- [Eric](/Eric) started work on his concept for a tree-climbing robot that could graft fruit-tree limbs onto existing trees in a forest.
+
+#### June 2015
+- On the weekend of the Summer Solstice, [Brandon](/Brandon), [Shelley](/Shelley), [Sequoia](/Sequoia), [Ren](/Ren), and [Ben](/Ben) visited Maryhill State Park and its Stonehenge replica for [YayLifeTri, Drumming the Eons, and stargazing](/June_21,_2015,_Solstice_trip_to_Maryhill).
+
+#### May 2015
+- [Eric](/Eric) participated in two Ottawa tree-planting events as well as the [2015 Multifaith Housing Initative Tulipathon](/2015_Multifaith_Housing_Initative_Tulipathon).
+- On Saturday the 2nd, [Brandon](/Brandon), [Shelley](/Shelley), [Sequoia](/Sequoia), [Ren](/Ren), and [Ben](/Ben) participated in a [Hoyt Arboretum work party](http://www.meetup.com/SolSeed/events/222122349/) and were joined by Ben's parents for a showing of the movie [*Planetary*](http://www.weareplanetary.com).
+
+#### March 2015
+- [Ben](/Ben) started working on the [SolSeed History](/SolSeed_History) page to help share the story of our first ten years with members and friends.
+- We celebrated the Spring Equinox with our third annual SolSeed [Storytelling and Sushi Feast](/2015_Spring_Equinox_Storytelling_and_Sushi_Feast). ([Eric](/Eric) has been holding these for much longer.)
+
+#### February 2015
+- [Brandon](/Brandon) attended the big Pagan convention, [Pantheacon 2015](/Pantheacon_2015) in San Jose on President's Day Weekend.
+- [Ben](/Ben) visited the world-famous [Biosphere 2](/Biosphere_2) closed-ecosystem research facility near Tucson on Friday the 20th.
+- On Saturday the 28th, [Brandon](/Brandon), [Shelley](/Shelley), [Sequoia](/Sequoia), [Ren](/Ren), [Ben](/Ben) and his parents held the [SolSeed 10th Anniversary Celebration](/SolSeed_10th_Anniversary_Celebration), featuring a canoe trip to Ross Island in Portland.
+
+#### December 2014
+- [Brandon](/Brandon) started the [Gaia Wiki](http://gaia.wiki) project, and [Ben](/Ben) and [Eric](/Eric) helped create content for it.
+- On Saturday the 21st, [Brandon](/Brandon), [Shelley](/Shelley), [Sequoia](/Sequoia), [Ren](/Ren), [Ben](/Ben) and his parents, and [Ted](/Ted) and his family participated in the [Longest Night Masquerade](/Longest_Night_Masquerade), featuring a blend of SolSeed and Pagan elements such as the "Holly King and Queen."
+
+#### November 2014
+- [Brandon](/Brandon) got his [blog entry](http://humanisticpaganism.com/2014/11/16/gaias-heartbeat-practicing-empathy-for-the-mother-of-us-all-by-brandon-sanders/) about [Gaia's Heartbeat](/Gaia's_Heartbeat) posted on the Humanistic Paganism website.
+
+#### October 2014
+- On Sunday the 5th, [Eric](/Eric) presented a [service about SolSeed](/Unitarian_Universalist_Fellowship_of_Ottawa_Service_Entitled,_"SolSeed:_An_Example_of_Defining_a_Life_Purpose") for the Unitarian Universalist Fellowship of Ottawa.
+- SolSeed became a partner of the [The Spiritual Naturalist Society](http://spiritualnaturalistsociety.org)
+
+#### September 2014
+- On Saturday the 20th, [Ben](/Ben) gave a talk at the [Seed Village](/Seed_Village) about global warming and ways to fix it, attended by [Brandon](/Brandon), [Shelley](/Shelley), [Sequoia](/Sequoia), [Ren](/Ren), Ben's parents, and three new acquaintances. Then we made protest signs which we brought to the [climate rally](http://act.350.org/event/peoples_climate/7762) the next day.
+- On Friday the 26th, [Eric](/Eric) got his blog post [Why I'm Religious but not Spiritual](http://humanisticpaganism.com/2014/09/26/why-im-religious-but-not-spiritual-by-eric-saumur/) posted on the Humanistic Paganism website.
+
+#### August 2014
+- [Ben](/Ben) traveled with Lion, a long-time [friend](/friend) of SolSeed, to visit the [Windward](http://www.windward.org/2.0/index.php) intentional community in southern Washington State.
+
+#### July 2014
+- [Ben](/Ben) finished a [short music video](https://www.youtube.com/watch?v=5BGDLdHfn3E) using the chorus of [The Seed](/The_Seed).
+
+#### June 2014
+- [Brandon](/Brandon), [Shelley](/Shelley), [Sequoia](/Sequoia), [Ren](/Ren), [Ben](/Ben), [Eric](/Eric), and [Patrick](/Patrick) got together on Mt. Hood in Oregon for [Sol 2014](/Sol_2014).
+
+#### March 2014
+- In Portland, [Brandon](/Brandon), [Shelley](/Shelley), [Sequoia](/Sequoia), [Ren](/Ren), and [Ben](/Ben) celebrated the Spring Equinox by planting bioswales in the Lents neighborhood, then joined [Eric](/Eric) via Skype to [tell stories about life in the Phanerozoic Eon](http://www.meetup.com/SolSeed/events/170344262/).
+- The SolSeed Movement began an experiment with a system of governance called [Holacracy](http://holacracy.org/).
+
+#### February 2014
+- [Eric](/Eric) created our [second orientation email](http://us2.campaign-archive2.com/?u=13bb3beac4bdd8a84e81f0a49&id=aeb104e4d0&e=).
+
+#### January 2014
+- [Brandon](/Brandon) created the [first SolSeed orientation email](http://us2.campaign-archive2.com/?u=13bb3beac4bdd8a84e81f0a49&id=68156dd609&e=). 
+- John completed the [Gaia's Heartbeat](/Gaia's_Heartbeat) music video, working through several drafts and incorporating our feedback.
+
+#### December 2014
+- John completed the [Gaia's Heartbeat](/Gaia's_Heartbeat) song and started work on the accompanying video.
+- For the Winter Solstice, we invited two teachers from a company called [Music Together](http://musictogether-pdx.com/) to lead us in a series of sing-alongs, including dancing and instruments such as drums and “jingle bells” that everyone could play. 
+- We returned to the first liturgical season, [Genesis](/Genesis), which uses the original opening ritual developed back in 2010.
+
+#### November 2013
+- We started celebrating the eighth liturgical season, [Viventibus Galaxia](/Viventibus_Galaxia) (Living Galaxies).
+- [Brandon](/Brandon) started working with John Boswell on a new song and music video called [Gaia's Heartbeat](/Gaia's_Heartbeat).
+
+#### September 2013
+- On the Fall Equinox, [Brandon](/Brandon), [Shelley](/Shelley), [Sequoia](/Sequoia), [Ren](/Ren), and [Ben](/Ben) went on a hike and had a picnic dinner at Bridal Veil Falls in the Columbia Gorge.
+- Eric's family had an equinox dinner where each food item combined dark and light colors to represent the balance of day and night on the Equinox.
+- We established a SolSeed "liturgical year" that will have eight separate rituals for our [Weekly Service Calls](/Weekly_Service_Calls), and started using the new ritual for [Viventibus Mundos](/Viventibus_Mundos) (Living Worlds), the seventh of the eight "liturgical seasons."
+
+#### June 2013
+- We held the [Sol 2013](/Sol_2013) retreat in Ottawa.
+- We sponsored a Portland State Aerospace Society [rocket launch](http://psas.pdx.edu/launch10/#index5h2)!
+
+#### May 2013
+- John and Will completed the final draft of the [SolSeedSong](/SolSeedSong)!
+
+#### April 2013
+- John and Will completed the first draft of the [SolSeedSong](/SolSeedSong).
+
+#### March 2013
+- We held the [2013 Spring Equinox Storytelling and Suishi Feast‎](/2013_Spring_Equinox_Storytelling_and_Suishi_Feast‎) in Portland and Ottawa.
+
+#### January 2013
+- We held the [2013 Vision/Purpose Retreat](/2013_Vision/Purpose_Retreat) on Skype to talk about what SolSeed is all about and what our primary statement of purpose should look like (or if we should have more than one!)
+
+#### December 2012
+- We held rocket launching events for the Winter Solstice, one in [Portland](/2012_Portland_Winter_Solstice_Event) and one in [Ottawa](http://www.meetup.com/SolSeed-Ottawa/events/91063842/).
+![200px](/assets/uploads/RocketToTheDestinySupplies.png)
+
+#### November 2012
+- [Ben](/Ben) finished the [SolSeedSong](/SolSeedSong) lyrics and sent them to John and Will.
+- [Brandon](/Brandon) got partial a hard copy of the [SolSeed book](/SolSeed_book) printed so we could see what it would look like.
+
+#### October 2012
+- First [Seeing Nature - Reading & Practice](http://www.meetup.com/SolSeed-Ottawa/events/84842872/) in Ottawa
+
+#### September 2012
+- We built tabletop biospheres on the [Fall Equinox](http://www.meetup.com/SolSeed/events/82010942/). Unfortunately they didn't last very long.
+- [Eric](/Eric) held an [Equinox in Space](http://www.meetup.com/SolSeed-Ottawa/events/72836712/) celebration in Ottawa.
+- Completed the [pedal powered water pump](/Tree_Waterer_Sub_Movement)
+
+#### August 2012
+- We helped fund John Boswell and Will Crowley's original album of songs about science, [Terra Lumina](http://terralumina.bandcamp.com/album/terra-lumina). In exchange, they're writing  the [SolSeedSong](/SolSeedSong) !
+- [Ben](/Ben) presented a paper called "Why go to space?" at the [2012 Space Elevator Conference](/2012_Space_Elevator_Conference).
+- Started weekly "[Seeing Nature](http://www.amazon.com/Seeing-Nature-Deliberate-Encounters-Visible/dp/189013242X)" [reading and practice meetup events](http://www.meetup.com/SolSeed/events/77421192/) in Portland
+
+#### July 2012
+- The beginning of the [pedal powered water pump](/Tree_Waterer_Sub_Movement)
+
+#### June 2012
+- [Ben](/Ben) is presenting a [talk](/PeoplePowerTalk) at the [We the People Power Festival](http://fremontartscouncil.org/fremont-solstice-parade/we-the-people-power-festival/) on the 16th in Seattle.
+- We're holding our fifth big unconference retreat, [Sol 2012](/Sol_2012), starting on the Summer Solstice at the the Oregon coast.
+- We're also holding our first ever Summer Solstice triathlon in Portland, [YayLifeTri](/YayLifeTri), along with [Eric](/Eric)'s companion event in [Ottawa](http://www.meetup.com/SolSeed-Ottawa/events/65147032/).
+
+#### April 2012
+- We visited the Silverton area for [Earth Day 2012](/Earth_Day_2012).
+
+#### March 2012
+- We had an awesome [Spring Equinox Festival](/Spring_Equinox_2012) at the [Seed Village](/Seed_Village) in Portland, Oregon, featuring lots of activities for kids, music and dancing, and brunch.
+- We also [told stories and shared sushi](/Spring_Equinox_2012_-_March_19,_2012_Story_Tell_and_Sushi_Feast) in Ottawa, Ontario, home to new active member [Eric](/Eric) and his family.
+- [Ben](/Ben) met some famous scientists and had a great time helping to design an alien culture at the [Contact Conference](/Contact_Conference) in Sunnyvale, California.
+
+#### January 2012
+- The first SolSeed Meetups involve a sit-down dinner and then a [Symphony of Science](http://www.symphonyofscience.com) movie-watching party.
+
+#### December 2011
+- We held our third [Winter Solstice celebration](/Winter_Solstice_2011), featuring a hike up Mt. Taber in the dark, followed by a candlelit dinner.
+
+#### October 2011
+- We created the [SolSeed Meetup group](http://www.meetup.com/SolSeed) and quickly got several interesting people signed up.
+- We started cultivating kindred [Topical Communities](/Topical_Communities).
+
+#### September 2011
+- For the Fall Equinox this year, we're participating in the [Moving Planet](http://www.moving-planet.org) worldwide climate action event by holding a [group bike ride](http://www.moving-planet.org/events/us/portland/1142) to the [big Portland event](http://www.moving-planet.org/events/us/portland/527).
+- [Brandon](/Brandon), [Shelley](/Shelley), [Sequoia](/Sequoia), [Ben](/Ben), and [Boni](/Boni) are all going to Orlando, Florida for the [100 Year Starship Symposium](http://www.100yss.org/)!
+
+#### August 2011
+- [Ben](/Ben) and [Brandon](/Brandon) attended the [Space Elevator Conference](http://spacewiki.com/Space_Elevator_Conference) in Redmond to promote [SpaceWiki](/SpaceWiki), and Brandon gave a talk about building a [railway to space](http://www.startram.com) for the 150th aniversary of the transcontinental railroad.
+
+#### June 2011
+- To celebrate the Summer Solstice this year, we went on a [hike to beautiful Wahclella Falls](/Summer_Solstice_2011) in the Columbia Gorge, followed by dinner at the Seed Village.
+
+#### May 2011
+- On Memorial Day weekend, we held a [Vision Workshop](/Vision_Workshop) at the [Seed Village](/Seed_Village).
+
+#### April 2011
+- We once again attended the City Repair [Earth Day festival](/Earth_Day_2011) as exhibitors, this time with a triple-wide booth where we also hosted Mathew and Molly with [Cloacina](http://www.cloacina.org) and Gus with the [Green Granges](http://www.greengranges.org/).
+
+#### March 2011
+- We hired [Swift Architecture](http://www.swiftarch.com) to start designing the "Seed Pod," the backyard cottage that will be the second home added to the [Seed Village](/Seed_Village).
+
+#### February 2011
+- We held our fourth [Open Space](/Open_Space) event, [Seed 2011](/Seed_2011), on the slopes of Mt. Hood!
+
+#### January 2011
+- We had a [Music Festival](/Music_Festival) on the 15th featuring local singer, songwriter, and pianist [Lori Henriques](http://www.reverbnation.com/lorihenriques)!
+
+#### December 2010
+- Join us for the [Longest Night Festival](/Solstice2010), Tuesday December 21, 2010 at the Seed Village. Email Shelley for details.
+
+#### November 2010
+- [Brandon](/Brandon) and [Ben](/Ben) went to the student-run [SpaceVision 2010](http://spacewiki.com/SpaceVision) conference in Sunnyvale, CA to promote the [SpaceWiki](/SpaceWiki) project.
+
+#### October 2010
+- Molly took us on an [EcoVillageTour](/EcoVillageTour), visiting five intentional communities around East Portland.
+- [Brandon](/Brandon) quit his job at [AboutUs](http://www.aboutus.org) and founded the first [SolSeedBusiness](/SolSeedBusiness), quickly obtaining contracts to do [consensus polling](/consensus_polling) for the [Meyer Memorial Trust](http://www.mmt.org) and a follow on contract with AboutUs continuing work he was doing before he left.
+
+#### September 2010
+- We held a [SolSeed Service](/SolSeed_Service) celebrating the [Fall Equinox](/EquinoxCelebration) at the [SolSeedVillage](/SolSeedVillage).
+
+#### August 2010
+- [SolSeed](/SolSeed) helped sponsor the [Buckman Neighborhood Picnic](http://www.buckmanpdx.org/picnic) and held another [mural painting](/SecondMural) there.
+
+#### July 2010
+- [Brandon](/Brandon) and [Ben](/Ben) went to the [NewSpace 2010](/NewSpace_2010) conference in Sunnyvale, CA to promote the new [SpaceWiki](/SpaceWiki) project.
+
+#### June 2010
+- We officially decided that [Brandon](/Brandon) and [Shelley](/Shelley)'s house *is* the site for the [SolSeedVillage](/SolSeedVillage)!
+- Then we held a [Longest Day Party](/Longest_Day_Party) in their backyard on the Summer Solstice.
+
+#### May 2010
+- ["Lettuce" Bring Life](/"Lettuce"_Bring_Life) -- the seeds planted at our [Earth Day 2010](/Earth_Day_2010) event are germinating! ![Milky Way Lettuce Day 11](/assets/uploads/100505_Wed_1349_45.jpg)
+
+#### April 2010
+- We had a great time at [Norwescon 33](/Norwescon_33) and met lots of awesome people, 9 of whom have become [FriendsOfSolSeed](/FriendsOfSolSeed).
+- We had a double-wide booth at the Portland Earth Day event, ["Re-Seeding Our World"](http://cityrepair.org/projects/earthday/), with fun activities including actual seed planting!
+
+#### March 2010
+- We reserved a table at [Norwescon](http://www.norwescon.org/archives/norwescon33/)!
+- We held the second [SolSeed Service](/SolSeed_Service), featuring an equinox-themed celebration and discussion of [Balance](/Balance), including a fun children's activity and followed by a potluck.
+
+#### February 2010
+- The first [SolSeed Service](/SolSeed_Service) was a big success, with music, poetry, and discussion centered around the idea of [Empathy](/Empathy).
+
+#### January 2010
+- [Ben](/Ben) finally posts [notes from sessions](/Sol2009/Agenda) he attended at [Sol 2009](/Sol_2009) more than half a year ago!
+
+#### December 2009
+- A warm welcome to all the great people we met at [OryCon 31](/OryCon_31)!
+  - Interested in joining and participating in some of our exciting [projects](/SolSeedProjects)?  See [JoiningTheMovement](/JoiningTheMovement)
+  - Just want to sign up for our monthly newsletter, but didn't get a chance at the con?  See [FriendsOfSolSeed](/FriendsOfSolSeed)
+  - Want to track the progress of our new virtual [Parable of the Sower](/Parable_of_the_Sower) book group?  See [SolSeed Book Program](/SolSeed_Book_Program)
+
+- [Longest Night Festival](/Longest_Night_Festival)
+  - When: Dec. 19-21, 2009 (Saturday-Monday)
+  - What: OpenSpace event followed by a Solstice Party on Monday night
+
+#### November 2009
+- Planning has begun for our next face-to-face event, the [Longest Night Festival](/Longest_Night_Festival), to take place in Portland December 19-21!
+- [Ben](/Ben) has belatedly uploaded some [Sol 2009](/Sol_2009) photos to start the [Sol 2009 Photo Gallery](/Sol_2009_Photo_Gallery).  Who knows, he might post his handwritten notes from the sessions anytime now.
+
+#### October 2009
+- We now have a [OnePagePlan](/OnePagePlan) for the last quarter of 2009 and beyond.
+- We have reserved a table at [OryCon](http://orycon.org)!
+
+#### May 2009
+- [Beach Outing and Cleanup](/Beach_Outing_and_Cleanup) this weekend May 23. Join us!
+
+#### April 2009
+- [Sol2009](/Sol2009) is definitively scheduled for June 27-29 (see the [Invitation](/Sol2009))
+- [Jesse](/User:insane_bubble) joins the movement.
+
+#### March 2009
+- [Jillian](/User:Jillian) joins the movement.
+- [Paul](/Paul) joins the movement.
+- [Sol 2009](/Sol_2009) is getting close to being scheduled for July 4 to 6, 2009 (change of tentative dates).
+
+#### February 2009
+- [Bertie](/Editing_User:Acorn1104) joins the movement. 
+- "SolSeed: Pick a Future" music video trailer posted (currently down while we wait for permission to use the music)
+
+#### January 2009
+- [Alex](/Alex) joins the movement.
+- [Ted](/Ted) joins the movement.
+- [Joy](/Joy) joins the movement.
+- It's the final day for [Seed 2009](/Seed_2009). We've had LOTS of amazing discussions, met some remarkable people, and as we come to a close we are refining our vision for the future of [The Movement](/SolSeed_Movement). Notes from our open sessions are [available here](/Agenda) if you'd like to read, reflect upon, or remember our time together.
+- [Seed 2009](/Seed_2009) is underway! Most of us have arrived, and we are gearing up for the official opening ceremonies - as well as preparing for our first [OpenSpace](/OpenSpace) sessions. You can check out the [Seed 2009 Photo Gallery](/Seed_2009_Photo_Gallery) and view the happenings as we post some pictures.  
+- [Seed 2009](/Seed_2009) is just days away. It's a new year, a time for new beginnings, and hopefully lots of new friends!
+
+#### October 2008
+- [Seed 2009](/Seed_2009) registrations coming, and folks are buying plane tickets!
+
+#### September 2008
+- [Seed 2009](/Seed_2009) dates moved to Jan 9-11
+- [Brandon](/Brandon) creates the http://SolSeed.org site
+
+#### August 2008
+- [Shelley](/Shelley), [Boni](/Boni), [Ted](/Ted), [Ben](/User:scifiben), [Kevin](/User:Kevin), and [Brandon](/Brandon) agree to be [CoConveners](/CoConveners) for [Seed 2009](/Seed_2009)
+
+#### July 2008
+Planning has commenced for [Seed 2009](/Seed_2009), a retreat and openspace event for SolSeed members and friends. Email [Brandon](/Brandon) to join the planning process. Tentative dates: <s>Dec 31, Jan 1-3</s> in Government Camp, Oregon. Stay tuned for details!
+
+#### June 2008
+- AJ Adair [joins](/JoinTheMovement) the [SolSeedMovement](/SolSeedMovement)!
+- [Brandon](/Brandon) commissions [Mark Nilsson](/Mark_Nilsson) to create a painting to illustrate the [SolSeedMovement](/SolSeedMovement)
+
+#### March 2008
+- [SolSeed](/SolSeedMovement) now has a **[lounge](http://groups.yahoo.com/group/solseed)**. This is great place to discuss your half-baked (or fully baked) schemes and ideas. By joining you will be up-to-date on any announcements, group messages, or upcoming events. Come [hang out at the lounge!](http://groups.yahoo.com/group/solseed)
+- [Kalvin](/Kalvin) [joins](/JoinTheMovement) the [SolSeedMovement](/SolSeedMovement)!
+- [Chris Dawson](/Chris_Dawson) [joins](/JoinTheMovement) the [SolSeedMovement](/SolSeedMovement)!
+- [Brandon](/Brandon) has started making [SolSeed related claims](http://jyte.com/claims?tag=solseed).  Come join the fun!
+
+#### February 2008
+- [Brandon](/Brandon) is looking to [commission an illustrator](/SolSeed/Artists) to create an illustration of SolSeed with potential for follow-on illustrations of core concepts.  If you'd like to help me think about the concept and find an artist contribute to [SolSeed/Artists](/SolSeed/Artists).
+- Check out this [user-generated](/User:Kevin_James_Daniels) **[SolSeed video](http://www.youtube.com/watch?v=F2oYv9a7cU4)** for a little inspiration!
+
+##### Solseed Movement
+- I would like to bring to the attention of the members of the Solseed Movement, the Space Settlement section of the website of the National Space Society.  Nearly all material concerning Space Settlement (almosty 20,000 pages), that is not proprietary or classified, is included. http://www.nss.org/settlement/
+
+Mark Hopkins
+
+#### January 2008
+- [Kevin](/Kevin) redirects the [Earthseed](http://en.wikipedia.org/wiki/Earthseed) reference to [SolSeed](/SolSeed) on [Wikipedia](/Wikipedia) to its new home on AboutUs.
+- [Brandon](/Brandon_CS_Sanders) redirects [solseed.net](http://solseed.net), [com](http://solseed.com), [org](http://solseed.org), and [us](http://solseed.us) to the [SolSeed](/SolSeed) page on AboutUs.
+- [Kevin](/Kevin) sparks [some barnraising](http://www.aboutus.org/Special:Recentchangeslinked/Category:SolSeedMovement)
+- [Kevin James Daniels](/Kevin) [joins](/JoiningTheMovement) the [SolSeedMovement](/SolSeedMovement)!
+
+#### August 2007
+- [Benjamin Sibelman](/user:scifiben) and [Brandon CS Sanders](/Brandon_CS_Sanders) begin moving the content over from the original group on the now defunct [Omidyar.net](/Omidyar.net)
+__NOTOC__
+
+**Quick links**
+
+[SolSeedCreed](/SolSeedCreed): 
+- [TheDestiny](/TheDestiny)
+- [Starfarers](/Starfarers)
+- [SelfLove](/SelfLove)
+- [Empathy](/Empathy)
+- [Wisdom](/Wisdom)
+[Group Experiences](/Group_Experiences):
+- [SolSeedCalls](/SolSeedCalls)
+- [SolSeed Services](/SolSeed_Services)
+[SolSeedProjects](/SolSeedProjects):
+- [Media](/Media)
+- [SolSeedVillage](/SolSeedVillage)
+- [Stories](/Stories)!
+- [Videos](/Videos)
+[Kindred](/Kindred)
+
+<br style="clear:both"/>
+
+----
+The following is a list of people, groups, ideas and other things that are somehow connected to the [SolSeedMovement](/SolSeedMovement).
+
+<intersect>SolSeedMovement</intersect>
+
+[SolSeed](/Category:SolSeed)
+[SolSeedMovement](/Category:SolSeedMovement)

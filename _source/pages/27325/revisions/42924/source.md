@@ -1,0 +1,102 @@
+### Agenda
+- Check in
+- Review WWWs
+- Daily Practice/Metrics
+- Weekly event logistics
+- Review Agenda
+- Outreach: (next steps … ideally a complete experiment)
+- Winter Solstice
+- Evaluating Holacracy
+- Project work
+  - Eric: Rotate the Duck Weed and Record its progress
+  - Eric: Start Group F up on the DPCSotE
+  - Eric: Update the Finance Spreadsheet
+  - Ben: Newsletter
+  - Ben: Tweaks to the [Kindred](/Kindred) page
+- Evaluation
+
+### Check-in (gratinews)
+- Eric … really glad to be feeling better after my cold … feeling so pumped about how things have been going with SolSeed lately … my internet provider is a non-profit, which might be related to why it's not working well
+- Ben … I am excited for Bioneers … the 25th annual conference, and this year the one on Whidbey Island has an Open Space!
+
+### WW(W)s from last time
+Organize the WWWs by person and then due date.  We’ll start checking in on topical community protocol and meditation for each mini-period between workbees.
+
+- Ben ... follow your topical community protocol for this period ... ongoing
+- <s>Ben ... meditate and keep track of which days ... ongoing</s>
+- Ben ... send out the newsletter ... by next call
+- Ben … contact Hank about Winter Solstice … by next call
+- <s>Eric ... follow your topical community protocol for this period ... ongoing
+- Eric ... meditate and keep track of which days ... ongoing</s>
+- Brandon ... follow your topical community protocol for this period ... ongoing
+- Brandon ... meditate and keep track of which days ... ongoing
+- Brandon … check with Andrew about whether September is a better time for the Windward folk for Kindred … by next Sunday
+- Brandon … kindred 2015 proposal … by Sunday
+- Brandon … talk to Shelley about spending the Solstice in the Oregon high desert (black butte?) … by Sunday
+
+### WW(W)s
+Organize the WWWs by person and then due date.  We’ll start checking in on topical community protocol and meditation for each mini-period between workbees.
+
+- Ben ... follow your topical community protocol for this period ... ongoing
+- <s>Ben ... meditate and keep track of which days ... ongoing</s>
+- Ben … contact Hank about Winter Solstice … by next call
+- Ben … investigate Urgency Network … by next call
+- Ben … investigate users of Holacracy to learn from … by next call
+- Eric ... follow your topical community protocol for this period ... ongoing
+- Eric ... meditate and keep track of which days ... ongoing
+- Eric … Write up a scenario that role plays using Holacracy as we expect it to play out as our movement grows. Especially consider various scales (a few people, dozens, hundreds, thousands).  … by next thursday (23)
+- Brandon ... follow your topical community protocol for this period ... ongoing
+- Brandon ... meditate and keep track of which days ... ongoing
+
+### Daily Practice
+- https://tdp.me/person/brandon-cs-sanders
+- https://tdp.me/person/EricOfSolseed
+- https://tdp.me/person/SciFiBen 
+
+2014-10-04 ... 17 Daily practice checkmarks for the week
+
+2014-10-05 to 2014-10-16 36 checkmarks
+
+### Weekly Events Logistics
+Weekend
+Service rotation: Eric, Shelley, Brandon, Ben
+- October 18 Service: 9:00 AM PDT, 12:00 EDT  (Brandon)
+- October 19 Work-Bee: 5:30 PM PDT, 20:30 EDT
+
+Midweek
+- October 23 Work-Bee: 6:30 PM PDT, 21:30 EDT  
+
+### Outreach: (next steps)
+The next experiment: Get [Gaia’s Heartbeat](/Gaia’s_Heartbeat) published on https://www.facebook.com/Pantheism?v=wall
+- We sent a message requesting that they post it; they haven't yet, although they did post a Carl Sagan quote we love
+
+Other targets
+- Elon Musk (Eric tried to send him an email)
+- Urgency Network (organizers of the Ticket to Rise contest for a seat on a space-tourism flight)
+
+### Winter Solstice
+Moment of Solstice: Sunday 12/21 at 3:03pm PST … moment of new moon: same day, 5:36 PM PST!
+
+Ben would like to do a trip to somewhere where we can see LOTS of stars … probably the Oregon desert
+- Would Eric be able to join us?
+  - SolSeed could pay for his flight, but it's not cheap (Christmastime)
+  - Eric doesn't have a lot of vacation days left, but that time of year it doesn't matter as much
+
+What would Eric do in the Ottawa area?
+- Go to Jessica's farm to launch rockets, just before sundown
+- At sundown, watch the sunset from inside and eat a potluck dinner
+- Head back out and launch fireworks
+- Still have all the supplies from last year, when it was cancelled due to weather
+
+### Holacracy
+Suggestion 1: We get some friends together, assign them to some fake Roles and Circles, and hold a couple of mock Holacracy meetings to see how it goes with more people involved.
+
+Suggestion 2: Each of us does a pros-and-cons list comparing Holacracy to one or two other governance structures we think might work (representative democracy, a corporate management with board of directors, a priesthood ranked by seniority, etc). Then we all read the lists and discuss them.
+
+Suggestion 3: Write up scenarios that role play using Holacracy as we expect it to play out as our movement grows. Especially consider various scales (a few people, dozens, hundreds, thousands).
+
+Suggestion 4: Find a large organization that already uses Holacracy and see if we can get invited to any of their meetings. Or at least watch videos of meetings from larger organizations, or read what they're saying about how well it's working.
+
+### Evaluation
+- Ben … I feel sad about the internet being a problem which meant I got to spend less time actually working with you.  I would be willing to extend the call except that I haven’t been getting enough sleep, I need to eat dinner and get to bed on time or even early.
+- Eric … I feel the same way … I need to get to bed kinda now. Having been sick lately, I can't afford to stay up later (although last night I was up until 2 AM working on the [Kindred](/Kindred) page).

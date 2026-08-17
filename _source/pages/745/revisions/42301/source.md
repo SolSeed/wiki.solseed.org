@@ -1,0 +1,71 @@
+### Agenda
+- Check In
+- Review WWWs
+- Outreach ... newsletter ... M&M
+- Spiritual Practice ... assign person for next service
+- Conferences ... look at for goal
+
+### Check In
+- Shelley ... really tired, but had a nice day
+- Brandon ... had first self-employed day ... fun, but didn't accomplish goal for the day, so also frustrating
+- Ben ... Bioneers was awesome as usual ... and also overwhelming ... makes me unable to think straight
+- Sequoia ... asleep ... learned a new word today, "m-bah" (Roomba)
+
+### WWWs from last time
+- Brandon ... add the stuff we promised to add to the SpaceWiki main page ... by tomorrow
+- Brandon ... send the OryCon session blurb to Gus and Andrew ... by tomorrow (didn't do this because it's probably not happening)
+- Brandon ... fix MediaWiki search ... by mid-October (worked on it today but didn't finish)
+- <s>Ben ... send the OryCon blurb to OryCon's Programming people ... by tomorrow
+- Brandon & Shelley ... prepare for the phone service ... by Sunday</s>
+- Brandon & Shelley ... work on the agenda for next call ... by next call
+
+### Outreach
+#### Newsletter
+The days are getting shorter, but we're not slowing down!  In fact there are lots of plans for the fourth quarter, but first let's look at the past month:
+
+- We renewed a connection with Paul Burney, a starfarer from Maine who owns the webpage at Earthseed.org (check it out).
+
+- The eco-village tour: Molly took us to five fascinating eco-village/cohousing sites across East Portland. For details, check out [the wiki page](/EcoVillageTour).
+
+- The Equinox Celebration went well, with deep thoughts, a fun story, and good food. Also, we are now meeting briefly each week to build tradition and strengthen our commitment to [Life](/Life) and [The Destiny](/The_Destiny). Ping Shelley@SolSeed.org if you'd like to participate, in person or by webcam.
+
+- Books: Kevin finished lettering the children's book!  Also, we met our 3rd-quarter goal for progress on the bigger book, which has reached a total of 7,874 words.
+
+Big plans for 4th quarter:
+- Finish the books!
+- Incorporate a business and maybe a nonprofit (or church?)
+- Find and interview potential eco-village members
+- Big Solstice celebration and unconference
+- Recruit more people to help work on all this great stuff!
+
+#### Matthew and Molly
+- Probably won't be coming to live at the [SolSeedVillage](/SolSeedVillage)
+- Will be coming to an in-person work bee with Brandon, starting next week, where they can motivate each other in their various projects
+
+### Conferences
+- FAA Commercial Space Transportation Conference: February 9-10, 2011
+- [The Next-Generation Suborbital Researchers Conference (NSRC)](http://nsrc.swri.org/): Feb.28-Mar 2, 2011
+- UK Space Conference March 24-28, 2010 ... 2011 tbd
+- Reinventing Space Conference (formerly Responsive Space Conference): May 2-6, 2011
+- International Space Development Conference: May 18-22, 2011
+- [NewSpace Conference](http://spacewiki.com/NewSpace_Conference): July 23-25, 2010 ... 2011 tbd
+- Space and Missile Defense Conference & Exhibition: August 16-19, 2010 ... 2011 tbd
+- [Space Elevator Conference](http://spacewiki.com/Space_Elevator_Conference) August 13-15, 2010 ... 2011 tbd
+- Space and Missile Defense Conference & Exhibition: August 16-19, 2010 ... 2011 tbd
+- Air & Space Conference and Technology Exposition: September 19-21, 2011
+- AIAA Space Conference & Exposition: September 26-29,  2011
+- Space Organizing Conference: April 16-18, 2009 ... October event in 2010 was cancelled ... 2011 tbd
+- International Astronautical Congress: October 3–7, 2011
+- [International Symposium for Personal and Commercial Spaceflight](http://www.ispcs.com/): October 19-22, 2010
+- [Commercial and Government Responsive Access to Space Technology Exchange (CRASTE)](http://www.usasymposium.com/craste/default.htm): Oct 25-28, 2010
+- [Space Manufacturing](http://spacewiki.com/Space_Manufacturing): October 29-31, 2010 ... 2011 tbd
+- [SpaceVision 2010](http://spacevision.seds.org/): Nov 5-7, 2010 
+- ReSpace/MAPLD Conference (Military / Aerospace  Programmable Logic Devices): November 1-4, 2010
+- ICESSE 2010: International Conference on Earth and Space Sciences and Engineering: November 24-26, 2010
+
+### WWWs
+- Brandon ... fix MediaWiki search ... by next call
+- Brandon ... prepare service for next week ... by Sunday
+- Brandon ... Contact SEDS about having SpaceWiki at [SpaceVision 2010](http://spacevision.seds.org/) ... by next call
+- Ben ... type in notes from eco-village tour ... by next call
+- Ben ... add picture(s) to newsletter and send it out ... by next call

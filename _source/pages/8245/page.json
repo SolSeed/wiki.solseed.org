@@ -1,0 +1,43 @@
+{
+  "canonical_path": "/File:Hank's_steam_engine.JPG",
+  "current_revision_id": 42548,
+  "database_title": "Hank's_steam_engine.JPG",
+  "display_title": "File:Hank's steam engine.JPG",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 6,
+  "original_revision_count": 1,
+  "page_id": 8245,
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "BenSibelman",
+      "comment": "Reading from right to left: Hank, his small steam engine, and some squash sitting on some kind of woodworking machine.",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 42548,
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": 11416,
+      "same_as_previous_public": false,
+      "timestamp": "2012-04-28T19:38:02Z",
+      "wikitext_bytes": 118,
+      "wikitext_sha256": "a5429943edebf8f09063b229f5413f1c97cae2c7f13c785f535288c3f6178b12"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 11416,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 119,
+      "markdown_sha256": "187174b51564c1b38246993c7c7de5c62c00415334209e650a566f62eec6cc14",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": 11416,
+      "previous_public_revision_id": 11416,
+      "revision_id": 42548,
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z"
+    }
+  ],
+  "site_revision_count": 1
+}

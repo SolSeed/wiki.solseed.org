@@ -1,0 +1,121 @@
+ <h1>Experiments in Duck Weed Growth</h1>
+ <h2>Introduction</h2>
+<p> These experiments were conducted in order to determine the optimum growing conditions for Duck Weed so that the growth 
+
+and cultivation of duck weed could be automated.  Duck weed was chosen for three factors which make it ideal for automated 
+
+growing; 1) it is edible, 2) it is the smallest angiosperm and so many independant cultures of it can be grown in a very 
+
+small space and 3) it is an aquatic plant and so it is very easy to grow hydroponically.  All of these factors make growing a 
+
+large number of experiments in parallele simple and inexpensive.</p>
+<h2>Experiment One</h2>
+<p>The first experiment will focus on optimizing the creation of sterile samples.  Duck weed is most easily grown in sterile 
+
+sealed containers.  It prefers stagnant water and so if the containers are not sterile and sealed then the water will become 
+
+fouled with algae, bacteria and fungi which will attack the plants and contaminate them, reducing their productivity and 
+
+making them inedible.</p>
+<h3>Method and Materials</h3>
+<p>A sample of duck weed was collected from the wild in a 125 ml masson jar.</p>
+<p>One dozen 125 ml mason jars, lids and canning rings placed in a large canning pot filled with water.  A pair of pincers 
+
+and a laddle were kept in a separate pot of water.  A solution of fertilizer was prepared by disolving 1/8 tea spoon of 
+
+ground GreenEarth Tomato & vegetable food pellets (4.6.8) and 1/8 tea spoon of ground CIL Rhododendron, Azalea and Camellia 
+
+fertilizer pellets (4.12.8) in 750 ml of water in a third pot.  All three pots of water were boiled for one hour.</p>
+<p>Each masson jar was removed from the canning pot in turn and the following steps were taken: The laddle was used to place 
+
+approximately 60 ml of boiling ferilizer solution into the masson jar, the laddle was returned to its pot, pincers were used 
+
+to remove a canning lid from the canning pot and place it on the masson jar, the pincers were used to remove a canning ring 
+
+from the canning pot and place it on the masson jar, the pincers were returned to their pot, oven gloves were then used to 
+
+tighten the hot canning ring onto the masson jar.</p>
+<p>Once all of the masson jars were filled and sealed they were set aside to cool for 72 hours.  At the end of the 72 hours 
+
+they were examined visually (without opening them) for bacterial or algae growth.  A series of containers were filled with 
+
+solutions of bleach in water at the following concentrations, 1:10, 1:5, 1:3, and 1:2.  A loop and handle was formed from a 
+
+single piece of 16 guage steal wire with a loop diameter of approximately 5 mm and a handle length of 10 cm.  The wire was 
+
+heated to red hot in a flame to sterilize it and then allowed to cool for approximately five minutes.  The loop was used to 
+
+transfer subsamples of one to about one dozen duck weed plants from the sample jar to the bleach solutions.  Each subsample 
+
+was placed in just one of the solutions for a period of 15, 30 or 60 seconds.  One of the masson jars containing the sterile 
+
+fertilizer solution was opened and the loop was used to transfer the sub sample into the masson jar which was immediately 
+
+closed and labelled with a label indicating the time and concentration of bleach solution used for that sample.  Each 
+
+combination of the 3 time periods and 4 bleach concentrations was used exactly once to innoculate a masson jar producing 12 
+
+masson jars with the 12 different labels {1/2 15, 1/2 30, 1/2 60, 1/3 15, 1/3 30, 1/3 60, 1/5 15, 1/5 30, 1/5 60, 1/10 15, 
+
+1/10 30, 1/10 60}.</p>
+<p>The twelve masson jars were placed on their sides in a cardboard box and a LED grow light panel was placed directly on top 
+
+of them.  The grow light was plugged into a timer which was set to provide power to the grow light for one 14 hour period per 
+
+day.  The timer was plugged into a standard 120 V wall receptcle.  This apparatus was allowed to cycle for several weeks and 
+
+was observed.</p>
+<h3>Results</h3>
+<p>The LED grow light was observed daily to ensure that it was lighting.  It failed to light on only one day (due to a loose 
+
+wire).</p>
+<p>The masson jars were examined daily for the first week for signs that the duck weed died due to exposure to the bleach or 
+
+that bacterial growth had commenced on the surface of the water.  During the first week there was no sign of bacterial growth 
+
+in any of the jars.  However three duck weed subsamples died presumably due to too much exposure to bleach in the 
+
+sterilizatio process.  They were the subsamples labelled 1/2 30, 1/2 60 and 1/3 15.  Individual duck weed plants in most 
+
+other samples died also.  However, only the completely dead samples were discarded.</p>
+<p> After several weeks the plants jars were examined again.  The plants were counted and checked visually for bacteria and 
+
+algae.  Table 1 shows the results</p>
+<h4>Table 1: Number of Duck Weed plants observed in each sample jar after several weeks</h4>
+<table border="1">
+<tr><th>Time (s) exposed to bleach:</th><th>15</th><th>30</th><th>60</th></tr>
+<tr><th>Bleach Concentration</th></tr>
+<tr><th>1:10</th><td>4</td><td>12</td><td>4</td></tr>
+<tr><th>1:5</th><td>11 + algae</td><td>6 + algae</td><td>7 + algae</td></tr>
+<tr><th>1:3</th><td>[discarded]</td><td>21 + algae</td><td>8 + algae + bacteria</td></tr>
+<tr><th>1:2</th><td>5</td><td>[discarded]</td><td>[discarded]</td></tr>
+</table>
+<h3>Discussion</h3>
+<p>It was noted that the positioning of the bottles under the LED grow light may have affected the algae growth.  The 1/10 
+
+and 1/2 bottles were at the end of the box and therefore the dege of the panel and so may have gotten less light, causing 
+
+both less duck week growth and less alage growth.  The bottles were rotated and will be continued to be observed in order to 
+
+determine if algae growth will be observed in all bottles.</p>
+<p>The grow light panel has LED's in three colours, white, red and blue.  They are not distributed evenly over the panel and 
+
+so different masson jars may have been getting different concentrations of the light.  This could be improved upon in two 
+
+ways,  The box could be lined with mirrors.  This would redistribute the various colorus of light around the box more evenly. 
+
+ The bottles could be rotated regularly (daily) in order to ensure that all bottles got the same amount of light.</p>
+<p>The fertiliser used was not perfectly soluable.  It was observed that the algae in many samples was growing on the solid 
+
+residue of the crushed fertiliser pellets.  Repitition with a more soluable liquid fertilizer rather than ground pellets of 
+
+fertiliser may produce better results.</p>
+<p>The fact that almost all samples of duck weed exibited algae growth is of concern.  Evidently the bleach is ineffective at 
+
+killing the algae witout also killing the duck weed.  A further experiment in which the duck weed is removed from the the 
+
+sterile fertilizer solution after various periods of growth, re-sterilized in a bleach solution and placed in a new sterile 
+
+fertiliser solution may help to separate the duck weed from the algae more effectively.</p>
+</body>
+</html>

@@ -1,0 +1,1 @@
+This book by [Octavia Butler](/Octavia_Butler) is the first of two that describe the fictional [Earthseed](/Earthseed) religion, which helped inspire the [SolSeedMovement](/SolSeedMovement).  We give away copies of this book as part of the [SolSeed Book Program](/SolSeed_Book_Program).  See http://en.wikipedia.org/wiki/Parable_of_the_Sower for more about the book.

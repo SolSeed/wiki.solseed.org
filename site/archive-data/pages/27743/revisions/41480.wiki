@@ -1,0 +1,50 @@
+''This was a session at the August 2018 [[Resilient Communities Mini-Unconference]].''
+
+== Participants ==
+* [[Brandon]] (convener)
+* [[Ben]] (note-taker)
+* [[Shawn]]
+* [[Eric]]
+* Judy
+* Steve
+* [[Shelley]] (briefly)
+
+== Discussion ==
+* Judy: Should UBI be provided only to people who really need it?
+** Perhaps on an honor system? I want to have faith in people
+** Shawn: The idea is similar to the negative income tax for the poor
+* Brandon: I've listened to one podcast on UBI, with Sam Harris interviewing presidential candidate [https://www.yang2020.com/ Andrew Yang]
+** Side note: Harris is a New Atheist, but more spiritual than most
+** Yang has run companies and been a professor at Harvard Business School (where the students are motivated by just wanting to make lots of money)
+** Yang also supports social currency that aligns purchasing power with work that isn't currently paid, e.gg. caring for the elderly
+*** Everyone starts with an equal amount of "esteem" points and hands them out to each other as reward for work they appreciate
+*** Related to [https://en.wikipedia.org/wiki/Time-based_currency time banking]
+** The context of Yang's UBI proposal is that automation is rapidly replacing jobs, and there may be no replacement jobs coming
+*** Yang proposes a UBI of $1000 per month, which is below the poverty line, and would be mutually exclusive with other assistance programs for the poor
+*** At one point he and Harris express the motivation of "not wanting to have to buy bulletproof cars for their children" due to crime arising from immense income inequality
+*** Steve (much later): I don't see a problem with a world where robots do all the hard labor
+**** Shawn: Tell that to people whose family identities are wrapped up in that labor, and who want to feel valued for their contributions
+**** Judy: But if you had UBI, it would give you time and resources to figure out another way to contribute to society
+* Issues with UBI
+** Shawn: "Rentier states" are using something like UBI to buy off their own citizens, e.g. with oil money, making the government unaccountable to those citizens
+** Judy: I thought I saw an article in [https://www.yesmagazine.org/ Yes Magazine] saying UBI would be somehow destructive to the Black community
+** Shawn: How do we pay for it?
+*** Judy: Get the wealthy and corporations to pay
+*** Brandon: Yang wants to use a European Union-style value-added tax
+**** Steve and Shawn: That would be paid by consumers, which seems to defeat the purpose
+**** Brandon: Trades in the economy add value; this tax and UBI distribution means more money moving around and therefore adds the value needed to make it worthwhile
+* Argument about perpetual growth and whether or not it's motivated by compound-interest loans
+** Brandon: The three origins of value are:
+*** Using up stored value (e.g. oil)
+*** Accelerating the movement of money (not counting banks' financial tricks and automated trading algorithms)
+*** New ideas and inventions
+**** Steve: e.g. if we find a more valuable use for rhodium, the world supply of rhodium suddenly has more value without having to mine any more
+**** Shawn: But you pay a resource cost for every invention, generally underpinned by cheap fossil energy
+**** Argument about replacing fossil fuels with renewables
+* Brandon: I support UBI because it makes me feel like things would be possible that weren't before, e.g. for new college graduates who don't currently see a positive future for themselves
+* Shawn: I see UBI as life support for the current system, when what we need is system change
+** More argument about compound interest and "unpayable" debt
+*** Eric and Judy: In Canada, they have rules so that banks can't lend more money than the borrower can pay back
+** Steve: Lenin viciously attacked reformers as enemies of revolution
+* Ben: What can the SolSeed Movement do about any of this huge national economic stuff?
+** Brandon: Support UBI

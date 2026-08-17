@@ -1,0 +1,43 @@
+{
+  "canonical_path": "/31",
+  "current_revision_id": 42117,
+  "database_title": "31",
+  "display_title": "31",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 1,
+  "page_id": 558,
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "Brandon CS Sanders",
+      "comment": "Redirecting to [[Book 31]]",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 42117,
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": 1454,
+      "same_as_previous_public": false,
+      "timestamp": "2010-04-05T02:03:30Z",
+      "wikitext_bytes": 21,
+      "wikitext_sha256": "173fef6cd9f1a3f4ed820b96dabf536a8d320b7f2cd97fdcc31843cba7141d0d"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 1454,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 53,
+      "markdown_sha256": "4bd6f9ad067f0a99d97555175c0028ae77728ff56b6b2adb6ffef6977cd80e19",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": 1454,
+      "previous_public_revision_id": 1454,
+      "revision_id": 42117,
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z"
+    }
+  ],
+  "site_revision_count": 1
+}

@@ -1,0 +1,11 @@
+*This was a session at the [Shiny Green Acorn Festival](/Shiny_Green_Acorn_Festival).*
+
+### Participants
+- [Brandon](/Brandon) (convener)
+- [Eric](/Eric)
+- [Ben](/Ben)
+
+### Discussion
+Brandon shared that [Shelley](/Shelley) has an allergic reaction to all the labor-inefficient things ecovillagers are supposed to do, like growing our own food
+- Eric wants to live in a non-self-sustaining "tribal village" so we can avoid that
+- Brandon sees the self-sufficiency goal as generally aimed at survivalism, as in [Hank](/Hank)'s efforts, or at [Windward](/Windward)?

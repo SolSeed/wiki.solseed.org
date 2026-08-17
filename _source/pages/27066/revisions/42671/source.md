@@ -1,0 +1,133 @@
+### Agenda
+- Check In
+- Review WWWs
+- Review Agenda
+- Weekly Events Logistics
+- Solstice
+  - Schedule
+  - Guest list
+- Evangelism 
+  - Facebook signature
+- Evaluation
+
+### Check In
+- Eric ... Very busy weekend too ... but good ... went to see parents for first time in almost a month ... got a mouse (no more tracking pad) and I love it
+- Ben ... Slept in until 10:30 this morning and then felt guilty about it ... and I also didn't feel any less tired that I othewise would ... kind of annoyed by how skype is making the video windows jump around based on which person is talking more/louder
+- Brandon ... tired but good
+- Shelley ... good, just took a nap, getting ready to fold some laundry
+- Ren ... just woke up from nap, not feeling guilty for sleeping extra
+- Sequoia ... zzzZZZ
+
+### WWWs from last time
+- <s>Eric ... follow your topical community protocol for this week ... ongoing
+- Eric... meditate and keep track of which days (5/7) ... ongoing</s>
+- Eric... learn about the Git command line ... by next call
+- <s>Eric ... think about the best way to briefly describe The Destiny in our Facebook post signature... by next call</s>
+- Ben ... follow your topical community protocol for this week ... ongoing
+- <s>Ben ... meditate and keep track of which days (5/7) ... ongoing</s>
+- Ben ... learn about the Git command line ... by next call
+- <s>Ben ... think about the best way to briefly describe The Destiny in our Facebook post signature... by next call
+- Ben ... make your guest list for the solstice and send to Shelley (may be just your family) ... by next call
+- Shelley ... follow your topical community protocol for this week ... ongoing
+- Shelley ... meditate and keep track of which days ... ongoing</s>
+- Shelley ... think about the best way to briefly describe The Destiny in our Facebook post signature... by next call
+- <s>Brandon ... follow your topical community protocol for this week ... ongoing
+- Brandon ... meditate and keep track of which days (4/7) ... ongoing
+- Brandon ... work on guest list for the solstice with Shelley ... by next call
+- Brandon ... reduce Facebook Advert spend to $10/day total
+- Brandon ... get the images for the first two chapters included and laid out ... by next call
+- Brandon ... create a full-bleed branch and a branch that has margins ... by next call
+- Brandon ... order a copy of a lulu version of each branch ... by next call</s> (decided to just get the full-bleed one)
+- Brandon ... order some larger engines for the rockets ... by next call
+- Brandon ... think about the best way to briefly describe The Destiny in our Facebook post signature... by next call
+
+### WWWs
+- Ben ... follow your topical community protocol for this week ... ongoing
+- Ben ... meditate and keep track of which days ... ongoing
+- Ben ... check with parents about in-person service on the 24th at their house
+- Ben ... learn about the Git command line ... by next call
+- Shelley ... follow your topical community protocol for this week ... ongoing
+- Shelley ... meditate and keep track of which days ... ongoing
+- Shelley ... tell Vliet's we are at Schoepflin's house (no service)
+- Shelley ... get the reading for the service
+- Shelley ... create an invitation ... by this week
+- Brandon ... get Shelley an invitation for every person on the Solstice guest list ... by this week
+- Brandon ... follow your topical community protocol for this week ... ongoing
+- Brandon ... meditate and keep track of which days ... ongoing
+- Brandon ... work out rockets with my family ... by this week
+- Brandon and Shelley ... work on menu and spiritual for the solstice ... by this week
+- Brandon ... think about how to include Eric more at the solstice ... by this week
+- Eric ... follow your topical community protocol for this week ... ongoing
+- Eric ... meditate and keep track of which days ... ongoing
+- Eric ... talk to Jessica about dinner on Saturday Dec 22 after rockets
+- Eric... learn about the Git command line ... by next call
+
+### Weekly Events Logistics
+Service Saturday November 24, 10:30 am PST ... (Shelley?) -Eric unavailable (LudoOutaouais)
+Rotation: Brandon, Eric, Shelley, Ben
+
+Work-Bee Sunday November 25, 2:00 pm PST 17:00 EST
+
+In-person service with Vliets: None
+Seeing Nature Readings and Practices: Sunday December 16th 13:00 EST
+
+### Solstice
+#### Schedule
+- Friday (Solstice)
+  - Ben will come down to Portland on Friday morning or Thursday evening
+  - Eat at 6 PM
+- Saturday (Sabbath)
+  - Service at 8 AM PST, 11 EST
+  - Start the rocket launch at 9 AM
+  - Ben needs to be at PDX by 11 AM on Saturday December 23
+    - Will probably take the MAX, which takes about half an hour
+
+#### Guest list for dinner
+- Carol & Vicki
+- Malinda & Sergio
+- Forest
+- Mathew & Molly
+- Gus
+- Hank
+  - Could Gus and/or Hank stay the night if they also want to do the rockets?
+- Amber
+- Ben
+- Shelley, Brandon, Sequoia, Ren
+- Mickki
+
+#### Guest list for Rockets
+- Ted, Celeste, Max, Shogi
+- Mathew & Molly
+- Gus
+- Hank
+- Amber
+
+### Evangelism
+##### Signature ideas
+Embrace Science.  Cherish the Earth.  Bring Life!
+The SolSeed Movement - A Community of Practice
+http://SolSeed.org - Green the Galaxy
+
+Is Mother Earth pregnant with a family of living worlds?
+- Could this image seem crazy?
+  - We need an image or metaphor for the giving birth, taking root part that is crazy enough to attract the eye without looking like we're woo-woo Gaian mystics
+  - Brandon created a graphic using shadow figures overlaid on real images of Earth and Sol, which makes it clear that it's a metaphor
+  - Shelley: It could touch a raw nerve for people who are trying to start a family themselves ... they'd say "What do you know about longing?"
+- Working on the signature quote
+  - Green the Galaxy (we like this one, it's nice and short)
+  - Life: to Sedna and Beyond :-)
+  - For a family of living worlds
+  - Taking root amongst the stars!
+  - Help Earth give birth to a family of living worlds
+  - A Family for Earth
+  - Imagine Mother Earth as pregnant with a family of living worlds.
+  - Help Earth-life to take root amongst the stars!
+  - Send Earth-life to take root amongst the stars!
+  - Quote above the image: Father Sun, Mother Earth ... Longing for a family of Living Worlds
+  - Expand the biosphere to Sedna
+
+### Evaluation
+- Ben ... I really liked the signature stuff we are working on ... it's great to have some discussions that we haven't had for a while about how we spread this concept
+- Eric ... I'm loving the signature stuff that we worked on ... I feel a little left-out of the solstice stuff, because you are going to be together and I am going to be here, but that's life, I can live with it
+- Brandon ... I had a really good week on ASolseed thank you to shelley.  I am looking forward to getting the book back in hard copy and I did 29 commits.
+- Shelley ... I'm a little distracted from SolSeed by my activities of daily living and my boys, but that is okay

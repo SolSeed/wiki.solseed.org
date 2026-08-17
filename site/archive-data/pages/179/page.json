@@ -1,0 +1,63 @@
+{
+  "canonical_path": "/A_Working_SolSeed_Christology",
+  "current_revision_id": "41745",
+  "database_title": "A_Working_SolSeed_Christology",
+  "display_title": "A Working SolSeed Christology",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 2,
+  "page_id": "179",
+  "published_revision_count": 2,
+  "revisions": [
+    {
+      "author": "Shelley Schoepflin Sanders",
+      "comment": "New page: ''This article is in rough draft form, so most of it is on the \"discussion\" page at present. Please feel warmly welcomed to contribute. Note that [http://solseed.org/Working_Theology SolSe...",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": "464",
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": "462",
+      "same_as_previous_public": false,
+      "timestamp": "2009-01-22T07:10:10Z",
+      "wikitext_bytes": 338,
+      "wikitext_sha256": "387d8dfef9a6a14d685d0f7c8b3b6028c49b24e5699b070caa2311e278e88b3e",
+      "source_format": "wikitext",
+      "source_extension": "wiki"
+    },
+    {
+      "author": "Shelley Schoepflin Sanders",
+      "comment": "",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": "41745",
+      "original_parent_revision_id": "462",
+      "previous_public_revision_id": "462",
+      "revision_id": "464",
+      "same_as_previous_public": false,
+      "timestamp": "2009-01-22T07:10:58Z",
+      "wikitext_bytes": 392,
+      "wikitext_sha256": "acf9b29ac5d06aca65397b57bd15f79ea69d5d7d9c28df10c4bdc2813f181211",
+      "source_format": "wikitext",
+      "source_extension": "wiki"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 464,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 393,
+      "markdown_sha256": "5f135494dd47d10eba27016ea1ca670f747c82ccd0e2713a573cb56ee00cc7ff",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": "464",
+      "previous_public_revision_id": "464",
+      "revision_id": "41745",
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z",
+      "wikitext_bytes": 393,
+      "wikitext_sha256": "5f135494dd47d10eba27016ea1ca670f747c82ccd0e2713a573cb56ee00cc7ff",
+      "source_extension": "md"
+    }
+  ],
+  "site_revision_count": 1
+}

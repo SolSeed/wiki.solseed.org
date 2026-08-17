@@ -1,0 +1,48 @@
+{
+  "canonical_path": "/Liturgical_Season",
+  "current_revision_id": "42817",
+  "database_title": "Liturgical_Season",
+  "display_title": "Liturgical Season",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 1,
+  "page_id": "27216",
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "Brandon CS Sanders",
+      "comment": "Redirected page to [[Liturgical Seasons]]",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": "42817",
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": "39664",
+      "same_as_previous_public": false,
+      "timestamp": "2014-04-27T21:01:08Z",
+      "wikitext_bytes": 32,
+      "wikitext_sha256": "b02de33053574e333f9d79ac4a572373016cc6b3ddf2bc0d96ae593fe10a8a9c",
+      "source_format": "wikitext",
+      "source_extension": "wiki"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 39664,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 75,
+      "markdown_sha256": "537c21078a2f89abf227b48eb1231c4ffd050298e60397ecfc0306c718149f50",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": "39664",
+      "previous_public_revision_id": "39664",
+      "revision_id": "42817",
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z",
+      "wikitext_bytes": 75,
+      "wikitext_sha256": "537c21078a2f89abf227b48eb1231c4ffd050298e60397ecfc0306c718149f50",
+      "source_extension": "md"
+    }
+  ],
+  "site_revision_count": 1
+}

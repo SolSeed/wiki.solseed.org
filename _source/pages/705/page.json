@@ -1,0 +1,82 @@
+{
+  "canonical_path": "/User_talk:Kranapan",
+  "current_revision_id": 42261,
+  "database_title": "Kranapan",
+  "display_title": "User talk:Kranapan",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 3,
+  "original_revision_count": 4,
+  "page_id": 705,
+  "published_revision_count": 4,
+  "revisions": [
+    {
+      "author": "Brandon CS Sanders",
+      "comment": "Welcome!",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 1796,
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": 1782,
+      "same_as_previous_public": false,
+      "timestamp": "2010-08-05T04:04:49Z",
+      "wikitext_bytes": 420,
+      "wikitext_sha256": "c552118a463b3af813fbea1950f29c10a0cd53fdc7f6510f2bdea10d6d6fcefd"
+    },
+    {
+      "author": "Brandon CS Sanders",
+      "comment": "/* Truth, Beauty, and Values */ new section",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 1800,
+      "original_parent_revision_id": 1782,
+      "previous_public_revision_id": 1782,
+      "revision_id": 1796,
+      "same_as_previous_public": false,
+      "timestamp": "2010-08-11T01:56:38Z",
+      "wikitext_bytes": 1025,
+      "wikitext_sha256": "53f5d3ff6e62bbd9f184a4f8d21482d31d839d7bcc4fcd11c00282ea5ba49bb7"
+    },
+    {
+      "author": "Brandon CS Sanders",
+      "comment": "More on mind ... getting involved",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 1801,
+      "original_parent_revision_id": 1796,
+      "previous_public_revision_id": 1796,
+      "revision_id": 1800,
+      "same_as_previous_public": false,
+      "timestamp": "2010-08-18T18:50:23Z",
+      "wikitext_bytes": 1333,
+      "wikitext_sha256": "126430bc0fa9a5d47ade91a119bcc1ac4460dc59f1d8daf5837602f5647cfa6d"
+    },
+    {
+      "author": "Brandon CS Sanders",
+      "comment": "scare quotes around concepts",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 42261,
+      "original_parent_revision_id": 1800,
+      "previous_public_revision_id": 1800,
+      "revision_id": 1801,
+      "same_as_previous_public": false,
+      "timestamp": "2010-08-18T18:51:11Z",
+      "wikitext_bytes": 1337,
+      "wikitext_sha256": "c7fce334bda209068333f8d529b924826a124a8c48596160d26bc26c669c58c5"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 1801,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 1363,
+      "markdown_sha256": "1bf607c2c11689dc10460598994aa265c6c7341406dd1544ef4f9ba83d107478",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": 1801,
+      "previous_public_revision_id": 1801,
+      "revision_id": 42261,
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z"
+    }
+  ],
+  "site_revision_count": 1
+}

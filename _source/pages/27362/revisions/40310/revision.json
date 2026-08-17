@@ -1,0 +1,13 @@
+{
+  "author": "BenSibelman",
+  "comment": "/* Metrics (from Sunday to Sunday) */ Corrected web session stats",
+  "excluded_revision_count_since_previous_public": 0,
+  "next_public_revision_id": 42961,
+  "original_parent_revision_id": 40246,
+  "previous_public_revision_id": 40246,
+  "revision_id": 40310,
+  "same_as_previous_public": false,
+  "timestamp": "2015-01-19T01:46:08Z",
+  "wikitext_bytes": 20987,
+  "wikitext_sha256": "d8b5122aa8e0f630e945c6f6fe3b15f42c65e8e5c31340d0951c549aa82b1ec6"
+}

@@ -1,0 +1,43 @@
+{
+  "canonical_path": "/BioChar",
+  "current_revision_id": 42209,
+  "database_title": "BioChar",
+  "display_title": "BioChar",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 1,
+  "page_id": 653,
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "Brandon CS Sanders",
+      "comment": "New page: See http://en.wikipedia.org/wiki/Biochar",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 42209,
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": 1660,
+      "same_as_previous_public": false,
+      "timestamp": "2010-06-09T03:39:28Z",
+      "wikitext_bytes": 40,
+      "wikitext_sha256": "a38ef76ee268ff2feb6f5962f1a2509471175c0ef8fb27b4e78fd5f9f9e412f9"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 1660,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 41,
+      "markdown_sha256": "04b6d469a9042fca7cb48617a6667a52f7666a7e7e0582bb10127c1600262c0f",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": 1660,
+      "previous_public_revision_id": 1660,
+      "revision_id": 42209,
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z"
+    }
+  ],
+  "site_revision_count": 1
+}

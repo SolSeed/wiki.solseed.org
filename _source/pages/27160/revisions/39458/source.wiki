@@ -1,0 +1,1 @@
+A picture of two chimpanzees in their natural habitat with the words, "We have evolved in tightly bound social groups and we are happier when we are immersed in that ancient habitat. "

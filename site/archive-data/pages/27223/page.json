@@ -1,0 +1,63 @@
+{
+  "canonical_path": "/May_4,_2014:_Online_Work_Bee",
+  "current_revision_id": "42824",
+  "database_title": "May_4,_2014:_Online_Work_Bee",
+  "display_title": "May 4, 2014: Online Work Bee",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 2,
+  "page_id": "27223",
+  "published_revision_count": 2,
+  "revisions": [
+    {
+      "author": "BenSibelman",
+      "comment": "Created page from the Google doc, with adjustments",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": "39691",
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": "39690",
+      "same_as_previous_public": false,
+      "timestamp": "2014-05-04T22:21:18Z",
+      "wikitext_bytes": 6625,
+      "wikitext_sha256": "bad6c709ad2fb4b8bb287803b35a1437bfc2f3f9d3bdba0be7171376ba491f09",
+      "source_format": "wikitext",
+      "source_extension": "wiki"
+    },
+    {
+      "author": "BenSibelman",
+      "comment": "/* Fourth Season */",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": "42824",
+      "original_parent_revision_id": "39690",
+      "previous_public_revision_id": "39690",
+      "revision_id": "39691",
+      "same_as_previous_public": false,
+      "timestamp": "2014-05-04T22:22:36Z",
+      "wikitext_bytes": 6656,
+      "wikitext_sha256": "481b3a968d2e045c8269400bfb9d0f1c2795e51ee8f32c495243779bf69f4d30",
+      "source_format": "wikitext",
+      "source_extension": "wiki"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 39691,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 6681,
+      "markdown_sha256": "763f3fcf132abb7cc819e13d1f24fb63c538f3f9f74e539c64910ad4cf55f6f0",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": "39691",
+      "previous_public_revision_id": "39691",
+      "revision_id": "42824",
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z",
+      "wikitext_bytes": 6681,
+      "wikitext_sha256": "763f3fcf132abb7cc819e13d1f24fb63c538f3f9f74e539c64910ad4cf55f6f0",
+      "source_extension": "md"
+    }
+  ],
+  "site_revision_count": 1
+}

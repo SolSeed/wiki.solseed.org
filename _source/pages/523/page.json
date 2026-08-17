@@ -1,0 +1,43 @@
+{
+  "canonical_path": "/Feburary_14,_2010:_Online_Work_Bee",
+  "current_revision_id": 42084,
+  "database_title": "Feburary_14,_2010:_Online_Work_Bee",
+  "display_title": "Feburary 14, 2010: Online Work Bee",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 1,
+  "page_id": 523,
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "BenSibelman",
+      "comment": "[[Feburary 14, 2010: Online Work Bee]] moved to [[February 14, 2010: Online Work Bee]]: Spelling error",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 42084,
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": 1396,
+      "same_as_previous_public": false,
+      "timestamp": "2010-03-01T03:08:32Z",
+      "wikitext_bytes": 48,
+      "wikitext_sha256": "0dea79756684c03c5ca280677524642992b56b7b3e74ad13dae8695428ac311c"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 1396,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 107,
+      "markdown_sha256": "97adc4831ab5c193eccf9ca2db7a2ca1d29411f9efe4743564b8a30d744f02e3",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": 1396,
+      "previous_public_revision_id": 1396,
+      "revision_id": 42084,
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z"
+    }
+  ],
+  "site_revision_count": 1
+}

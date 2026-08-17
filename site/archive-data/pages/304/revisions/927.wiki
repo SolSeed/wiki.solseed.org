@@ -1,0 +1,112 @@
+== Article I - NAME AND PURPOSE ==
+
+=== Section 1 - Name ===
+
+The name of the organization shall be [[The SolSeed Intentional Society]]. It shall be a nonprofit organization incorporated under the laws of the State of Oregon.
+
+=== Section 2 — Purpose ===
+
+The purpose or purposes for which [[The SolSeed Intentional Society]] is organized are as follows;
+
+* Said organization is organized exclusively for charitable, religious, educational, and scientific purposes, including, for such purposes, the making of distributions to organizations that qualify as exempt organizations under section 501 (c) (3) of the Internal Revenue Code, or corresponding section of any future federal tax code. '''''This purpose would work for Focus on the Family or Amnesty International.  Do you want people who read this (like me) to know what the Society is about?'''''
+
+* No part of the net earnings of the organization shall inure to the benefit of, or be distributable to its members, trustees, officers, or other private persons, except that the organization shall be authorized and empowered to pay reasonable compensation for services rendered and to make payments and distributions in furtherance of the purposes set forth in the purpose clause hereof.
+
+* No substantial part of the activities of the organization shall be the carrying on of propaganda, or otherwise attempting to influence legislation, and the organization shall not participate in, or intervene in (including the publishing or distribution of statements) any political campaign on behalf of any candidate for public office.
+
+* Notwithstanding any other provision of this document, the organization shall not carry on any other activities not permitted to be carried on (a) by any organization exempt from federal income tax under section 501 (c) (3) of the Internal Revenue Code, corresponding section of any future federal tax code, or (b) by an organization, contributions to which are deductible under section 170 (c) (2) of the Internal Revenue Code, or corresponding section of any future federal tax code.
+
+== Article II - MEMBERSHIP ==
+
+=== Section 1 — Membership ===
+
+Membership shall consist of the board of directors.  '''''This limits the membership to the board, which means you'll never have more than twelve members. Are you keeping the non-profit this small on purpose?  Or do you want to differentiate between memebers and constituents? Do you want to allow non-voting members? I'm thinking of the College Faculy Senate at my school.  We have only 21 members, but we represent more than 300 full-time faculty and more than 1000 part-time faculty. The members are the only ones who can vote and speak at meetings (unless asked to speak by the Senate), but the constituents are represented and are allowed to attend the meetings.  Doing something like this would allow the group to grow.'''''
+
+== Article III - BOARD OF DIRECTORS ==
+
+=== Section 1 — Board role, size, and compensation ===
+
+The board is responsible for overall policy and direction of the corporation, and delegates responsibility of day-to-day operations to the staff and committees. The board shall have up to 12, but not fewer than 4 members. The board receives no compensation other than reasonable expenses.
+'''''1. how can you have staff and committees with only 4-12 members? Are the staff not eligible to be members of the organization they work for?  2. should the general policy be spelled out in the bylaws?  Leaving it out allows the policy and direction to be completely at the disgression of the board, which means it could change (even 180 degrees) at any election of membership 3. you may want to say who gets to decide what's reasonable. 4. now you have possibly up to 12 people delegatingto a staff.  that could cause lots of confusion without a strict structure.'''''
+
+=== Section 2 — Terms ===
+
+All board members shall serve two-year terms, but are eligible for re-election for up to five consecutive terms.
+'''''1. It tends to be a good idea to have staggered terms so you guarantee not having all new members after any given election.  I'd have the first year's members draw lots to see who gets one-year terms, and this would be the only time for that to happen.  2. What do you do when only three people want to be on the board? If you NEED four, does that mean work stops?  3. If there are five seats open and only three people run, do you have a vote?  Is there a way to stop someone from being on the board in such a case? 4. After that fifth consecutive term, how many years does the person have to be off the board before s/he can get back on? Or is the person no longer eligible? 5. If the only members are the people on the board, are the board members the only people allowed to vote in the elections? 6. When do terms start? When do they end? '''''
+
+=== Section 3 — Meetings and notice ===
+
+The board shall meet at least quarterly, at an agreed upon time and place. An official board meeting requires that each board member have written notice at least two weeks in advance.
+
+=== Section 4 — Board elections === 
+
+During the last quarter of each fiscal year of the corporation, the board of directors shall elect Directors to replace those whose terms will expire at the end of the fiscal year. This election shall take place during a regular meeting of the directors, called in accordance with the provisions of these bylaws.
+
+=== Section 5 — Election procedures ===
+
+New directors shall be elected by a majority of directors present at such a meeting, provided there is a quorum present. Directors so elected shall serve a term beginning on the first day of the next fiscal year.
+
+=== Section 6 — Quorum ===
+
+A quorum must be attended by at least forty percent of board members for business transactions to take place and motions to pass.
+
+=== Section 7 — Officers and Duties ===
+
+There shall be four officers of the board, consisting of a chair, vice-chair, secretary and treasurer. Their duties are as follows:
+
+The chair shall convene regularly scheduled board meetings, shall preside or arrange for other members of the Executive Committee to preside at each meeting in the following order: vice-chair, secretary, treasurer.
+
+The vice-chair shall chair committees on special subjects as designated by the board.
+
+The secretary shall be responsible for keeping records of board actions, including overseeing the taking of minutes at all board meetings, sending out meeting announcements, distributing copies of minutes and the agenda to each board member, and assuring that corporate records are maintained.
+
+The treasurer shall make a report at each board meeting. The treasurer shall chair the finance committee, assist in the preparation of the budget, help develop fundraising plans, and make financial information available to board members and the public.
+
+=== Section 8 — Vacancies ===
+
+When a vacancy on the board exists mid-term, the secretary must receive nominations for new members from present board members two weeks in advance of a board meeting. These nominations shall be sent out to board members with the regular board meeting announcement, to be voted upon at the next board meeting. These vacancies will be filled only to the end of the particular board member's term.
+
+=== Section 9 — Resignation, termination, and absences ===
+Resignation from the board must be in writing and received by the secretary. A board member shall be terminated from the board due to excess absences, more than two unexcused absences from board meetings in a year. A board member may be removed for other reasons by a three-fourths vote of the remaining directors.
+
+=== Section 10 — Special meetings ===
+
+Special meetings of the board shall be called upon the request of the chair, or one-third of the board. Notices of special meetings shall be sent out by the secretary to each board member at least two weeks in advance.
+
+== Article IV — COMMITTEES ==
+
+=== Section 1 — Committee formation ===
+
+The board may create committees as needed, such as fundraising, housing, public relations, data collection, etc.
+
+The board Chair appoints all committee chairs.
+
+=== Section 2 — Executive Committee ===
+The four officers serve as the members of the Executive Committee. Except for the power to amend the articles of incorporation and bylaws, the Executive Committee shall have all the powers and authority of the board of directors in the intervals between meetings of the board of directors, and is subject to the direction and control of the full board.
+
+=== Section 3 — Finance Committee === 
+
+The treasurer is the chair of the Finance Committee, which includes three other board members. The Finance Committee is responsible for developing and reviewing fiscal procedures, fundraising plan, and annual budget with staff and other board members. The board must approve the budget and all expenditures must be within budget. Any major change in the budget must be approved by the board or the Executive Committee. The fiscal year shall be the calendar year. 
+
+Annual reports are required to be submitted to the board showing income, expenditures, and pending income. The financial records of the organization are public information and shall be made available to board members and the public.
+
+== ARTICLE V — DIRECTORS AND STAFF ==
+
+=== Section 1 — Executive Director ===
+
+The executive director is hired by the board. 
+
+The executive director has day-to-day responsibilities for the organization, including carrying out the organization’s goals and policies. The 
+executive director will attend all board meetings, report on the progress of the organization, answer questions of the board members and carry out the duties described in the job description. The board can designate other duties as necessary.
+
+== ARTICLE VI — AMENDMENTS ==
+
+=== Section 1 — Amendments ===
+
+These bylaws may be amended when necessary by two-thirds majority of the board of directors. Proposed amendments must be submitted to the secretary to be sent out with regular board announcements.
+
+== CERTIFICATION ==
+
+These bylaws were approved at a meeting of the board of directors by a two-thirds majority vote on '''June 28, 2009.'''
+
+''Secretary needs to sign and date''

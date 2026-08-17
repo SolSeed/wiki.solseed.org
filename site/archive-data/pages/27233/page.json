@@ -1,0 +1,48 @@
+{
+  "canonical_path": "/Gaia’s_Heartbeat",
+  "current_revision_id": "42834",
+  "database_title": "Gaia’s_Heartbeat",
+  "display_title": "Gaia’s Heartbeat",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 1,
+  "page_id": "27233",
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "Brandon CS Sanders",
+      "comment": "Redirected page to [[Gaia's Heartbeat]]",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": "42834",
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": "39718",
+      "same_as_previous_public": false,
+      "timestamp": "2014-05-18T22:54:41Z",
+      "wikitext_bytes": 30,
+      "wikitext_sha256": "5d0cee9b526d181a06d78068a0e73b5e1a96f6965513d792004716d38ad2a64d",
+      "source_format": "wikitext",
+      "source_extension": "wiki"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 39718,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 71,
+      "markdown_sha256": "3306854cef34322e05fac369662408025af3fca490e376f46af55193763dfd41",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": "39718",
+      "previous_public_revision_id": "39718",
+      "revision_id": "42834",
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z",
+      "wikitext_bytes": 71,
+      "wikitext_sha256": "3306854cef34322e05fac369662408025af3fca490e376f46af55193763dfd41",
+      "source_extension": "md"
+    }
+  ],
+  "site_revision_count": 1
+}

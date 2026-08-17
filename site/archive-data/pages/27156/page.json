@@ -1,0 +1,48 @@
+{
+  "canonical_path": "/Talk:Viventibus_Galaxia",
+  "current_revision_id": "42759",
+  "database_title": "Viventibus_Galaxia",
+  "display_title": "Talk:Viventibus Galaxia",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 1,
+  "original_revision_count": 1,
+  "page_id": "27156",
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "EricSaumur",
+      "comment": "Created page with \"=== Discussion === [[Ben]]: Just one bit of ambivalence about the eighth season: Is the idea of moving a star system across intergalactic space really in accord with our values, ...\"",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": "42759",
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": "39447",
+      "same_as_previous_public": false,
+      "timestamp": "2013-10-26T14:26:12Z",
+      "wikitext_bytes": 2439,
+      "wikitext_sha256": "78ae52a5e6506395b7d3da2b1fa9e1d20e2ec13bf1425b287493c13a182e082d",
+      "source_format": "wikitext",
+      "source_extension": "wiki"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 39447,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 2446,
+      "markdown_sha256": "5dd749422eb03659b238c91d5a8db1437738ba30b576923be3905c5461f74bc6",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": "39447",
+      "previous_public_revision_id": "39447",
+      "revision_id": "42759",
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z",
+      "wikitext_bytes": 2446,
+      "wikitext_sha256": "5dd749422eb03659b238c91d5a8db1437738ba30b576923be3905c5461f74bc6",
+      "source_extension": "md"
+    }
+  ],
+  "site_revision_count": 1
+}

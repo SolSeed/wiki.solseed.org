@@ -1,0 +1,43 @@
+{
+  "canonical_path": "/BeingInAction",
+  "current_revision_id": 41837,
+  "database_title": "BeingInAction",
+  "display_title": "BeingInAction",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 1,
+  "page_id": 271,
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "Brandon CS Sanders",
+      "comment": "Redirecting to [[April 7, 2009: Being in Action]]",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 41837,
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": 726,
+      "same_as_previous_public": false,
+      "timestamp": "2009-04-09T05:26:01Z",
+      "wikitext_bytes": 44,
+      "wikitext_sha256": "8decfcc1ad766d2c4f5534b9d219cdb5921919dcabba4c94da8b00e4a721d21b"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 726,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 99,
+      "markdown_sha256": "483e7b7770123ca91d7d146a42434892c27c554286e5caa72e759b220e4eaa8a",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": 726,
+      "previous_public_revision_id": 726,
+      "revision_id": 41837,
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z"
+    }
+  ],
+  "site_revision_count": 1
+}

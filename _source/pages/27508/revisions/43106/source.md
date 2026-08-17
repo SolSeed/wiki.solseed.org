@@ -1,0 +1,32 @@
+### Thursday Agenda
+- Check in
+
+- Opening Blessing
+
+- Project Work
+  - Ben: Call my sister to wish her a happy birthday
+  - Ben: Look into renting my apartment complex common room
+  - Ben: Invite my sci-fi/fantasy book club members to the Space Elevator Solstice
+  - Ben: Update something on Gaia.wiki
+  - Eric … Plan a Meetup for Gaia’s People
+  - Eric … Read KickStarter Rules
+
+- Evaluation
+
+- Closing Blessing
+
+### Check In
+- Eric … looking forward to a fun work bee, possibly my first one since the move
+
+- Ben … well I am wondering if I should have been at home for this so I could restart sorting my legos.  I am also kind of nervous about all these people who I am inviting to a SolSeed event who don`t know what SolSeed is.
+
+### Opening Blessing
+We come together after so many minutes, to do the work that we committed to in our practice. May our efforts be in the right direction and be of a magnitude that is sustainable. -- Blessed Be
+
+### Evaluation
+- Ben … I am still suspecting that I won’t be able to get a bigger venue than my appartment for this event that I am inviting so many people to.  I guess I will rely on my lack of persuasion in getting people to come to events.
+
+- Eric … I got a draft event for Gaia's People created … need to add photos and talk to Michelle about it before publishing … I feel really good about that because one of my goals for this coming year is to make Gaia's People real
+
+### Closing Blessing
+We came together to work on planning for how to bring people together.  May our experiences as a smaller group, help to guide us in the gradual process of gathering a larger group to join us on the path toward a Gaian Starfaring future.  --Blessed Be

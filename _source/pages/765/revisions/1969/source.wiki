@@ -1,0 +1,1 @@
+Free stock photo of a large solar photovoltaic array, from http://www.sxc.hu/photo/3948

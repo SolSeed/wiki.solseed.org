@@ -1,0 +1,48 @@
+{
+  "canonical_path": "/How_can_we_serve?",
+  "current_revision_id": "42389",
+  "database_title": "How_can_we_serve?",
+  "display_title": "How can we serve?",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 1,
+  "page_id": "834",
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "BenSibelman",
+      "comment": "Created page",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": "42389",
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": "2190",
+      "same_as_previous_public": false,
+      "timestamp": "2011-02-06T00:37:52Z",
+      "wikitext_bytes": 2451,
+      "wikitext_sha256": "90b56d837880958246f512d85382104719f278be97d2863847d7b15a8f4ff309",
+      "source_format": "wikitext",
+      "source_extension": "wiki"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 2190,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 2560,
+      "markdown_sha256": "4f6a78f61036f06b21b544bdf1008bf53ea1c2daaee102193f346c98c4c59a7b",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": "2190",
+      "previous_public_revision_id": "2190",
+      "revision_id": "42389",
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z",
+      "wikitext_bytes": 2560,
+      "wikitext_sha256": "4f6a78f61036f06b21b544bdf1008bf53ea1c2daaee102193f346c98c4c59a7b",
+      "source_extension": "md"
+    }
+  ],
+  "site_revision_count": 1
+}

@@ -1,0 +1,43 @@
+{
+  "canonical_path": "/File:Rocket_launch.JPG",
+  "current_revision_id": 42701,
+  "database_title": "Rocket_launch.JPG",
+  "display_title": "File:Rocket launch.JPG",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 6,
+  "original_revision_count": 1,
+  "page_id": 27096,
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "BenSibelman",
+      "comment": "Preparing to launch a small rocket at our Winter Solstice 2012 gathering in Portland.",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 42701,
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": 39242,
+      "same_as_previous_public": false,
+      "timestamp": "2013-03-31T02:26:51Z",
+      "wikitext_bytes": 85,
+      "wikitext_sha256": "0605ccca6ab892215f951a1a4bb2992e9ce34a04e85078bbe46633392f1ad667"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 39242,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 86,
+      "markdown_sha256": "a4e1493f3956e6d9db06b864207139f56c2dcafc4947d17be27188094c2342e1",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": 39242,
+      "previous_public_revision_id": 39242,
+      "revision_id": 42701,
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z"
+    }
+  ],
+  "site_revision_count": 1
+}

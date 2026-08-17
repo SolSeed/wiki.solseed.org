@@ -1,0 +1,4 @@
+To consider:
+* [http://communicationcache.com/uploads/1/0/8/8/10887248/does_changing_behavioral_intentions_engender_behavior_change-_a_meta-analysis_of_the_experimental_evidence.pdf Does Changing Behavioral Intentions Engender Behavior Change? A Meta-Analysis of the Experimental Evidence] ... the mere measurement effect where simply asking people about their intent changes behavior
+* [https://faculty.fuqua.duke.edu/~gavan/bio/GJF_articles/question_behavior_psychsci_inpress.pdf When Questions Change Behavior]
+* [https://explorable.com/hawthorne-effect Hawthorne Effect] ... subjects change behavior because they are being studied (could also be placebo or demand effect)

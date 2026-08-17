@@ -1,0 +1,48 @@
+{
+  "canonical_path": "/November_2,_2009:_Online_Work_Bee",
+  "current_revision_id": "41923",
+  "database_title": "November_2,_2009:_Online_Work_Bee",
+  "display_title": "November 2, 2009: Online Work Bee",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 1,
+  "page_id": "359",
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "BenSibelman",
+      "comment": "Created page",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": "41923",
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": "1045",
+      "same_as_previous_public": false,
+      "timestamp": "2009-11-03T05:04:00Z",
+      "wikitext_bytes": 2390,
+      "wikitext_sha256": "2db815dc261f12fb3135d4da6d4221a148140f5202dae017a4f655a5e5970d31",
+      "source_format": "wikitext",
+      "source_extension": "wiki"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 1045,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 2608,
+      "markdown_sha256": "1bb729d4f06b2196d4d3b61d0ecca8921898976188ed2ceab76ba65efa03eecc",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": "1045",
+      "previous_public_revision_id": "1045",
+      "revision_id": "41923",
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z",
+      "wikitext_bytes": 2608,
+      "wikitext_sha256": "1bb729d4f06b2196d4d3b61d0ecca8921898976188ed2ceab76ba65efa03eecc",
+      "source_extension": "md"
+    }
+  ],
+  "site_revision_count": 1
+}

@@ -1,0 +1,1 @@
+Sedna is a world in the scattered disk.  Also the [World Mother](/World_Mother) who symbolizes the biosphere which might someday (or already) live of this world's surface.

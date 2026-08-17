@@ -1,0 +1,43 @@
+{
+  "canonical_path": "/Adjusting_the_SolSeedCreed_v3.0.0",
+  "current_revision_id": 42722,
+  "database_title": "Adjusting_the_SolSeedCreed_v3.0.0",
+  "display_title": "Adjusting the SolSeedCreed v3.0.0",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 1,
+  "page_id": 27117,
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "BenSibelman",
+      "comment": "Created page from notes",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 42722,
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": 39326,
+      "same_as_previous_public": false,
+      "timestamp": "2013-06-26T04:49:32Z",
+      "wikitext_bytes": 668,
+      "wikitext_sha256": "65d0c334c0d325d3b8ab69f92adba4d77460831bedeb1488efc411002990bc81"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 39326,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 703,
+      "markdown_sha256": "0427723259e9c55493cc63f27be658187c5fd9bd7c57c22c6697f8bafcef0e6e",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": 39326,
+      "previous_public_revision_id": 39326,
+      "revision_id": 42722,
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z"
+    }
+  ],
+  "site_revision_count": 1
+}

@@ -1,0 +1,42 @@
+This page contains the plans for the future development of [SolSeed Businesses](/SolSeed_Businesses).
+
+### Questions
+- What discipline? (rocketry, power beaming, biotech, water filtration, server farms in space?)
+  - Can/should we avoid things with direct military applications, in accordance with our values?
+- Can it support people with reasonable confidence?
+- Win prizes, Small Business Innovative Research (SBIR) grants?
+  - Venture capital is harder 
+
+### Ideas
+Most recent work: [SolSeed Business Brainstorming](/SolSeed_Business_Brainstorming)
+
+#### Space catapult/mass driver
+Pros:
+- Significant demand
+- Few other people working in this space at present
+- Gerard O'Neill supporters might help us
+
+Cons:
+- Could be easily weaponized
+
+#### Rockoons
+Pros:
+- Eco-friendly method of space or near-space access
+
+Cons:
+- Little market demand (mostly surveillence)
+- With JP Aerospace, ARCASPACE in Romania, and some SEDS people working on it, we might not be able to find a niche
+
+#### Glacier Trees
+What is a Glacier Tree?  A Glacier Tree is a genetically engineered or artificially selected tree that can live on a glacier or in the cold wastes of Antarctica.  How does that relate to [TheDestiny](/TheDestiny)?  Getting life to the stars is best achieved by giving life space-legs; if life can wander among the stars without us then that will save us most of the effort.  One idea for space based life is a Dyson Tree.  But as Freeman Dyson himself points out, "There are three principal obstacles to be overcome in adapting a terrestrial species to life in space.  It must learn to live and be happy in zero-g, zero-T and zero-P." (Gravity, Temperature and Pressure)(Infitine in All Directions, p. 104)  The hardest of these to overcome is zero-T and zero-P and Glacier Trees may get us part way there on two fronts; they will need to adapt to the cold and one way of doing that is to maintain a higher internal pressure which reduces the melting point of water protecting their cytoplasm from freezing.  Once an organism can contain positive pressure, it is well on its way to surving zero-P.
+
+Pros:  
+- Growing new forests in the Arctic and Antarctica could slow global warming significantly and reverse the acidification of the oceans.
+- It is something we can do here on Earth; it may be possible to make small steps with less cost.
+- I don't see anyone else moving in this direction
+- You need climate controlled greenhouses to grow trees.  Greenhouses can double as sanctuaries.
+
+Cons:
+- Genetic engineering and Ecological engineering scare people
+
+#### Waterproof palm pilot for babies

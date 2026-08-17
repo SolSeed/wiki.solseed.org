@@ -1,0 +1,48 @@
+{
+  "canonical_path": "/File:Sitting_outside_after_the_second_SolSeed_Service.jpg",
+  "current_revision_id": "42155",
+  "database_title": "Sitting_outside_after_the_second_SolSeed_Service.jpg",
+  "display_title": "File:Sitting outside after the second SolSeed Service.jpg",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 6,
+  "original_revision_count": 1,
+  "page_id": "599",
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "BenSibelman",
+      "comment": "What the filename says.",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": "42155",
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": "1543",
+      "same_as_previous_public": false,
+      "timestamp": "2010-05-06T05:23:14Z",
+      "wikitext_bytes": 23,
+      "wikitext_sha256": "3258f9065f3544b5933a316e2b59c8aee28bdd5ef28bf212d4cc3a9393fe4470",
+      "source_format": "wikitext",
+      "source_extension": "wiki"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 1543,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 24,
+      "markdown_sha256": "8f3a708d80055fe43922f292405f259c902932e2281804fd539ea082c6ed0362",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": "1543",
+      "previous_public_revision_id": "1543",
+      "revision_id": "42155",
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z",
+      "wikitext_bytes": 24,
+      "wikitext_sha256": "8f3a708d80055fe43922f292405f259c902932e2281804fd539ea082c6ed0362",
+      "source_extension": "md"
+    }
+  ],
+  "site_revision_count": 1
+}

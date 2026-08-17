@@ -1,0 +1,48 @@
+{
+  "canonical_path": "/Theá_Me_Plokámia",
+  "current_revision_id": "43314",
+  "database_title": "Theá_Me_Plokámia",
+  "display_title": "Theá Me Plokámia",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 1,
+  "page_id": "27716",
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "EricSaumur",
+      "comment": "Created page with \"The&aacute; Me Plok&aacute;mia is a Biosphere Communion Mother; a personification of a linked group of [[World Mother]]s.  She symbolizes the Body of All Biospheres in the Univer...\"",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": "43314",
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": "41295",
+      "same_as_previous_public": false,
+      "timestamp": "2018-04-13T02:08:08Z",
+      "wikitext_bytes": 275,
+      "wikitext_sha256": "828324da5a8782f09709c732bfa044395c2e2b672a893bfa49128f629cf6543f",
+      "source_format": "wikitext",
+      "source_extension": "wiki"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 41295,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 277,
+      "markdown_sha256": "915e58f846d48cd5a4079f75e299524d050e05be46520f33fe64e946e04ad563",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": "41295",
+      "previous_public_revision_id": "41295",
+      "revision_id": "43314",
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z",
+      "wikitext_bytes": 277,
+      "wikitext_sha256": "915e58f846d48cd5a4079f75e299524d050e05be46520f33fe64e946e04ad563",
+      "source_extension": "md"
+    }
+  ],
+  "site_revision_count": 1
+}

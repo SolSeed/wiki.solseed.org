@@ -1,0 +1,5 @@
+*[Happy in the Sun](/Happy_in_the_Sun)* is a children's book that tells the story of a "curious little rocket" learning about the relationship between [being](/being) and [doing](/action).  We plan to self-publish it in early 2010.
+
+*[ The Book of Life](/SolSeed:_The_Book_of_Life)* will be a compilation of many texts including prose, poetry, and songs. It will help provide material for [SolSeed Services](/SolSeed_Services), among other things.
+
+*[ Helping Life Thrive, On Earth And Beyond](/SolSeed:_Helping_Life_Thrive,_On_Earth_And_Beyond)* will be a book within the Book of Life but also published separately. It will describe our [philosophy](/SolSeedPhilosophy), the [SolSeedMovement](/SolSeedMovement)'s plans, and our broader ideas about what a [starfaring](/starfarers) civilization would look like and how we might build one.  It should be useful in finding potential new [members](/members), but writing it will also help us crystallize our own thinking about what we're building.  Our current [OnePagePlan](/OnePagePlan) goal is to publish it by the end of 2010.

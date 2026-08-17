@@ -1,0 +1,56 @@
+{
+  "canonical_path": "/Gaia's_Heartbeat_for_Humanistic_Paganism",
+  "current_revision_id": 42937,
+  "database_title": "Gaia's_Heartbeat_for_Humanistic_Paganism",
+  "display_title": "Gaia's Heartbeat for Humanistic Paganism",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 2,
+  "page_id": 27338,
+  "published_revision_count": 2,
+  "revisions": [
+    {
+      "author": "Brandon CS Sanders",
+      "comment": "Created page with \"=== Gaia's Heartbeat (DRAFT) ===  Gaia is the most common and popular name for the Earth when treated as a single living organism. Humanity has an obligation to care for Gaia, bu...\"",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 40149,
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": 40148,
+      "same_as_previous_public": false,
+      "timestamp": "2014-10-31T02:47:43Z",
+      "wikitext_bytes": 4046,
+      "wikitext_sha256": "b353c3a007a1194d8a4b28d05aa3a7a4d71d72478a827ebcbb26a76ca8405c41"
+    },
+    {
+      "author": "BenSibelman",
+      "comment": "Added my editing suggestions",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 42937,
+      "original_parent_revision_id": 40148,
+      "previous_public_revision_id": 40148,
+      "revision_id": 40149,
+      "same_as_previous_public": false,
+      "timestamp": "2014-11-01T18:29:19Z",
+      "wikitext_bytes": 4597,
+      "wikitext_sha256": "3e4cc0626927ce28488159eafc630f335507feb172f7794cc5c980214b725f3d"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 40149,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 4606,
+      "markdown_sha256": "8fd714371fd75248cc487452ec3e760a12a9566fa81bc0d7dfdb97c7b023d461",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": 40149,
+      "previous_public_revision_id": 40149,
+      "revision_id": 42937,
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z"
+    }
+  ],
+  "site_revision_count": 1
+}

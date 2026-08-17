@@ -1,0 +1,9 @@
+Hello Joy Marie,  Welcome to the [SolSeedMovement](/SolSeedMovement)!  How did you find us? --[Brandon](/Brandon)
+
+I knew their had to be somesort of earthseed followers after I read the books so I looked it up online and found solseed. I am curious though about the extent of the movement. How many people are involved? Where did it start? And who started it?--[Joy Marie](/User:Joy_Marie) 22:25, 16 January 2009 (UTC)
+
+*I started the [SolSeedMovement](/SolSeedMovement) not quite four years ago here in Portland Oregon.  There aren't many of us yet.  We just had our first official gathering last weekend (January 9-11) in Portland Oregon.  7 members and 11 friends of the movement attended (from Virginia, New York, Illinois, Nevada, Washington, and Oregon).  We'll be having another gathering this summer somewhere on the Oregon coast.  We still have a few jackets left from the event (they are very nice) and I'd be happy to send you one if you'd like one.* --[Brandon](/Brandon)
+
+I would like a jacket but I am not willing to give away my adress.  What's the difference between members and "friends of the movement?"--[Joy Marie](/User:Joy_Marie) 00:43, 18 January 2009 (UTC)
+
+*No worries on the address.  Membership is by the declaration of the person choosing to be a member.  Members of the movement are those who choose to adopt the language and practices of the movement as their own.  Friends are those who occasionally participate with the members (on this website, or on a project, or at one of our events), but have chosen to adopt some other language/practice as their own.  We support all people and organizations who are working to bring life.  There are many others who don't even know about the movement (so neither members nor friends) but who are kindred in the sense that they are working to [Bring Life](/Bring_Life).* --[Brandon](/Brandon)

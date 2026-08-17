@@ -1,0 +1,1 @@
+Photo of the food table at [Solstice2010](/Solstice2010)

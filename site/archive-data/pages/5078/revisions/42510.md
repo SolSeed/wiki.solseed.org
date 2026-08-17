@@ -1,0 +1,100 @@
+### Agenda
+- Check In
+- Review WWWs
+- Review Agenda
+- Next Service Logistics
+- [SolSeedProtocol](http://thesanders.us/SolSeedProtocol)
+- Space Elevator Conference
+- [OnePagePlan](/OnePagePlan)
+- Major Events: Equinox
+- Evaluation
+
+### Check In
+- Brandon ... at the moment I feel pretty good, optimistic about SolSeed, feel like we're picking up momentum
+- Ben ... I feel a little guilty about all the things on my weekend TODO list that I didn't get to ... sort of getting sucked into creating a potential talk for this year's Space Elevator Conference
+- Shelley ... feel pretty good considering that I was on call this weekend, I'm a little overextended in general (trip to Dallas + Epic training) ... Brandon watched Sequoia and I caught up on something that was past due
+- Sequoia ... had a really fun day ... basketball, OMSI, "worked" in the garden
+
+### WWWs from last time
+- <s>Shelley ... follow your topical community protocol for this week ... ongoing
+- Shelley ... meditate and keep track of which days ... ongoing
+- Shelley ... call Lori ... tomorrow
+- Shelley ... mail the last invitations ... by next call</s>
+- Shelley ... go to Portland Nursery to buy planting activity materials, and do test plantings ... by next call (decided to do marigolds, for which we'll get supplies at Fred Meyer instead)
+- Shelley ... work on the gathering song with Brandon ... by next call
+- Brandon ... follow your topical community protocol for this week ... ongoing
+- <s>Brandon ... meditate and keep track of which days ... ongoing</s>
+- Brandon ... make my opening for the equinox ... by next call
+- Brandon ... nutrient cycle demo planned ... by next call
+- Brandon ... look into a sun light ... by next call
+- <s>Brandon ... put in 4 good hours on chapter 1&2 of the book ... by next call</s> (technically 1/2 hour short)
+- <s>Ben ... follow your topical community protocol for this week ... ongoing
+- Ben ... meditate and keep track of which days ... ongoing</s>
+
+### WWWs
+- Shelley ... follow your topical community protocol for this week ... ongoing
+- Shelley ... meditate and keep track of which days ... ongoing
+- Shelley ... mail the last of the invitations ... by tomorrow
+- Shelley ... email Meg and Heather about the services ... by tomorrow
+- Shelley ... ask Kristianne to help with cutting up fruit ... by tomorrow
+- Shelley ... make a shopping list for Brandon ... by next call
+- Ben... follow your topical community protocol for this week ... ongoing
+- Ben... meditate and keep track of which days ... ongoing
+- Ben ... practice my Earth seasons demo ... by next call
+- Ben ... make a sign for each activity station, and one listing all the stations and their locations ... by next call
+- Brandon ... follow your topical community protocol for this week ... ongoing
+- Brandon ... meditate and keep track of which days ... ongoing
+- Brandon ... make my opening for the equinox ... by next call
+- Brandon ... nutrient cycle demo planned ... by next call
+- Brandon ... look into a sun light ... by next call
+- Brandon ... ping Molly about the nutrient cycle ... by next call
+- Brandon ... buy a canvas for the mural ... by next call
+
+### Next Service Logistics
+Regular Service Saturday March 10, 3pm ... new regular time (Brandon)
+Rotation: Brandon, Jerry?, Shelley, Ben
+
+### Space Elevator Conference
+Brandon talked about one way to motivate people in my talk.  Ben would provide an overview of motivations for going to space and provide an introduction of where SolSeed is at on that spectrum.  Would include the Lifeboat Foundation and the asteroid mining enthusiasts as other exemplars from other parts of the spectrum.  Would also talk about the Millennial Project (just to point out that SolSeed is not the only one with this particular motivation).
+
+### One Page Plan
+- Possible location for a future solstice/equinox retreat: http://www.hollandlakelodge.com
+- For this quarter, Brandon is most worried about hitting the goals for the book, and second-most worried about the SolSeed protocol
+
+### Equinox
+Schedule
+- 9:30 Brief Opening (Brandon) 
+- Family Activities 
+  - Earth seasons demonstration (Ben, playroom) 
+  - The nutrient cycle mural painting (Brandon, under the balcony) 
+  - Planting and watering (Shelley & Heather, on the picnic table) 
+  - Making ribbon things for dance (Shelley & Kristianne, on the kitchen table) 
+- 10:15 Gathering dance
+- 10:30 Brief Concert (Lori)
+  - Have most people sit on mats on the floor, with chairs around the edge of the room
+- Blessing before the brunch 
+- 11:00 Brunch 
+
+Menu 
+- Bran muffins ... 36
+- Apple and Orange juice ... 3 bottles of each
+- Water
+- Fruit ... lots and lots (melon, grapes, pineapple, apple slices) 
+- Baked French toast (3 loaves of Challah, 2 pans)
+- John Wayne Potatoes (2 pans worth)
+
+Attending 
+- Us (4)
+- Kristianne and Family (helping) (4)
+- Heather and Family (helping) (4)
+- Jeff & boys (4)
+- Emily (3 or 4)
+- Lori (3)
+- School (about 8?)
+- Ben's parents (2?)
+- Usher Milligans (?)
+
+### Evaluation
+- Ben ... I think I was whinier than usual ... I felt Ben was nice --Brandon
+- Shelley ... Excited about the equinox ... tempted to start limiting the size of events (more enjoyable)
+- Brandon ... I just like working with you guys

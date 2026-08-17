@@ -1,0 +1,48 @@
+{
+  "canonical_path": "/Talk:Group_Experiences",
+  "current_revision_id": "42160",
+  "database_title": "Group_Experiences",
+  "display_title": "Talk:Group Experiences",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 1,
+  "original_revision_count": 1,
+  "page_id": "604",
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "Cfrjlr",
+      "comment": "A space hack day would be really great (and I'd love to help organize)!",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": "42160",
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": "1561",
+      "same_as_previous_public": false,
+      "timestamp": "2010-05-14T21:18:41Z",
+      "wikitext_bytes": 4303,
+      "wikitext_sha256": "270472c483d1451fbce523bf4ff5d03f0bc71a7949b9f0e1f545e259f249d895",
+      "source_format": "wikitext",
+      "source_extension": "wiki"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 1561,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 4300,
+      "markdown_sha256": "2d92cc65306d17da69e8396f1b5db91e3d7e0d16b93dfce870a1ea569650c010",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": "1561",
+      "previous_public_revision_id": "1561",
+      "revision_id": "42160",
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z",
+      "wikitext_bytes": 4300,
+      "wikitext_sha256": "2d92cc65306d17da69e8396f1b5db91e3d7e0d16b93dfce870a1ea569650c010",
+      "source_extension": "md"
+    }
+  ],
+  "site_revision_count": 1
+}

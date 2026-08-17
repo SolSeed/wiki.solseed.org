@@ -1,0 +1,43 @@
+{
+  "canonical_path": "/File:ConflatoriumAltar.jpg",
+  "current_revision_id": 43021,
+  "database_title": "ConflatoriumAltar.jpg",
+  "display_title": "File:ConflatoriumAltar.jpg",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 6,
+  "original_revision_count": 1,
+  "page_id": 27422,
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "EricSaumur",
+      "comment": "Service Altar for the Conflatorium Liturgical Season.  Millenial Gaia Statue, Fossil Shaker, Candle, Snuffer, Matches, Zills, Bowl of boiling water, Tray of IceCubes with fossils frozen into them, Nori and Honey 'jellyfish' treat.",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 43021,
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": 40395,
+      "same_as_previous_public": false,
+      "timestamp": "2015-03-15T00:12:14Z",
+      "wikitext_bytes": 230,
+      "wikitext_sha256": "ebcec8ec427135ddabb6eb41d9fbcae4fb1cf0562611242a1f56dd8dae33d974"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 40395,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 231,
+      "markdown_sha256": "f8f459d31c5c1d88f2bb66bf920e27abf25960c5e855978d7003d44e7c1dfd04",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": 40395,
+      "previous_public_revision_id": 40395,
+      "revision_id": 43021,
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z"
+    }
+  ],
+  "site_revision_count": 1
+}

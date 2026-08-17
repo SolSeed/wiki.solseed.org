@@ -1,0 +1,1 @@
+Near-finished version of [Ben](/Ben)'s PhotoShop visualization of the [SolSeedVillage](/SolSeedVillage) for his video [Pick a Future](/Pick_a_Future).  Shadows should probably be reversed since they're currently pointed south.

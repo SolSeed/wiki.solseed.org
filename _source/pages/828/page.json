@@ -1,0 +1,56 @@
+{
+  "canonical_path": "/File:Music_Festival.jpg",
+  "current_revision_id": 42383,
+  "database_title": "Music_Festival.jpg",
+  "display_title": "File:Music Festival.jpg",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 6,
+  "original_revision_count": 2,
+  "page_id": 828,
+  "published_revision_count": 2,
+  "revisions": [
+    {
+      "author": "BenSibelman",
+      "comment": "Panoramic photo of Lori Henriques and the audience at the January 2011 [[Music Festival]].",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 2181,
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": 2180,
+      "same_as_previous_public": false,
+      "timestamp": "2011-02-03T04:55:19Z",
+      "wikitext_bytes": 90,
+      "wikitext_sha256": "afd3b44e84c618056b33ff44809fbc111ed7455d3fc84dadffeb23c195c538d4"
+    },
+    {
+      "author": "BenSibelman",
+      "comment": "",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 42383,
+      "original_parent_revision_id": 2180,
+      "previous_public_revision_id": 2180,
+      "revision_id": 2181,
+      "same_as_previous_public": false,
+      "timestamp": "2011-02-03T04:55:37Z",
+      "wikitext_bytes": 101,
+      "wikitext_sha256": "749b32e5bab2defe75efd6d4fb66b2ca1b21e2f5ed95059242743539ca8e0ac8"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 2181,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 117,
+      "markdown_sha256": "afa5ca3e2534053aa34e591689f371ab3276e5484727874e15e9f88fc91800c7",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": 2181,
+      "previous_public_revision_id": 2181,
+      "revision_id": 42383,
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z"
+    }
+  ],
+  "site_revision_count": 1
+}

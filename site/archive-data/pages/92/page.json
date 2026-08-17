@@ -1,0 +1,48 @@
+{
+  "canonical_path": "/Regula_Frey",
+  "current_revision_id": "41662",
+  "database_title": "Regula_Frey",
+  "display_title": "Regula Frey",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 1,
+  "page_id": "92",
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "RegulaFrey",
+      "comment": "[[redirect]]",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": "41662",
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": "179",
+      "same_as_previous_public": false,
+      "timestamp": "2008-11-17T01:11:46Z",
+      "wikitext_bytes": 29,
+      "wikitext_sha256": "d97b836b26b3dd72180a39ff6218ebc50709c0c581b1600cf3b46252f0f87234",
+      "source_format": "wikitext",
+      "source_extension": "wiki"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 179,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 69,
+      "markdown_sha256": "2955833299933ebf3e333f5bebd2cab4cb39b60b241d5b5c2f1c1a1dd4aea407",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": "179",
+      "previous_public_revision_id": "179",
+      "revision_id": "41662",
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z",
+      "wikitext_bytes": 69,
+      "wikitext_sha256": "2955833299933ebf3e333f5bebd2cab4cb39b60b241d5b5c2f1c1a1dd4aea407",
+      "source_extension": "md"
+    }
+  ],
+  "site_revision_count": 1
+}

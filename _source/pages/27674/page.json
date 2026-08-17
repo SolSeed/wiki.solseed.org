@@ -1,0 +1,43 @@
+{
+  "canonical_path": "/File:Gaia_statue_with_Sequoia_and_Ren.jpg",
+  "current_revision_id": 43272,
+  "database_title": "Gaia_statue_with_Sequoia_and_Ren.jpg",
+  "display_title": "File:Gaia statue with Sequoia and Ren.jpg",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 6,
+  "original_revision_count": 1,
+  "page_id": 27674,
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "BenSibelman",
+      "comment": "[[Sequoia]] and [[Ren]] approaching the Gaia statue before it was painted with life-form stencils, during the [[Buckleberry Dedication]] in September 2017.",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 43272,
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": 41147,
+      "same_as_previous_public": false,
+      "timestamp": "2017-12-08T05:04:18Z",
+      "wikitext_bytes": 155,
+      "wikitext_sha256": "9767e8cde33ca4eff34494d1fb5d92821210d800f1a97599958051412063446c"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 41147,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 191,
+      "markdown_sha256": "f03dfcf7938f5868b0f91f3d61898ea040f836fb78eb41c5d765fffc4b9c0fe5",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": 41147,
+      "previous_public_revision_id": 41147,
+      "revision_id": 43272,
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z"
+    }
+  ],
+  "site_revision_count": 1
+}

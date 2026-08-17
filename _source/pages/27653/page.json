@@ -1,0 +1,56 @@
+{
+  "canonical_path": "/July_16,_2017:_Business_Call",
+  "current_revision_id": 43251,
+  "database_title": "July_16,_2017:_Business_Call",
+  "display_title": "July 16, 2017: Business Call",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 2,
+  "page_id": 27653,
+  "published_revision_count": 2,
+  "revisions": [
+    {
+      "author": "BenSibelman",
+      "comment": "Created page from the Google doc",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 41084,
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": 41083,
+      "same_as_previous_public": false,
+      "timestamp": "2017-07-16T16:51:50Z",
+      "wikitext_bytes": 3764,
+      "wikitext_sha256": "5abbdcb51dd5c1ca54c4b34ab16a69e61606621e72424684983f56d33790b6cd"
+    },
+    {
+      "author": "BenSibelman",
+      "comment": "/* Year Plan */",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 43251,
+      "original_parent_revision_id": 41083,
+      "previous_public_revision_id": 41083,
+      "revision_id": 41084,
+      "same_as_previous_public": false,
+      "timestamp": "2017-07-16T16:57:49Z",
+      "wikitext_bytes": 3796,
+      "wikitext_sha256": "c7ed9804f5f3230addc381a72f59b39f7bf1f751d5ae58c8bc36214b575fbc49"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 41084,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 3801,
+      "markdown_sha256": "96befb3bdf11107de18b9ed27d6b307afdd6bd6d4db6d538983c9653c21cbaf4",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": 41084,
+      "previous_public_revision_id": 41084,
+      "revision_id": 43251,
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z"
+    }
+  ],
+  "site_revision_count": 1
+}

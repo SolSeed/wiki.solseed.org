@@ -1,0 +1,79 @@
+The sixth [[Liturgical Season]] runs from mid-summer to the fall equinox and covers the rise of human civilization and the invention of the technologies that make [[The Destiny]] possible.  The major advances that we celebrate during this season are Science, Religion, Industry, and Democracy.
+
+Here is [[Eric]]'s draft of the opening ceremony for the [[Weekly Service Calls]] during this season:
+:We gather to mark the passing of a week
+:To align our hearts as one.
+
+(Light the Sol Candle)
+
+:Wilderness ... still ... wilderness ...
+::And then ... <gasp> ... civilization!
+
+:People. Warm-blooded. Social. Tool-users. Talking.
+
+:Nations coalesce.
+::In the fertile lands, cities are born.
+::And for every city ... there is a story!
+
+(Open book sign)
+
+:Many stories begin with religion, practices that bind,
+::the beliefs that spark community into being!
+
+(ASL sign for belief but modified: [http://www.signingsavvy.com/sign/BELIEF/6225/1] instead of clasping your own hand at the end of the sign, clasp those of the people next to you (or reach toward the screen to 'clasp' those in other locations on Skype)
+
+:Then came science!
+
+(The ASL sign for science: fists appart but in front of chest, thumbs pointing inward, crank turning motion [http://www.signingsavvy.com/sign/SCIENCE/681/1]
+
+::The practice of seeking truth through experience.
+::The upward spiral of knowledge 
+
+(The ASL sign for knowledge: right hand open, fingers together palm down, tab above right brow twice [http://www.signingsavvy.com/sign/KNOWLEDGE/808/1]  Then sweep the hand through an upward spiral until arm is extended directly up.)
+
+:Next came industry, our first job.
+
+(The ASL sign for industry: hands in front of shoulders fingers curled toward shoulders, bring them together infront of sternum like two gears meshing and then apart again)
+
+::decreasing the cost to create new tools,
+::in an upward spiral of ever growing ability.
+
+(The ASL sign for ability: fists in front of belly, up and down; [http://www.signingsavvy.com/sign/ABILITY/5527/1]  but raise the fists in a rising circular fashion with each up and down motion so that they travel through an upward spiral)
+
+:Finally, democracy emerged!
+
+(Ballot stuffing motion as in ASL for VOTE: [http://www.signingsavvy.com/sign/VOTE/7013/1])
+
+::Making striving for the Destiny,
+::Freely available to all living citizens.
+
+(ASL for Freedom like in Spirit of Life)
+
+:Religion. Science. Industry. Freedom.
+
+:From Wilderness ... Civilization!
+
+=== Discussion ===
+==== Religion ====
+[[Ben]]: First significant suggestions for the wording in the sixth season: “the beliefs that spark large-scale community into being,”
+
+[[Eric]]: I think that all communities large and small come from religion or at least shared values.  In the early times, all of these were religions.  Now we other names for them, movements, causes, visions, etc...  In this sense a subdivision isn't a community until and if ever its people get together and work together toward a common goal.  This they will only do if they share common values.  What is meant by common values is What is important and what things matter.  This is the indisputable realm of religion.  As Michael Dowd says, "Religions have always helped people to understand two fundamental questions: what's real and what's important. Or how things are, and which things matter."  Now science will tell you what is real but only religion can tell you what matters.  So if it is telling you what matters, then it is giving you values, and it is in some sense religion.  And without values you cannot be a community.  So all communities are religion-defined.  The more religion-like their source of value then the stronger the community.
+
+[[Ben]]: A housing subdivision isn't a real community, but I'd argue that a band of chimpanzees or other nonsapient mammals ''is'' a community, even though it lacks religion. We referred to them as "society" in the words for the fifth season, but "community" works fine too. Religion does something a little more specific, something beyond simple mammalian small-group solidarity; that's why I want an adjective. It doesn't have to be "large-scale." My second thought was "intentional community," but that term is probably way too modern.
+
+==== Democracy ====
+[[Ben]]: Second suggestion: “Making striving for their self-chosen destinies/ Freely available to all living citizens.” (Or something more along those lines, anyway.) 
+
+Speaking of choice, I still think we need language more like "striving for their self-chosen destinies." Our vision of [[The Destiny]] is not the only thing democracy enables, nor should it ever be. At [[Seed 2009]], we agreed that the SolSeed Movement is not a totalizing system; unlike Christianity, we don't want everyone to join us.
+
+==== Industry / Agriculture ====
+[[Ben]]: Also, instead of “industry, our first job,” can we find more general (and inspiring) words that encompass agriculture as well? Something along the lines of “The labor of many, organized and specialized to perform immense tasks...”
+
+[[Eric]]: Also, I wanted to be specific about industry in the industry paragraph.  I am really referring to the industrial revolution.  The revolution which gave us the ability to make really big complex stuff, like space shuttles and DNA sequencers.  It created the concept of job.  Serfs and Peasants didn't have jobs.  They worked but their work was organized in a completely different way.  They were tied to one place, one lord or baron and one kind of work; usually farming.  They didn't have any choices to make.  They inherited their work from their parents.  But a job is something that you go out and find, you have some choice in the matter, you can move to different cities.  You can try to learn new skills that will make you employable in different jobs.  That kind of choice wasn't available before the industrial revolution and so Industry was our first job.
+
+[[Ben]]: You say the importance of jobs is that they give people choice, but that's a form of social [[progress]] covered by the general concept of democracy. The content of the "industry" section is all about the ''material'' progress enabled by civilization, and to tell that story without including agriculture is a little like building only the top floor of a skyscraper.
+
+And speaking of material progress, I think it would be a shame if we didn't have ''any'' physical materials for this ritual, given that civilization is what produces those materials. I'm thinking maybe a beaker for science (plastic ones for the kids) and some LEGO gears for industry, set up so you can turn a crank that turns the gears.
+
+==== Names ====
+[[Eric]]: Possible names for this season could include Urbem (latin for city) or Cultus (latin for civilization) or Civis (Latin for Citizen)

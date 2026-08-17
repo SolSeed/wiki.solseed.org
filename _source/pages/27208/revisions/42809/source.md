@@ -1,0 +1,151 @@
+### Agenda
+- Good News/Check In
+- Review WWWs
+- Weekly Events Logistics
+- Review Agenda
+- Equinox
+- 3rd liturgical season
+- B corporations
+- Holacracy experiment?
+- Website and Orientation Emails
+- Evaluation
+
+### Good News
+- Eric ... just got back from buying an exercise bike ... going to get back in shape
+- Ben ... I've gotten a lot done this morning despite not being very motivated yesterday. I feel good about the SolSeed homework I got done.
+- Brandon ... I shared [Gaia's Heartbeat](/Gaia's_Heartbeat) and [We Believe](http://join.solseed.org/we_believe) with my father-in-law and he responded positively to both ... also I can now see the way to my startup growing huge and providing significant money to SolSeed
+
+### WWWs from last time
+- <s>Brandon ... follow your  topical community protocol for this week ... ongoing
+- Brandon ... meditate and keep  track of which days ... ongoing
+- Brandon ... get Ben his picture ... by next week</s>
+- Brandon ... write Week 3: The Divided Mind (Elephant and Rider) orientation email ... by next week
+- <s>Brandon ... document Camp trackers venue ... by next week
+- Brandon ... document WestWind venue ... by week after next
+- Brandon ... thank Tony for the chat ... by next week
+- Brandon ... discuss story telling event to celebrate the equinox on Sat night March 22 ... by Monday night</s>
+- Brandon ... start writing his story for the equinox (start his families story) ... by next week
+- <s>Brandon ... call Ben</s> and Eric for check ins ... by next week
+- Ben ... follow your  topical community protocol for this week ... ongoing
+- <s>Ben ... meditate and keep  track of which days ... ongoing
+- Ben ... investigate and document Silver Falls Conference Center ... by next call
+- Ben ... think about what story to tell on the Equinox ... by next call
+- Ben ... convert the Passion email into an autoresponder ... by next call
+- Eric ... follow your  topical community protocol for this week ... ongoing</s>
+- Eric ... meditate and keep  track of which days ... ongoing
+- <s>Eric ... write a draft story for equinox ... by next week (partial)
+- Eric ... decide where to do the Equinox and how many to invite ... by next week</s>
+- Eric ... write Week 5: Life has invested in us Orientation email ... by next week
+
+### WWWs
+- Ben ... follow your  topical community protocol for this week ... ongoing
+- Ben ... meditate and keep  track of which days ... ongoing
+- Ben ... contact Silver Falls Conference Center ... by Friday
+- Ben ... log in to Glass Frog ... by next week
+- Brandon ... follow your  topical community protocol for this week ... ongoing
+- Brandon ... meditate and keep  track of which days ... ongoing
+- Brandon ... write the invitation for the equinox with Shelley and post the meetup ... by Monday night
+- Brandon ... write Week 3: The Divided Mind (Elephant and Rider) orientation email ... by next week
+- Brandon ... setup a glassfrog account ... by today
+- Brandon ... prepare for the 10 minute governance meeting ... by next week
+- Brandon ... start writing his story for the equinox (start his families story) ... by next week
+- Brandon ... call Eric for a check in ... by next week
+- Eric ... follow your  topical community protocol for this week ... ongoing
+- Eric ... meditate and keep  track of which days ... ongoing
+- Eric ... announce Equinox event on Meetup.com ... by next week
+- Eric ... announce Equinox event at UU Fellowship Ottawa ... by next week
+- Eric ... call misc friends and invite to Equinox ... by next week
+- Eric ... suggest actions for 3rd liturgical season ... by next week
+- Eric ... read up on Holacracy meetings ... by next week
+- Eric ... log in to Glass Frog ... by next week
+- Eric ... write Week 5: Life has invested in us Orientation email ... by next week
+
+### Weekly Events Logistics
+Service rotation: Eric, Shelley, Brandon, Ben
+- March 8 Service: 9:00 am PDT (12:00 EDT) (Eric) (Fifth Week of [Conflatorium](/Conflatorium))
+
+- March 9 Work-Bee: 1:30 pm PDT (16:30 EDT)
+
+### Equinox
+Moment of Equinox: Thursday March 20, 11:57 EDT / 8:57 AM PDT
+- Ottawa event: Friday night, March 21
+  - Eat at an all-you-can-eat sushi restaurant
+  - Come back to the Saumur place for the storytelling
+  - Brandon/Ben do you want to read your story to the Ottawa audience over Skype on Friday night?
+- Portland celebration: Saturday night, March 22
+  - Include cleanup or tree-planting? with SOLV and the Wyeast UU Fellowship
+  - Eric can read his story over Skype
+- Ritual? Figure it out after we get the invitation out
+
+### [3rd liturgical season](/3rd_Season)
+The third liturgical season runs from the spring equinox to mid-spring (approximately May 5th) and covers the period from the Cambrian explosion to the invention of trees in the Devonian?.  Again what are the major advances of this period?  Leaves, veins, roots, wood?
+- The animals wouldn't be on land if the plants didn't colonize it first
+- But this period extends through the Carboniferous, which is after the first amphibians and insects
+
+### B Corporations
+Ben's mom has a crazy idea of trying to have Microsoft turn itself into a B corporation.
+- Brandon and Eric agree this is "low in the drainage"
+- Ben: But the Microsoft Sustainability Champions program is about individual employees starting small initiatives that eventually grow
+- Brandon: You could do a lightweight test by launching a Change.org petition to see if it resonates with people
+  - To me it seems too abstract, even though I know what a B corp is and most people don't
+- Eric: Could easily result in B-washing: paying lip-service to the concept and then doing the minimum possible to meet the requirements
+  - Ben: On the other hand, Microsoft does seem somewhat serious about its internal carbon fee
+- Brandon and Eric will cheer you on if you choose to give it a whirl
+
+### Holacracy
+- Brandon's fantasy: The Gaia's Heartbeat video goes viral and we get a lot of attention and people wanting to join
+  - Eric agrees that such a sudden influx is likely
+  - How do we organize dozens or hundreds of people very quickly?
+    - Traditional methods are typically mostly hierarchical
+    - I'd like to do something that pushes as much control as possible out to the "leaves" of the org tree, i.e. the people actually doing the work; Holacracy seems to be a good way to do that
+    - LUF had this problem with a big influx of people and not being able to figure out how to work together or what different people should work on
+- Brandon also likes how Holacracy forces you to continually change your methods in response to changing realities
+- Brandon found Holacracy by researching WWW's
+  - WWW's are superior to nothing but they end up setting priorities without enough introspection or situational awareness
+  - What you want is for people to keep asking "What's the most important thing to do right now?" 
+ 
+- Ben's initial reaction:
+  - It looks cool in some ways but maybe a little overstructured in others.
+    - The description of how meetings are run.  Almost every step has a point saying "no discussion, just do what the instruction says."  That might have us feeling like an assembly line.  
+  - Also, Brandon has long had a leaning toward a religion run like a startup ... because of the holocacry constitution model, we would be a religion run like a startup run like a government ... not sure how I feel about that.  It would certainly be unique.
+
+- Eric's only reaction was that for an organization of three people (while we are still three people) Holacracy is too involved.
+  - The part about breaking up into teams isn't going to work for us (teams of 1). That's what we do when we do our WWWs, we act like separate subgroups of 1. Seems like we are adding a layer of bureaucracy that we're not ready for yet.
+    - Brandon agrees that it's a lot of overhead
+  - I can see us preparing to use Holacracy rather than using Holacracy ... when we hit 10 members (or some threshold) we start using it and having it ready to go.  I can't see us actually using it until we've got that many people.
+    - Brandon: We won't have it ready to go unless we're practiced in it
+    - Eric: We could document projects we don't have capacity for in Holacracy format, and hand them to new members when we get them
+    - Brandon: Yes, having places to plug people in with well-defined roles
+
+- Brandon sees this as an alternative to the [One-Page Plan](/One-Page_Plan) or the "Getting Things Done" process for individual action
+  - A way to decompose the things we want to work on, finding next steps for each one
+    - "Getting Things Done" includes the idea of "What would you do if you had 20 minutes to work on a given project?"
+  - Creating an overall picture of our opportunities
+  - Everything is purpose-driven
+
+- The experiment
+  - Brandon proposes setting up a GlassFrog for us and having each of us spend 10-20 minutes a week on it
+    - Ben: What are we working on? Just inputting roles and circles online, or changing our meeting format?
+      - Brandon: Just a short governance meeting per week
+        - Eric agrees, "build a new bridge before tearing down the old one"
+    - Start with one circle with a lot of roles in it
+      - Eric: We could use empty roles for warehoused projects
+
+### Website and Orientation Emails
+- Brandon: Why do we have a menu?
+  - Two things should be on the main page: Join Us and We Believe, with everything else on the wiki
+    - Ben: That's what we already have, the only other thing is the Facebook link
+  - We Believe could be the front page, with the current front page moved to an About page
+    - Ben: That seems like a lot for people to get through on their first interaction
+    - Brandon: So put the current frontpage on top of the We Believe page and turn the link to We Believe into a "jump down" link
+      - Ben: What about bandwidth restrictions?
+        - Brandon: I can verify that we use smaller versions of the images on small devices
+        - Eric: I can try loading the page on Patrick's phone
+  - Ben: Where does the Join Us go?
+    - Brandon: On large devices, a sticky top bar that stays there when you scroll; on phones, at the top and bottom of the page
+- Brandon will also move the page from join.solseed.org to solseed.org
+
+### Evaluation
+- Ben: We got through more stuff because we used more time; maybe we should think about a 90 minute meeting.  
+- Brandon: Loved it!
+- Eric: I really like that last idea because we aren't a wiki in a lot of ways ... by putting the wiki behind we're putting a better face forward.  I loved the meeting, it felt energetic and positive.

@@ -1,0 +1,48 @@
+{
+  "canonical_path": "/File:Happy_in_the_Sun.jpg",
+  "current_revision_id": "42082",
+  "database_title": "Happy_in_the_Sun.jpg",
+  "display_title": "File:Happy in the Sun.jpg",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 6,
+  "original_revision_count": 1,
+  "page_id": "521",
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "BenSibelman",
+      "comment": "Intro page art for the children's book, [[Happy in the Sun]].",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": "42082",
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": "1391",
+      "same_as_previous_public": false,
+      "timestamp": "2010-02-22T05:06:36Z",
+      "wikitext_bytes": 61,
+      "wikitext_sha256": "cbf5d172013d3fa59f1641a3ab568852bd5f5b8a151764b11eca7ff256d1bf35",
+      "source_format": "wikitext",
+      "source_extension": "wiki"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 1391,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 79,
+      "markdown_sha256": "0a49cd7e26cf7bc2556507a1129429452a761642d0361abfd2fb57ebbc876c6d",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": "1391",
+      "previous_public_revision_id": "1391",
+      "revision_id": "42082",
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z",
+      "wikitext_bytes": 79,
+      "wikitext_sha256": "0a49cd7e26cf7bc2556507a1129429452a761642d0361abfd2fb57ebbc876c6d",
+      "source_extension": "md"
+    }
+  ],
+  "site_revision_count": 1
+}

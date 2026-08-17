@@ -1,0 +1,29 @@
+This is a call where we worked out some details of the plan for the [SolSeedVillage](/SolSeedVillage).
+
+### Milestones
+- Business established ... by end of 2010
+  - Best idea so far: medical hand-wash station monitoring
+  - Different, somewhat unlikely idea: composting toilets
+  - Ted will keep working on his own business, but can help keep Brandon on track (and vice versa)
+  - Will need capital, which will limit what resources we can put toward any remodeling for awhile
+- Start on finding more people to live in the eco-village
+  - Advertise on Craigslist
+  - See if we can get Mathew and Molly ... talk to them within the next few weeks
+- Sign is added to front of main house
+- Laundry machine is moved
+- Stairs are remodeled
+- Business is profitable
+- Guest room is remodeled (into a small shared office)
+- Revenue run-rate of $100k/yr
+- Ben moves to eco-village
+  - Can help keep Brandon on task with the business, and vice versa
+- New entrance to basement is complete
+- Solar panels on roof
+- Revenue run-rate of $1m/yr
+- Backyard cottage design is approved
+- Backyard cottage is completed
+
+### Other things we'll be busy with
+- Finishing the books
+- Services
+- SpaceWiki

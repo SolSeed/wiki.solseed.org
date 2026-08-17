@@ -1,0 +1,48 @@
+{
+  "canonical_path": "/File:Solstice_2008.jpg",
+  "current_revision_id": "41932",
+  "database_title": "Solstice_2008.jpg",
+  "display_title": "File:Solstice 2008.jpg",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 6,
+  "original_revision_count": 1,
+  "page_id": "368",
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "Shelley Schoepflin Sanders",
+      "comment": "Solstice 2008",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": "41932",
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": "1066",
+      "same_as_previous_public": false,
+      "timestamp": "2009-11-09T23:42:36Z",
+      "wikitext_bytes": 13,
+      "wikitext_sha256": "eaf9e3cd5d5972098d91b2869f4652d5e636d8f995ed72cb2b0ba29991478122",
+      "source_format": "wikitext",
+      "source_extension": "wiki"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 1066,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 14,
+      "markdown_sha256": "2da9ae51c8a2bcb2f4ef92bcf81c8392ebae1c71204dc3f727b55aff03194b5c",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": "1066",
+      "previous_public_revision_id": "1066",
+      "revision_id": "41932",
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z",
+      "wikitext_bytes": 14,
+      "wikitext_sha256": "2da9ae51c8a2bcb2f4ef92bcf81c8392ebae1c71204dc3f727b55aff03194b5c",
+      "source_extension": "md"
+    }
+  ],
+  "site_revision_count": 1
+}

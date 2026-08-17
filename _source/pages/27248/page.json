@@ -1,0 +1,82 @@
+{
+  "canonical_path": "/Exaltation",
+  "current_revision_id": 42849,
+  "database_title": "Exaltation",
+  "display_title": "Exaltation",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 4,
+  "page_id": 27248,
+  "published_revision_count": 4,
+  "revisions": [
+    {
+      "author": "Brandon CS Sanders",
+      "comment": "Created page with \"The Exaltation is the last section of the [[SolSeed Creed]].  It may be used instead of the creed when time or attention spans are short.  :Through Passion, Empathy, and Wisdom :...\"",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 39760,
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": 39759,
+      "same_as_previous_public": false,
+      "timestamp": "2014-06-06T18:35:47Z",
+      "wikitext_bytes": 331,
+      "wikitext_sha256": "6901de6c92dbb548f5cf36d0e41e30258aba09cc416857405b015bb1237ef815"
+    },
+    {
+      "author": "Brandon CS Sanders",
+      "comment": "section title",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 39948,
+      "original_parent_revision_id": 39759,
+      "previous_public_revision_id": 39759,
+      "revision_id": 39760,
+      "same_as_previous_public": false,
+      "timestamp": "2014-06-06T18:36:12Z",
+      "wikitext_bytes": 351,
+      "wikitext_sha256": "43a8eccabd4524002bf72cd6e08fd4fed0c50a5c558ba8dc736dd6ecda814670"
+    },
+    {
+      "author": "Brandon CS Sanders",
+      "comment": "Add links to the signs for the intro to the exaltation",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 39949,
+      "original_parent_revision_id": 39760,
+      "previous_public_revision_id": 39760,
+      "revision_id": 39948,
+      "same_as_previous_public": false,
+      "timestamp": "2014-08-24T21:31:24Z",
+      "wikitext_bytes": 434,
+      "wikitext_sha256": "ffa1d3b3e6f6aa978881c133acd0ee3ce0dfaee520161f37e3c6a6e44bfdd891"
+    },
+    {
+      "author": "Brandon CS Sanders",
+      "comment": "",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 42849,
+      "original_parent_revision_id": 39948,
+      "previous_public_revision_id": 39948,
+      "revision_id": 39949,
+      "same_as_previous_public": false,
+      "timestamp": "2014-08-24T21:32:32Z",
+      "wikitext_bytes": 470,
+      "wikitext_sha256": "3a81f1f8efc93a09ea85e29b1db40074701d49de06026c024bdff3cb1a284ff4"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 39949,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 465,
+      "markdown_sha256": "e980939bf8d262b419e7f0520ec47dc24c70cf41e0f30512ceacfefb10f7d616",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": 39949,
+      "previous_public_revision_id": 39949,
+      "revision_id": 42849,
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z"
+    }
+  ],
+  "site_revision_count": 1
+}

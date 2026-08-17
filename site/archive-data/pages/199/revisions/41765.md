@@ -1,0 +1,131 @@
+[Kindred](/Kindred) is a term used within the [SolSeedMovement](/SolSeedMovement) to refer to anyone or any organization that shares the [Values](/GreaterMovement/Values) of the [GreaterMovement](/GreaterMovement) of which the [SolSeedMovement](/SolSeedMovement) is a part.
+
+See: [Kindred 2015](/Kindred_2015)
+
+### Venn Diagram
+![500px](/assets/uploads/SolSeed-Kindred.png) source [SolSeed-Kindred.svg](/SolSeed-Kindred.svg) (ask Brandon for a copy)
+
+### Featured Kindred
+#### [Pagan Renwal](http://paganrenewal.org)
+![100px](/assets/uploads/_ShiningPentagramPR.jpg)
+
+Reimagining Humanity’s Timeless Spirituality
+
+#### [EarthSeed](https://godischange.org)
+![100px](/assets/uploads/_EarthSeed.jpg)
+
+God is Change.  Shape God.
+
+#### [Humanistic Paganism](http://humanisticpaganism.com/)
+![100px](/assets/uploads/_hp_logo.jpg)
+
+A way of life rooted in ancient Paganism and modern science. -HP Website
+
+SolSeed is proud to have contributed to the Humanistic Paganism blog and, because of our shared naturalistic worldview, to call Humanistic Pagans Kindred.
+
+#### [The Living Universe Foundation](http://luf.org)
+![100px](/assets/uploads/_LUF_logo.jpg)
+
+A non-profit organization whose purpose is to ensure the eternal prosperity of life in this universe. - LUF Website
+
+Because of our common goal of striving toward the prosperity of Life in this universe, SolSeed calls LUF Kindred.
+
+[TMP2](http://tmp2.wikia.com/wiki/Main_Page) is a LUF project to compile a comprehensive and scientifically sophisticated articulation of a very long-term plan for colonizing the galaxy.
+
+#### [Multifaith Housing Initiative](http://www.multifaithhousing.ca/)
+![100px](/assets/uploads/_MHILogo.jpg)
+
+Helping people who are homeless or at risk of homelessness by providing and promoting well maintained, affordable, rental housing in a safe and neighbourly environment.... -MHI Website
+
+Because of our common goal of embracing empathy and because of its nature as an organization which brings religions together, SolSeed calls MHI Kindred.
+
+#### [SOLIS: The Society for Life in Space/The Interstellar Panspermia Society](http://panspermia-society.com/contact.php)
+![100px](/assets/uploads/_SOLISLogo.jpg)
+
+Dedicated to Securing and Expanding Life in Space... -SOLIS Website
+
+Because of our common goal of spreading Life throughout the galaxy, SolSeed calls SOLIS Kindred.
+
+#### [Spiritual Naturalist Society](http://spiritualnaturalistsociety.org/)
+![100px](/assets/uploads/_sns_logo.jpg)
+
+Spiritual Naturalism (also called religious naturalism) is a worldview, value system, and personal life practice. A religion to some, philosophy to others, Spiritual Naturalism sees the universe as one natural and sacred whole – as is the rationality and the science through which nature is revealed. -SNS Website
+
+As a Naturalist Religion, SolSeed is proud to be a partner of the Spiritual Naturalist Society
+
+#### [Unitarian Universalist Association of Congregations](https://www.uua.org/)
+![100px](/assets/uploads/_UUAlogo.jpg)
+
+We are diverse in faith, ethnicity, history and spirituality, but aligned in our desire to practice our faith in tangible ways. We are believers in what is good, what is right, and what is just.-UUA Website
+
+The spirit of Unitarian Universalism is the spirit of Kindred, to welcome all and encourage the sharing of beliefs, values and practices among diverse groups in order that each is facilitated in finding their true path.
+
+#### [Unitarian Universalist Fellowship of Ottawa](https://sites.google.com/site/uufochrome/)
+![100px](/assets/uploads/_UUFOlogo.jpg)
+
+Whatever your heritage, whatever your occupation, whatever your faith, whomever your love --- AT UUFO, YOU ARE WELCOME.-UUFO Website
+
+Thank you, UUFO for welcoming me - [Eric](/Eric)
+
+#### [Windward Center](http://windward.org)
+![100px](/assets/uploads/_Windwardlogo.jpg)
+
+A cooperative community of over thirty years in the making dedicated to preserving and developing village scale technologies needed to support a thriving sustainable community on marginal land. 
+
+SolSeed is very interested in the maker attitude toward technology and intentional communities and sustainability and so we enthusiastically call Windward Kindred.
+
+### Kindred Who Need Write Ups
+**This list needs some going over.  Perhaps expansion and a small blurb about why each organization is on the list.**
+- Pagan events:
+  - [PantheaCon](https://pantheacon.com/wordpress/) ... 2000+ people attend this four day, 13-track event in February in San Jose
+  - [Starwood Festival](http://www.rosencomet.com/starwood/index.html) ... 600-1600 people attend this 7 day camping festival in July in Wisteria Ohio ... clothing optional
+  - [Pagan Spirit Gathering](https://www.circlesanctuary.org/index.php/pagan-spirit-gathering/pagan-spirit-gathering) ... 7 day camping festival in June around the solstice in Salem Missouri, also clothing optional
+  - [Free Spirit Gathering](http://www.freespiritgathering.org/) ... 700ish Camping (also with cabins and other facilities) midsummer festival in Maryland
+- http://www.sacredsecularsanctuary.com/ ... in souther Ontario
+- http://windstar.org
+- http://threepointeightbillionyears.com
+- http://centerfornaturalism.blogspot.com
+- Jack Semura (Portland) http://web.pdx.edu/~semuraj/
+- Todd L Duncan (Portland) and the [Science Integration Institute](https://sites.google.com/site/scienceintegrationinstitute/)
+- [Transhumanist Unitarian Universalist Network](https://groups.yahoo.com/neo/groups/TUUN/info)
+- [the Turing Church](http://turingchurch.com/)
+- [Institute for Ethics and Emerging Technologies](http://www.ieet.org/)
+- [Jason Major ... lights in the dark](http://lightsinthedark.wordpress.com/)
+- [Joe Strout](http://stroutandsons.com/) ... see also [high frontier game](http://highfrontierblog.com/2014/10/07/placing-water-in-high-frontier/)
+- [Al Globus](http://space.alglobus.net/)
+- [Tom Clark ... naturalism.org](http://naturalism.org/)
+- [Ben Goertzel ... A Cosmist Manifesto](http://wp.goertzel.org/)
+- [Roy Weatherford ... Space: The Moral Imperative](http://philosophy.usf.edu/faculty/rweatherford/)
+- [B. T. Newberg](http://btnewberg.com/)
+- [Secular Holyman ...  Douglas Falknor](http://secularholyman.com/)
+- [Syntheism](https://www.facebook.com/groups/109834425805191/)
+- [Steven Wolfe ... The Obligation](http://www.theobligationbook.com/) ... a novel about a secretive group that believes space travel can fulfill humanity's obligation to the Earth
+- [Deep Time Journey ... community](http://www.deeptimejourney.org/)
+- [Davidson Loehr ... How To Live a Fulfilling Life — Without Religion](http://davidsonloehr.com/wordpress/)
+- [Chris Campbell ... Genealogy of Religion blog](http://genealogyreligion.net/)
+- [Evolutionary Religion by J.L. Schellenberg](http://www.amazon.com/Evolutionary-Religion-J-L-Schellenberg/dp/0199673764/ref=sr_1_1?ie=UTF8&qid=1413219596&sr=8-1&keywords=evolutionary+religion)
+- [Village Building Convergence](http://vbc.cityrepair.org/) ... city repair in Portland
+- [Mars Society](http://www.marssociety.org/)
+- [Hieroglyph](http://hieroglyph.asu.edu) ... a "techno-optimist" initiative at Arizona State U to create iconic science fiction that inspires people to work on big ideas in the real world
+- [Bioneers](http://www.bioneers.org) ... a group with an annual conference bringing together leaders who use ideas inspired by nature to tackle the world's biggest social and environmental problems
+- [Viridian Design](http://www.viridiandesign.org/) ... Bruce Sterling founded and then expired this design movement
+- [The Venus Project](http://www.thevenusproject.com/) ... Got a big boost by The Zeitgeist Movement videos
+- [Celestopea](http://celestopea.com/) ... new age woo woo, nice website
+- [New Utopia](http://www.new-utopia.com/) ... they don't share many values, here for completeness because others will mention them
+- Southern Latitudes Project ... defunct, website doesn't resolve
+- [Damanhur in Italy](/The_Federation_of_Damanhur) ... 1000-person spiritual community with over 60 industries
+- [Tamera in Portugal](http://www.tamera.org) ... healing biotope I
+- [Bucketworks in Milwaukie](http://www.bucketworks.org) ... artistic community with a physical wiki
+- [Lammas in Wales](http://www.lammas.org.uk/) ... supports building of eco-villages
+- http://www.twinoaks.org/
+- http://eastwind.org
+- http://www.thefec.org/
+- http://www.dancingrabbit.org/
+- http://www.thefec.org/Skyhouse
+- http://www.acorncommunity.org/
+- http://seasteading.org/
+- http://orangesplotllc.blogspot.com/
+- http://tryonfarm.org
+- http://technoliberation.com/
+- http://cosmistmanifesto.blogspot.com/
+- http://www.pantheism.net/

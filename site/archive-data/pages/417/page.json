@@ -1,0 +1,48 @@
+{
+  "canonical_path": "/Book_21",
+  "current_revision_id": "41981",
+  "database_title": "Book_21",
+  "display_title": "Book 21",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 1,
+  "page_id": "417",
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "Brandon CS Sanders",
+      "comment": "Starting the [[Book 21]] page.",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": "41981",
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": "1178",
+      "same_as_previous_public": false,
+      "timestamp": "2009-11-28T23:38:39Z",
+      "wikitext_bytes": 436,
+      "wikitext_sha256": "30c5149c95b2ddf414cb7800d3798cad907bd5f80a5d7d9a1456ef15787b21db",
+      "source_format": "wikitext",
+      "source_extension": "wiki"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 1178,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 496,
+      "markdown_sha256": "f339c8d0aaa84a87b7b53071f1f0ff267368ebbd432e89d8c0ecd739855404cc",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": "1178",
+      "previous_public_revision_id": "1178",
+      "revision_id": "41981",
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z",
+      "wikitext_bytes": 496,
+      "wikitext_sha256": "f339c8d0aaa84a87b7b53071f1f0ff267368ebbd432e89d8c0ecd739855404cc",
+      "source_extension": "md"
+    }
+  ],
+  "site_revision_count": 1
+}

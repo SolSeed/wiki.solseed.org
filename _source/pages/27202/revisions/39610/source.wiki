@@ -1,0 +1,91 @@
+[[Kindred 2015]]
+
+{| border="1px"
+! Values 
+! Windward 
+! Camp Westwind 
+! Whidbey Institute 
+! Silver Falls Conf. Center 
+! Cape Lookout 
+! Camp Trackers
+|-
+| available at solstice 2015 (if not then, when?)(mid summer (roughly August 5th))
+| <!-- Windward          --> yes but tricky
+| <!-- Camp Westwind     --> no 
+| <!-- Whidbey Institute --> ??
+| <!-- Silver Falls CC   --> ??
+| <!-- Cape Lookout      --> yes
+| <!-- Camp Trackers     --> ??
+|-
+| kid-friendly (safe, flexible, options for kids)
+| <!-- Windward          -->
+| <!-- Camp Westwind     -->
+| <!-- Whidbey Institute -->
+| <!-- Silver Falls CC   -->
+| <!-- Cape Lookout      -->
+| <!-- Camp Trackers     -->
+|-
+| community (shared meals, opening/closing circle)
+| <!-- Windward          -->
+| <!-- Camp Westwind     -->
+| <!-- Whidbey Institute -->
+| <!-- Silver Falls CC   -->
+| <!-- Cape Lookout      -->
+| <!-- Camp Trackers     -->
+|-
+| beautiful and inspiring (e.g., stirring natural setting)
+| <!-- Windward          -->
+| <!-- Camp Westwind     -->
+| <!-- Whidbey Institute -->
+| <!-- Silver Falls CC   -->
+| <!-- Cape Lookout      -->
+| <!-- Camp Trackers     -->
+|-
+| free (allows dance, singing, rockets ... you know ... spectacles!)
+| <!-- Windward          -->
+| <!-- Camp Westwind     -->
+| <!-- Whidbey Institute -->
+| <!-- Silver Falls CC   -->
+| <!-- Cape Lookout      -->
+| <!-- Camp Trackers     -->
+|-
+| accessible (easy to get to for those coming from elsewhere including proximity to an inexpensive airport)
+| <!-- Windward          -->
+| <!-- Camp Westwind     -->
+| <!-- Whidbey Institute -->
+| <!-- Silver Falls CC   -->
+| <!-- Cape Lookout      -->
+| <!-- Camp Trackers     -->
+|-
+| apart (not something you just come to for an hour or two each day)
+| <!-- Windward          -->
+| <!-- Camp Westwind     -->
+| <!-- Whidbey Institute -->
+| <!-- Silver Falls CC   -->
+| <!-- Cape Lookout      -->
+| <!-- Camp Trackers     -->
+|-
+| not too uncomfortable (decent weather conditions, indoor sleeping accommodations for people for whom camping would be an issue)
+| <!-- Windward          -->
+| <!-- Camp Westwind     -->
+| <!-- Whidbey Institute -->
+| <!-- Silver Falls CC   -->
+| <!-- Cape Lookout      -->
+| <!-- Camp Trackers     -->
+|-
+| affordable (has to fit within the budgets of the convening organizations)
+| <!-- Windward          -->
+| <!-- Camp Westwind     -->
+| <!-- Whidbey Institute -->
+| <!-- Silver Falls CC   -->
+| <!-- Cape Lookout      -->
+| <!-- Camp Trackers     -->
+|-
+| neutral (the people who run the venue shouldn't be too ideological or religious, at least not in a way that clashes significantly with our values)
+| <!-- Windward          -->
+| <!-- Camp Westwind     -->
+| <!-- Whidbey Institute -->
+| <!-- Silver Falls CC   -->
+| <!-- Cape Lookout      -->
+| <!-- Camp Trackers     -->
+|}

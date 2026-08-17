@@ -1,0 +1,43 @@
+{
+  "canonical_path": "/File:SolSeed_Village_visualization_2.1.jpg",
+  "current_revision_id": 42081,
+  "database_title": "SolSeed_Village_visualization_2.1.jpg",
+  "display_title": "File:SolSeed Village visualization 2.1.jpg",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 6,
+  "original_revision_count": 1,
+  "page_id": 520,
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "BenSibelman",
+      "comment": "Same as [[Media:SolSeed Village visualization 2.jpg]] but with the futuristic buildings' solar roofs in the middleground.",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 42081,
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": 1387,
+      "same_as_previous_public": false,
+      "timestamp": "2010-02-22T04:02:39Z",
+      "wikitext_bytes": 121,
+      "wikitext_sha256": "162a898a3a122b359aefc66735880dd252ea1e983d584bc094e4ab465c66c656"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 1387,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 158,
+      "markdown_sha256": "51b172aa5df5aee2d7870b9c98fb45321792ce6ef42674bf35dc69bb6ade6f1b",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": 1387,
+      "previous_public_revision_id": 1387,
+      "revision_id": 42081,
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z"
+    }
+  ],
+  "site_revision_count": 1
+}

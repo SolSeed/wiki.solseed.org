@@ -1,0 +1,48 @@
+{
+  "canonical_path": "/Cliath_and_Xendo_IV",
+  "current_revision_id": "43238",
+  "database_title": "Cliath_and_Xendo_IV",
+  "display_title": "Cliath and Xendo IV",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 1,
+  "page_id": "27640",
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "EricSaumur",
+      "comment": "Created page with \"Two quite distant points in space time can be so intimitately linked that a small event at one point can utterly change the circumstances at the other.  Take, for instance, the t...\"",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": "43238",
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": "41024",
+      "same_as_previous_public": false,
+      "timestamp": "2017-05-02T12:29:53Z",
+      "wikitext_bytes": 4473,
+      "wikitext_sha256": "f9365c9f6a9483d7be063b8fa1bba9f1128c7ba0a3aafa9c8752a1722cb6b6d4",
+      "source_format": "wikitext",
+      "source_extension": "wiki"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 41024,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 4474,
+      "markdown_sha256": "5ece9d0286375992aceb54d9dd530b122a1730107797808abdd2f58afef83e6f",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": "41024",
+      "previous_public_revision_id": "41024",
+      "revision_id": "43238",
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z",
+      "wikitext_bytes": 4474,
+      "wikitext_sha256": "5ece9d0286375992aceb54d9dd530b122a1730107797808abdd2f58afef83e6f",
+      "source_extension": "md"
+    }
+  ],
+  "site_revision_count": 1
+}

@@ -1,0 +1,48 @@
+{
+  "canonical_path": "/5",
+  "current_revision_id": "41999",
+  "database_title": "5",
+  "display_title": "5",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 1,
+  "page_id": "435",
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "Brandon CS Sanders",
+      "comment": "Redirecting to [[Book 5]]",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": "41999",
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": "1198",
+      "same_as_previous_public": false,
+      "timestamp": "2009-11-28T23:56:17Z",
+      "wikitext_bytes": 20,
+      "wikitext_sha256": "ccc84ff49a3d4998fb03606b7f8da249e34d55969f4556006445f5951a12b513",
+      "source_format": "wikitext",
+      "source_extension": "wiki"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 1198,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 51,
+      "markdown_sha256": "f019c19d625795e6321f975de437670d7ee5f2228b37c86fcf532ef2978353ed",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": "1198",
+      "previous_public_revision_id": "1198",
+      "revision_id": "41999",
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z",
+      "wikitext_bytes": 51,
+      "wikitext_sha256": "f019c19d625795e6321f975de437670d7ee5f2228b37c86fcf532ef2978353ed",
+      "source_extension": "md"
+    }
+  ],
+  "site_revision_count": 1
+}

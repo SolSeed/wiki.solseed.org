@@ -1,0 +1,56 @@
+{
+  "canonical_path": "/Bringing_life_to_our_communities",
+  "current_revision_id": 42783,
+  "database_title": "Bringing_life_to_our_communities",
+  "display_title": "Bringing life to our communities",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 2,
+  "page_id": 27181,
+  "published_revision_count": 2,
+  "revisions": [
+    {
+      "author": "BenSibelman",
+      "comment": "Added content almost entirely copied from existing chapters",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 39546,
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": 39544,
+      "same_as_previous_public": false,
+      "timestamp": "2013-12-29T18:05:37Z",
+      "wikitext_bytes": 7265,
+      "wikitext_sha256": "277431b7b1ca7a9da0666ae8c5b6f228d97b96c0804020c905aeaf48db0654a7"
+    },
+    {
+      "author": "BenSibelman",
+      "comment": "Added chapter number and link-back",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 42783,
+      "original_parent_revision_id": 39544,
+      "previous_public_revision_id": 39544,
+      "revision_id": 39546,
+      "same_as_previous_public": false,
+      "timestamp": "2013-12-29T18:06:39Z",
+      "wikitext_bytes": 7403,
+      "wikitext_sha256": "b0990b35137146e0c2aa706feb94af78a142a95db87ee66e7093f9cc15d9d62c"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 39546,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 7382,
+      "markdown_sha256": "ad3a43313b906c077ea4e67d88166c038b284cf38efe97a69daa0625b0485eea",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": 39546,
+      "previous_public_revision_id": 39546,
+      "revision_id": 42783,
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z"
+    }
+  ],
+  "site_revision_count": 1
+}

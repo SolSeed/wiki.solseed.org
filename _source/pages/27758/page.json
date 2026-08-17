@@ -1,0 +1,43 @@
+{
+  "canonical_path": "/Talk:SolSeed_Book_of_Days",
+  "current_revision_id": 43356,
+  "database_title": "SolSeed_Book_of_Days",
+  "display_title": "Talk:SolSeed Book of Days",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 1,
+  "original_revision_count": 1,
+  "page_id": 27758,
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "EricSaumur",
+      "comment": "moved [[Talk:SolSeed Book of Days]] to [[Talk:Metaphoriuminomicon]]: Better name!",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 43356,
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": 41553,
+      "same_as_previous_public": false,
+      "timestamp": "2018-09-21T22:20:15Z",
+      "wikitext_bytes": 38,
+      "wikitext_sha256": "af0804d53ed4392f2b04f6a6123973fba40ed2ff7909c9db5d256a8c02f62201"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 41553,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 87,
+      "markdown_sha256": "c4f2e9a92ae9c0d965690ff8b6d3df0bdea0c82397e034a830f1be08ddc38a08",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": 41553,
+      "previous_public_revision_id": 41553,
+      "revision_id": 43356,
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z"
+    }
+  ],
+  "site_revision_count": 1
+}

@@ -1,0 +1,16 @@
+In [SolSeed](/SolSeed) parlance, a **Starfarer** is a type of person, not a job description or a biography.
+
+It is a person with the fundamental values and virtues necessary to commit to long-term projects in the service of [Life](/Life), with the ultimate example being [TheDestiny](/TheDestiny) of seeding the galaxy with life.  Being a starfarer does not require you to have traveled on a starship or even to live in an era when starships exist, only that you are the kind of person we would want to send to the stars if we could.
+
+Consider the research of [James March](https://gsbapps.stanford.edu/facultyprofiles/biomain.asp?id=65055919), a professor of political science at Stanford University.  March contends that people use one of two basic models for decision making.  The first *consequences* model involves a mental comparison of alternatives in order to maximize the benefit to cost ratio.  The second [Identity](/Identity) model uses the answers to three questions to make a decision:
+- Who am I?
+- What kind of situation is this?
+- What would someone like me do in this situation?
+
+At first glance, the values of a Starfarer are a union of seeming opposites: the progressive technological exuberance of the space enthusiast, merged with the cautious conservationist ethic that criticizes technology for the damage it does to the natural world.  But this paradox is easily resolved: a Starfarer supports anything that creates more [possibilities](/possibilities) and the conditions for more life, and opposes anything that destroys possibility and life.
+
+The SolSeed [Vision](/Vision) is not the tired old mechanized future of robot slaves and sterile tin-can spacecraft and city-covered worlds.  It's a future where gleaming blue solar arrays power homes both on Earth and in orbit, while silver-white wind-turbines stand proud amid flourishing regrown wilderness.  In this future, spaceships are like little worlds unto themselves, filled with living ecosystems that sustain astronauts' souls while maintaining the air, [water](/CleanDrinkingWater), and food supply far more robustly than mere machinery ever could.
+
+And in this future, we go into space not to escape a dying world, nor to plunder the solar system to feed an insatiable exponential-growth economy, but as the [seeds](/seeds) of [Mother Earth](/Gaia) seeking to grow new living worlds and expand the domain of Life.
+
+For more on this topic, see [Being a Starfarer](/Being_a_Starfarer), Chapter 1 of the [SolSeed book](/SolSeed_book).

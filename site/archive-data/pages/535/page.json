@@ -1,0 +1,48 @@
+{
+  "canonical_path": "/Starfarer",
+  "current_revision_id": "42094",
+  "database_title": "Starfarer",
+  "display_title": "Starfarer",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 1,
+  "page_id": "535",
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "BenSibelman",
+      "comment": "redirect",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": "42094",
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": "1427",
+      "same_as_previous_public": false,
+      "timestamp": "2010-03-27T22:25:44Z",
+      "wikitext_bytes": 24,
+      "wikitext_sha256": "353130d9eca2dea16ecec7837442aba6044409094ad179c944808671e28d0bf4",
+      "source_format": "wikitext",
+      "source_extension": "wiki"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 1427,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 59,
+      "markdown_sha256": "09aa49570944cb690df2da8396826a5112294ccd0f6f3f58faea4bcb130cada2",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": "1427",
+      "previous_public_revision_id": "1427",
+      "revision_id": "42094",
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z",
+      "wikitext_bytes": 59,
+      "wikitext_sha256": "09aa49570944cb690df2da8396826a5112294ccd0f6f3f58faea4bcb130cada2",
+      "source_extension": "md"
+    }
+  ],
+  "site_revision_count": 1
+}

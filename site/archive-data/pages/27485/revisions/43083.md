@@ -1,0 +1,17 @@
+### Thursday Agenda
+- Check in
+- Opening Blessing
+- Project Work
+  - Brandon: Reading http://waitbutwhy.com/2015/08/how-and-why-spacex-will-colonize-mars.html
+  - Eric: Reading http://waitbutwhy.com/2015/08/how-and-why-spacex-will-colonize-mars.html
+- Closing Blessing
+
+### Check In
+- Eric … I’m glad I woke up so that I could be on this call
+- Brandon … I’m tired from spending the whole day with the boys (fun, but tiring) and will spend the whole day tomorrow with them as well
+
+### Opening Blessing
+As we come together, may we find within ourselves and within our group the resources we need to be who we aspire to be. May this call advance the work, may it bring life, may we find our enduring connection to all, may we hasten the Great Birthing.  -- Blessed Be
+
+### Closing Blessing
+We came together, and although we may not have colonized mars or grown a new forest, we have found ourselves more connected by the work, we have taken a first step on an exponential curve of growth and learning toward our highest aspirations.  Let us have faith that in the future the great birthing is there and that we are part of the path to getting to it.  May this thought carry you through your day and week, filled with faith, and life, and love.  -- Blessed Bed

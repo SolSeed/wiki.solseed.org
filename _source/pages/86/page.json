@@ -1,0 +1,82 @@
+{
+  "canonical_path": "/SolSeed_and_Christianity",
+  "current_revision_id": 41656,
+  "database_title": "SolSeed_and_Christianity",
+  "display_title": "SolSeed and Christianity",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 4,
+  "page_id": 86,
+  "published_revision_count": 4,
+  "revisions": [
+    {
+      "author": "Scifiben",
+      "comment": "New page: [[SolSeed]] > [[SolSeed and Religion]] > Christianity __NOTOC__  [[SolSeed]] is not a religion, but some members identify themselves with various religions.  Specifically, this page looks ...",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 1061,
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": 170,
+      "same_as_previous_public": false,
+      "timestamp": "2008-11-08T22:30:48Z",
+      "wikitext_bytes": 3309,
+      "wikitext_sha256": "84ac8c5dd3d9c76bb1643911e58f9890224758b73016edd9842d4fe8ed3c9def"
+    },
+    {
+      "author": "BenSibelman",
+      "comment": "/* One way of relating Heaven and Hell to our planet */  Fixed a link",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 1115,
+      "original_parent_revision_id": 170,
+      "previous_public_revision_id": 170,
+      "revision_id": 1061,
+      "same_as_previous_public": false,
+      "timestamp": "2009-11-09T02:14:31Z",
+      "wikitext_bytes": 3315,
+      "wikitext_sha256": "fe5ab55a63bce3a3e5a6eeaaff7cedff06f65dcc5095d961334ed2f2e04df5dc"
+    },
+    {
+      "author": "BenSibelman",
+      "comment": "Switched the >'s to <'s",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 39433,
+      "original_parent_revision_id": 1061,
+      "previous_public_revision_id": 1061,
+      "revision_id": 1115,
+      "same_as_previous_public": false,
+      "timestamp": "2009-11-14T18:35:23Z",
+      "wikitext_bytes": 3315,
+      "wikitext_sha256": "55471082c5cc4a2147e54a98a14ed5bc330165644404abb4c48554a22e042aa5"
+    },
+    {
+      "author": "EricSaumur",
+      "comment": "",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 41656,
+      "original_parent_revision_id": 1115,
+      "previous_public_revision_id": 1115,
+      "revision_id": 39433,
+      "same_as_previous_public": false,
+      "timestamp": "2013-10-13T17:00:15Z",
+      "wikitext_bytes": 3434,
+      "wikitext_sha256": "58562f77136fcea633779b6e89032645aa6dff781015b38b348d662880ba8bcf"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 39433,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 3509,
+      "markdown_sha256": "d00130a5cc78157615c3c204cb438caa550f5235347494ac40d8c56cdaff1d31",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": 39433,
+      "previous_public_revision_id": 39433,
+      "revision_id": 41656,
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z"
+    }
+  ],
+  "site_revision_count": 1
+}

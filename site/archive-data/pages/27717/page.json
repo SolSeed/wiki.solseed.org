@@ -1,0 +1,48 @@
+{
+  "canonical_path": "/Triton",
+  "current_revision_id": "43315",
+  "database_title": "Triton",
+  "display_title": "Triton",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 1,
+  "page_id": "27717",
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "EricSaumur",
+      "comment": "Created page with \"Triton is a moon of Neptune.  Also the [[World Mother]] who symbolizes the hypothetical biosphere which may someday (or already) live on the surface of this world.\"",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": "43315",
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": "41298",
+      "same_as_previous_public": false,
+      "timestamp": "2018-04-13T02:10:59Z",
+      "wikitext_bytes": 163,
+      "wikitext_sha256": "23404c93639988b383105dd013cc144ac5b45c66ad7545e7fc712450a1d0fedf",
+      "source_format": "wikitext",
+      "source_extension": "wiki"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 41298,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 177,
+      "markdown_sha256": "b491fec06838a933bb85507b480b67deb598d2fdb5699472bed8556c8bc5c3e2",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": "41298",
+      "previous_public_revision_id": "41298",
+      "revision_id": "43315",
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z",
+      "wikitext_bytes": 177,
+      "wikitext_sha256": "b491fec06838a933bb85507b480b67deb598d2fdb5699472bed8556c8bc5c3e2",
+      "source_extension": "md"
+    }
+  ],
+  "site_revision_count": 1
+}

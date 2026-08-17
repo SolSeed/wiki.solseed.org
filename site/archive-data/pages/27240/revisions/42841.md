@@ -1,0 +1,63 @@
+This is a music video [Ben](/Ben) is working on, using [The Seed](/The_Seed) song.
+
+### Draft visuals
+- Intro
+  - From the Living Worlds Productions logo, pan downward to follow an arm of the galaxy (like on the front page of the wiki)
+  - Limb of Earth comes into view, on the night side, with the eastern edge at the top
+- Personal verse
+  - Pan down through a cloud layer to a gloomy-looking city
+  - Some kind of transition to a cubicle farm inside a skyscraper, with a generic office drone guy in a cubicle working on spreadsheets and stuff
+    - Spreadsheets reflected in the guy's eye
+    - Some exciting transition starting in the guy's chest area
+  - The guy standing in an abstract brown space, with his feet forming roots connecting to parents, grandparents, etc
+    - Zooming out, this family tree forms a brown stick-figure person with uplifted arms, which stands on a branch of a much larger Tree of Life with other animals in it
+      - Can we get Molly Brown to help with this?
+    - Pan up from the tree to see a bird rising, then morphing into a spaceship as the sky fades to starry space
+  - Transition to the SolSeed logo, then replace the sigil with a subtitle, "Reach for the Stars"
+- Chorus
+  - Cutaway showing a seed underground
+  - Zoom out and pan up to the surface, with forest and mountains in the background and the sun shining above
+    - Fade to the [9 paintings](/BatchOfNine)
+  - Pan back down to show roots growing down and outward from the seed
+    - Fade to a screen and keyboard with hands on it; the screen shows a blank document into which is typed something like "Life Goals" or "My Dreams"
+  - Pan up to follow the seed sprout as it runs into rocks and works its way around them
+    - Fade to a steering wheel with hands on it and a road at night, with 3 billboards reading "Work Late," "Veg Out" (with a TV) and "Waste Your Life!"
+  - Follow the sprout as it finally emerges into the sunlight
+- Community and ecology verse
+  - Transition "back to the present," possibly by zooming out from the generic guy's eye
+  - The Sanders house
+  - People sitting around a fire
+  - People dancing around a fire, holding hands, perhaps with others playing instruments nearby
+  - People hiking up a steep trail, possibly holding hands
+  - A footprint in the trail morphs into a huge strip mine
+  - Brief images of huge solar and wind farms
+  - Brief images of forest fires, floods, desiccated land
+  - A graphic representing the global economy
+    - Zoom out to show it as just a small part of the Tree of Life, with some animation to show humanity "reconnecting"
+    - Maybe show a vertical scale of eons
+  - An eco-village with many solar roofs, overlaid with a graph of falling solar-panel prices
+  - A yin-yang island with farms filling one half, a greenery-covered mountain forming the dot in that half, and the other half being a forest with an ecotopian city forming the dot
+- Chorus
+  - Cutaway showing a seed underground with roots and a sprout
+  - Pan up to the surface, with a flower growing from the sprout, forest and mountains in the background and the sun shining above
+  - Pan back down to show roots growing down and outward from the seed, intertwining with other roots growing from other seeds
+  - Pan up and to the right, with roots at the bottom of the frame and a growing city filling the rest
+    - We pass an industrial plant whose smoke blots out the sky as it expands to the right
+      - Possibly turn it into stormclouds with lightning bolts
+    - We come to a shoreline with buildings standing in the water beyond, their upper stories burning
+  - Meanwhile, the seeds have been forming increasingly large sprouts above the ground, and some braided vines suddenly leap out from the shore to form a bridge across the ocean
+    - As we follow the bridge and leave the burning city behind, the smoke/stormclouds clear and the sun comes out again
+    - We reach another shore where the vine dives into the ground and an ecotopian city grows from it
+- Space verse
+  - Various types of seed ship (e.g. maple seed with solar panels forming the wing, bird-shaped ship with a dome on its back)
+  - A hollowed-out asteroid filling with life
+  - More seed ships flying outward from Earth, trailing stylized vines like engine exhaust
+    - A ship descends to Mars, shrinking out of sight but with the vine remaining in view
+    - Mars becomes terraformed and possibly grows stylized flower petals around it (becoming a flower on the vine)
+  - Alien seed ships of various sizes and colors (e.g. turquoise water-filled ship, red-orange ship of gas-giant floaters) fly in from afar, trailing vines of matching colors
+    - Joined by ships from Earth, they spread out again to journey to various other stars
+- Chorus
+  - Several seeds underground; pan up to follow their sprouts into the ecotopian city on the surface
+  - Maybe zoom out to show Earth as a pale blue dot
+  - Bird-seed-ship crossing the gap between Sol and another star
+  - Many-colored vines growing out across the galaxy, turning stars into flowers

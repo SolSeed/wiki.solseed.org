@@ -1,0 +1,1 @@
+For a good discussion of sharing vs. equality as a core value for a community see the analysis at the bottom of http://www.windward.org/notes/notes68/allen6801.htm

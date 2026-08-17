@@ -1,0 +1,56 @@
+{
+  "canonical_path": "/OpeningWords",
+  "current_revision_id": 41801,
+  "database_title": "OpeningWords",
+  "display_title": "OpeningWords",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 2,
+  "page_id": 235,
+  "published_revision_count": 2,
+  "revisions": [
+    {
+      "author": "Brandon CS Sanders",
+      "comment": "New page: < [[Group Experiences]]  We use the opening words to create an \"us\" for the call.  It works great to take turns reading snippets of a chosen text.  The chosen text is usually the following...",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 634,
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": 633,
+      "same_as_previous_public": false,
+      "timestamp": "2009-03-11T14:53:20Z",
+      "wikitext_bytes": 2102,
+      "wikitext_sha256": "142db024d6d63cd171360e6938b5e13e3abc4f382e01aff8d7e61ecf0dbe46cc"
+    },
+    {
+      "author": "Brandon CS Sanders",
+      "comment": "",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 41801,
+      "original_parent_revision_id": 633,
+      "previous_public_revision_id": 633,
+      "revision_id": 634,
+      "same_as_previous_public": false,
+      "timestamp": "2009-03-11T14:54:00Z",
+      "wikitext_bytes": 2104,
+      "wikitext_sha256": "dd990bc8555127b5d2cc73a6bf0b49380fb0dd431a844636340b46b14773461b"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 634,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 1947,
+      "markdown_sha256": "862d8d56b8c2a7ac81a1a0f37e5233e2e353b77b5318341bc03bbfecab051d27",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": 634,
+      "previous_public_revision_id": 634,
+      "revision_id": 41801,
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z"
+    }
+  ],
+  "site_revision_count": 1
+}

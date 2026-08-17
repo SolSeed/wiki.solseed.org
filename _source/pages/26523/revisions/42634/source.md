@@ -1,0 +1,28 @@
+[Opportunity Profile](/Category:Opportunity_Profile)
+
+![TheUpwardSpiralThumbnail.jpg](/assets/uploads/TheUpwardSpiralThumbnail.jpg)
+
+#### Opportunity Sketch
+Re-record the audio narration of [The Upward Spiral](/The_Upward_Spiral) and hire a sound engineer to re-master the audio to substantially increase the production value of the video.
+
+#### Outcome
+Release a re-mastered version of [The Upward Spiral](/The_Upward_Spiral) to YouTube, on iTunes (highest quality), and on our website (highest quality).
+
+#### Impact
+Broaden the audience for this important movie that embodies so much of what we value.
+
+#### Cost
+$2000
+
+100 hrs
+
+#### Steps
+- Make a plan with Paul Krafel
+- Gain access to all highest fidelity original materials
+- Revise the plan
+- Visit Paul, or have him visit us ... re-record his narration in a rented studio
+- Hire audio engineer to do the re-mastering
+- Release to YouTube, iTunes, our website and other places
+- Promote the re-release
+
+__NOTOC__

@@ -1,0 +1,82 @@
+{
+  "canonical_path": "/Earthseed",
+  "current_revision_id": 41669,
+  "database_title": "Earthseed",
+  "display_title": "Earthseed",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 4,
+  "page_id": 99,
+  "published_revision_count": 4,
+  "revisions": [
+    {
+      "author": "BenSibelman",
+      "comment": "Copied page over from AboutUs, with minor edits.",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 249,
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": 196,
+      "same_as_previous_public": false,
+      "timestamp": "2008-12-18T05:48:53Z",
+      "wikitext_bytes": 8221,
+      "wikitext_sha256": "a771d3800bc93ff777f6558dd94d86589081d90f963899d96db01e3c81cfebef"
+    },
+    {
+      "author": "BenSibelman",
+      "comment": "Clarified the \"SolSeed is not a religion\" issue",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 439,
+      "original_parent_revision_id": 196,
+      "previous_public_revision_id": 196,
+      "revision_id": 249,
+      "same_as_previous_public": false,
+      "timestamp": "2008-12-24T19:41:19Z",
+      "wikitext_bytes": 8397,
+      "wikitext_sha256": "6fedad7f70f2cfc7ce74fdb7fc438b7878015988cea214fb0e0d8d7a418f02bc"
+    },
+    {
+      "author": "TedErnst",
+      "comment": "links",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 2159,
+      "original_parent_revision_id": 249,
+      "previous_public_revision_id": 249,
+      "revision_id": 439,
+      "same_as_previous_public": false,
+      "timestamp": "2009-01-17T21:43:11Z",
+      "wikitext_bytes": 8405,
+      "wikitext_sha256": "8d8eba1934a0375ef1fc9546630eb718cb0950f146fa7916967914c1e1e4b7ad"
+    },
+    {
+      "author": "BenSibelman",
+      "comment": "Removed redundancy, fixed formatting, and added one more quote",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 41669,
+      "original_parent_revision_id": 439,
+      "previous_public_revision_id": 439,
+      "revision_id": 2159,
+      "same_as_previous_public": false,
+      "timestamp": "2011-01-22T03:20:23Z",
+      "wikitext_bytes": 8212,
+      "wikitext_sha256": "5435f046de3953f3d88dd82be1f3a575393cb7b6dc16a1c5448f7708b4e59c8a"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 2159,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 7455,
+      "markdown_sha256": "d203aa4b329de1c8d634f7d3269a5983a984ea5a3fa1769bc8121989380d7804",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": 2159,
+      "previous_public_revision_id": 2159,
+      "revision_id": 41669,
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z"
+    }
+  ],
+  "site_revision_count": 1
+}

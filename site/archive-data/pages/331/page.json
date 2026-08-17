@@ -1,0 +1,48 @@
+{
+  "canonical_path": "/June_9,_2009:_Sol_2009_Logistics",
+  "current_revision_id": "41895",
+  "database_title": "June_9,_2009:_Sol_2009_Logistics",
+  "display_title": "June 9, 2009: Sol 2009 Logistics",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 1,
+  "page_id": "331",
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "Shelley Schoepflin Sanders",
+      "comment": "New page: Notes from Previous Calls: http://solseed.org/Group_Experiences   Dial-in Number: 1-218-936-4700   Participant Access Code: 815066    == May 25, 2009 @8pm PST ==  * Opening Words - 5 mins ...",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": "41895",
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": "910",
+      "same_as_previous_public": false,
+      "timestamp": "2009-06-10T03:56:39Z",
+      "wikitext_bytes": 7864,
+      "wikitext_sha256": "157bd985bf9e1d79589572a082879f17ae6ed926571f9b3f37f2482f3d1144cc",
+      "source_format": "wikitext",
+      "source_extension": "wiki"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 910,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 7828,
+      "markdown_sha256": "44ff9119d91238782b82226922963178499aed1765590afaa64817c10a569b8a",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": "910",
+      "previous_public_revision_id": "910",
+      "revision_id": "41895",
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z",
+      "wikitext_bytes": 7828,
+      "wikitext_sha256": "44ff9119d91238782b82226922963178499aed1765590afaa64817c10a569b8a",
+      "source_extension": "md"
+    }
+  ],
+  "site_revision_count": 1
+}

@@ -1,0 +1,69 @@
+{
+  "canonical_path": "/Spiriata",
+  "current_revision_id": 41828,
+  "database_title": "Spiriata",
+  "display_title": "Spiriata",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 3,
+  "page_id": 262,
+  "published_revision_count": 3,
+  "revisions": [
+    {
+      "author": "BenSibelman",
+      "comment": "Created page",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 702,
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": 701,
+      "same_as_previous_public": false,
+      "timestamp": "2009-03-30T05:26:31Z",
+      "wikitext_bytes": 376,
+      "wikitext_sha256": "d5ce665a44a9add67995afc8f6c402ee7abefa423857fc95996035be300f2e4b"
+    },
+    {
+      "author": "BenSibelman",
+      "comment": "Updated the link.",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 703,
+      "original_parent_revision_id": 701,
+      "previous_public_revision_id": 701,
+      "revision_id": 702,
+      "same_as_previous_public": false,
+      "timestamp": "2009-03-30T05:27:49Z",
+      "wikitext_bytes": 375,
+      "wikitext_sha256": "60f94d721466061a50c3ebaae1fed3af415326442cd88052fcb60324860b9dd7"
+    },
+    {
+      "author": "BenSibelman",
+      "comment": "Fixed a link",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 41828,
+      "original_parent_revision_id": 702,
+      "previous_public_revision_id": 702,
+      "revision_id": 703,
+      "same_as_previous_public": false,
+      "timestamp": "2009-03-30T05:28:11Z",
+      "wikitext_bytes": 397,
+      "wikitext_sha256": "ce1c602374b28c1b062a2111973927dbe8739b64f46329a9cbcc4bc59e507d78"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 703,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 432,
+      "markdown_sha256": "f37dacf39df8e69563a5e5009c0c4525e9b5c404e140badc093bcf7788845e07",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": 703,
+      "previous_public_revision_id": 703,
+      "revision_id": 41828,
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z"
+    }
+  ],
+  "site_revision_count": 1
+}

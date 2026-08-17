@@ -1,0 +1,48 @@
+{
+  "canonical_path": "/Conditions",
+  "current_revision_id": "42982",
+  "database_title": "Conditions",
+  "display_title": "Conditions",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 1,
+  "page_id": "27383",
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "Brandon CS Sanders",
+      "comment": "Created page with \"[http://www.signingsavvy.com/sign/SITUATION/2515/1 ASL for Situation], [http://www.handspeak.com/word/index.php?dict=si&signID=3171 ASL for Situation 2]\"",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": "42982",
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": "40278",
+      "same_as_previous_public": false,
+      "timestamp": "2015-01-09T02:58:15Z",
+      "wikitext_bytes": 152,
+      "wikitext_sha256": "9b27ae33c381c980992bc6e87d7c42b51179a9918edbb6b283c2f453577e40c8",
+      "source_format": "wikitext",
+      "source_extension": "wiki"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 40278,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 155,
+      "markdown_sha256": "77f0f9d52d7507d04ef7d523dfdf5ef8f5cf6085ef7f08fb6ce376dbcda4fe5e",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": "40278",
+      "previous_public_revision_id": "40278",
+      "revision_id": "42982",
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z",
+      "wikitext_bytes": 155,
+      "wikitext_sha256": "77f0f9d52d7507d04ef7d523dfdf5ef8f5cf6085ef7f08fb6ce376dbcda4fe5e",
+      "source_extension": "md"
+    }
+  ],
+  "site_revision_count": 1
+}

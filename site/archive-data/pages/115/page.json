@@ -1,0 +1,48 @@
+{
+  "canonical_path": "/File:Solseed2.jpg",
+  "current_revision_id": "41685",
+  "database_title": "Solseed2.jpg",
+  "display_title": "File:Solseed2.jpg",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 6,
+  "original_revision_count": 1,
+  "page_id": "115",
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "BenSibelman",
+      "comment": "One of two alternate [[SolSeed Emblem]] concepts proposed by [[User:Kevin|Kevin]].",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": "41685",
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": "234",
+      "same_as_previous_public": false,
+      "timestamp": "2008-12-21T00:43:23Z",
+      "wikitext_bytes": 82,
+      "wikitext_sha256": "4a1b9c49c22e921ab4992ca4cad2ee6230d90bc7598cfbfc6a408fb5c194b9f7",
+      "source_format": "wikitext",
+      "source_extension": "wiki"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 234,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 98,
+      "markdown_sha256": "f4d909bd38d556efdded83e9e293d275312bb9adddd49bdef733dd3f757ffca4",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": "234",
+      "previous_public_revision_id": "234",
+      "revision_id": "41685",
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z",
+      "wikitext_bytes": 98,
+      "wikitext_sha256": "f4d909bd38d556efdded83e9e293d275312bb9adddd49bdef733dd3f757ffca4",
+      "source_extension": "md"
+    }
+  ],
+  "site_revision_count": 1
+}

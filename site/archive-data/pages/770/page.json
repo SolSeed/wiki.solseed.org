@@ -1,0 +1,48 @@
+{
+  "canonical_path": "/File:Stanford_torus.jpg",
+  "current_revision_id": "42326",
+  "database_title": "Stanford_torus.jpg",
+  "display_title": "File:Stanford torus.jpg",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 6,
+  "original_revision_count": 1,
+  "page_id": "770",
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "BenSibelman",
+      "comment": "Public-domain image of a torus-shaped space colony, painted by Don Davis, from http://www.donaldedavis.com/BIGPUB/STANTRUS.jpg. [[Media:Space colony by Don Davis.jpg]] is a cropped version of this.",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": "42326",
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": "1987",
+      "same_as_previous_public": false,
+      "timestamp": "2010-11-16T04:57:32Z",
+      "wikitext_bytes": 197,
+      "wikitext_sha256": "bf50e6705f3287236ef45cd35b6862052d86f00c8fd74020f77d79f198a6060f",
+      "source_format": "wikitext",
+      "source_extension": "wiki"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 1987,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 228,
+      "markdown_sha256": "d60d9c635dc16e067c4460479c82aef33983a5e81d1e3ee5e97df00b67be49c3",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": "1987",
+      "previous_public_revision_id": "1987",
+      "revision_id": "42326",
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z",
+      "wikitext_bytes": 228,
+      "wikitext_sha256": "d60d9c635dc16e067c4460479c82aef33983a5e81d1e3ee5e97df00b67be49c3",
+      "source_extension": "md"
+    }
+  ],
+  "site_revision_count": 1
+}

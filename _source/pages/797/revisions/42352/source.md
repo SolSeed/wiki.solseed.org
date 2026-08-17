@@ -1,0 +1,90 @@
+### Agenda
+- Check In
+- Review WWWs
+- LH (Music Festival Etc)
+- Seed Village Architect
+- Consensus Polls
+
+### Check In
+- Ben ... sinus headache ... Windows Live holiday party last night (fun!) ... tonight "exciting" water leak from the apartment above 
+- Shelley ... Nice conversation with Lori ... feel stressed about getting everything done for Solstice party ... excited too
+- Sequoia ... got his first Christmas/Yule tree today ... walking much
+- Brandon ... want to work more on SolSeed
+
+### WWWs from last time
+- Brandon ... set up a test server for Ben to play around with ... by next call?
+- <s>Brandon ... send WWWs to Shelley ... right after call</s>
+- Brandon ... email everyone with accounts to make sure they can get to their caricatures ... by tomorrow (only 30 so far out of ~200 SpaceWiki accounts)
+- <s>Brandon ... let Julie know about the change in Service evenings ... by tomorrow</s>
+- Shelley ... check with Meg and <s>Heather</s> and send out invitation for Music Festival ... by Monday night
+- <s>Shelley ... schedule time with Brandon to write down the Longest Night Festival ritual ... by next call
+- Shelley ... schedule time with Brandon to create program for Music Festival and outreach plan ... by next call
+- Shelley ... talk to Lori about the Music Festival and THEN decide re: advertising and PDX calendar.</s>
+- Shelley ... discuss advertising the Music Festival with <s>Child Roots</s> and UU Church ... by next call
+- Shelley ... look into submitting to one or more of the pdx calendar for kids ... by next call
+- <s>Shelley and Ben ... join Consensus polls ([Legal Organization](/Legal_Organization), [SolSeedBusiness](/SolSeedBusiness)) ... by tonight
+- Ben ... put the discussion for theme questions on a new [Seed 2011](/Seed_2011) wiki page and ping Brandon and Shelley ... by tonight
+- Ben ... create a leaderboard page on SpaceWiki ... by tomorrow
+- Ben ... welcome new people on their talk pages on SpaceWiki ... throughout the week</s>
+
+### Lori (Music Festival etc)
+- Kindred spirit, don't know if she would be interested in joining
+- Would love to write music for [Pick a Future](/Pick_a_Future) and for our Solstice and Equinox events
+  - Maybe even the upcoming Longest Night Festival
+- Wants to get broader recognition for her music ... has only sold one song so far
+  - Would get a share if we earned money on something involving her music
+  - Does she want to be paid for her time? 
+    - Not for the Music Festival ... we're a practice audience
+- What is our goal?
+  - Recruit her?
+  - Support her?
+  - Use her talents?
+
+### Seed Village Architect
+- Need to finalize when we're having potluck w/ architect
+  - Ben arrives Dec 20 10:30 pm. Leaves on Dec 25.
+  - How about Thursday Dec 23, 6 pm, our house?
+
+### Consensus Polls
+- Brandon needs to email all "members by declaration" and invite them to participate
+- Because it's so hard to work on the consensus polls on the wiki, Brandon would like to change our website to a set of static pages and a set of TypeWith.Me pages
+
+#### Legal organization
+Certain characteristics are generally attributed to churches. These  attributes of a church have been developed by the IRS and by court decisions. They include: 
+
+##### Current
+recognized creed and form of worship
+formal code of doctrine and discipline
+distinct religious history (even though we weren't religious at the time...)
+membership not associated with any other church or denomination (unless this mean "our members shall have no other church memberships")
+literature of its own
+established places of worship
+regular congregations
+regular religious services
+
+##### Future Yes/Maybe
+distinct legal existence; 
+definite and distinct ecclesiastical government
+Sunday schools for the religious instruction of the young
+
+##### Future No/Maybe
+organization of ordained ministers
+ordained ministers selected after completing prescribed courses of study
+schools for the preparation of its ministers
+
+### WWWs
+- Brandon ... set up a test server for Ben to play around with ... by next call?
+- Brandon ... Get an acct with mailchimp or something to allow custom emails, then proceed with SpaceWiki emails ... by next call
+- Brandon ... Get search working on SpaceWiki ... by next call
+- Brandon ... Pls invite architect for potluck Thursday Dec. 23, 6 pm, our house ... by Monday
+- Brandon ... email all "members by declaration" and invite them to participate ... by Monday
+- Brandon ... email Shelley her WWWs ... by Monday
+- Brandon ... register seedvillage.org and seedvillage.net ... by tonight
+- Shelley ... try to schedule service call for Saturday to accommodate Jerry for next week ... by Thursday
+- Shelley ... call Lori tomorrow
+- Shelley ... send out Music Festival Save the Date ... by Monday
+- Shelley ... invite Ted to the SolSeedBusiness Consensus Poll ... by Monday
+- Ben ... bring some challah from New Seasons ... Dec. 23
+- Ben ... invite my dad to become a [Member by Declaration](/Member_by_Declaration) and join one or both consensus polls ... by next call
+- Ben ... prepare the service call ... by Friday
+- Ben ... make a version of the SpaceWiki companies page that is better organized and where the images link to the company ... by next call

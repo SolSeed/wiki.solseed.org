@@ -1,0 +1,1 @@
+A panoramic stitch of the circle at the [Longest Night Festival](/Longest_Night_Festival) Open Space, fixed up in PhotoShop to restore part of [Shelley](/Shelley)'s head and reattach [Brandon](/Brandon)'s and [Art](/Arthur_Brock)'s arms (sometimes the stitching algorithm just doesn't do what you expect...)

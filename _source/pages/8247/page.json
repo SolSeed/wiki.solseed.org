@@ -1,0 +1,43 @@
+{
+  "canonical_path": "/File:Recycled_art.JPG",
+  "current_revision_id": 42550,
+  "database_title": "Recycled_art.JPG",
+  "display_title": "File:Recycled art.JPG",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 6,
+  "original_revision_count": 1,
+  "page_id": 8247,
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "BenSibelman",
+      "comment": "An assortment of art made from recycled objects at [[Earth Day 2012]] in Silverton.",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 42550,
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": 11418,
+      "same_as_previous_public": false,
+      "timestamp": "2012-04-28T19:45:34Z",
+      "wikitext_bytes": 83,
+      "wikitext_sha256": "bde989538ed931492ffc40053ef12dc956b4582d40ddad562472c4fefa492612"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 11418,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 99,
+      "markdown_sha256": "6dcda6740c9c33682f1b16632d7c26ef57cf99fea539c93e448c9aa09a128035",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": 11418,
+      "previous_public_revision_id": 11418,
+      "revision_id": 42550,
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z"
+    }
+  ],
+  "site_revision_count": 1
+}

@@ -1,0 +1,48 @@
+{
+  "canonical_path": "/A_Frame_of_Paper_And_Ink",
+  "current_revision_id": "42892",
+  "database_title": "A_Frame_of_Paper_And_Ink",
+  "display_title": "A Frame of Paper And Ink",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 1,
+  "page_id": "27292",
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "EricSaumur",
+      "comment": "Created page with \"This is a response written to a pair of articles written by Jonathan Pageau, [http://www.orthodoxartsjournal.org/most-of-the-time-the-earth-is-flat/ Most of the time the Earth is...\"",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": "42892",
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": "39976",
+      "same_as_previous_public": false,
+      "timestamp": "2014-09-10T01:41:15Z",
+      "wikitext_bytes": 7321,
+      "wikitext_sha256": "25431b89db2636d7e65676188ff3cfa5f4f051f8a857628f68b14fd1bdfce87b",
+      "source_format": "wikitext",
+      "source_extension": "wiki"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 39976,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 7324,
+      "markdown_sha256": "d53ac7dd3abc46739391ec276023c60ad6d6c62e594e0998495bc9d76dd2aabe",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": "39976",
+      "previous_public_revision_id": "39976",
+      "revision_id": "42892",
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z",
+      "wikitext_bytes": 7324,
+      "wikitext_sha256": "d53ac7dd3abc46739391ec276023c60ad6d6c62e594e0998495bc9d76dd2aabe",
+      "source_extension": "md"
+    }
+  ],
+  "site_revision_count": 1
+}

@@ -1,0 +1,56 @@
+{
+  "canonical_path": "/Creativity",
+  "current_revision_id": 41681,
+  "database_title": "Creativity",
+  "display_title": "Creativity",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 2,
+  "page_id": 111,
+  "published_revision_count": 2,
+  "revisions": [
+    {
+      "author": "BenSibelman",
+      "comment": "Created page using material from AboutUs",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 221,
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": 220,
+      "same_as_previous_public": false,
+      "timestamp": "2008-12-20T05:58:10Z",
+      "wikitext_bytes": 746,
+      "wikitext_sha256": "c5f7a656ed6f197f0fddde52d3f7f6c058a061dbdb7ff65772c4920b1cf9d2b0"
+    },
+    {
+      "author": "BenSibelman",
+      "comment": "corrected spelling",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 41681,
+      "original_parent_revision_id": 220,
+      "previous_public_revision_id": 220,
+      "revision_id": 221,
+      "same_as_previous_public": false,
+      "timestamp": "2008-12-20T05:59:17Z",
+      "wikitext_bytes": 746,
+      "wikitext_sha256": "2e4e7abee16eeede3b7e68f0b791fbbacd8572820a158ddaccdb23bfeac63f59"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 221,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 840,
+      "markdown_sha256": "7313d9bd0edf6cd82455346df0d0ab77a6fa05a343df133d559590b99bd8a14a",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": 221,
+      "previous_public_revision_id": 221,
+      "revision_id": 41681,
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z"
+    }
+  ],
+  "site_revision_count": 1
+}

@@ -1,0 +1,43 @@
+{
+  "canonical_path": "/Agenda",
+  "current_revision_id": 41696,
+  "database_title": "Agenda",
+  "display_title": "Agenda",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 1,
+  "page_id": 130,
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "Brandon CS Sanders",
+      "comment": "Redirecting to [[Seed2009/Agenda]]",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 41696,
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": 303,
+      "same_as_previous_public": false,
+      "timestamp": "2009-01-09T16:43:20Z",
+      "wikitext_bytes": 29,
+      "wikitext_sha256": "baa94d7bb6e90b912012d894729bcbb668130c8745bdf25f45e47d51267b790a"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 303,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 69,
+      "markdown_sha256": "9e3cb7c9ad2bebf890c11da8fc7638098768b01b967dfd12013d661009242d22",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": 303,
+      "previous_public_revision_id": 303,
+      "revision_id": 41696,
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z"
+    }
+  ],
+  "site_revision_count": 1
+}

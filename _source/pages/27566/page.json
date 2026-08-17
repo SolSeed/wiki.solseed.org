@@ -1,0 +1,82 @@
+{
+  "canonical_path": "/August_7,_2016:_Business_Call",
+  "current_revision_id": 43164,
+  "database_title": "August_7,_2016:_Business_Call",
+  "display_title": "August 7, 2016: Business Call",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 4,
+  "page_id": 27566,
+  "published_revision_count": 4,
+  "revisions": [
+    {
+      "author": "BenSibelman",
+      "comment": "Created page from the Google doc",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 40822,
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": 40821,
+      "same_as_previous_public": false,
+      "timestamp": "2016-08-08T01:48:46Z",
+      "wikitext_bytes": 7377,
+      "wikitext_sha256": "315ab9efc89ed192b2b2b2df77e32e567d9ac870f6f0e83b05a4253b37c53c87"
+    },
+    {
+      "author": "BenSibelman",
+      "comment": "/* Who */",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 40823,
+      "original_parent_revision_id": 40821,
+      "previous_public_revision_id": 40821,
+      "revision_id": 40822,
+      "same_as_previous_public": false,
+      "timestamp": "2016-08-08T01:49:07Z",
+      "wikitext_bytes": 7379,
+      "wikitext_sha256": "e8f1474d9d5afb7f3dbe8309585633b16f472f7c984f647e21db735aacb6728c"
+    },
+    {
+      "author": "BenSibelman",
+      "comment": "/* WW(W)s */",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 40824,
+      "original_parent_revision_id": 40822,
+      "previous_public_revision_id": 40822,
+      "revision_id": 40823,
+      "same_as_previous_public": false,
+      "timestamp": "2016-08-08T02:13:19Z",
+      "wikitext_bytes": 7503,
+      "wikitext_sha256": "d24774a2b14b42a464915e2fbd175c64b51063a446c582edb93ddbdf73462883"
+    },
+    {
+      "author": "BenSibelman",
+      "comment": "/* WW(W)s */",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 43164,
+      "original_parent_revision_id": 40823,
+      "previous_public_revision_id": 40823,
+      "revision_id": 40824,
+      "same_as_previous_public": false,
+      "timestamp": "2016-08-08T02:13:34Z",
+      "wikitext_bytes": 7496,
+      "wikitext_sha256": "4393b99f6172cb483d92eb1c7c69abf162e78605bff1b56f6cd067d0822fab37"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 40824,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 7501,
+      "markdown_sha256": "4a5fc68f90ca2608fd7200a2a15e85f2c55e425c7c061f40f5da66ef4e6fd7b4",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": 40824,
+      "previous_public_revision_id": 40824,
+      "revision_id": 43164,
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z"
+    }
+  ],
+  "site_revision_count": 1
+}

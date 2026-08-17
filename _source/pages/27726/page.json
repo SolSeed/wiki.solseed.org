@@ -1,0 +1,43 @@
+{
+  "canonical_path": "/Mammalia_and_the_Genetic_Herald",
+  "current_revision_id": 43324,
+  "database_title": "Mammalia_and_the_Genetic_Herald",
+  "display_title": "Mammalia and the Genetic Herald",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 1,
+  "page_id": 27726,
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "EricSaumur",
+      "comment": "moved [[Mammalia and the Genetic Herald]] to [[Mammalia and the Gazette]]: Oh and I renamed the publication central to the story too!",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 43324,
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": 41421,
+      "same_as_previous_public": false,
+      "timestamp": "2018-06-28T01:04:31Z",
+      "wikitext_bytes": 38,
+      "wikitext_sha256": "2fe9227494f43c955133ffcaf940d71a9fd284d90bc40df9a96f0870adef41b2"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 41421,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 87,
+      "markdown_sha256": "ea075e0c4ac5b0329d751a1b7324c40d3bdf95c2e21d5e24356c4c119e4e5067",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": 41421,
+      "previous_public_revision_id": 41421,
+      "revision_id": 43324,
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z"
+    }
+  ],
+  "site_revision_count": 1
+}

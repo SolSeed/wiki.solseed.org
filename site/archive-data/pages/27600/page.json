@@ -1,0 +1,48 @@
+{
+  "canonical_path": "/Life_is_Precious",
+  "current_revision_id": "43198",
+  "database_title": "Life_is_Precious",
+  "display_title": "Life is Precious",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 1,
+  "page_id": "27600",
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "Brandon CS Sanders",
+      "comment": "Redirected page to [[Life is precious]]",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": "43198",
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": "40907",
+      "same_as_previous_public": false,
+      "timestamp": "2017-01-07T21:13:05Z",
+      "wikitext_bytes": 30,
+      "wikitext_sha256": "79a9addc0f0cbc8325ccb2334c8adc6656c79a63a0a58f110f27c80df2085596",
+      "source_format": "wikitext",
+      "source_extension": "wiki"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 40907,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 71,
+      "markdown_sha256": "8bb77d37cc85616b53c894f53109e6e59391854c25d8d375c5cf8ea55836364d",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": "40907",
+      "previous_public_revision_id": "40907",
+      "revision_id": "43198",
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z",
+      "wikitext_bytes": 71,
+      "wikitext_sha256": "8bb77d37cc85616b53c894f53109e6e59391854c25d8d375c5cf8ea55836364d",
+      "source_extension": "md"
+    }
+  ],
+  "site_revision_count": 1
+}

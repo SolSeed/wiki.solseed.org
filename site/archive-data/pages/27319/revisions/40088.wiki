@@ -1,0 +1,1 @@
+The Humanistic Paganism Logo; A tree including roots surrounded by a circular chain.

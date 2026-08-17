@@ -1,0 +1,43 @@
+{
+  "canonical_path": "/File:BenSibelman.jpg",
+  "current_revision_id": 41653,
+  "database_title": "BenSibelman.jpg",
+  "display_title": "File:BenSibelman.jpg",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 6,
+  "original_revision_count": 1,
+  "page_id": 83,
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "Scifiben",
+      "comment": "Self-portrait with one of my favorite posters. I made it myself using a digital camera and a small bit of Photoshopping (red-eye and color correction, as well as re-adding the pale blue dot itself).",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 41653,
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": 160,
+      "same_as_previous_public": false,
+      "timestamp": "2008-11-08T21:31:31Z",
+      "wikitext_bytes": 198,
+      "wikitext_sha256": "e2b42a30cfbdf49e8e8aff1cf18b5455d464b048361b402e2ac414aee8cda337"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 160,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 199,
+      "markdown_sha256": "da8481132c15db2ecda89c95b4127f4e2f3a8632fe1b065065b237a28ddbd0cd",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": 160,
+      "previous_public_revision_id": 160,
+      "revision_id": 41653,
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z"
+    }
+  ],
+  "site_revision_count": 1
+}

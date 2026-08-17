@@ -1,0 +1,214 @@
+== Sunday Agenda ==
+* Check in
+* Review WWWs
+* Daily Practice/Metrics
+* Weekly event logistics
+* Review Agenda
+* Report on Duckweed
+* Meetings
+* Winter Solstice
+* MHI Renewal
+* SolSeed Village/Business
+* Evaluation
+
+== Thursday Agenda ==
+* Check in
+* Project Work
+
+== Check-in (gratinews) ==
+* Brandon … got a lot to do at work, and I'm just working on it
+* Ben … I got a lot done today ... for instance, I almost got the newsletter done and I finally invited Gus to join Gaia.wiki.
+* Eric … I’m feeling really tired because we just got a significant amount of heavy snow and freezing rain on top … shoveling that stuff was exhausting … but good exercise.  I’ve had a good workout and I feel that nice burning feeling in all of my muscles.
+
+== WW(W)s from last time ==
+Organize the WWWs by person and then due date.  We’ll start checking in on topical community protocol and meditation for each mini-period between workbees.
+
+Holacracy founder Brian Robertson says these are bad: http://holacracy.org/blog/the-insanity-of-the-what-by-when 
+
+* Brandon … meditate and keep track of which days ... ongoing
+* Brandon … follow your topical community protocol for this period ... ongoing
+* Eric ... follow your topical community protocol for this period ... ongoing
+* Eric ... meditate and keep track of which days ... ongoing
+* Eric … read last attempt at Village documents including [[Vision Workshop]] and [[SolSeedVillage#Governance Draft]] … by next call
+* Eric … Post the Utopia blog post on the blog… by Thursday
+* Eric … talk to Tim Blais about Indiegogo .. by next call
+* <s>Ben … meditate and keep track of which days ... ongoing
+* Ben … follow your topical community protocol for this period ... ongoing
+* Ben ... invite Gus to join gaia.wiki ... by next call
+* Ben ... post about gaia.wiki on Brandon's Naturalistic Paganism blog post ... by next call</s>
+
+== WW(W)s ==
+* Brandon … meditate and keep track of which days ... ongoing
+* Brandon … follow your topical community protocol for this period ... ongoing
+* Brandon … order CO2 sensor and arduino or raspberry pi for duckweed … by next Sunday
+* Brandon … start working on the [[Longest Night Masquerade]] page on the wiki … by next Sunday
+* Brandon … setup mint.com for SolSeed and add the credit card + bank account to it … by next Sunday
+* Eric ... meditate and keep track of which days ... ongoing
+* Eric … read last attempt at Village documents including [[Vision Workshop]] and [[SolSeedVillage#Governance Draft]] … by next call
+* Eric … Post the Utopia blog post on the blog… by Thursday
+* Eric … talk to Tim Blais about Indiegogo .. by next call
+* Eric … buy air pump and air sterilizer … by next call
+* Ben … meditate and keep track of which days ... ongoing
+* Ben … follow your topical community protocol for this period ... ongoing
+* Ben … finish a draft of the newsletter … by next call
+* Ben … investigate getting a SolSeed bank account and credit card … by next Sunday
+
+== Daily Practice (from Sunday to Sunday) ==
+* https://tdp.me/person/brandon-cs-sanders
+* https://tdp.me/person/EricOfSolseed
+* https://tdp.me/person/SciFiBen 
+
+2014-12-28 to 2014-01-03:0+13+15=28 checkmarks
+
+== Metrics (from Sunday to Sunday) ==
+
+:0 … articles published (blog, etc)
+:2 … net signups to the newsletter for the week (100 total)
+:1 … conversants from signup (people we are talking or emailing with) 
+:0 … bios added to the wiki by conversants
+:4 … articles added to Gaia.wiki
+:86 … sessions on Gaia.wiki other than us
+:363 … sessions on Spacewiki.com
+:421 … sessions on SolSeed.org
+:0+2+0=2 … topical community touches
+:28 … daily practice checkmarks for the week
+
+== Weekly Events Logistics ==
+Weekend
+:Service rotation: Eric, Shelley, Brandon, Ben
+* January 10 Service: 9:00 AM PDT, 12:00 EST  (Ben) (Shelley is out)
+* January 11 Work-Bee: 5:30 PM PST, 20:30 EST
+
+Midweek
+* January 8 Work-Bee: 6:30 PM PST, 21:30 EST 
+
+== Report on Duckweed ==
+* Eric … Patrick turned off the light without me knowing and they all died
+* Brandon … how had they been doing?
+* Eric … not well.  I'd planned on adding an air pump and air sterilizer to replenish the CO2 inside the jars, but he decided they all looked dead to him.  Without light for a week they are definitely all dead.  I'll need new samples of duckweed, which I can't get until spring.
+* Brandon … I'm going to start working on a CO2 sensor. Should go through a formal approval process for the funding, but I'm just going to donate the components.
+
+== Meetings ==
+* Ben … I’ve observed that we haven’t been going back to the Holacracy meeting process … obviously there are similarities between our meetings and their tactical meetings
+** Brandon … I think the Holacracy process is too much overhead for now
+** Eric … 5
+** Ben … 3 ... I still think we might need more practice
+*** Brandon … take care of that if you want it :-)
+* Brandon … I've been treating Sundays as business meetings and Thursdays as work bees
+** Eric … 5
+** Ben … if we want to do something businessy on a Thursday or work-bee-like on a Sunday, should there be any barriers to that?
+*** Brandon … no, but my goal is to get more work bee time in … without this structure, we're likely to just have two business meetings per week
+** Brandon ... I'd like to reduce the Thursday meeting structure to "check in, say what you're going to work on, and go"
+*** Ben … what if something really urgent comes up on a Thursday that we have to discuss as a group?
+**** Eric … we never even had a Thursday meeting before … we can live without the business part :-)
+
+== Winter Solstice ==
+* Ben … recently a lot of our events have not had a page associated with it.  I feel like this one in particular deserves a page.
+* Brandon … I agree, I’ll take a WWW to start working on it.
+
+== MHI Renewal and Finances ==
+* Eric … we are members in the Multifaith Housing Initiative, where Michelle works … it buys apartment buildings and converts them to affordable housing, and has programs for job training etc … we need to renew this membership
+* Brandon … it seems worthwhile (as are a bazillion things) … what do you want to do, Eric?
+* Eric … I would pay for it from my SolSeed account (which is in the negative)
+** I should just reset my SolSeed contribution level to reflect how much I'm actually spending … the current level is basically the amount I'm spending on my sponsored child in Africa
+
+* Brandon … would it be easy for you to set up actual bank accounts for your SolSeed funds, so we could track them on Mint and no longer have to worry about our spreadsheet?
+** Ben ... I don't know how hard it would be … I might be interested in using this as an opportunity to open an account with a credit union, but that might make the automatic funds transfer more difficult
+** Eric … setting up the account would be easy, but I don't know if Mint has Canadian options … I'll wait and look at the one Brandon sets up
+** Ben … it would also be complicated if I made purchases for SolSeed on the same credit card with other purchases
+*** Brandon … I have a SolSeed-dedicated credit card and checking account
+
+== SolSeed Village/Business ==
+
+=== Yellow Hat Choose favorites ===
+
+* +++ 3D Printing of living trees
+Print long living wood beams tapered at both ends (one end printed as root the other as trunk) from tree stem cells or cellulose matrix (seeing as wood isn’t all living in a living tree) and then print cambium and bark etc onto the outside.  Include the printing of branch buds on the trunk end and rootlet buds on the root end.  The newly printed tree would have to be supported in terms of nutrients and needs and then hardened off (printed tissue is known to be initially very soft) but then could be dropped into a drill hole and as the branch and root buds grew, an adult tree could be planted very easily.  Mass produced this could allow reforestation to be almost instantaneous (compared to planting seedlings).  The feedstock would come from stem cell cultures from a lot of different trees (to prevent creating a monoculture) and grown in a vat.  We would need to research how existing early-stage human tissue printing techniques would apply to plants, and how fast stem cells could be grown compared with cells in a normal growing tree.
+** If it worked it would help solve global warming by making reforestation faster.
+** If the trees we created worked exactly the same as naturally grown trees, it would demonstrate that synthetic biology isn't always as scary as environmentalists tend to think.
+** It would also teach us a lot about the structure and function of trees, a critical learning process for Eric's long-term goal of creating trees that can thrive in currently treeless environments.
+
+* ++ Museum of Big Time
+Michael Dowd and other proponents of religious naturalism view the development of a "deep time" or "big time" perspective, one that encompasses an understanding of the universe's billions-of-years-long history, as important for spiritual growth in a non-theistic context. SolSeed shares this view and has already developed a [[Cosmic Calendar]] that expands on Carl Sagan's concept for teaching deep history by extending it into the future as well. With our gradually developing skills at presenting these ideas in words and images, we may be able to create a prospectus for a museum exhibit, perhaps to be displayed first in the Oregon Museum of Science and Industry's Changing Exhibits Hall, if and when we can get it funded.
+** This would be incredibly awesome; it would be like coming home when I went to work!
+** We could start simple on this and grow it slowly over time … there is an easy organic growth path
+** It's an aspect of SolSeed thought that is particularly accessible, much easier than just jumping straight into "creating a family of living worlds."
+** I have been to two Museums of Big Time and they were my favorite indoor places and both have been redone and the Big Time aspect has been lost and I miss them.
+
+* ++ Kindred mapping FB app
+If we only allow Kindred to be added to your map through inviting them to use the app, this has the potential to have a viral coefficient greater than 1.  There are several support tickets requesting this functionality from Facebook indicating that groups are interested in the feature (although may not be willing to pay for it).  It’s unclear how to monetize the traffic even if we did build interest.  We would use the app to create visibility for our kindred groups and perhaps discover other kindred (dogfood).
+** We have some of these skills
+** Could have a viral coefficient greater than one (could get huge quickly)
+** Could serve as a spring-board to creating a comprehensive reputation system (a difficult billion dollar opportunity)
+** We would use it ourselves.
+
+* ++ CELSS/Biosphere 3
+[https://en.wikipedia.org/wiki/Biosphere_2 Biosphere 2] is probably the most ambitious experiment to date in creating closed, self-sustaining ecosystems. It's widely perceived as a failure, due to both ecological and sociological breakdowns that happened during the main 2-year mission in 1991-1993, but the University of Arizona continues to do research there, although it hasn't been sealed off from the outside air for many years. If the SolSeed Movement can develop our skills at creating CELSS's (see below), we may eventually have a credible chance to build something ambitious enough to qualify as a successor to Biosphere 2. It would have to be a large enclosed chamber where humans could live for extended periods, with one or more ecosystems inside that effectively transform the humans' waste products back into food, clean water, and oxygen in sufficient quantities to keep them alive.
+** This is such a core SolSeed thing to do!
+** It would be incredibly awesome
+** An initial market could be adding an oxygen exchanger living component to passive houses requiring even less exchange with the outside.
+** We would control the outreach for the project, allowing us to point out that the system is not just for supporting humans; it also supports all the other living things inside!
+** We could conceivably make it a part of the [[SolSeed Village]], making a clear and impressive visual statement about who we are and what we stand for.
+** It would be a major stepping stone toward actually putting a working CELSS on a space station.
+* Closed Ecological Life-Support Systems used to be an active area of NASA research, but most funding for such projects in the U.S. has dried up, although some interesting work is still ongoing here and there (details needed). Starting from our existing duckweed experiments, the SolSeed Movement could contribute to this field relatively cheaply and, if we can prove our ability to run tightly controlled experiments, possibly get some research grant money for more ambitious projects.
+** I would love to spend more time with my DuckWeed!
+** CELSS is the existing technology that most closely matches the SolSeed vision of the future (though obviously it has a long way to go before we can grow an ecosystem similar in complexity to ones we see in the wild).
+** It would be great to join the community of CELSS researchers and turn it into a kindred group.
+** Once we get good enough at this, we could propose a CELSS experiment that would have a serious chance of getting selected to fly to the ISS (or that could be launched as a small satellite).
+
+* + High frontier style game
+Ben's idea: Players would grow an ecosystem in a space colony (probably inside a hollow asteroid), starting with bacteria and working their way up, with the goal of either making the colony human-habitable or providing habitat for endangered species from Earth. The idea would be to promote both space colonization and ecological thinking. Could conceivably be cross-branded with [http://www.orbitbooks.net/2312/ Kim Stanley Robinson's novel ''2312.'']
+** Education
+** We have some of the skills needed
+** Ben might get to work with his favorite sci-fi author
+** Could help break down barriers between environmentalist and space-enthusiast mindsets
+** Games can reach young audiences
+** If the simulation is realistic enough, it can teach us a lot about ecosystems, both in the process of researching how to make it realistic and in observing how it behaves.
+
+* + Earthrise Graphic Design (serving both space advocacy and environmental groups)
+A major problem for SolSeed is how polarized the environmentalist and space enthusiast communities are, with many members of each group having extremely negative views about the other. The theory behind Earthrise Graphic Design is that such ideological differences probably can't be resolved with words, but maybe images with emotional impact can help (the Apollo 8 Earthrise photograph being a premier example). Ben has taken several graphic-design courses, and Brandon and Eric have at least done some amateur graphics work, so we have a starting point toward becoming skilled enough to attract customers. (Also, nonprofits generally have lower standards than most other graphic-design customers, given their limited budgets.)
+** We have some of the skills needed
+** Could help break down barriers between environmentalist and space-enthusiast mindsets
+** Ben really likes making graphics
+** As our graphic skills increase we could use them to promote SolSeed
+
+* + Implement JP Aerospace’s airship to orbit (test aspects of it)
+This would be risky from the following standpoints: 1) will it even work?  2) are there intermediate businesses from which we can derive sustainable income?  If we made things that are cool to look at, it would raise our profile within the space enthusiast community.  Stages 1 and 2 of the JP Aerospace concept, zeppelins that travel between the surface and a high-altitude balloon platform, are certainly feasible and may be worth doing even if stage 3, the airship that actually achieves orbit, never works; after all, launching an ordinary rocket from that platform would save a lot of fuel due to the reduced air resistance. It might also one day be a viable base station for a space elevator or some other advanced space-launch technology.
+** This sounds like too much fun.  I am particularly fond of proving H2 as a lift gas.
+** This truly democratizes access to space by making the entire launch infrastructure accessible to a much wider audience (doesn’t have the natural monopoly issues of big infrastructure like space elevator, launch loop, star tram, etc.) and requiring very little real estate.
+** Could possibly do a shipping business as an interim project
+** Very low environmental impact
+** The Dark Sky Station could drift around the planet with the stratospheric winds, allowing easy access from many different nations at various times
+** The sort of infrastructure one could imagine monks of a religious order running as part of their meditation (slow and peaceful)
+** speaks to the better parts of human nature and the upward spiral (slow, not flashy, high in the drainage-ish)
+
+* + Closed Circle Humanure Transport (linking people with composting toilets to people with organic farms)
+When humans consume food, some of the atoms involved end up in our waste. In order to ensure a continuing food supply without degrading the environment, we need to return those atoms to the food-growing process. Sewage is too toxic for this purpose, but composting toilets probably produce an output that can safely be used to grow food for human consumption (certainly some gardeners are using it that way already). Although composting toilets aren't currently commonplace, there might be enough of them in environmentally conscious cities like Portland for a business model that literally pays people for their composted poop, using part of the proceeds from selling it to organic farmers. Some of the proceeds would also be needed for operating a truck or van capable of moving the compost from the toilets to the farms. We have contacts (Mathew and Molly) with expertise in composting toilets, which could help us get started and avoid pitfalls. (Important seeing as no one wants to fall in that kind of pit)
+** This is so organic; so green; it seems like such a Life-loving work.
+** It might help make composting toilets a bit more popular.
+** It could grow by branching into a CSA service, and a urban-community agriculture service
+
+* + Food-producing Green Roofs/Walls (high in the watershed!)
+A business which simply installed standard green walls and roofs and then creates a CSA like relationship between citizens living nearby (or even in the building) and farmers who would use that "land" to grow food to sell.  The added benefit to the city is that the amount of storm water that has to be processed is much less when people have green roofs and the citizens have easy access to a 100 meter diet!
+** Another organic green idea that feels very Life-loving.
+** Once we really get started with the [[SolSeed Village]], adding one of these will help establish its visual identity and show what we're about (and is much easier to get going than a large-scale CELSS, which could become a later unique feature of the village … see Biosphere 3 above).
+
+* + Living Geodesic trees (grafting) (see also organic architecture and botany buildings)
+This idea is to grow circles of trees, train their branches and graft them together at carefully calculated intervals to form a geodesic dome.  Then new circles can be grown concentrically around the first to create nested domes linked by living branch struts.  Floors, walls and ceilings could be hung from the branches to create living spaces inside the domes.  Eventually neighbouring domes could be grafted together to create a living city.  The strength of the interconnected domes would make this city virtually impervious to wind storms, by grafting branches of fruit and nut trees to the domes, food could grown by the buildings themselves.
+** The city would be beautiful beyond measure.  I for one would love to live there.
+** Would be soo awesome.
+** This would lead to the village by growing it.
+** Would bring in more support from people who love domes, like Hank and various Buckminster Fuller fans.
+
+=== Blue Hat (talking process) ===
+* Yellow hat dot voting (9 votes each, plus 3 among the narrowed down choices, plus we can bring back one that got eliminated)
+* White hat (provide objective information about the ideas)
+* Yellow hat (positive evaluation of selected ideas)
+* Yellow hat dot voting (5 votes each)
+* Black hat (critique ideas we don't like)
+* Think of it as a cycle so we don't feel pressured to be exhaustive at each step
+
+== Evaluation ==
+* Brandon … fun … I want more … yay
+* Ben … I wish more people wanted to do graphic design
+* Eric … I had really low energy for this meeting when I first got here and it picked me right up … so thank you!

@@ -1,0 +1,48 @@
+{
+  "canonical_path": "/September_20,_2009:_Triad_Checkin",
+  "current_revision_id": "41921",
+  "database_title": "September_20,_2009:_Triad_Checkin",
+  "display_title": "September 20, 2009: Triad Checkin",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 1,
+  "page_id": "357",
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "Brandon CS Sanders",
+      "comment": "New page: [[SolSeed]] < [[Events and Calls]]   Debrief on the Triads * Mark ... Regula, Kim and I started a week or so later ... I think we've done six ... it's like a good group therapy group that ...",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": "41921",
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": "1040",
+      "same_as_previous_public": false,
+      "timestamp": "2009-10-27T04:05:26Z",
+      "wikitext_bytes": 3619,
+      "wikitext_sha256": "fd8cd45268974208fe32e95edb69475312e679489dc9d764af3ec847f87091bd",
+      "source_format": "wikitext",
+      "source_extension": "wiki"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 1040,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 3667,
+      "markdown_sha256": "e825ab09aebe335c04c2dd897e990e8b15eb7c94585beb0db5020061aa707161",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": "1040",
+      "previous_public_revision_id": "1040",
+      "revision_id": "41921",
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z",
+      "wikitext_bytes": 3667,
+      "wikitext_sha256": "e825ab09aebe335c04c2dd897e990e8b15eb7c94585beb0db5020061aa707161",
+      "source_extension": "md"
+    }
+  ],
+  "site_revision_count": 1
+}

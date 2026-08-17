@@ -1,0 +1,27 @@
+### Thursday Agenda
+- Check in
+- Opening Blessing
+- Project Work
+  - Brandon: ping John Halstead about next year summer event
+  - Brandon: start writing a Gaian perspectives blogpost for Humanistic Paganism
+  - Ben: Do more work on the Shiny Green Festival notes
+  - Ben: Work on the "[Gospel According to Ben](/SolSeed:The_Book_of_Life)"
+  - Eric: Prepare to sell house.
+- Evaluation
+- Closing Blessing
+
+### Check In
+- Ben … I’m finally feeling better after a week of digestive distress.  Not sure it’s over, but getting there.
+- Brandon … I'm recovering from a poor interview yesterday
+
+### Opening Blessing
+As we consider the Big Picture, may we find time to live now. As we work towards long-term goals, may we support each other in our sickness, in our sorrows, and the other travails of life in the present.  -- Blessed Be
+
+### Evaluation
+- Brandon … I finally got started on my blog post
+- Ben … I made some good progress on a couple of wiki pages, still not quite done with the stuff I want to write for the shiny green festival … the other wiki page was on SolSeed
+
+### Closing Blessing
+Crawl along the path.  The work is ongoing but slow.  For the path that is easy isn’t the one that lets us grow.*  May our work enable our personal growth and the growth of the possibilities of life on Earth and beyond.  -- Blessed Be
+
+- Paraphrased from part of this song that Ben heard at Worldcon: http://ovff.org/pegasus/songs/uplift.html

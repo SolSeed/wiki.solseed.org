@@ -1,0 +1,48 @@
+{
+  "canonical_path": "/The_Seed",
+  "current_revision_id": "42835",
+  "database_title": "The_Seed",
+  "display_title": "The Seed",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 1,
+  "page_id": "27234",
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "Brandon CS Sanders",
+      "comment": "Redirected page to [[Song: The Seed]]",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": "42835",
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": "39719",
+      "same_as_previous_public": false,
+      "timestamp": "2014-05-18T22:55:20Z",
+      "wikitext_bytes": 28,
+      "wikitext_sha256": "94db7bd659c4f9d93110f725f56784168c581178f8e182e19b1431cdf1689999",
+      "source_format": "wikitext",
+      "source_extension": "wiki"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 39719,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 67,
+      "markdown_sha256": "943711b28afa7da2498f151d3585e1c4d7cfee35127c81c083c7df3af291073c",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": "39719",
+      "previous_public_revision_id": "39719",
+      "revision_id": "42835",
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z",
+      "wikitext_bytes": 67,
+      "wikitext_sha256": "943711b28afa7da2498f151d3585e1c4d7cfee35127c81c083c7df3af291073c",
+      "source_extension": "md"
+    }
+  ],
+  "site_revision_count": 1
+}

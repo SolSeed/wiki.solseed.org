@@ -1,0 +1,48 @@
+{
+  "canonical_path": "/File:Windwardlogo.jpg",
+  "current_revision_id": "42921",
+  "database_title": "Windwardlogo.jpg",
+  "display_title": "File:Windwardlogo.jpg",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 6,
+  "original_revision_count": 1,
+  "page_id": "27321",
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "EricSaumur",
+      "comment": "The Windward logo; a stylized W.",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": "42921",
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": "40100",
+      "same_as_previous_public": false,
+      "timestamp": "2014-10-16T04:47:30Z",
+      "wikitext_bytes": 32,
+      "wikitext_sha256": "d58f05850e0050a2541c6d63c74915367a4894cb14dd1828ae2f74549678956e",
+      "source_format": "wikitext",
+      "source_extension": "wiki"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 40100,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 33,
+      "markdown_sha256": "18a85cf626a184c05a433ac137795ae8906cebb163d024e4100df60d5d509653",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": "40100",
+      "previous_public_revision_id": "40100",
+      "revision_id": "42921",
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z",
+      "wikitext_bytes": 33,
+      "wikitext_sha256": "18a85cf626a184c05a433ac137795ae8906cebb163d024e4100df60d5d509653",
+      "source_extension": "md"
+    }
+  ],
+  "site_revision_count": 1
+}

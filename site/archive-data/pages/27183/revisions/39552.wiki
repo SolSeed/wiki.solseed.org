@@ -1,0 +1,39 @@
+For http://join.solseed.org
+
+<pre>
+             e - email
+             C - confirmed
+             |
+Week   clks \|/ date                 name  email
+------ ---- -+- -------------------  ----  ------------------
+Sep 02
+             e  2013-09-06 00:40:40  leon  lj...10@yahoo.com        -\
+             e  2013-09-06 00:41:13  leon  lj...10@yahoo.com,       -| same
+             e  2013-09-06 00:42:16  leon  ne...use@gwi.net         -/
+Sep 09
+Sep 16
+Sep 23
+             C  2013-09-28 01:04:27  keith ke...d21@yahoo.com
+Sep 30 ( 9)
+             ... started advertising (2013-10-05)
+Oct 07 (28)
+             e  2013-10-11 00:42:10    ?   Et...ealrain1@gmail.com
+Oct 14 (25)
+             e  2013-10-14 17:51:04    ?   an...frz@aol.com        -\
+             e  2013-10-14 17:51:54    ?   gh...ygirl@aol.com      -/ same?
+Oct 21 (21)
+Oct 28 (25)
+Nov 04 (38)
+Nov 11 (46)
+Nov 18 (28)
+             e  2013-11-24 19:28:56    ?   bj...d1@yahoo.com
+Nov 25 (42)
+Dec 02 (26)
+Dec 09 (38)
+             ... deployed change to website (2013-12-12 12:27:11)
+             e  2013-12-12 23:20:56    ?   ju...llecelaya@gmail.com
+Dec 16 (38)
+             e  2013-12-18 06:24:04    ?   js...er@hotmail.com
+             e  2013-12-22 20:18:32    ?   st...an.pasini@yahoo.com
+Dec 23 (28)  ... still in progress
+</pre>

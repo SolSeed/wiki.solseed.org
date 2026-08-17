@@ -1,0 +1,48 @@
+{
+  "canonical_path": "/SolSeed_book",
+  "current_revision_id": "42312",
+  "database_title": "SolSeed_book",
+  "display_title": "SolSeed book",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 1,
+  "page_id": "756",
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "BenSibelman",
+      "comment": "moved [[SolSeed book]] to [[SolSeed:Helping Life Thrive, On Earth And Beyond]]: Need a more specific title for the page, and the current pick for the book title makes sense.",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": "42312",
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": "1947",
+      "same_as_previous_public": false,
+      "timestamp": "2010-11-09T05:58:29Z",
+      "wikitext_bytes": 62,
+      "wikitext_sha256": "6098a46ea87fe3bfadc225afb8e0d52ba8a9f7ace273f3a008de067ab352e663",
+      "source_format": "wikitext",
+      "source_extension": "wiki"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 1947,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 135,
+      "markdown_sha256": "40d8caa98bdee939f2086efb31232a4086e844d9b2bb24074b6679c0d5d5b5bb",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": "1947",
+      "previous_public_revision_id": "1947",
+      "revision_id": "42312",
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z",
+      "wikitext_bytes": 135,
+      "wikitext_sha256": "40d8caa98bdee939f2086efb31232a4086e844d9b2bb24074b6679c0d5d5b5bb",
+      "source_extension": "md"
+    }
+  ],
+  "site_revision_count": 1
+}

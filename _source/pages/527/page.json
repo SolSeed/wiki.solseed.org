@@ -1,0 +1,56 @@
+{
+  "canonical_path": "/March_7,_2010:_Online_Work_Bee",
+  "current_revision_id": 42086,
+  "database_title": "March_7,_2010:_Online_Work_Bee",
+  "display_title": "March 7, 2010: Online Work Bee",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 2,
+  "page_id": 527,
+  "published_revision_count": 2,
+  "revisions": [
+    {
+      "author": "BenSibelman",
+      "comment": "Created page from the EtherPad.",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 1404,
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": 1403,
+      "same_as_previous_public": false,
+      "timestamp": "2010-03-13T23:37:18Z",
+      "wikitext_bytes": 3773,
+      "wikitext_sha256": "5af2f93058b0cea3421e468b4e64f11d1db5173281dfc81344c50dae64546fe7"
+    },
+    {
+      "author": "BenSibelman",
+      "comment": "/* Request to Disney Legal */",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 42086,
+      "original_parent_revision_id": 1403,
+      "previous_public_revision_id": 1403,
+      "revision_id": 1404,
+      "same_as_previous_public": false,
+      "timestamp": "2010-03-13T23:37:33Z",
+      "wikitext_bytes": 3777,
+      "wikitext_sha256": "67f22746519ee6353dd585fc0d06107015c642114d11768782af9825bd848054"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 1404,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 3813,
+      "markdown_sha256": "f633ab09a128c940d2f7274a4d6685ae2ef01b56ab7b7cc84b376cdd80b29e57",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": 1404,
+      "previous_public_revision_id": 1404,
+      "revision_id": 42086,
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z"
+    }
+  ],
+  "site_revision_count": 1
+}

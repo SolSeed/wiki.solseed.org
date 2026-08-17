@@ -1,0 +1,63 @@
+{
+  "canonical_path": "/Cfrjlr",
+  "current_revision_id": "41884",
+  "database_title": "Cfrjlr",
+  "display_title": "Cfrjlr",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 2,
+  "page_id": "320",
+  "published_revision_count": 2,
+  "revisions": [
+    {
+      "author": "Cfrjlr",
+      "comment": "New page: Greetings, This is Charles Radley  I am on Facebook, Linkedin, Orkut, Yahoo, Google, Skype, AIM, Plaxo, Xing, eCademy, Mayspace.  I am helping Space Renaissance, which is very similar to S...",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": "879",
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": "877",
+      "same_as_previous_public": false,
+      "timestamp": "2009-06-03T23:53:19Z",
+      "wikitext_bytes": 248,
+      "wikitext_sha256": "d5fee21f9bf2e763ae2377055e64b4725505e058a704ff33d293d3b21942abb0",
+      "source_format": "wikitext",
+      "source_extension": "wiki"
+    },
+    {
+      "author": "Cfrjlr",
+      "comment": "",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": "41884",
+      "original_parent_revision_id": "877",
+      "previous_public_revision_id": "877",
+      "revision_id": "879",
+      "same_as_previous_public": false,
+      "timestamp": "2009-06-03T23:55:38Z",
+      "wikitext_bytes": 247,
+      "wikitext_sha256": "3094ff93bc9eaa5f30f64cdf97aa1e339373fffa4490291d054dd3aa776fd525",
+      "source_format": "wikitext",
+      "source_extension": "wiki"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 879,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 248,
+      "markdown_sha256": "35d5c78450071c0714a271ba8626a75cde85c59ca9e739b0ead74657aedc6f3a",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": "879",
+      "previous_public_revision_id": "879",
+      "revision_id": "41884",
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z",
+      "wikitext_bytes": 248,
+      "wikitext_sha256": "35d5c78450071c0714a271ba8626a75cde85c59ca9e739b0ead74657aedc6f3a",
+      "source_extension": "md"
+    }
+  ],
+  "site_revision_count": 1
+}

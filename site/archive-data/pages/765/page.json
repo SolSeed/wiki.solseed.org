@@ -1,0 +1,48 @@
+{
+  "canonical_path": "/File:Solar_array.jpg",
+  "current_revision_id": "42321",
+  "database_title": "Solar_array.jpg",
+  "display_title": "File:Solar array.jpg",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 6,
+  "original_revision_count": 1,
+  "page_id": "765",
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "BenSibelman",
+      "comment": "Free stock photo of a large solar photovoltaic array, from http://www.sxc.hu/photo/3948",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": "42321",
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": "1969",
+      "same_as_previous_public": false,
+      "timestamp": "2010-11-14T22:22:50Z",
+      "wikitext_bytes": 87,
+      "wikitext_sha256": "ad169ba32595f0f7154137a9e8eba7c9e7c6ed9df12e0f047ac15be68f074966",
+      "source_format": "wikitext",
+      "source_extension": "wiki"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 1969,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 88,
+      "markdown_sha256": "1fbac2cc668f27f041254a59fbbec999397274f1a4da9320560ee1409fedc27f",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": "1969",
+      "previous_public_revision_id": "1969",
+      "revision_id": "42321",
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z",
+      "wikitext_bytes": 88,
+      "wikitext_sha256": "1fbac2cc668f27f041254a59fbbec999397274f1a4da9320560ee1409fedc27f",
+      "source_extension": "md"
+    }
+  ],
+  "site_revision_count": 1
+}

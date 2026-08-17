@@ -1,0 +1,48 @@
+{
+  "canonical_path": "/File:Red-tailed_hawk.JPG",
+  "current_revision_id": "42551",
+  "database_title": "Red-tailed_hawk.JPG",
+  "display_title": "File:Red-tailed hawk.JPG",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 6,
+  "original_revision_count": 1,
+  "page_id": "8248",
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "BenSibelman",
+      "comment": "A presenter from the Oregon Raptor Center shows us a red-tailed hawk at [[Earth Day 2012]] in Silverton.",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": "42551",
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": "11419",
+      "same_as_previous_public": false,
+      "timestamp": "2012-04-28T19:50:23Z",
+      "wikitext_bytes": 104,
+      "wikitext_sha256": "50f850866bb0f722a866f18f3c76f914b31344b9d21008a58762d006a5a6bd00",
+      "source_format": "wikitext",
+      "source_extension": "wiki"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 11419,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 120,
+      "markdown_sha256": "532c3d1e43277759c25e6813be4d348e03744d7281ae89188e4fe096fafc9d30",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": "11419",
+      "previous_public_revision_id": "11419",
+      "revision_id": "42551",
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z",
+      "wikitext_bytes": 120,
+      "wikitext_sha256": "532c3d1e43277759c25e6813be4d348e03744d7281ae89188e4fe096fafc9d30",
+      "source_extension": "md"
+    }
+  ],
+  "site_revision_count": 1
+}

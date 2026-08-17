@@ -1,0 +1,48 @@
+{
+  "canonical_path": "/File:Backyard_cottage_rough_visualization.jpg",
+  "current_revision_id": "42263",
+  "database_title": "Backyard_cottage_rough_visualization.jpg",
+  "display_title": "File:Backyard cottage rough visualization.jpg",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 6,
+  "original_revision_count": 1,
+  "page_id": "707",
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "BenSibelman",
+      "comment": "Early concept sketch for the first new building planned for the [[SolSeedVillage]], using base photos from the [[Longest Day Party]].",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": "42263",
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": "1791",
+      "same_as_previous_public": false,
+      "timestamp": "2010-08-08T19:01:59Z",
+      "wikitext_bytes": 133,
+      "wikitext_sha256": "fc2e89e3ea6357eed13b66dc85009346505bcbbd0d1407ce55c8aa878713b072",
+      "source_format": "wikitext",
+      "source_extension": "wiki"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 1791,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 167,
+      "markdown_sha256": "aea16985a77afb4b95fc57ace0510e7a89c3d5083ba014d30d6ad45efc5d02e5",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": "1791",
+      "previous_public_revision_id": "1791",
+      "revision_id": "42263",
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z",
+      "wikitext_bytes": 167,
+      "wikitext_sha256": "aea16985a77afb4b95fc57ace0510e7a89c3d5083ba014d30d6ad45efc5d02e5",
+      "source_extension": "md"
+    }
+  ],
+  "site_revision_count": 1
+}

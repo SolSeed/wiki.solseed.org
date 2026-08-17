@@ -1,0 +1,1 @@
+Text about the Ethiopian village of Atebes, where a single clean water source has changed the lives of hundreds.

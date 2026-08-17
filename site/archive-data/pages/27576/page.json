@@ -1,0 +1,63 @@
+{
+  "canonical_path": "/Superintelligence_and_SolSeed",
+  "current_revision_id": "43174",
+  "database_title": "Superintelligence_and_SolSeed",
+  "display_title": "Superintelligence and SolSeed",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 2,
+  "page_id": "27576",
+  "published_revision_count": 2,
+  "revisions": [
+    {
+      "author": "BenSibelman",
+      "comment": "Created page from notes",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": "40849",
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": "40844",
+      "same_as_previous_public": false,
+      "timestamp": "2016-08-27T20:29:43Z",
+      "wikitext_bytes": 760,
+      "wikitext_sha256": "9cc7679fe4713481ffbc8145f67e4e8badef3a088cc9615257e7451b7740f36d",
+      "source_format": "wikitext",
+      "source_extension": "wiki"
+    },
+    {
+      "author": "BenSibelman",
+      "comment": "Added header",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": "43174",
+      "original_parent_revision_id": "40844",
+      "previous_public_revision_id": "40844",
+      "revision_id": "40849",
+      "same_as_previous_public": false,
+      "timestamp": "2016-08-27T20:32:47Z",
+      "wikitext_bytes": 906,
+      "wikitext_sha256": "58c0c7d182b102aee11c78bc6366c0bd2b595c7fddca2182b908b38e857972ff",
+      "source_format": "wikitext",
+      "source_extension": "wiki"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 40849,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 947,
+      "markdown_sha256": "58b9d5dc4b3e43e91e8358d3d7e2df50d0b93caae25cf29561c0393b48e92092",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": "40849",
+      "previous_public_revision_id": "40849",
+      "revision_id": "43174",
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z",
+      "wikitext_bytes": 947,
+      "wikitext_sha256": "58b9d5dc4b3e43e91e8358d3d7e2df50d0b93caae25cf29561c0393b48e92092",
+      "source_extension": "md"
+    }
+  ],
+  "site_revision_count": 1
+}

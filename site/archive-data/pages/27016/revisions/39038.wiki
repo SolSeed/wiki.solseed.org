@@ -1,0 +1,34 @@
+[[Category:Opportunity Profile]]
+
+[[Image:Cubesat in orbit.jpg|400px]]
+
+=== Opportunity Sketch ===
+
+Build a tiny satellite and get it launched into low Earth orbit.
+
+=== Outcome ===
+
+A SolSeed satellite is in orbit, probably doing some kind of Earth observation research and transmitting data back to us.
+
+=== Impact ===
+
+SolSeed gains legitimacy as a serious space group through establishing an actual presence in space.
+
+=== Cost ===
+
+$65,000-$80,000, according to [http://www.space.com/businesstechnology/cube_sats_040908.html Space.com]
+
+1000 hrs
+
+=== Steps ===
+* Make a plan for what kind of satellite to build
+* Research how to build the standard Cubesat framework, provide a power source, ensure the electronics we put on board can survive in space, etc.
+* Contact NASA and/or SpaceX and find out how and when we could get a satellite launched
+* Revise the plan
+* Purchase supplies, including a radio receiver that can pick up transmissions from the satellite
+* Construct the satellite, probably with Bob Sanders's help
+* Bring the satellite to a launch facility and drop it off
+* Establish contact with the satellite after launch
+* Publicize our success
+
+__NOTOC__

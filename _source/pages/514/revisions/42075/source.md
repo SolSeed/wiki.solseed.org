@@ -1,0 +1,39 @@
+Welcome to the second SolSeed e-newsletter!  As promised, having covered "Where we've been" and "Where we are now," we'll now move on to...
+
+#### Where we're going (the current [OnePagePlan](/OnePagePlan))
+![right](/assets/uploads/SolSeed_Village_visualization_2.jpg)
+
+Here are the 2010 goals from our [OnePagePlan](/OnePagePlan), with the names of people who will drive the work for each:
+- Spiritual Community: Regular, impactful SolSeed services in Portland, led by multiple people -- [Shelley](/Shelley)
+- Industry: Income run rate of $100,000/year (~$9000/month) by year's end -- [Brandon](/Brandon)
+- Place: Ownership of a site for the nucleus of a SolSeed Village by Winter Solstice 2010 -- [Mark](/Mark)
+- Media: Publish two SolSeed books, two videos, and a great website -- [Ben](/Ben)
+ 
+And here are the 3-year targets:
+- Place: We can point to a SolSeed village
+- Resources: Yearly budget is $1 million
+- Industry: We are making money from a business related to [The Destiny](/The_Destiny)
+- Vision: Our vision is clearly articulated in all core media (website, books, videos, events, Facebook page, etc.)
+ 
+#### Progress So Far this Year
+- Sixteen people participated in our first SolSeed service and potluck in Portland on February 6, with the "seed theme" of [Empathy](/Empathy).  Please join us for the second service on March 20! (See below for details.)
+- We have acquired the domain spacewiki.com, to become a clearinghouse for info on major figures in the space industry, and talked to a dozen caricaturists who might help us attract interest at space industry conferences.
+- We've identified three potential sites for a SolSeed eco-village.
+- Most of the art for our children's book, *Happy in the Sun,* has been completed, with seven pages left to go.
+
+![430px](/assets/uploads/Happy_in_the_Sun.jpg)
+
+#### Spring Equinox Service
+Seed Theme: Balance
+
+When: Saturday, March 20
+11 am: Celebration and discussion of balance
+12 pm: Potluck -- Shelley and Brandon will provide soup and a green salad. Please bring bread, juice additional salads, or a dessert to share.
+
+Location: Sanders' home at 1824 SE Oak St, Portland OR 97214
+
+Look forward to seeing you there!
+
+Ben Sibelman
+
+P.S. To unsubscribe, just hit Reply and ask me to take you off our list.

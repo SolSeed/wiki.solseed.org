@@ -1,0 +1,4 @@
+Business Name:	Lee Johnson Wood Art
+Location:	Portland, OR 97219
+Phone:	971-219-0839
+leejohnson13 at comcast dot net

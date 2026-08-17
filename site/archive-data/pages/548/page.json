@@ -1,0 +1,48 @@
+{
+  "canonical_path": "/Book_41",
+  "current_revision_id": "42107",
+  "database_title": "Book_41",
+  "display_title": "Book 41",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 1,
+  "page_id": "548",
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "Brandon CS Sanders",
+      "comment": "New page: Book 41 is part of the [[SolSeed Book Program]].  Did you get Book 41?  We'd love to see all of the places Book 41 has been and meet all the people who have read it.  If you've encountered...",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": "42107",
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": "1444",
+      "same_as_previous_public": false,
+      "timestamp": "2010-04-05T01:59:12Z",
+      "wikitext_bytes": 440,
+      "wikitext_sha256": "4421b2c865fc2c677195a26288b092cf4f0fb4a896cdbdd6320c7c4a9563597e",
+      "source_format": "wikitext",
+      "source_extension": "wiki"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 1444,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 511,
+      "markdown_sha256": "ee59120f9cf93dcf3bfa44d2628f0f74d7722d053adc7109e4c56aa0cf83028e",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": "1444",
+      "previous_public_revision_id": "1444",
+      "revision_id": "42107",
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z",
+      "wikitext_bytes": 511,
+      "wikitext_sha256": "ee59120f9cf93dcf3bfa44d2628f0f74d7722d053adc7109e4c56aa0cf83028e",
+      "source_extension": "md"
+    }
+  ],
+  "site_revision_count": 1
+}

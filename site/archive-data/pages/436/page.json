@@ -1,0 +1,63 @@
+{
+  "canonical_path": "/6",
+  "current_revision_id": "42000",
+  "database_title": "6",
+  "display_title": "6",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 2,
+  "page_id": "436",
+  "published_revision_count": 2,
+  "revisions": [
+    {
+      "author": "Brandon CS Sanders",
+      "comment": "Redirecting to [[Book 7]]",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": "1205",
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": "1199",
+      "same_as_previous_public": false,
+      "timestamp": "2009-11-28T23:56:23Z",
+      "wikitext_bytes": 20,
+      "wikitext_sha256": "e2f6516a1f49b982f6b46ee21ffb0d1c7932eb042f25ecda2e56b9c66d4c0920",
+      "source_format": "wikitext",
+      "source_extension": "wiki"
+    },
+    {
+      "author": "Brandon CS Sanders",
+      "comment": "Redirecting to [[Book 6]]",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": "42000",
+      "original_parent_revision_id": "1199",
+      "previous_public_revision_id": "1199",
+      "revision_id": "1205",
+      "same_as_previous_public": false,
+      "timestamp": "2009-11-28T23:57:03Z",
+      "wikitext_bytes": 20,
+      "wikitext_sha256": "929b40fe1effa1113b738cde69cf6b385d208f79f8cde3ebc5f9f3cd5af95d44",
+      "source_format": "wikitext",
+      "source_extension": "wiki"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 1205,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 51,
+      "markdown_sha256": "1b418d9be8b7b2850a419fb0575014545e6773bf33a8112f549b2c9445c42784",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": "1205",
+      "previous_public_revision_id": "1205",
+      "revision_id": "42000",
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z",
+      "wikitext_bytes": 51,
+      "wikitext_sha256": "1b418d9be8b7b2850a419fb0575014545e6773bf33a8112f549b2c9445c42784",
+      "source_extension": "md"
+    }
+  ],
+  "site_revision_count": 1
+}

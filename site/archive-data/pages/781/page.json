@@ -1,0 +1,48 @@
+{
+  "canonical_path": "/File:Yule_log.jpg",
+  "current_revision_id": "42337",
+  "database_title": "Yule_log.jpg",
+  "display_title": "File:Yule log.jpg",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 6,
+  "original_revision_count": 1,
+  "page_id": "781",
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "BenSibelman",
+      "comment": "This is a cropped and slightly color-corrected version of [[Media:Solstice Fire 2008.jpg]].",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": "42337",
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": "2018",
+      "same_as_previous_public": false,
+      "timestamp": "2010-12-04T18:59:48Z",
+      "wikitext_bytes": 91,
+      "wikitext_sha256": "7d19fba53f7f333c2e8fd5fb1583476d07dbfaf59f1089b1a88e568cbe135d12",
+      "source_format": "wikitext",
+      "source_extension": "wiki"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 2018,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 115,
+      "markdown_sha256": "d516d7580fe74911ebb1facd82cdbf95395e43d82fea2227d0a55f76aa7002d7",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": "2018",
+      "previous_public_revision_id": "2018",
+      "revision_id": "42337",
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z",
+      "wikitext_bytes": 115,
+      "wikitext_sha256": "d516d7580fe74911ebb1facd82cdbf95395e43d82fea2227d0a55f76aa7002d7",
+      "source_extension": "md"
+    }
+  ],
+  "site_revision_count": 1
+}

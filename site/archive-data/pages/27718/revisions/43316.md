@@ -1,0 +1,84 @@
+### Agenda
+- Check in
+- Opening Blessing
+- Review WWWs
+- Weekly event logistics
+- Review Agenda
+- Earth Day mulching and repercussions
+- Unconference Fish or Cut Bait
+- Evaluations
+- Closing Blessing
+
+### Check-in
+- Brandon … Feeling jealous of my time … I want to do things I'm not able to do
+- Ben … I’m still reeling from some feedback about my personality and its effect on people (from Thurs AM)
+- Shawn … I've been all over the place thinking about classes, work, what I'm trying to do
+
+### Opening Blessing
+The world and life are full. There are so many things to do, and finite resources of time and gumption. May we find a path through this world of overwhelm that brings Life to ourselves and our communities.
+--Blessed Be
+
+### WW(W)s from last time
+- Ben … contact Tryon about Sunday and Monday (Memorial Day weekend) … by today
+- <s>Shawn … walk down to Global Homestead Community Garage</s>
+
+### WW(W)s
+- Brandon … determine list of folks to invite to the small Memorial Day event … by soon
+- Ben … indicate to Walt that Shawn would be happy to pick up the methanol … by soon
+
+### Weekly Events Logistics
+Service rotation: Eric, Ben, Brandon, Shelley, Shawn
+- April 28th Service: 8:30 AM PST / 11:30 EST … Shawn
+- April 29th Business Call: 8:30 AM PST / 11:30 EST
+
+### Earth Day mulching and repercussions
+- Brandon: There were a lot of kids working on this wetland riverbank … I saw a community and those kids' lives being altered in a positive direction
+  - I noticed that I have a lot of energy for that, for figuring out how to connect my kids to caring about the right things in a spirit of reverence and practicing those things that develop their character
+- I think of my own past experiences creating things (Omidyar, Recent Changes Camp, OSCamp, WikiVanning) and realize that was a different stage of my life … those kind of things now get deprioritized so I can read bedtime stories to my kids
+  - I'm continually upset by wanting to do things and not doing them, and that's not a good state to be in
+  - For example, it's hard to imagine the unconference being super kid-friendly … it feels like it's from that other phase of my life
+  - I used to have a bunch of "optional spots" in my schedule to fill with stuff, and I don't anymore
+- Shawn: lots of friends who have kids have a similar story, although as a kid I just had to deal with the things my parents were into that weren't kid-friendly ... it seems like these days parents are spending their time more on their kids programming
+  - As a kid the thing I hated was seeing my dad work on a job he hated to give us stuff and be miserable … I would have liked to see my dad do something he believed in rather than wasting his life on a fairy tale of what a middle class life should be
+  - Kids learn by watching … I don’t know what it’s like to actually have kids … but kids don’t need to have things be so tailored to them
+- Brandon: My parents worked hard so I could go to Adventist schools, put a lot into that system, as well as outdoor activities for kids … creating a container in which kids can develop … that's what I choose to create
+  - That said, I believe in Slow Parenting (not rushing around ferrying my kids from one programmed activity to the next)
+  - And,  I feel the lack of the social structure I was raised in (created by the Adventist Church)
+    - Shawn: I feel like the lack of social structure was beneficial to me, I had to create my own social structure … it depends on the kid
+    - Brandon: Kids who grow up in bad circumstances can be resilient and grow up to be super wise and deep, but they're the exception … I want to create a "loamy soil" for my kids
+- Brandon: When I talk to Shelley about how to get her more involved, she is very clear that everything is about the kids to her … I really want her involved
+  - I also think this is true for a very high percentage of women who have kids (not nearly as much for men who have kids)
+  - Anything that isn't kid-friendly costs me "discretionary funds" that are limited, so I probably won't spend much energy organizing non-kid-friendly events like the unconference
+- Recruiting other families
+  - A lot of people have the desire for this kind of container for their kids that isn't supernatural-based … the Boy Scouts are fairly Christian but are being "dragged into the present" in terms of allowing girls and transgender kids
+
+### Unconference
+#### Discussion
+- Many people will already have other plans for Memorial Day weekend by now
+  - Maybe instead of inviting a bunch of people, we should make this unconference a small event for us to do some soul-searching
+  - Ben has mixed feelings … it would be nice to have a bigger event (first time in a while) but maybe it makes more sense to have a small just-us event to figure out what direction we want to take with Shawn as a member
+- Kid-friendliness: Do we need a bunch of families to come? Can kids take in the energy of the event to some degree even if they don't understand what the adults are doing?
+  - This will be a persistent issue until we have more parents who are members
+  - Shawn can talk with Rico about it when they meet
+  - Shawn: Could we hold the event in/near a park where kids could play?
+    - For example, Mt. Tabor Park and Taborspace … Taborspace has a congregation (organizing it?) but it's open to having an evolution book club, so we should be able to use it
+  - Brandon: We could have a two-track unconference, one about Resilient Communities (the original idea with apocalypse planning etc) and the other around concrete plans for creating a container for kids
+- Timing: How long should we give people between receiving the invitation and the event?
+  - Brandon: More time is always better
+
+#### New plan
+Small just-us event for Memorial Day, then big two-track event in August
+- Small event
+  - Shawn: Venue could be anywhere … my ideal would be to meet at a bar and talk shop
+  - Ben: Could we invite Shelley?
+    - Brandon: Asking to ship the kids off somewhere so Shelley can do my thing is a high cost … but it would be easy if we just do it at my place
+  - Shawn: Let's make it a barbeque
+
+### Evaluation
+- Shawn: I’m feeling good, good talk
+- Brandon: I think it's important that we are working the reality on the ground and not stuck in a theoretical fantasy world … I really appreciate our discussion from today
+- Ben: I was having a really hard time dealing with yet another set of hard truths, in addition to the ones from Thursday that I mentioned.   But I’m glad that we seemed to suddenly have figured out a way forward that we can all agree on.
+
+### Closing Blessing
+May we find the time and energy to create something that allows more time and energy to create more things.
+-- Blessed Be

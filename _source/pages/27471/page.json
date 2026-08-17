@@ -1,0 +1,69 @@
+{
+  "canonical_path": "/June_28,_2015:_Business_Call",
+  "current_revision_id": 43069,
+  "database_title": "June_28,_2015:_Business_Call",
+  "display_title": "June 28, 2015: Business Call",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 3,
+  "page_id": 27471,
+  "published_revision_count": 3,
+  "revisions": [
+    {
+      "author": "BenSibelman",
+      "comment": "Created page from the Google doc, with adjustments",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 40561,
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": 40560,
+      "same_as_previous_public": false,
+      "timestamp": "2015-06-29T02:06:46Z",
+      "wikitext_bytes": 6676,
+      "wikitext_sha256": "c0e3c1f69a8ec4c6c31a72b55528ffde0bf6c8fd4e0dda0ef9cce1b6cbbaee7a"
+    },
+    {
+      "author": "BenSibelman",
+      "comment": "/* WW(W)s from last time */",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 40562,
+      "original_parent_revision_id": 40560,
+      "previous_public_revision_id": 40560,
+      "revision_id": 40561,
+      "same_as_previous_public": false,
+      "timestamp": "2015-06-29T02:07:18Z",
+      "wikitext_bytes": 6690,
+      "wikitext_sha256": "dc8b5978657c84aa6db1d410e98ee8bf83ed54773b22dbeae9e6a09f7b791238"
+    },
+    {
+      "author": "BenSibelman",
+      "comment": "Fixed WWWs",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 43069,
+      "original_parent_revision_id": 40561,
+      "previous_public_revision_id": 40561,
+      "revision_id": 40562,
+      "same_as_previous_public": false,
+      "timestamp": "2015-06-29T02:08:43Z",
+      "wikitext_bytes": 6769,
+      "wikitext_sha256": "a7ffd4be9dc788eafa8c0ffff316caa8557e33cea38f8e543f91bbb7c31a91b8"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 40562,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 6744,
+      "markdown_sha256": "70c6dadfe15ba41ff9294e5734102965665f300c02c258851a4faf06b21281d1",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": 40562,
+      "previous_public_revision_id": 40562,
+      "revision_id": 43069,
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z"
+    }
+  ],
+  "site_revision_count": 1
+}

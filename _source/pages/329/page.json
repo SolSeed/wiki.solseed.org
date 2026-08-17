@@ -1,0 +1,43 @@
+{
+  "canonical_path": "/Paul_Krafel",
+  "current_revision_id": 41893,
+  "database_title": "Paul_Krafel",
+  "display_title": "Paul Krafel",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 1,
+  "page_id": 329,
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "Brandon CS Sanders",
+      "comment": "Redirecting to [[User:Pkrafel]]",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 41893,
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": 902,
+      "same_as_previous_public": false,
+      "timestamp": "2009-06-05T05:19:01Z",
+      "wikitext_bytes": 26,
+      "wikitext_sha256": "1fca0f9a17cede8b7e98081ec09ef4496dcac4fb70de48fe411ab02e1d2ccb0d"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 902,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 63,
+      "markdown_sha256": "1c3e9a5c625e32c3188f33c850a92f55cb62d98bd10b6bd00b6c61a1173fcc0b",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": 902,
+      "previous_public_revision_id": 902,
+      "revision_id": 41893,
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z"
+    }
+  ],
+  "site_revision_count": 1
+}

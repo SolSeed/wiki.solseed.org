@@ -1,0 +1,43 @@
+{
+  "canonical_path": "/Intro_to_Tryon_Life_Community_Farm",
+  "current_revision_id": 43186,
+  "database_title": "Intro_to_Tryon_Life_Community_Farm",
+  "display_title": "Intro to Tryon Life Community Farm",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 1,
+  "page_id": 27588,
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "BenSibelman",
+      "comment": "Created page from vague recollections",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 43186,
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": 40879,
+      "same_as_previous_public": false,
+      "timestamp": "2016-09-18T04:46:51Z",
+      "wikitext_bytes": 737,
+      "wikitext_sha256": "69b0a1d9acfa632e5bb69276528416b75a6e09a676e9c4d221ab72f2b8e5d38a"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 40879,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 788,
+      "markdown_sha256": "4576cb41565168601351280a2437664b2132d4fca45ae1a131f701f791901cee",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": 40879,
+      "previous_public_revision_id": 40879,
+      "revision_id": 43186,
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z"
+    }
+  ],
+  "site_revision_count": 1
+}

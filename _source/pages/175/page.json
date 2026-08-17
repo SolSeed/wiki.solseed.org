@@ -1,0 +1,69 @@
+{
+  "canonical_path": "/User_talk:TedErnst",
+  "current_revision_id": 41741,
+  "database_title": "TedErnst",
+  "display_title": "User talk:TedErnst",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 3,
+  "original_revision_count": 3,
+  "page_id": 175,
+  "published_revision_count": 3,
+  "revisions": [
+    {
+      "author": "Brandon CS Sanders",
+      "comment": "New page: Welcome to the [[SolSeedMovement]] Ted! --[[Brandon]]",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 547,
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": 442,
+      "same_as_previous_public": false,
+      "timestamp": "2009-01-18T21:31:01Z",
+      "wikitext_bytes": 53,
+      "wikitext_sha256": "2bf9464ebe158166f767542ec192b736318b2dc41de18548a8de490b0d82577f"
+    },
+    {
+      "author": "Shelley Schoepflin Sanders",
+      "comment": "",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 550,
+      "original_parent_revision_id": 442,
+      "previous_public_revision_id": 442,
+      "revision_id": 547,
+      "same_as_previous_public": false,
+      "timestamp": "2009-02-12T16:20:02Z",
+      "wikitext_bytes": 392,
+      "wikitext_sha256": "a601568696967b47c4f9bff9466b86e8df23716d648e6611c226c8e4a796e165"
+    },
+    {
+      "author": "Shelley Schoepflin Sanders",
+      "comment": "",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 41741,
+      "original_parent_revision_id": 547,
+      "previous_public_revision_id": 547,
+      "revision_id": 550,
+      "same_as_previous_public": false,
+      "timestamp": "2009-02-12T18:26:59Z",
+      "wikitext_bytes": 575,
+      "wikitext_sha256": "f6d17fbbede7a988050442d94a5eb7f27594b1f4b9a58ba2a887aa5fa9ab1999"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 550,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 670,
+      "markdown_sha256": "799dccb9029ea346393a1e991ff97bfa29ec052071ff180f522281fa26efd021",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": 550,
+      "previous_public_revision_id": 550,
+      "revision_id": 41741,
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z"
+    }
+  ],
+  "site_revision_count": 1
+}

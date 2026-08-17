@@ -1,0 +1,48 @@
+{
+  "canonical_path": "/Bob",
+  "current_revision_id": "41819",
+  "database_title": "Bob",
+  "display_title": "Bob",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 1,
+  "page_id": "253",
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "Shelley Schoepflin Sanders",
+      "comment": "Redirecting to [[User:Bob Sanders]]",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": "41819",
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": "674",
+      "same_as_previous_public": false,
+      "timestamp": "2009-03-18T15:31:55Z",
+      "wikitext_bytes": 30,
+      "wikitext_sha256": "8694034a00c47b66658bc2914cdea3abf69d63a24155575f08795dd11272c3dc",
+      "source_format": "wikitext",
+      "source_extension": "wiki"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 674,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 71,
+      "markdown_sha256": "2cbf09808e23791e0bfd7fdfe56adde9810dacf9f7ec5bd97eac64c0fa595e57",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": "674",
+      "previous_public_revision_id": "674",
+      "revision_id": "41819",
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z",
+      "wikitext_bytes": 71,
+      "wikitext_sha256": "2cbf09808e23791e0bfd7fdfe56adde9810dacf9f7ec5bd97eac64c0fa595e57",
+      "source_extension": "md"
+    }
+  ],
+  "site_revision_count": 1
+}

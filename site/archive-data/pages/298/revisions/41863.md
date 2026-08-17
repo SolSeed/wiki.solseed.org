@@ -1,0 +1,194 @@
+### Summary
+[Ben](/Ben), [Bonnie](/Bonnie), [Brenna](/Brenna), [Bob](/Bob), [Shelley](/Shelley), and [Brandon](/Brandon) were all on the April 28 call.  We spent half the time discussing the first several chapters of [The Untethered Soul](/The_Untethered_Soul).  We're reading [The Untethered Soul](/The_Untethered_Soul) to prepare ourselves for [Sol2009](/Sol2009).  I highly recommend reading it even if you don't join the calls or attend [Sol2009](/Sol2009).  We finished the call by going over plans for [Sol2009](/Sol2009), specifically looking at how we're going to fund it.
+
+We'd love to see you on the next call.  It's fun and never goes for more than 1 hour.
+[The Untethered Soul](/The_Untethered_Soul), [Steering Committee](/Steering_Committee) and [Sol 2009](/Sol_2009)
+May 5 at 8:00pm (PST)
+Dial-in Number: **1-218-936-4700**
+Participant Access Code: **815066**
+Agenda and Notes: http://etherpad.com/AihOxUaXGO
+
+### Homework for May Call
+1. Everyone 
+1. * Invite people to Sol 2009
+1. * Read through Chapter 4 of The Untethered Soul
+1. Ben prepare Mystery Topic and facilitate call
+1. Brandon send out summary
+1. Shelley
+1. *Prepare Opening Words for May Call
+1. *Write invitation "freely contribute" section
+
+Notes from Previous Calls: http://solseed.org/Group_Experiences
+
+Dial-in Number: 1-218-936-4700 
+Participant Access Code: 815066
+
+### April 28, 2009 @8pm PST
+- Opening Words - 5 mins
+- Check in - 10 mins
+- Topic 1: The Untethered Soul - 15 mins
+- Topic 2: Steering Committee - 5 mins
+- Topic 3: Sol 2009 - 10 mins
+- Logistics / What's next / homework / assign next call - 10 mins
+- Closing Words - 2 mins
+
+### Opening Words - (5 mins)
+
+BEN: 
+We believe that:
+   The Destiny of SolSeed
+   is to take root amongst the stars.
+   
+BRANDON:
+Sol,
+  Terra,
+    you,
+      me,
+        we,
+          ALL,
+are precious SolSeed.
+
+SHELLEY:
+As SolSeed's intelligent spark,
+   We are its caretakers, 
+   We must fulfill The Destiny.
+   
+BONI:
+We believe that:
+  Our holy duty is to   
+  embrace Self Love,  
+  cultivate Empathy,  
+  and pursue Wisdom,
+  
+BOB:
+    so that our being honors SolSeed,
+    and our striving hastens
+    the fulfillment of The Destiny.
+    
+BEN:
+Self Love is motive.  
+Without Self Love,
+Empathy and Wisdom are impotent.
+
+BRANDON:
+  I pledge to learn to love myself; 
+  to become a person I cherish, admire, and care for. 
+  
+SHELLEY:
+Empathy is transcendent.  
+Without Empathy,  
+Self Love and Wisdom are evil.
+
+BONI:
+  I pledge to cultivate empathy in myself and others; 
+  to share and demonstrate my concern for others 
+  and for the growing life all around me. 
+  
+BOB:
+Wisdom is effective.  
+Without Wisdom,  
+Self Love and Empathy are feeble and capricious.
+
+BEN:
+  I pledge to seek wisdom; 
+  to honor my past, to strive for the future, 
+  to be open to new ideas and new beliefs, 
+  and to share my wisdom with others.
+  
+ALL: 
+Through Self Love, Empathy, and Wisdom we have come to know that:
+  We are SolSeed; 
+  Children of the sun, 
+  Awakened by starlight, 
+  Growing, nurturing, protecting, 
+  We bring life!
+
+### Check in and Reflections (10 mins)
+- Shelley: to call and life bringing a warm regard for all things living, inspired by reading *The Untethered Soul* that I can look with eyes of love.  I even tried to meditate this morning for 10 minutes.  I'm feeling more open toward the people at work.  Will be opening up more on return from Hawaii.  Feeling better about my upcoming transition at work.
+- Boni: i bring a new spiritual awakening, had an awesome time with my brother, i feel encouraged, enthused and ready to keep going on
+- Brandon: depression - shopping (for Shelley's b-day present). But I feel a resurgence of energy now and am glad to be here w/ you.
+- Ben: To this call and to Life I bring simultaneously some kind of reawakening and concern over my lack of spirituality. I worked on the music video over the wkend and got most of the way through first course. Went to environmental event, met w/ Lion at lunch. 
+- Bob: I bring thankfulness. I got to spend some time w/ the Beet-digger (relative -- drives an old vehicle called "the beet-digger"; aka Damon) and brother and Boni's brother. Uplifting couple of days. No depression for a couple-days -- I like that. Not that I'm depressed all the time really.
+- Brenna: I'm bringing . . . overwhelmed. FRIDAY = HAWAII. 
+
+### Topic 1: The Untethered Soul (15 mins)
+- Ben: Waiting for book from library.
+- Chapter 2: The Inner Roomate: The voice in our head can be a "bad" roommate
+- What you put in (mom, friend) can play back in your head.
+- Does that voice comprise every conscious thought you think? yes
+- Ben: So, the author is asking us to separate consciousness (or Awareness) from thought?
+- Brandon: It's possible to watch yourself think. As you watch the thoughts you think, you are able to create an identity that is not the voice.
+- Brenna: Isn't that sort of spirituality? What is the voice? Is it a voice of truth? It might depend on your belief system. If it isn't "you", is it Truth? 
+- Ben: Brenna says it's obvious that my thoughts don't come from me. That's not obvious to me.
+- Brenna: A lot of thoughts are learned, like "there's a piano, and it's this color, etc." Other thoughts are from your parents, e.g., "Make the bed." It's the "right" thing to do b/c you learned that all your life. 
+- Shelley: I think Mark said the author asked which inner voice was himself, decided that none of the voices are your voice, so you don't have to "find the real voice."
+- Boni: I hear voices constantly. Sometimes, I even let them come out loud. I might carry on a conversation.
+- Brenna: Do you see those voices as "you"?
+- Boni: Maybe, I might be one person, but I carry on the other voice's thoughts too. That's how I make a decision . . . all those little voices represent different points of view.
+- Brandon: I think the author is trying to help us get a little distance from the voice so that it stops being so significant. B/C if you completely identify w/ the little voice, then if it says "This is terrible" then you HAVE to feel terrible.
+- Ben: I think you can train the thoughts to be less distorted.
+- Shelley: Yes. CBT.
+- Master Of The Spectacle (MOTS): I hear voices too. But I haven't read the book.
+- Boni: In Ch 2, "You're ready to grow when you realize the "I" inside will never be content. It always has a problem with something."
+- Shelley: Worldy . . .
+- Brandon: Haiku for our invitation could have been lifted directly from the last chapter of the book . . . so reading this book is really great preparation for the Sol 2009.
+- Ben: God = Sol?
+- Brandon: Not quite. This is meant to be a teaser! Keep reading.
+
+FOR NEXT TIME:
+-Read up through Chapter 4 = complete the current section, Awakening Consciousness
+
+### Topic 2: Steering Committee
+- Boni and Brandon = only members so far
+- Invitation for new members.
+- Summary: Boni has a nonprofit handbook, lent to B, he will read.
+- Boni, Bob, Shelley, and Brandon discussed form for organization: We recommend a Non Profit Organization (rather than for-profit or church) for now.
+- Ben and Brenna also vote in favor of non-profit status.
+- Steering Committee will prepare to have The First Meeting at Sol 2009. We won't be "incorporated" by then, but we'll
+  - choose officers
+  - adopt by-laws
+- etc.
+- GOAL: Exit Sol 2009 ready to complete incorporation, but remain flexible in case issues arise that require more time.
+
+### Topic 3: Sol 2009 Invitation & Logistics (10 mins)
+- http://solseed.org/Sol2009
+  - Sign up
+  - Create list of people to invite
+
+COST:
+- SolSeed general fund will cover this event
+- Invitation is for other conveners of the event (e.g., Ben, Brenna, Bob, Boni, Mark, etc) to also contribute
+- Goal is a culture of hospitality for the new invitees
+
+DISCUSSION
+- Boni: I think it's more likely to feel worthwhile if I have to pay a little something.
+- Brandon: ?amount
+- Boni: I don't know. Free is fine, but this is just how I feel -- I do see people from out of town have to pay.
+- Brandon: Trade-off between creating more commitment and creating more hospitality. Not clear to me where the balance point is. Other thoughts?
+- Brenna: I agree w/ Boni that money . . . commmitment that people have
+- Boni: Suggested donation to cover campsite fees, then we provide the food? How much is each campsite per night?
+- Brandon: $32/night, 8 people per site, $4/person/night.
+- Shelley: What about a simple fee, $30/person
+- Brenna: Does the cost need to be advertised? People expect to have to pay something, right?
+- S&B: Suggested donation $30-?? $25-100?
+- Brenna: Could put it under the "signup" area. $30 is not a lot.
+- Boni: But Kevin, airfare, then 5 x $30.
+- Shelley: Philosophy -- 
+- Brandon: "Pay it forward"
+- Boni: Could leave cost off entirely, then if people ask, they could be told they could donate
+- Brenna: Free just looks cheap
+- Ben: Should we move on?
+- Brenna: Wording is important -- don't just put "free" -- maybe say 
+- SHELLEY HOMEWORK: Write snippet re: "pay it forward" or whatever
+
+#### Next Call
+- Ben: Facilitator
+- Shelley: Opening/closing words
+- Brandon: Summary and reminder email
+- Ben: Topics
+-Ben will bring the topics: Untethered Soul plus The Mystery Topic
+
+#### Closing Words (2 min)
+"In a flash of inspiration, our best translator of Galactic had summarized the central moral of High Galactic Culture: the business of life is life."
+
+- "Demand Ecology" by Craig DeLancey

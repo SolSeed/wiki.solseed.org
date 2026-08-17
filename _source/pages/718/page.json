@@ -1,0 +1,69 @@
+{
+  "canonical_path": "/Lauren_Oya_Olamina",
+  "current_revision_id": 42274,
+  "database_title": "Lauren_Oya_Olamina",
+  "display_title": "Lauren Oya Olamina",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 3,
+  "page_id": 718,
+  "published_revision_count": 3,
+  "revisions": [
+    {
+      "author": "Brandon CS Sanders",
+      "comment": "New page: [[Lauren Olamina]] is the founder of the fictional religion [[Earthseed]] in [[Octavia Butler]]'s two book series comprised of [[The Parable of the Sower]] and [[The Parable of the Talents...",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 1840,
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": 1837,
+      "same_as_previous_public": false,
+      "timestamp": "2010-08-31T23:40:51Z",
+      "wikitext_bytes": 1130,
+      "wikitext_sha256": "16e5a5e9edfc3fc30694613e10c6fca64817c7a46db4edf4845e6a588f430a9e"
+    },
+    {
+      "author": "Brandon CS Sanders",
+      "comment": "",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 1841,
+      "original_parent_revision_id": 1837,
+      "previous_public_revision_id": 1837,
+      "revision_id": 1840,
+      "same_as_previous_public": false,
+      "timestamp": "2010-08-31T23:42:20Z",
+      "wikitext_bytes": 1134,
+      "wikitext_sha256": "e0c2e0800c12ab598f4015a8d7275b30ff7d4b7f100ed96ef700d15cc42712d8"
+    },
+    {
+      "author": "Brandon CS Sanders",
+      "comment": "[[Lauren Olamina]] moved to [[Lauren Oya Olamina]]",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 42274,
+      "original_parent_revision_id": 1840,
+      "previous_public_revision_id": 1840,
+      "revision_id": 1841,
+      "same_as_previous_public": true,
+      "timestamp": "2010-08-31T23:42:57Z",
+      "wikitext_bytes": 1134,
+      "wikitext_sha256": "e0c2e0800c12ab598f4015a8d7275b30ff7d4b7f100ed96ef700d15cc42712d8"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 1841,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 1231,
+      "markdown_sha256": "bb28a98f10128f0c95dd09127c07bc81d2bde0dc78a8da9f467b5fb6b6bf3c6d",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": 1841,
+      "previous_public_revision_id": 1841,
+      "revision_id": 42274,
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z"
+    }
+  ],
+  "site_revision_count": 1
+}

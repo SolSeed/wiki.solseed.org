@@ -1,0 +1,83 @@
+### Agenda
+- Check In
+- Review WWWs
+- Review Agenda
+- Next Service Logistics
+- Space Elevator Conference
+- Equinox/Moving Planet
+- Evaluation
+
+### Check In
+- Shelley ... good day ... saw my mom, played with Sequoia
+- Brandon ... going beside the sound, sun is setting, gorgeous! ... have had a good day so far ... almost to Tacoma
+- Ben ... was productive today until coworkers got me to play a bunch of foosball
+- Sequoia ... had a little chat with Shelley about sleepytime ... agreed that he shouldn't be fussing ... went to sleep with minimal fussing tonight ... got to play in the fountain and eat birthday-cake-flavored ice cream today
+
+### WWWs from last time
+- <s>Brandon ... pay Ryan for next batch of 50 caricatures ... by tomorrow
+- Brandon ... email Jason about contractors ... by tonight
+- Brandon ... do a google search for contractors (basement, seismic retrofits, lifts) to present ... by next call</s> ... see [Basement Contractors](http://thesanders.us/Basement-Contractors)
+- <s>Brandon ... give space elevator practice talk to Ben over skype ... by next Tuesday
+- Brandon ... give space elevator practice talk to Jerry ... by Wednesday
+- Ben ... send Brandon directions for the bus ... by tonight
+- Ben ... call Brandon and Shelley to say when I can do the service ... by tomorrow night
+- Shelley ... invite Jerry to the next service call ... by tonight</s>
+- Shelley ... interview Brandon to find out what he wants out of a church survey ... by next call
+- Shelley ... read permit link and look at paragraph about 350 (below) ... by next call
+- Shelley ... update 350 by bike page with description of 350 and photo ... by next call
+
+### WWWs
+- Shelley ... modify our Moving Planet event ... by tonight
+
+### Next Service Logistics
+8:30pm Saturday August 13, 2011 (to avoid conflict with Space Elevator Conference) ... Ben
+
+Rotation: Brandon, Jerry?, Shelley, Ben
+
+### Space Elevator Conference
+- Brandon is prepared ... brought
+  - Printer
+  - Paper
+  - Cutter
+  - Masking tape
+  - Caricatures from the past
+  - Extra ink
+  - Laptops x2
+  - Power x2
+
+- How's Brandon's train doing? ... On time so far ... maybe even a little ahead ...
+- Tested the add-user script lately? ... no ... we should test it before we go to bed tonight ... and verify that the printer is working
+- Shelley will arrive in the Seattle area at 3 PM Saturday
+
+### Moving Planet
+Permit application: http://www.portlandonline.com/omf/index.cfm?c=29561&a=69109
+- Where to have people gather and get on bikes?
+  - Vera Katz Esplanade?
+- Look up what paramedics would be available in the event area?
+- Attendence estimates?
+  - Shelley: 20-25
+- Brandon: No insurance needed I think.  It was just my task to check.  :-)
+
+The big Portland event: http://www.moving-planet.org/events/us/portland/527
+- Cancel our event and just go to this?
+  - Pros:
+    - Shelley doesn't want to get too involved with food permits etc.
+    - Our event could get too big for us to handle
+  - Cons:
+    - Would miss a "capacity building" opportunity
+    - Miss opportunity to recruit for SolSeed ... people who attend our event (rebuttal: they are going to be focused on climate change, not sending life into space)
+
+Brandon: Not sure ... I'm sympathetic to both points of view ... capacity building, pain in the ass ... what if we have the simplest possible "big event" and then have food for our core group?
+
+Shelley: Why not have people meet at our house and commute from there by bike to the big event? Return to our house and have food AT OUR HOUSE served by our official food handler, Brandon
+- Or have brunch beforehand
+- Could still list it on Moving Planet ... and still apply for a free permit?
+- Could bike past OMSI
+- Could try to talk to people about SolSeed at the event ... look for kindred spirits
+- We could all wear our starfarer shirts :-)  Bikes won't be in the parade though will they?
+  - Ben thinks they probably will, but it doesn't matter that much
+
+### Evaluation
+- Shelley ... Under the circumstances we were quite productive ... we had perseverance
+- Ben ... Agree with Shelley
+- Brandon ... I found it a little frustrating but was glad I could hear you guys

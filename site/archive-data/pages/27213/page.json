@@ -1,0 +1,48 @@
+{
+  "canonical_path": "/Arete",
+  "current_revision_id": "42814",
+  "database_title": "Arete",
+  "display_title": "Arete",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 1,
+  "page_id": "27213",
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "EricSaumur",
+      "comment": "Created page with \"Arete is a Greek word that means living up to our potential and fulfilling our purpose. When we say “the Arete of Life” we mean the complex whole of Life, including the upwar...\"",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": "42814",
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": "39647",
+      "same_as_previous_public": false,
+      "timestamp": "2014-03-31T02:38:06Z",
+      "wikitext_bytes": 267,
+      "wikitext_sha256": "ce882e510ce8d041e64a9cc632f3b34c406b39c70272f3fb40e917a8093692a1",
+      "source_format": "wikitext",
+      "source_extension": "wiki"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 39647,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 268,
+      "markdown_sha256": "a4dbaf4b844935104b57e273691e01b4b6dd63d445d7c402a1cbcb4e5b519f8c",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": "39647",
+      "previous_public_revision_id": "39647",
+      "revision_id": "42814",
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z",
+      "wikitext_bytes": 268,
+      "wikitext_sha256": "a4dbaf4b844935104b57e273691e01b4b6dd63d445d7c402a1cbcb4e5b519f8c",
+      "source_extension": "md"
+    }
+  ],
+  "site_revision_count": 1
+}

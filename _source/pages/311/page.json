@@ -1,0 +1,56 @@
+{
+  "canonical_path": "/User_talk:Markjhansen",
+  "current_revision_id": 41876,
+  "database_title": "Markjhansen",
+  "display_title": "User talk:Markjhansen",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 3,
+  "original_revision_count": 2,
+  "page_id": 311,
+  "published_revision_count": 2,
+  "revisions": [
+    {
+      "author": "Markjhansen",
+      "comment": "New page: I have an interest in propagating world peace starting from the inside.  I agitate for transformation and incite empowerment.     I am currently teaching myself finger-style guitar so I ca...",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 838,
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": 834,
+      "same_as_previous_public": false,
+      "timestamp": "2009-05-20T06:17:57Z",
+      "wikitext_bytes": 1487,
+      "wikitext_sha256": "b3026899340b77755d2f13b0a7fd25056325e5a803a686cbfdee5647c3e39b75"
+    },
+    {
+      "author": "Markjhansen",
+      "comment": "Removing all content from page",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 41876,
+      "original_parent_revision_id": 834,
+      "previous_public_revision_id": 834,
+      "revision_id": 838,
+      "same_as_previous_public": false,
+      "timestamp": "2009-05-20T06:26:20Z",
+      "wikitext_bytes": 0,
+      "wikitext_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 838,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 45,
+      "markdown_sha256": "252140068a92a43adc08c92c83b7dcebf93357b7e39a6a517958df64a49b38ca",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": 838,
+      "previous_public_revision_id": 838,
+      "revision_id": 41876,
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z"
+    }
+  ],
+  "site_revision_count": 1
+}

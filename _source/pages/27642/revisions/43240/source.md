@@ -1,0 +1,1 @@
+The term SolSeed Literalist refers to someone who places achieving [The Destiny](/The_Destiny) at the center of their lives.  This term is little used anymore because we recognize that there are many ways to [Bring Life](/Bring_Life) and that bringing life is more fundamentally important than the Destiny.

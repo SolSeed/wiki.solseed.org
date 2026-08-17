@@ -1,0 +1,12 @@
+[Brandon](/Brandon) went to [Pantheacon 2015](/Pantheacon_2015), the largest indoor gathering of Pagans in North America, in San Jose on February 13th-15th (the event started on the 12th). Here is his report on the convention:
+
+### Brandon's report
+We arrived a little after it started (didn't miss anything critical). We met John and Ruth Halstead pretty early on.  They took us under their wings and that made it a fun experience for us and so I am grateful to them.  It had a fairly typical con feel to it.  A lot of cosplay and ordinarily marginalized people hanging out with their people.
+
+The Atheopagan group is pretty interesting.  They were unable to get a normal slot so they negotiated with Pagan Scholars to use their hospitality suite and there was an open house and a workshop and a ritual (all told about 5-6 hours of Atheopagan programming).  There is a ton of other stuff going on (about 13 tracks). The Atheopagan thing is really resonating a lot with people.
+
+I feel it is the most fertile conference/venue that I have been to for [Kindred](/Kindred); the only circle in the venn diagram that is not well represented is probably the Call ([The Destiny](/The_Destiny), The Obligation, Space!).  There is a lot of non-science (nonsense) going on.  But there is a lot of people who are thoroughly naturalistic there.  If I have learned anything, I have learned that the Atheopagan is really resonating with a lot of people and the only disparity is the Call.  
+
+Jon Cleland Host was really nice to me; absolutely Kindred guy although not certain about the call.  He was talking about animism and how science is a natural extension of animism.  
+
+Thanks to this event, I feel that now is the most fertile time for a Kindred festival ever.

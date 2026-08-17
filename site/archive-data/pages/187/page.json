@@ -1,0 +1,48 @@
+{
+  "canonical_path": "/User:Debbie_Gleason",
+  "current_revision_id": "41753",
+  "database_title": "Debbie_Gleason",
+  "display_title": "User:Debbie Gleason",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 2,
+  "original_revision_count": 1,
+  "page_id": "187",
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "TedErnst",
+      "comment": "Redirecting to [[User:Debbie Gleason]]",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": "41753",
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": "480",
+      "same_as_previous_public": false,
+      "timestamp": "2009-01-28T15:09:19Z",
+      "wikitext_bytes": 33,
+      "wikitext_sha256": "cba6b78158aee6c29ea5e68a322049634aa0ba61e581165457ff3ab449ac5c0e",
+      "source_format": "wikitext",
+      "source_extension": "wiki"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 480,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 77,
+      "markdown_sha256": "f33709019ba438c063dacbfe9eb1afd108fe0eb194331e603fe03c4a48d2b594",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": "480",
+      "previous_public_revision_id": "480",
+      "revision_id": "41753",
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z",
+      "wikitext_bytes": 77,
+      "wikitext_sha256": "f33709019ba438c063dacbfe9eb1afd108fe0eb194331e603fe03c4a48d2b594",
+      "source_extension": "md"
+    }
+  ],
+  "site_revision_count": 1
+}

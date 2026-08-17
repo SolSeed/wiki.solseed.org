@@ -1,0 +1,16 @@
+{
+  "author": "SolSeed archive migration",
+  "comment": "Create maintainable Markdown archive revision",
+  "derived_from_revision_id": 40402,
+  "excluded_revision_count_since_previous_public": 0,
+  "markdown_bytes": 3802,
+  "markdown_sha256": "b88195fdbc3082243a6c95d33940353ab3325a2d6786e99d2aefc5eff819c7da",
+  "next_public_revision_id": null,
+  "original_parent_revision_id": 40402,
+  "previous_public_revision_id": 40402,
+  "revision_id": 42914,
+  "revision_origin": "site",
+  "same_as_previous_public": false,
+  "source_format": "markdown",
+  "timestamp": "2018-12-15T00:00:00Z"
+}

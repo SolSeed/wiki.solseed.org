@@ -1,0 +1,43 @@
+{
+  "canonical_path": "/Shelley_Sanders",
+  "current_revision_id": 42047,
+  "database_title": "Shelley_Sanders",
+  "display_title": "Shelley Sanders",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 1,
+  "page_id": 485,
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "BenSibelman",
+      "comment": "Redirecting to [[Shelley]]",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 42047,
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": 1318,
+      "same_as_previous_public": false,
+      "timestamp": "2010-01-03T22:51:33Z",
+      "wikitext_bytes": 22,
+      "wikitext_sha256": "a8cfefb16a216dc8032361c19f9d38c143b4756f8c5cb516c0db4e0be2f94d63"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 1318,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 33,
+      "markdown_sha256": "5b55c0cc517ea88684d2de49baf97415f645f492bcff6d62fb0be7d6a5ee38a2",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": 1318,
+      "previous_public_revision_id": 1318,
+      "revision_id": 42047,
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z"
+    }
+  ],
+  "site_revision_count": 1
+}

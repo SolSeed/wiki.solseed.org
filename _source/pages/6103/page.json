@@ -1,0 +1,43 @@
+{
+  "canonical_path": "/File:Outdoor_activities_at_2012_Spring_Festival.JPG",
+  "current_revision_id": 42523,
+  "database_title": "Outdoor_activities_at_2012_Spring_Festival.JPG",
+  "display_title": "File:Outdoor activities at 2012 Spring Festival.JPG",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 6,
+  "original_revision_count": 1,
+  "page_id": 6103,
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "BenSibelman",
+      "comment": "Planting cups and Molly's nitrogen cycle poster.",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 42523,
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": 8762,
+      "same_as_previous_public": false,
+      "timestamp": "2012-03-25T05:25:10Z",
+      "wikitext_bytes": 48,
+      "wikitext_sha256": "973727f41532b104696458dd192abe4a4a6a4e827f41a47ad2cd77ca71d80e6e"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 8762,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 49,
+      "markdown_sha256": "e50d789b0da7f3784f410c9b2b70f2efe4b1569b4a4ca4ee0a9fef7f47be0956",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": 8762,
+      "previous_public_revision_id": 8762,
+      "revision_id": 42523,
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z"
+    }
+  ],
+  "site_revision_count": 1
+}

@@ -1,0 +1,1 @@
+Intro page art for the children's book, [Happy in the Sun](/Happy_in_the_Sun).

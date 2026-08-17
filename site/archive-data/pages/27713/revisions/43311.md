@@ -1,0 +1,1 @@
+Titan is a moon that orbits Saturn and which has one of the thickest atmospheres of any rocky world in the Solar System.  It is also renown for having lakes of hydrocarbons on its solid water ice surface.  Also the [World Mother](/World_Mother) who symbolizes the hypothetical biosphere which might someday (or already) live in those lakes.

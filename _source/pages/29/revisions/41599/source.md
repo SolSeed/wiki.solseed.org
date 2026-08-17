@@ -1,0 +1,38 @@
+[[Image:Dragonfly_from_Wikipedia.jpg|200px|thumb|right|Each mortal thing does one thing and the same: 
+  
+Deals out that being indoors each one dwells;	
+  
+Selves—goes itself; *myself* it speaks and spells,	
+  
+Crying *Whát I do is me: for that I came.*
+  
+[--from *As kingfishers catch fire, dragonflies dráw fláme* by Gerard Manley Hopkins](http://www.bartleby.com/122/34.html) ]]
+__NOTOC__
+[SolSeed](/SolSeed) < [SolSeedMovement](/SolSeedMovement) < [Seed 2009](/Seed_2009) (http://solseed.org/Seed_2009)
+
+### Invitation
+![Falcon's Crest Lodge](/assets/uploads/FalconsCrestInside.gif)
+You are receiving this invitation because someone wants to see you at [Seed2009](/Seed2009).  [Seed2009](/Seed2009) is a retreat and [OpenSpace](/OpenSpace) event hosted by members and friends of the [SolSeedMovement](/SolSeedMovement). 
+
+The theme question for the event is: **What does it mean to "Bring Life" to each of us, to all of us, and to the entire galaxy?**  What gives you life?  What gives life to the communities you care about?  How can we notice this life-giving in our daily lives and create the conditions for more of that to happen? 
+
+If you are planning to attend add yourself to [the participants list](/Seed_2009/Participants).
+
+### Where
+[FalconsCrestLodge](/FalconsCrestLodge) on Mount Hood, about 1 hour from Portland. The lodge sleeps 24, provides numerous cozy spaces for [OpenSpace](/OpenSpace) sessions, and has a satellite Internet connection.
+
+### When
+January 9, 10, and a half day on January 11, 2009.  We have [the lodge](/FalconsCrestLodge) from 3 pm Thursday, January 8 through 11am Monday morning January 12.  For more details see [the schedule](/Seed2009/Schedule).
+
+### Cost
+Free! If you need help with travel email [Brandon](/Brandon), or post to the [Seed 2009 Carpooling](/Seed_2009_Carpooling) page if you want to carpool.
+
+### Food
+We'll be cooking all our own food.  Vegetarian and yummy!  See [Seed 2009/Food](/Seed_2009/Food) for more info.
+
+### Transportation
+- [Seed 2009 Carpooling](/Seed_2009_Carpooling)
+- [Seed 2009 Public Transportation Links](/Seed_2009_Public_Transportation_Links)
+
+### [Agenda](/Agenda)
+- Add your sessions and notes to the [Seed2009/Agenda](/Seed2009/Agenda)

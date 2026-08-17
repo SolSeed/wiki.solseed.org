@@ -1,0 +1,50 @@
+This is one page of the [SolSeed Book of Days](/SolSeed_Book_of_Days)
+
+#### Quotes of the Day
+“The premise of the Taker story is 'the world belongs to man'. 
+… The premise of the Leaver story is 'man belongs to the world'.” 
+― Daniel Quinn, Ishmael: An Adventure of the Mind and Spirit
+
+...Concentrate on the direction, not the size of the change. 
+Begin the work with actions that seem tinier than necessary but that are small enough to maintain. 
+The rate of change is slow at first, but do not prematurely judge your efforts. 
+Change happens through spirals; 
+the work grows upon itself.
+― Gaia's Whisper from Reversing Spirals in Seeing Nature by Paul Krafel
+
+![thumb](/assets/uploads/MillenialGaia.jpg)
+
+#### Thought for the Day
+How do we gauge if we are truly dedicated to Life or if we are simply paying lip service to the concept?  To serve Life is such an immense task that no matter how much we do, we may always feel that we are not doing enough.  This question can lead to despair or denial and then we truly will not be serving Life.  The Body of all Life is such an abstract concept that we may not feel our relationship with it at a visceral level.  In order to explore the relationship it is best to enter into relationship with a less abstract, if less intellectually accurate, vision of the Body of All Life, [Gaia](/Gaia).
+
+#### Contemplation for the Day
+[Let us imagine](/Suspension_of_Skyfall)
+
+[You](/You) are lying on a soft bed of moss by the edge of a shallow pond.  The water in the little pond is crystal clear.  A gentle water fall dribbles down into the pond from high above and a gentle little stream trickles out of the far side.   Behind you a cliff rises irregularly.  The base of the cliff is a huge smooth almost spherical bulge.  It must have been worn into that shape by glaciers long ago.  Or did gravity shape it as it fell from high above?  Now covered by patches of green moss and blue and white lichen it seems oddly familiar.  You must have seen photos of it before coming here.
+
+You are thirsty so you go to the pond and drink a few handfuls of water.  It is clean, clear and abundant.  What luxury!  You lie back down on the moss.  The moss seems warm.  It warms you and you feel almost that the moss loves you.  But that is ludicrous; love evolved in mammals never in plants.
+
+A gentle draft wafts down the face of the cliff.  The air in the breeze seems sweeter, easier to breath than any you have breathed before.  Again, what luxury!
+
+You feel a little hungry.  You roll your head away from looking at the pond and look at the plants that surround the patch of moss that you are lying on.  They are raspberry canes and although they are covered with thorns they are also festooned with berries.  You can just reach out from where you lie and pick them and eat them.  As you do this you feel immense gratitude.  It is as if the world wants to take care of you.
+
+You look up through the raspberry canes which overhang you and see the cliff above you shrouded in mist and plants.  But the highest prominence catches you eye.  It looks like a face, watching you lying down here.  But no, its eyes are just patches of rock edged by long hanging black lichen that looked like eye lashes.  You examine the face further, looking for the optical illusions that made you think it was a real face of some giant goddess looking down at you.  
+
+Then, to your surprise, the eyes open and sure enough it is a giant goddess looking down at you.  The entire picture comes together; you are lying in the palm of Gaia's hand along with the little pond and the raspberry bushes.  Above you, the base of the cliff is her pregnant belly.  The green moss patches and blue and white lichen patches that cover her belly are the continents, oceans and clouds of Earth but at the same time they are moss and lichen.
+
+It all makes sense; it is she who provides the water which quenches your thirst, it is she who provides the air you breathe, it is she who provides the food you eat, it is she who cares for you.  But one thing seems to be missing.  You know that she cares for you and that this is half of the right relationship between you and her.  But the other half is that you must contribute to her, and so, anxiously, you ask, "Gaia, I hear your call, I want to dedicate myself to Life.  I want to have my every act be a service to you.  Every day I say the creed, I who answer the call, dedicate myself to Life.  But what does that mean?  How can my every act be a service when so much of my time is dedicated to myself and my closest circles of caring?"
+
+Gaia replies, and though she is huge her voice is soft and comforting, "Little one, you are falling into the trap of the [Taker myth](/Gaia_holds_you_in_the_Palm_of_Her_Hand#References).  You are thinking of yourself as separate from me.  You are a part of me, and when you care for yourself you care for a part of me, when you care for your family, you care for parts of me.  You can recognize the behaviours of those who do not dedicate themselves to Life.  They do not spend their time caring for themselves but instead they spend their time escaping from themselves.  In the creed, you promise to "Grow ours, not JUST get mine."  This doesn't mean that you cannot serve me by getting yours.  There is a difference between taking enough for yourself to survive and taking all that you can get.  It is one thing to spend all of your energy getting for yourself.  You can still spend much of your energy growing the possibilities for Life even after spending some of your energy on providing for yourself."
+
+Your anxiety is reduced but not gone, "But I want to serve you in the biggest ways.  I want to turn deserts into forests like he Forest Man of India.  I want to reach for other worlds like Elon Musk.  I want to go beyond even these heroes and create the Life Forms which will carry your flag to the stars."
+
+Gaia replies, "Little one, it is not about you.  If you can find a way to contribute as much to me as the Forest Man of India or Elon Musk, then I would welcome that with gratitude.  But do not let the desire to be the one, interfere with your dedication to be in right relationship with me.  Do not overlook the everyday practices which put you in right relationship with me, in your headlong rush to become the one.  I am not about glory.  I am not about heroes.  I am about Life, living through its day to day struggles and yet still achieving great beauty."
+
+You feel a weight lift from your shoulders.  You understand that Gaia's call does not call you away from your life but more deeply into it.  "Thank you Gaia.  I will continue to strive to serve you.  I will watch for the opportunity to be a heroic servant of you and I will try to be ready to take that opportunity should I see it.  But I will also focus on living in right relationship with you.  I will also focus on making my everyday actions align with your call."
+
+Gaia laughs, "Very good little one, you are my faithful servant.  Care for yourself, for you are part of me.  Do not take part in self-destructive behaviours, for destroying yourself, destroys part of me.  Face Life head-on.  Do not try to escape from discomfort or pain.  It is part of Life.  Neither, deny yourself joy for it is equally part of Life.  Nurture Life where you can.  Grow the strength of your communities where they serve Life.  Discover new ways to grow and nurture.  This special time of communion is coming to an end.  Return to your regular Life with renewed commitment."
+
+You see that Gaia is now a small statue on a table before you.  You are sitting before your shrine to her back in your normal Life.  But you feel a little more certain about what it means to be dedicated to her.
+
+### References
+- Gaia Wiki article Ishmael [http://gaia.wiki/Ishmael](http://gaia.wiki/Ishmael)

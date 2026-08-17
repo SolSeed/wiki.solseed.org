@@ -1,0 +1,32 @@
+[[Category:Opportunity Profile]]
+
+
+
+=== Opportunity Sketch ===
+
+Create a series of Geodesic domes in which the struts are long skinny baloons.  By making the baloons tough enough they can be inflated to adequate pressure to hold the structure up.  The dome panels could be preglued to the struts so that they will be stretched tight as the struts are inflated.  This might create an ultralight dome scalable to any size.  It might sidestep building code issues in that it would fall into the same category as the inflatable buildings used for winter soccer.
+
+=== Outcomes ===
+
+* A new way to play with one of our favorite technologies.
+* These would be highly portable making it possible to bring them to events and set them up quickly.  They might become portable temples.
+* They could be used for CEELSS experiments.
+
+=== Impact ===
+
+* A technology to call our own.
+* Place?
+
+=== Cost ===
+
+$'s No clue
+
+10's of hours to achieve something and then 100's of hrs to perfect
+
+=== Steps ===
+* Initial steps are to create a budget and design.
+
+=== Update ===
+It has already been done: http://www.pneumocell.com/pneumocell.html
+  
+__NOTOC__

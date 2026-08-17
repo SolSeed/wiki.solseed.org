@@ -1,0 +1,418 @@
+### Core Values/Beliefs
+- **All [life](/life) is precious.**  This is the root of our value system.  Respecting and cherishing life is the reason for everything we do.
+- **[The Destiny](/The_Destiny) of SolSeed is to take root amongst the stars.**  To protect the future of life, we must help it grow beyond [Earth](/Earth) and even beyond the [Sol](/Sol)ar system, so it can never be wiped out.  More importantly, our belief in this audaciously optimistic goal, and in the epic story of a future with life thriving on many worlds, is central to defining the [SolSeed Movement](/SolSeed_Movement).
+- **We ALL are precious [SolSeed](/SolSeed).**  SolSeed is defined as "the body of all life on Earth," encompassing every human culture and belief system as well as all other species.  This connects particularly to the "Openness/welcoming differences" practice below.
+- **Science as the way to know truth.**  We believe in the scientific worldview, the principle that observing the world is a far better route to knowledge than religious texts and magical thinking.  We talk about [Gaia](/Gaia), a controversial scientific concept, and about a Destiny that sounds like a prophecy, but we admit that these are stories, not knowledge.  We believe in the Destiny as a worthy and inspiring goal and Gaia as a useful and inspiring metaphor, but what we believe to be *true* (or rather, as close to the truth as we can presently get) is based around mainstream science.
+
+### Practices
+- **Be [starfarer](/starfarer) now.**  The goal of spreading life across the Galaxy, or even bringing one other world to life, is still a dream for the future, but that shouldn't stop us from embracing its implications in the present. "Starfarer" is a way of life, not a job description.  It involves optimism, openness to audacious possibilities, and cultivating [virtues](/Category:SolSeedVirtues) that will serve us well when we carry life to the stars.  It also involves presence and mindfulness of the now, because only by taking action in the present can we build the future we seek.
+- **Nurture body, mind and spirit.**  The virtue of [Self-Love](/Self-Love) leads to the practices of staying healthy, stimulating our minds, and maintaining a fulfilling spiritual practice.  If we don't look after ourselves, we will be in no condition to pursue any of our goals.
+- **Openness/welcoming differences.**  To build a community of starfarers with strong ties to [other groups that value life](/Kindred), we need to understand that shared values and/or purpose doesn't mean we will all think alike.  Because we are all precious SolSeed, we welcome people regardless of these differences.  Also, as our scientific worldview requires, we acknowledge that anything we believe could be wrong.  We believe in practicing the welcoming of those with different ideas and beliefs with [Empathy](/Empathy) and respectful discussion and debate.
+- **Acting upstream.**  [Wisdom](/Wisdom) says that a small group like ours should not seek large-scale change by a direct route.  Instead, we look for small actions that are well-positioned to set off a cascade of larger changes in the future.  The "upstream" metaphor comes from Paul Krafel's film *[The Upward Spiral](/The_Upward_Spiral)*, in which he describes redirecting tiny rivulets of rainwater so they soak into the soil and promote life, rather than forming fast-flowing streams that cut the land into steep, lifeless gullies.
+
+### Purpose/North Star
+To bring life to ourselves, each other, our communities, our planet, and even unto the galaxy.
+
+### Actions
+- Build a SolSeed village/society
+- Become a player in the space industry
+- Incorporate the SolSeed Society nonprofit to do or contribute to charitable work
+- Promulgate our ideas through various media
+
+#### Targets (3 Years)
+Year Ending: 12/31/2012
+
+- Place: We can point to a [SolSeed Village](/SolSeed_Village).
+
+- Resources: Yearly budget is $1 million.
+
+- [Industry](/Industry): We are making money from something core to launching life to another world, eventually another star system.
+
+- Vision: Our vision is clearly articulated in all core [media](/media) (this website, the [Facebook page](http://www.facebook.com/group.php?gid=232314258760), books, videos, events, and perhaps a blog and/or other Web presence).
+
+#### 2012 1 Year Goals
+- Media: Finish what we're working on for the [big book](/SolSeed_book) (possibly as two books/parts) and publish it
+- Outreach: Maintain and develop our topical community protocols all year
+- Spiritual practice: Maintain and develop the spiritual practice (daily practice, weekly services, and big celebrations for the solstices and equinoxes)
+- Village: Core membership all lives in same neighborhood
+
+#### 2012 Autumn Goals, due 12/21/2012
+- Book
+  - Yellow:
+    - Brandon ... 12 good hours
+    - Ben ... 6.5 good hours (breaks down to .5 hrs/week)
+  - Green:
+    - Brandon ... 24 good hours
+    - Shelley ... editing for 2 good hours
+    - Ben ... 13 good hours (breaks down to 1 hr/week)
+  - Super Green: Finish a draft of the book and get a hard copy
+    - Brandon ... spend at least 1 hr every week of the quarter
+    - Shelley ... editing for 4 good hours
+    - Ben ... add an image for every chapter
+- One-Page Plan development
+  - Yellow ... One page descriptions of the resource needs, outcomes and impact of at least four projects.  [opportunity profiles](/Category:Opportunity_Profile)
+  - Green ... All 5s from Shelley, Eric, Ben, and Brandon on a plan that includes at least 20 years in its arc
+  - Super Green ... we have a beautiful graphical presentation of the plan   suitable for printing and prominently displaying in our living spaces
+
+Maintenance
+- Spiritual Practice
+  - Solstice
+- Workbees
+- Topical Communities
+  - Space Elevator
+  - Religious Method
+
+#### 2012 3rd Quarter Goals, due 9/30/2012
+- Book
+  - Yellow:
+    - Brandon ... 6 good hours
+    - Ben ... 6.5 good hours (breaks down to .5 hrs/week)
+  - Green:
+    - Brandon ... 12 good hours
+    - Shelley ... editing for 2 good hours
+    - Ben ... 13 good hours (breaks down to 1 hr/week)
+  - Super Green: Finish a draft of the book and get a hard copy
+    - Brandon ... spend at least 1 hr every week of the quarter
+    - Shelley ... editing for 4 good hours
+    - Ben ... add an image for every chapter
+- One-Page Plan development
+  - Yellow ... One page descriptions of the resource needs, outcomes and impact of at least four projects.
+  - Green ... All 5s from Shelley, Eric, Ben, and Brandon on a plan that includes at least 20 years in its arc
+  - Super Green ... we have a beautiful graphical presentation of the plan suitable for printing and prominently displaying in our living spaces
+
+Maintenance
+- Spiritual Practice
+  - Equinox
+- Workbees
+- Topical Communities
+  - Space Elevator
+  - Religious Method
+
+#### 2012 2nd Quarter Goals, due 6/30/2012
+- Book: **RED**
+  - Yellow: Finishing drafts of chapters 7 and 8
+  - Green:
+    - 12 quality blog posts (short, have a picture or some other media that involves parts of the mind other than the cerebral cortex)
+    - A complete draft book outline that flows and makes sense
+    - Have something written for each of the topics that we think is important to have in the book
+  - Super Green: Finish a draft of the book
+- Topical Communities: **YELLOW**
+  - <s>Yellow:
+    - Follow our existing topical community protocols</s> (though we didn't do so very regularly)
+    - <s>Every member active at the start of the quarter has a topical community</s>
+  - Green:
+    - Text for all 12 messages done for the SolSeed protocol
+  - Super Green: Finish laying out the SolSeed protocol
+- Major Events: **SUPER GREEN**
+  - <s>Yellow:
+    - Go to Silverton for Earth Day
+    - Send in an abstract by April 20 for a talk at the Space Elevator Conference
+    - Have a small, local Solstice celebration (unless we meet Green goal)
+  - Green: 
+    - Have a retreat-type Solstice celebration including Eric
+  - Super Green: 
+    - Have a really awesome Solstice celebration including a Triathlon and Chocolate Fondue</s>
+- Village: **GREEN**
+  - <s>Yellow: Ben does preliminary research
+  - Green: Ben narrows down a list of places to apply</s>
+  - Super Green: Ben actually applies to at least three places
+
+#### 2012 1st Quarter Goals, due 3/31/2012
+- Book: **RED**
+  - Yellow: Have something written for each of the topics that we think is important to have in the book
+  - Green: A complete book outline that flows and makes sense
+  - Super Green: Start polishing each section and have two sections posted on a blog
+- Spiritual Practice: **GREEN**
+  - <s>Yellow: Continue weekly services and daily meditation practice</s>
+  - <s>Green: Attempt a new weekly format including at least one other person in addition to the four regulars</s>
+  - Super Green: Six weeks of well-planned, two-part services including programming for children and adults, with verbal pre-commitment from two additional family groups to attend all six weeks
+- Topical Communities: **SUPER GREEN**
+  - <s>Yellow: Maintain our current protocols</s> (though not entirely consistent every week)
+  - <s>Green: Plan the SolSeed protocol</s>
+  - <s>Super Green: Develop some of the content for the SolSeed protocol</s>
+- Major Events: **SUPER GREEN**
+  - <s>Yellow: Make a decision about whether to have Kindred 2012 on the Summer Solstice</s>
+  - <s>Green: Have some sort of Spring Equinox Celebration</s> (although we didn't end up taking [Eric's](/User:EricSaumur) suggestion of a Sushi feast and storytelling event)
+  - <s>Super Green: Prepare for Earth Day</s> (planning to go to Silverton rather than having a booth in Portland)
+
+#### 2011 1 Year Goals
+- Village: Start construction on a backyard cottage: **Red**
+- Outreach: Two more contributing members: **Red**
+- Media: Finish the two books and maintain SpaceWiki: **Yellow** (one book)
+- Spiritual practice: Maintain the spiritual practice (weekly service calls, in-person solstice and equinox events): **Green**
+- Service: $10,000 or 200 hour contribution (or some combination) to a service project that brings life: **Red**
+- Industry: Apply for an SBIR grant related to launching life to another world (possibly a space catapult): **Red**
+
+#### 2011 4th Quarter Goals, due 12/31/2011
+- Meetup: **Super Green**
+  - <s>Yellow: Start a Meetup in Portland
+  - Green:
+    - Have a really nice webpage for the Meetup
+    - Schedule our first two meetings (just need one more)
+  - Super Green: Have 12 interested people join the group and explain why they are part of the group</s>
+- Book: **Red**
+  - Yellow: Finish a draft of *[ Helping Life Thrive, On Earth And Beyond](/SolSeed:_Helping_Life_Thrive,_On_Earth_And_Beyond)*
+  - Green: Print the draft in book form
+  - Super Green: Add images and do some revision of the text
+- Topical Communities: **Green**
+  - <s>Yellow: Each identify an existing community that we want to tackle
+  - Green: Have a protocol for how to interact with our chosen communities each week, and do it for three weeks</s>
+  - Super Green: Protocol appears to be sustainable for the long term (Ben and Brandon aren't sure yet)
+- SpaceWiki: **Yellow**
+  - <s>Yellow: Start a 100yss hub/project page on SpaceWiki</s>
+  - Green:
+    - Have all the sections we want
+    - Make a good faith effort to contact every speaker
+    - Enroll Brandon's two contacts to work on the project
+  - Super Green:
+    - 75% of the speakers' bio pages filled out
+    - Papers for 50% of the speakers posted
+- Spiritual Practice: **Super Green**
+  - <s>Yellow: Have a Solstice celebration and continue the Sabbath services
+  - Green: Have a really good Solstice celebration
+  - Super Green: Restore daily meditative practice (10 minutes per day)</s>
+
+#### 2011 3rd Quarter Goals, due 9/30/2011
+Seed Village: **Red**
+- Yellow: Get a good sense for the cost of the basement option (practically a bid)
+- Green: Either decide not to do the basement option, or create concept plans for the basement
+- Super Green: Get at least two bids for construction of the basement option
+ 
+Outreach: **Green**
+- <s>Yellow: Identify one likely Meetup Group in Portland to participate in
+- Green: Identify at least 4 prospective SolSeed members by declaration by attending meetups for that group</s>
+- Super Green: Hold a meetup for that group that introduces SolSeed
+ 
+Media: **Green**
+- <s>Yellow:</s>
+  - <s>Attend the Space Elevator Conference with our SpaceWiki table
+  - Put out a 2nd-Quarter Report newsletter</s>
+- <s>Green: Brandon gives a talk at the Space Elevator Conference that he's really proud of</s>
+- Super Green: Publish a draft of [ Helping Life Thrive, On Earth And Beyond](/SolSeed:_Helping_Life_Thrive,_On_Earth_And_Beyond) (sans pictures)
+ 
+Spiritual practice: **Green**
+- <s>Yellow: Have an equinox celebration
+- Green:</s>
+  - <s>Maintain the weekly calls
+  - Experiment with some sort of daily practice that lasts at least two weeks</s>
+- Super Green: Interview at least three people in great detail about their reactions to the church concept
+
+#### 2011 2nd Quarter Goals, due 6/30/2011
+- Seed Village: **Super Green**
+  - <s>Yellow: Complete preliminary phase
+  - Green: Complete schematic phase
+  - Super Green: Complete schematic phase in time to have something worth showing at Earth Day</s>
+- Earth Day 2011: **Yellow**
+  - <s>Yellow: Have three booths</s>
+  - Green:
+    - <s>Have all three kindred organizations represented (plus ET Ag)</s>
+    - Improve on last year's process for collection of contact information for interested visitors to the booths
+  - Super Green: Follow up with each contact we make within one week
+- Children's book: **Yellow**
+  - <s>Yellow: Another test copy</s>
+  - Green: Publish it 
+  - Super Green: Distribute it to 20 people 
+- SpaceWiki: **Green**
+  - <s>Yellow: Reserve a table at the Space Elevator Conference
+  - Green: Create an effective way of dealing with all the spam on the website</s>
+  - Super Green: Have a good sponsorship outreach plan
+- Spiritual practice: **Green**
+  - <s>Yellow: Have a solstice celebration
+  - Green: Rewrite the [SolSeedCreed](/SolSeedCreed)</s>
+  - Super Green: Incorporate the church
+
+#### 2011 1st Quarter Goals, due 3/31/2011
+- Seed 2011: **Green**
+  - <s>Yellow: The event occurs on February 5-7
+  - Green: Everyone who attends feels positively toward SolSeed when they leave</s>
+  - Super Green: Somebody "levels up"
+- Children's book: **Red**
+  - Yellow: Another test copy
+  - Green: Publish it
+  - Super Green: Distribute it to 20 people
+- SpaceWiki: **Green**
+  - <s>Yellow:</s>
+    - <s>Administer the contest through Jan. 31
+    - Get search working on the SpaceWiki site</s>
+  - <s>Green: Make a schedule of events for the year</s>
+  - Super Green: Make a content quality scale and apply it to all non-stub articles
+- Seed Village: **Green**
+  - <s>Yellow:</s>
+    - <s>Meet with architect
+    - Set date for Ben to move</s>
+  - <s>Green: Complete reverse timeline from when Ben moves</s> (note: we later decided to postpone this process)
+  - Super Green:
+    - Have as-built plans for the current Seed Village
+    - Make a budget for the cottage
+- Spiritual practice: **Red**
+  - Yellow: Have an equinox celebration
+  - Green: Convene the co-conveners for [Kindred 2011](/Kindred_2011)
+  - Super Green: Have an inspiring purpose statement for Kindred 2011
+
+#### 2010 1-Year Goals
+- Income run rate of $100,000/year (~$9000/month) -- [Brandon](/Brandon): **Yellow**
+  - The first [SolSeed Business](/SolSeed_Business) is making this amount, but it's mainly going to support Brandon, Shelley, and Sequoia rather than paying for [SolSeed Projects](/SolSeed_Projects).
+- <s>Place: Ownership of a site by Winter Solstice 2010</s>: **Green**
+  - The site we've chosen for now is Brandon and Shelley's current property
+  - There are plans to build a backyard cottage starting in 2011
+- Media: Publish 2 SolSeed books, a 6-minute video (and write a script for a longer one), and a great website -- [Ben](/Ben): **Red**
+  - *[Happy in the Sun](/Happy_in_the_Sun)* is almost published, but the other [SolSeed book](/SolSeed_book) is still an unfinished draft
+  - The video is stuck in limbo due to music copyright issues
+- <s>Spiritual Community: Regular, impactful ceremonies led by multiple people</s> -- [Shelley](/Shelley): **Green**
+
+#### Key 2010 Initiatives (Annual Priorities)
+- Design Village (Architectural Program): **Red**
+- <s>Norwescon booth (April 1-4, 2010)</s> that creates a stir: **Green**
+- <s>Exhibit at one space industry conference</s> (two, actually): **Super Green**
+
+#### 2010 4th Quarter Goals, due 12/31/2010
+- Outreach (the one we will focus on most): **Red**
+  - Yellow: 
+    - <s>About page on SpaceWiki includes the guy we got it from and SolSeed ...  also have NewSpace 2010 featured as a sponsor</s>
+    - Choose to be either a nonprofit or a church
+    - <s>Put out a newsletter every month</s>
+  - Green:
+    - <s>Go to one conference or convention</s>
+    - Get one more person contributing on the work-bee calls
+  - Super Green:
+    - Incorporate the nonprofit or church
+    - Transfer Earthseed.org to the nonprofit or church
+    - Get three more people contributing on the work-bee calls
+
+- Business: **Super Green**
+  - <s>Yellow: Business established
+  - Green: Business is making actual money
+  - Super Green: Business is making $9000/month</s>
+
+- Spiritual Practice: **Green**
+  - <s>Yellow: Solstice celebration (no Unconference this quarter though)
+  - Green: Short service once a week that is for Shelley, Ben, and Brandon</s>
+  - Super Green: Initiate some sort of daily spiritual practice for BBS
+
+- Place: **Yellow**
+  - <s>Yellow: Advertise for the Eco-Village on Craig's list</s>
+  - Green: Have a meeting of people who respond to an ad about living in the eco-village (no one responded yet)
+  - Super Green: Have the [SolSeedVillage](/SolSeedVillage) sign made and put up
+
+- Media: **Red**
+  - Yellow:
+    - Publish kid's book
+    - <s>Answer what the big book is for</s>
+  - Green: Draft of big book complete
+  - Super Green: Publish big book
+
+#### 2010 3rd Quarter Goals, due 9/30/2010
+- SpaceWiki: **Green**
+  - <s>Yellow ... Created sponsor-specific inspiring materials, and approached one potential sponsor with those to ask about them sponsoring an event
+  - Green ... One thorough sponsorship campaign</s>
+  - Super Green ... Five thorough sponsorship campaigns
+
+- Place: **Red**
+  - Yellow ... firm decision and commitment for pocket cottage timeline
+  - Green ... inspiring concept plans for the pocket cottage
+  - Super Green ... plans you could build from, and a builder
+
+- Media: **Green**
+  - <s>Yellow ... work on the big book every other week, average 250 words/week (500 per session)
+  - Green ... average 500 words/week for the big book all quarter</s>
+  - Super Green ... average 1400 words/week for the big book all quarter
+
+#### 2010 2nd Quarter Goals
+Whoops! We forgot to set goals this quarter.
+
+#### 2010 1st Quarter Goals, due 3/31/2010
+- Finish children's book: **Red**
+  - Yellow: All art done (was finished in May)
+  - Green: Art and text assembled and finalized (was basically finished in December)
+  - Super green: Book self-published, have hard copy
+
+- NorWesCon: **Green**
+  - <s>Yellow: Be signed up for a table, plan is written
+  - Green: Have elements for NorWesCon plan ready to go</s>
+
+- Earth Day: **Super Green**
+  - <s>Yellow: Signed up for the event
+  - Green: Brochures done, giveaway plan
+  - Super green: Fully ready for the event</s>
+
+#### History Chart
+A quick summary of how we've done on our past goals and targets.
+
+ **Red** 
+**Yellow** 
+**Green** 
+**Super Green**
+
+**2012**
+
+2nd Quarter
+1
+1
+1
+1
+
+1st Quarter
+1
+0
+1
+2
+
+**2011**
+4
+1
+1
+0
+
+4th Quarter
+1
+1
+1
+2
+
+3rd Quarter
+1
+0
+3
+0
+
+2nd Quarter
+0
+2
+2
+1
+
+1st Quarter
+2
+0
+3
+0
+
+**2010**
+2
+1
+3
+1
+
+4th Quarter
+2
+1
+1
+1
+
+3rd Quarter
+1
+0
+1
+0
+
+2nd Quarter
+0
+0
+0
+0
+
+1st Quarter
+1
+0
+1
+1

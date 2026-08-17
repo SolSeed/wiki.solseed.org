@@ -1,0 +1,25 @@
+[SolSeed](/SolSeed) < [Events and Calls](/Events_and_Calls)
+
+### Planning Game
+- Talk about possible reactions of folks feeling pushed out
+  - Policy of making people feel like when they leave the organization people should feel cared for
+  - We don't hate them for leaving
+  - We're fully supportive of their choice
+  - If they feel some angst about the situation, just be caring and make clear that we don't want to push them away
+    - But don't use the phrase "We can still be friends!"
+  - If they feel like there is something we did wrong that made them leave, then we should compensate them for that somehow
+  - Once we become a society people who leave may need to relearn how to live in regular society, and we can help with that
+
+### Next Time
+- Orycon31 ... work on it
+- Create scorecard for architects
+- Plan the December event -- Winter Solstice Event (brainstorm name)
+- Work on the first three chapters of the book
+
+### Next Steps
+- Brandon gets images to Ben by Tuesday Evening
+- Ben has draft of buildings for video by next Monday
+- Ben to get Brandon in touch with Lewis's parents by next Monday
+- Shelley ... finish plan for next year cons by next Monday
+  - http://www.norwescon.org/ Northwest's Premier Science Fiction and Fantasy Convention
+  - http://www.reconstructionsf.org/ North American Science Fiction Convention

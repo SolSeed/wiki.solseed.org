@@ -1,0 +1,12 @@
+[SolSeed](/SolSeed) < [SolSeedMovement](/SolSeedMovement) < [BeautyMovement](/BeautyMovement)
+
+A movement is a [BeautyMovement](/BeautyMovement) if it embraces all the wondrous experiences our universe has to offer to sentient beings such as ourselves.  A worrisomely large number of religions avoid this way of thought, claiming instead that we should wait to experience transcendent beauty in an unknowable Heaven.
+
+"Beauty is truth, truth beauty,--that is all
+Ye know on earth, and all ye need to know."
+-"Ode on a Grecian Urn" by John Keats
+
+Well, this famous statement is a little over-the-top, but beauty is nevertheless more important than some might suppose.  Surface appearances can connect to and motivate deeper [truths](/TruthMovement) and purposes.  A deep sense of the beauty of [life](/life) and of the immense cosmos in which we find ourselves is a main reason why humans have become what we are today: beings who revel in exploration, in learning and understanding all that we can about our world while never losing our core *sense of wonder* at the grandeur of Creation.  It will also serve as one of the major forces that drives us to pursue [TheDestiny](/TheDestiny): we want to learn what's out there, and we want to learn it firsthand.  Robotic explorers are enough for now, but not for long.
+
+[SolSeed](/Category:SolSeed)
+[SolSeedMovement](/Category:SolSeedMovement)

@@ -1,0 +1,56 @@
+{
+  "canonical_path": "/Friend",
+  "current_revision_id": 41798,
+  "database_title": "Friend",
+  "display_title": "Friend",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 2,
+  "page_id": 232,
+  "published_revision_count": 2,
+  "revisions": [
+    {
+      "author": "Brandon CS Sanders",
+      "comment": "Redirecting to [[JoiningTheMovement]]",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 1237,
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": 629,
+      "same_as_previous_public": false,
+      "timestamp": "2009-03-11T14:46:11Z",
+      "wikitext_bytes": 32,
+      "wikitext_sha256": "e7a48f2ef5f121afda3f8adf1e0357b626c3588ffc3262ea0109628d5b900b1f"
+    },
+    {
+      "author": "BenSibelman",
+      "comment": "Changed redirect",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 41798,
+      "original_parent_revision_id": 629,
+      "previous_public_revision_id": 629,
+      "revision_id": 1237,
+      "same_as_previous_public": false,
+      "timestamp": "2009-12-04T04:29:50Z",
+      "wikitext_bytes": 30,
+      "wikitext_sha256": "58531d5af86c0673e615cc1a9d298cc50d2f4a364d427d26743c41c8f81231c5"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 1237,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 71,
+      "markdown_sha256": "7401109b66f10bedf0ab9d1f6f7820e0b70160e0de95aa8e44fda6776fce0389",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": 1237,
+      "previous_public_revision_id": 1237,
+      "revision_id": 41798,
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z"
+    }
+  ],
+  "site_revision_count": 1
+}

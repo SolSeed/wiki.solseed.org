@@ -1,0 +1,63 @@
+{
+  "canonical_path": "/File:After_the_Gold_Rush_drawing.jpg",
+  "current_revision_id": "41783",
+  "database_title": "After_the_Gold_Rush_drawing.jpg",
+  "display_title": "File:After the Gold Rush drawing.jpg",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 6,
+  "original_revision_count": 2,
+  "page_id": "217",
+  "published_revision_count": 2,
+  "revisions": [
+    {
+      "author": "BenSibelman",
+      "comment": "Drawing I made to go with the \"closing words\" I picked for the SolSeed conference call on 3/5/2009.",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": "594",
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": "593",
+      "same_as_previous_public": false,
+      "timestamp": "2009-03-06T03:53:52Z",
+      "wikitext_bytes": 99,
+      "wikitext_sha256": "4885b5288fabe06873825a63ec321e28151c3eba7e7cbee29dbfaf2caaea2cff",
+      "source_format": "wikitext",
+      "source_extension": "wiki"
+    },
+    {
+      "author": "Brandon CS Sanders",
+      "comment": "Neat picture and great song :-)",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": "41783",
+      "original_parent_revision_id": "593",
+      "previous_public_revision_id": "593",
+      "revision_id": "594",
+      "same_as_previous_public": false,
+      "timestamp": "2009-03-06T05:02:23Z",
+      "wikitext_bytes": 229,
+      "wikitext_sha256": "6f54f7f5057a4649e2ebf41886d35f01d3bd88fbe502517e633e9c1013073501",
+      "source_format": "wikitext",
+      "source_extension": "wiki"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 594,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 225,
+      "markdown_sha256": "bce26795c95d7e1275ec61ac01a904270473a3124595b7facebee0a589ba9fa5",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": "594",
+      "previous_public_revision_id": "594",
+      "revision_id": "41783",
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z",
+      "wikitext_bytes": 225,
+      "wikitext_sha256": "bce26795c95d7e1275ec61ac01a904270473a3124595b7facebee0a589ba9fa5",
+      "source_extension": "md"
+    }
+  ],
+  "site_revision_count": 1
+}

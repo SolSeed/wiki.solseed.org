@@ -1,0 +1,48 @@
+{
+  "canonical_path": "/Silas_Waxter",
+  "current_revision_id": "41889",
+  "database_title": "Silas_Waxter",
+  "display_title": "Silas Waxter",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 1,
+  "page_id": "325",
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "Brandon CS Sanders",
+      "comment": "Redirecting to [[User:Silas]]",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": "41889",
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": "890",
+      "same_as_previous_public": false,
+      "timestamp": "2009-06-05T03:37:00Z",
+      "wikitext_bytes": 24,
+      "wikitext_sha256": "4032e4f23078be4c8b61868b41c124f2f481f7e6813d314850bb195490bb78a9",
+      "source_format": "wikitext",
+      "source_extension": "wiki"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 890,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 59,
+      "markdown_sha256": "430b91266261f9ec4ffe7bcc56dd9ce2984e94afa01a23d8efd0fb87d1224997",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": "890",
+      "previous_public_revision_id": "890",
+      "revision_id": "41889",
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z",
+      "wikitext_bytes": 59,
+      "wikitext_sha256": "430b91266261f9ec4ffe7bcc56dd9ce2984e94afa01a23d8efd0fb87d1224997",
+      "source_extension": "md"
+    }
+  ],
+  "site_revision_count": 1
+}

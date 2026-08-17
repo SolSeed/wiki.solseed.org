@@ -1,0 +1,6 @@
+For [OpenSpace](/OpenSpace) events, [CoConvener](/CoConvener)s agree to do the following:
+1) attend and bring energy to the event
+2) send invitations to folks they think will also bring good energy and whom they would like to hang out with
+3) chip in on the logistics
+
+In addition to these essential agreements, [CoConvener](/CoConvener)s often help shape the initial invitation.

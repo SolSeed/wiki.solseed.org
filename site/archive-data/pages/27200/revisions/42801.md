@@ -1,0 +1,123 @@
+### Agenda
+- Good News/Check In
+- Review WWWs
+- Weekly Events Logistics
+- Review Agenda
+- Kindred
+- Finances
+  - Greenhouse funding proposal
+- Website report and next steps
+- Evaluation
+
+### Good News
+- Brandon: I have a potential cofounder for the startup I've been working on
+- Eric: Just had a lovely lunch with the UU people, chatting about what we'd like to do with the church ... the president said it would be interesting to have a SolSeed presentation/discussion at the church
+- Ben: not feeling as nauseous and sleepy as yesterday, though still not 100%
+
+### WWWs from last time
+- <s>Brandon ... follow your  topical community protocol for this week ... ongoing
+- Brandon ... meditate and keep  track of which days ... ongoing
+- Brandon ... schedule conversation with Tony ... by next call
+- Brandon ... get shakers and food costs for viventibus galaxia, methanol, boric acid ... by next call
+- Brandon ... set up personal SolSeed accounting ... by next week</s>
+- Ben ... follow your  topical community protocol for this week ... ongoing
+- <s>Ben ... meditate and keep track of which days ... ongoing
+- Ben ... contact Gus and Hank about possible locations for Kindred (and domes) ... by next call
+- Ben ... take another small step on my music video ... by next call
+- Eric ... follow your  topical community protocol for this week ... ongoing
+- Eric ... meditate and keep  track of which days ... ongoing
+- Eric ... prepare funding proposal for LED grow light panels (and possibly more for the greenhouse prototype) ... by next week</s>
+- Eric ... <s>watch Gaia's Heartbeat video (new version)</s> and comment on it ... by next week
+
+### WWWs
+- Brandon ... follow your  topical community protocol for this week ... ongoing
+- Brandon ... meditate and keep  track of which days ... ongoing
+- Brandon ... get together and check supplies for Conflatorium ... by next week
+- Brandon ... verify and update the maturity of World Pantheism Network ... by next week
+- Brandon ... follow up with Keith this week ... by next week
+- Brandon ... add eric to the MailChimp account ... by next week
+- Ben ... follow your  topical community protocol for this week ... ongoing
+- Ben ... meditate and keep  track of which days ... ongoing
+- Ben ... get together and check supplies for Conflatorium ... by next week
+- Ben ... Take a look at sites at http://solseed.org/Websites ... optionally comment on them and add aditional ones if any come to mind ... by next call
+- Eric ... follow your  topical community protocol for this week ... ongoing
+- Eric ... meditate and keep  track of which days ... ongoing
+- Eric ... get together and check supplies for Conflatorium ... by next week
+- Eric ... add tribes to http://solseed.org/Kindred_2015_Potential_Tribes
+- Eric ... create a mailchimp account and send the account name to Brandon ... by tonight
+- Eric ... Write a drip email or two ... by next week
+- Eric ... Take a look at sites at http://solseed.org/Websites ... optionally comment on them and add aditional ones if any come to mind ... by next call
+
+### Weekly Events Logistics
+Service rotation: Eric, Shelley, Brandon, Ben
+- February 1 Service: 9:00 am PDT (12:00 EDT) (Eric) (sanders out on ski vacation)
+- February 8 Service: 9:00 am PDT (12:00 EDT) (Shelley) (First Week of Conflatorium)
+
+- February 2 Work-Bee: 1:30 pm PDT (16:30 EDT) (sanders out on ski vacation)
+- February 9 Work-Bee: 1:30 pm PDT (16:30 EDT)
+
+### Kindred
+Brandon revised the [invitation](/Kindred_2015_Invitation_-_DRAFT) to reflect the change to 2015 and started [Kindred 2015 Potential Tribes](/Kindred_2015_Potential_Tribes)
+
+After discussion the maturity scale was improved.
+
+### Greenhouse Project
+#### Proposal
+https://docs.google.com/spreadsheet/ccc?key=0AiqQhGSFudAzdDY5ek1wWG1sMVdpdlJwOWZLaVFxdEE#gid=0
+- Basement greenhouse with totally artificial lighting
+  - Natural light in Canada in winter isn't sufficient anyway
+  - Varying the lighting will be one of the first tests
+  - Brandon: This could point toward a design goal of making it easy for apartment-dwellers to grow indoor gardens
+  - Ben: I propose calling it a "Greenbox"
+Funding proposal for $100 unanimously approved by the quorum present (Brandon, Ben, Eric)
+
+#### Q&A
+Cooler? No, custom frabricated to fill the available space out of pink styrofoam
+
+Oxygen/CO2? Vent for now ... measurement and control further down the road.
+
+Sensors? I have a thermometer I can use to start with
+
+### Website report and next steps
+Look at [optimization report](/Website_Optimization)
+- 3 confirmed signups
+- One of them appears to have opened the first orientation email
+- Currently we're spending about $35 per email address
+  - Way more valuable than Facebook likes ... they trust us enough to type in their email, and we can send them messages that don't get put in a spam folder
+  - At least as valuable as Meetup signups
+Potential Next Optimizations:
+- (Brandon) Fix Google Analytics (get more usable experimental data)
+- Improve the appearance of the landing page (increase conversion of those who visit)
+- Revise the text of the landing page (increase conversion of those who visit)
+- Try a different AdWord campaign (achieve better fit for prospects, increase clicks/$)
+- Add a link from the wiki back to the join us page
+- Improve the appearance of http://join.solseed.org/subscriptions/new
+- Add the join us widget to the wiki sidebar
+- Create a schedule of Orientation Emails
+  - We have a list of topics at http://thesanders.us/SolSeedProtocol
+
+Newsletter report
+- 23 opens, somewhat higher than last quarter but equal to last Autumn
+- Only one person clicked links in the email
+
+Look at inspirations (on the [Website](/Website) page)
+
+#### Orientation Emails
+Once a week for 12 weeks send a picture and very short email with a few links if people want to go deeper
+- Week 1:  Definiton of SolSeed (What does SolSeed mean?)
+- Week 2: The Upward Spiral
+- Week 3: The Divided Mind (Elephant and Rider)
+- Week 4: Passion ... Happy in the Sun (Elephant + Rider)
+- Week 5: Life has invested in us 
+- Week 6: Empathy is transcendant (from righteous mind)
+- Week 7: TheDestiny
+- Week 8: Perspective (skinbag, life itself)
+- Week 9: Precious and Worthy
+- Week 10: Wisdom ... Habit and Instinct ... Regular Practice
+- Week 11: The Critical Role of Religion
+- Week 12: More or Less Alive ... Bring Life
+
+### Evaluation
+- Brandon ... Thanks, guys, it was good
+- Ben ... I am feeling guilty because it feels like I was being lazy.
+- Eric ... I'm feeling pretty good about this call because we made progress on a lot of topics, often by assigning homework, and I feel good about doing homework this week

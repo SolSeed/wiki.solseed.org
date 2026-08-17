@@ -1,0 +1,43 @@
+{
+  "canonical_path": "/File:LUF_logo.jpg",
+  "current_revision_id": 42922,
+  "database_title": "LUF_logo.jpg",
+  "display_title": "File:LUF logo.jpg",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 6,
+  "original_revision_count": 1,
+  "page_id": 27322,
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "EricSaumur",
+      "comment": "Living Universe Foundation Logo; A ringed planet rising over an ocean.",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 42922,
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": 40104,
+      "same_as_previous_public": false,
+      "timestamp": "2014-10-16T04:53:28Z",
+      "wikitext_bytes": 70,
+      "wikitext_sha256": "a779348e029178b2c2b3ac329fb832d6ef7bf74a7d58213e9174b63f909343ca"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 40104,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 71,
+      "markdown_sha256": "f86a849621c1731770753690017cdcd74e2ecd7a800b736b2a4e0f110877abaa",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": 40104,
+      "previous_public_revision_id": 40104,
+      "revision_id": 42922,
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z"
+    }
+  ],
+  "site_revision_count": 1
+}

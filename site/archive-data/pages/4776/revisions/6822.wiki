@@ -1,0 +1,35 @@
+{{Documentation subpage}}
+<!-- PLEASE ADD CATEGORIES AND INTERWIKIS AT THE BOTTOM OF THIS PAGE -->
+
+This template is a version of {{tl|reflist}} designed to show a reference section for a talk page discussion within a bordered box.
+
+=== Usage ===
+* {{tlx|reflist-talk|2=close=1}}
+
+Optional:
+* {{tlx|reflist-talk|2=title=|3=group=|4=colwidth=|5=refs=}}
+
+{{para|close|1}} is used to ensure that references from a previous section are not included in the current reference list. It must be used, except when any of the other parameters are included.
+
+'''Parameters'''
+
+* {{para|title}} specifies the box title, defaults to References
+
+The template honors these features of {{tl|reflist}}:
+* {{para|colwidth}}
+* {{para|refs}}
+* {{para|group}}
+
+ <!--It specifically closes all references so that it can be used multiple times on a page— see [[Template:Reflist/doc#Multiple uses]]. The reference list is shown  and honors indenting markup to keep it with the discussion.-->
+
+The template should be placed after the discussion that includes the references, as it will include all references before the template. <!--This keeps the references associated with the appropriate section for clarity and to maintain the integrity of the discussion when archived.-->
+
+=== See also ===
+*{{tl|fake heading}}
+
+<includeonly>
+[[Category:Reference list templates]]
+[[Category:Documentation assistance templates]]
+[[Category:Citation and verifiability maintenance templates]]
+
+</includeonly>

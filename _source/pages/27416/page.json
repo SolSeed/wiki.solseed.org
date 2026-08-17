@@ -1,0 +1,43 @@
+{
+  "canonical_path": "/File:Biosphere_2_desert_with_bird_circled.jpg",
+  "current_revision_id": 43015,
+  "database_title": "Biosphere_2_desert_with_bird_circled.jpg",
+  "display_title": "File:Biosphere 2 desert with bird circled.jpg",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 6,
+  "original_revision_count": 1,
+  "page_id": 27416,
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "BenSibelman",
+      "comment": "A photo of a bird, probably a desert wren, perched on a desert plant inside [[Biosphere 2]]. The tour guide said birds like it commonly sneak in through air vents.",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 43015,
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": 40367,
+      "same_as_previous_public": false,
+      "timestamp": "2015-03-09T04:08:03Z",
+      "wikitext_bytes": 163,
+      "wikitext_sha256": "cf30bea3788db558a49777007735431d424fc588bcd5302dfa6d22d1c378dbf6"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 40367,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 176,
+      "markdown_sha256": "df47d2808a4b026d83904f9fc6da89f920a10cf9a9c800162a9e269c5de25381",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": 40367,
+      "previous_public_revision_id": 40367,
+      "revision_id": 43015,
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z"
+    }
+  ],
+  "site_revision_count": 1
+}

@@ -1,0 +1,1 @@
+A face trapped behind the glass of a monitor on an ancient computer with the quote, "A person in the model of contingency of existence just doesn't fit."

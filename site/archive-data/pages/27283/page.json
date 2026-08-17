@@ -1,0 +1,63 @@
+{
+  "canonical_path": "/File:PridePoster.jpg",
+  "current_revision_id": "42884",
+  "database_title": "PridePoster.jpg",
+  "display_title": "File:PridePoster.jpg",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 6,
+  "original_revision_count": 2,
+  "page_id": "27283",
+  "published_revision_count": 2,
+  "revisions": [
+    {
+      "author": "EricSaumur",
+      "comment": "Created page with \"Poster for use in Pride Parades\"",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": "39954",
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": "39953",
+      "same_as_previous_public": false,
+      "timestamp": "2014-08-24T22:23:31Z",
+      "wikitext_bytes": 31,
+      "wikitext_sha256": "58475b472048fc548f76289e9ed5449f98c185a007f87e3345f6b2aa29fe6018",
+      "source_format": "wikitext",
+      "source_extension": "wiki"
+    },
+    {
+      "author": "EricSaumur",
+      "comment": "uploaded &quot;[[File:PridePoster.jpg]]&quot;: In rainbow colours {red, orange, yellow, green, blue, purple}, this poster says \"SolSeed.org\" and then, again in the same rainbow colours but printed over a pastel rainbow with the righting curved through the",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": "42884",
+      "original_parent_revision_id": "39953",
+      "previous_public_revision_id": "39953",
+      "revision_id": "39954",
+      "same_as_previous_public": true,
+      "timestamp": "2014-08-24T22:26:11Z",
+      "wikitext_bytes": 31,
+      "wikitext_sha256": "58475b472048fc548f76289e9ed5449f98c185a007f87e3345f6b2aa29fe6018",
+      "source_format": "wikitext",
+      "source_extension": "wiki"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 39954,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 32,
+      "markdown_sha256": "1b16248006e5573f90ed2a3f7f895bcdf1e9fd17b05d1779ba809db45d5a0a2e",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": "39954",
+      "previous_public_revision_id": "39954",
+      "revision_id": "42884",
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z",
+      "wikitext_bytes": 32,
+      "wikitext_sha256": "1b16248006e5573f90ed2a3f7f895bcdf1e9fd17b05d1779ba809db45d5a0a2e",
+      "source_extension": "md"
+    }
+  ],
+  "site_revision_count": 1
+}

@@ -1,0 +1,80 @@
+### Agenda
+- Check in
+- Opening Blessing
+- Review WWWs
+- Weekly event logistics
+- Review Agenda
+- Year Plan
+- Newsletter
+- We Believe
+  - Outcomes that Shelley digs
+- What do we want to get done this summer?
+- Evaluations
+- Closing Blessing
+
+### Next business call
+- New Videos
+- Strategic Planning
+
+### Check-in
+- Brandon … I've been listening to you guys's one-minute videos
+- Ben … I’m feeling guilty about all the trips I’m taking just for fun and still probably not going to do this activist training camp.  I’m renewing my lease today even though it seems foolish to live this close to the center of a city that is this close to North Korea.  And I’m sleepy.
+
+### Opening Blessing
+There is a tremendous amount of uncertainty in being now. May we find roots that will ground us. May we support our becoming even amidst the uncertainty.  --Blessed Be
+
+### WW(W)s
+- Ben … write the Spring newsletter … by next call
+- Ben … think about writing a verse about embracing the moment while acknowledging that it is disappearing and we don’t know exactly what is coming next and it is scary … by next call
+- Brandon ... talk to Shelley about how to Celebrate the Minds from our Wisdom Tradition … by next call
+- Brandon … talk to Shelley about the outcomes she digs, as well as what it would look like to acknowledge and face the rapid change and the pin point we are balanced on … by next call
+- Brandon … write a verse for the creed that includes this gratitude in the moment and recognition of the massive change … by next call
+
+### Weekly Events Logistics
+Service rotation: Eric, Ben, Brandon, Rico, Shelley
+- July 15 Service: 8:30 AM PDT / 11:30 EDT … Brandon
+- July 16 Business Call: 8:30 AM PDT / 11:30 EDT
+
+### Year Plan
+Next: Lammas (August ?) ... Celebrate the Minds from our Wisdom Tradition
+
+https://sites.google.com/site/biosphericcommu/home/events
+- Winter Solstice
+- [Genesis](/Genesis) culminating in Imbolc (Riverrain hike and deep-fried ice cream)
+- [Conflatorium](/Conflatorium) culminating in the Spring Equinox (Storytelling and Sushi)
+- [Viriditas de Terra](/Viriditas_de_Terra) culminating in Beltane (Planting Trees)
+- [Diversitas](/Diversitas) culminating in Summer Solstice ([Drumming the Eons](/Drumming_the_Eons) and [YayLifeTri](/YayLifeTri))
+- [Sophos](/Sophos) culminating in Lammas … Warm and Easy ... (Shiny Green Festival)
+- [Civis](/Civis) culminating in Fall equinox (Zero G dinner?)
+  - Ben might be going to visit the Saumurs this year
+- [Viventibus Mundos](/Viventibus_Mundos) culminating in Samhain (Space Colony Party / Recent Changes with Earthseed)
+- [Viventibus Galaxia](/Viventibus_Galaxia) culminating in Winter Solstice (Longest Night Masquerade / Rocket Launching)
+
+### Newsletter
+Ben: In last newsletter I was like “We’re still working on our strategic planning process and hopefully I’ll have some output from that to share”.  And the fact is that we barely worked on it all season.  And the only celebration where people from different cities came together was that arboretum work party.  So I would like to try a different newsletter format where I have a paragraph for each of the locations/families (Portland, Seattle, Ottawa).  Stuff about Concerning AI, novel, Buckleberry Graycliff and Auberge Paradis.
+
+### Revisions to We Believe and the outcomes we focus on
+#### Outcomes that Shelley digs
+- Live wholesomely, a life of gratitude (presence and appreciation) and generation rather than consumption
+  - Being present with and appreciating nature, relationships, "what is"
+  - Creating positive things, wholesome in the sense of being slower than the kind of entertainment and fast food etc that exemplify our consumption-based lifestyle
+- Events and outreach around that
+
+#### Discussion about slowing down
+- Ben: See http://slowmovement.com 
+- Brandon: The high rate of change creates uncertainty which is very stressful … I want to acknowledge the dizzying rate of change and its implications, while grounding in the present moment, connecting with each other and our place to promote health and flourishing and the shaping of these changes
+- Ben: Yeah, I find that a difficult position because it feels like the only way to slow down is to ignore all the speed of change.  To just pretend that is not happening so that I can lead my slow life.  And to pretend that the things that support it are certain enough and not going to just change out from under me.
+- Brandon: But we're acknowledging the fact that we ourselves live in a wonderful moment (plenty of food, healthcare, nice weather right now) … it's not hypocritical to celebrate the good things we have while acknowledging and connecting with others' difficulties and the pace of change, although it's a difficult thing to integrate … middle ground between being reactionary (go back to the past) and embracing all change/denying what's being lost
+- Brandon: It feels like the legacy goals of SolSeed (e.g., Life spread through the Solar System) are still wonderful, but we need to acknowledge that we're poised on a knife edge and we need to be dealing with the change that's happening now, rather than ignoring it in preference to this far future vision
+- Ben: We can’t get rid of the uncertainty. But facing rapid change and all the uncertainty without being too stressed out to do anything seems important.
+
+### What we want to get done this summer
+- Brandon: Complete a Revision of the Creed and the Practices (in particular the year cycle)
+- Ben: Write another chapter of my novel
+
+### Evaluation
+- Ben … I’m still sleepy and I don’t know how to face much of anything
+- Brandon … I feel like we made some progress in a dimension that I need us to make progress on to feel like SolSeed is relevant, and that's exciting to me … the problem is clearer now.
+
+### Closing Blessing
+Imagine a hybrid of a bird and a tree, a creature that somehow flies forward while remaining rooted to one place.  This is the paradox in which we live.  May we find ways to live that paradox wisely.  May we find ways to hold on to what we can’t afford to lose while accepting and embracing transformation.  -- Blessed Be

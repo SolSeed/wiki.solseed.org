@@ -1,0 +1,13 @@
+{
+  "author": "BenSibelman",
+  "comment": "Removed a section we don't update on Thursdays",
+  "excluded_revision_count_since_previous_public": 0,
+  "next_public_revision_id": 42924,
+  "original_parent_revision_id": 40116,
+  "previous_public_revision_id": 40116,
+  "revision_id": 40117,
+  "same_as_previous_public": false,
+  "timestamp": "2014-10-17T04:06:09Z",
+  "wikitext_bytes": 5867,
+  "wikitext_sha256": "fcbb0cee6cd832941ba4df7ace7ad62ee1ecba6bb7319dfab484977a65e2dd76"
+}

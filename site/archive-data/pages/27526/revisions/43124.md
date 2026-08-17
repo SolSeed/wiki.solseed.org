@@ -1,0 +1,1 @@
+[Brandon](/Brandon) works on getting the LEGO climber set up for its first real climb, watched by [Ren](/Ren), Augusto, Rodrigo, and carbon-nanotube entrepreneur Bryan Laubscher at [A Space Elevator Solstice](/A_Space_Elevator_Solstice).

@@ -1,0 +1,31 @@
+It's interesting to compare and contrast [[Knowledge]] and [[Wisdom]] as goals of human endeavor. They can form a pair of axes that help us define our beliefs and the types of [[progress]] we prefer to focus on. Here is a rough comparison chart:
+
+{| border=1
+|
+| '''Knowledge'''
+| '''Wisdom'''
+|-
+| Fundamental questions:
+| What is true/real/possible?
+| What is right/good/important?
+|-
+| Institutions/fields of endeavor:
+| “Hard” Sciences, Engineering, Economics
+| Religions, Ethics, Psychology/ Sociology
+|-
+| Focus on:
+| Things (and beings), Matter/Energy, separation and difference
+| People (and other beings), Mind/Spirit, connection and unity
+|- 
+| Core values:
+| Liberty and (limited) Authority
+| Community and (limited) Liberty
+|-
+| Type of progress:
+| Material, i.e. Technological and Economic
+| Moral, i.e. Social and Ecological 
+|- 
+| Rates of change:
+| Exponential growth, sudden crashes
+| Slow progress, occasional revolutions
+|}

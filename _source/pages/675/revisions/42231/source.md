@@ -1,0 +1,22 @@
+- What is the narrative purpose behind Lauren and Bankole, other than the resources he has?
+  - She's more mature than most people around her regardless of age
+  - Father issues?
+- What do you think of Acorn?
+  - Constant learning is good
+  - Technically primitive but socially/culturally advanced
+  - Has traditional family roles, as opposed to some communes
+    - Sort of opposite to a commune, trying to get away from craziness and be more conventional, rather than establish a radical alternative to the mainstream
+  - Was Acorn a mistake?
+    - Easy to destroy
+    - But the story of its destruction, and the survival of Lauren and others in spite of it, is powerful and could help build the religion of Earthseed
+      - Also, the survivors (not just Lauren) might become missionaries
+- Dan saving his sisters (Ben doesn't remember this)
+  - Simple self-sacrifice vs. more complex heroism?
+- Planned third book would have been about the challenges of settling an alien world
+  - Similar issues as first two books? (coping with a "desolate world" here on Earth)
+    - In space travel, social, economic, and political issues will always be more complex than the technical challenges
+    - Can we get positive philosophies or religions like Earthseed to prevent misuse of space ex. by pushing asteroids toward Earth? Or will space just be dominated by corporations and/or the military?
+    - Could company towns and debt slavery recur in space?
+  - Common theme in other SF: However well-chosen the crew is, they will end up acting like average people
+- Power and corruption
+  - Christian America people abusing slave collars are corrupt partly because their ethical "powers" are less advanced than they need to be, since CA deliberately goes backward in ethical history

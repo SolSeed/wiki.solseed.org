@@ -1,0 +1,48 @@
+{
+  "canonical_path": "/Talk:One_Page_Plan",
+  "current_revision_id": "42423",
+  "database_title": "One_Page_Plan",
+  "display_title": "Talk:One Page Plan",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 1,
+  "original_revision_count": 1,
+  "page_id": "1147",
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "Brandon CS Sanders",
+      "comment": "moved [[Talk:One Page Plan]] to [[Talk:OnePagePlan]] over redirect",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": "42423",
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": "2562",
+      "same_as_previous_public": false,
+      "timestamp": "2011-05-02T04:08:20Z",
+      "wikitext_bytes": 30,
+      "wikitext_sha256": "8f034a393b830387f41817da77aceb365ecc87a85638ea18cc7fc35d92021445",
+      "source_format": "wikitext",
+      "source_extension": "wiki"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 2562,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 71,
+      "markdown_sha256": "70fb2e8747951f9036ec3777951830c40b8914d414f9feca722c895af97a4ebd",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": "2562",
+      "previous_public_revision_id": "2562",
+      "revision_id": "42423",
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z",
+      "wikitext_bytes": 71,
+      "wikitext_sha256": "70fb2e8747951f9036ec3777951830c40b8914d414f9feca722c895af97a4ebd",
+      "source_extension": "md"
+    }
+  ],
+  "site_revision_count": 1
+}

@@ -1,0 +1,1740 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Source: Help:Editing revision 43293</title><link rel="stylesheet" href="/assets/history.css"></head><body><aside class="archive-notice" aria-label="Archive notice">This is a static archive of the SolSeed wiki as it existed in 2018. All spam has been removed.</aside><main><nav aria-label="Archive navigation"><ul><li><a href="/Help%3AEditing">Current page</a></li><li><a href="/history/Help%3AEditing">History</a></li><li><a href="/revision/43293/Help%3AEditing">Revision 43293</a></li></ul></nav><h1>Source: Help:Editing</h1><dl class="metadata"><dt>Date</dt><dd><time datetime="2018-12-15T00:00:00.000Z">2018-12-15T00:00:00.000Z</time></dd><dt>Author</dt><dd>SolSeed archive migration</dd><dt>Comment</dt><dd>Create maintainable Markdown archive revision</dd><dt>Size</dt><dd>94233 bytes</dd><dt>Delta</dt><dd>—</dd></dl><pre class="source" tabindex="0"><code>*Copied from [Wikipedia&#39;s Wikitext help page](https://en.wikipedia.org/wiki/Help:Wikitext)*
+
+*To convert to and from Wikitext, use [pandoc](https://pandoc.org/)*
+
+----
+
+**Wikitext**, also known as *Wiki markup* or *Wikicode*, consists of the syntax and keywords used by the [MediaWiki](/MediaWiki) software to format a page. To learn how to see this markup, and to save an edit, see: [Editing](/Help:Editing). Generally, coding can be copied and pasted, without writing new code. There is a short list of markup and tips at [Cheatsheet](/Help:Cheatsheet).
+
+In addition to Wikitext, some [HTML element](/HTML_element)s are also allowed for presentation formatting. See [HTML in wikitext](/Help:HTML_in_wikitext) for information on this.
+[Template unavailable in the 2018 archive: TOC limit]
+
+### Layout
+
+#### Sections
+Sections in a page will follow the page&#39;s [lead/introduction](/WP:LEAD) and (under certain conditions,) the [Table of Contents](/WP:TOC).
+
+##### Section headings
+[Template unavailable in the 2018 archive: see — Help:Section; MOS:HEAD]
+
+The &lt;code&gt;=&lt;/code&gt; through &lt;code&gt;======&lt;/code&gt; markup are headings for the sections with which they are associated.
+- A single = is styled as the article title and should not be used within an article.
+- Headings are styled through [CSS](/CSS) and add an &lt;code&gt;[edit]&lt;/code&gt; link. [See this section](/Help:Cascading_Style_Sheets#Wiki_headings) for the relevant CSS.
+- Four or more headings cause a table of contents to be generated automatically.
+- Do not use &lt;em&gt;any&lt;/em&gt; markup after the final heading markup – this will either break the heading, or will cause the heading to not be included in an edit summary.
+
+[Template unavailable in the 2018 archive: #lst:Help:HTML in wikitext — WIKI_section]
+
+Templates: [Template unavailable in the 2018 archive: tl — fake heading] for use in documentation.
+
+##### Horizontal rule
+[Template unavailable in the 2018 archive: see — WP:LINE]
+
+The horizontal rule represents a paragraph-level thematic break. Do not use in article content, as rules are used only after main sections, and this is automatic.
+
+[Template unavailable in the 2018 archive: markup — &lt;nowiki&gt;----&lt;/nowiki&gt;; [Template unavailable in the 2018 archive: crlf2]
+----]
+
+HTML equivalent: [Template unavailable in the 2018 archive: tag — hr; s]
+
+##### Table of contents
+[Template unavailable in the 2018 archive: see — WP:TOC]
+
+When a page has at least four headings, a table of contents (TOC) will automatically appear after the lead and before the first heading. The TOC can be controlled by magic words or templates:
+- &lt;code&gt;&lt;nowiki&gt;__FORCETOC__&lt;/nowiki&gt;&lt;/code&gt; forces the TOC to appear at the normal location regardless of the number of headings.
+- &lt;code&gt;&lt;nowiki&gt;__TOC__&lt;/nowiki&gt;&lt;/code&gt; forces the TOC to appear at the point where the magic word is inserted instead of the normal location.
+- &lt;code&gt;&lt;nowiki&gt;__NOTOC__&lt;/nowiki&gt;&lt;/code&gt; disables the TOC entirely.
+- [Template unavailable in the 2018 archive: tl — TOC limit] can be used to control the depth of subsections included in the TOC. This is useful where the TOC is long and unwieldy.
+- [Category:Wikipedia table of contents templates](/Category:Wikipedia_table_of_contents_templates) contains a number of specialized TOC templates.
+
+#### Line breaks
+
+[Template unavailable in the 2018 archive: see — Wikipedia:Line-break handling; Wikipedia:Don&#39;t use line breaks]
+
+Line breaks or newlines are used to add whitespace between lines, such as separating paragraphs.
+- A line break that is visible in the content is inserted by pressing [Template unavailable in the 2018 archive: key press — Enter] twice.
+- Pressing [Template unavailable in the 2018 archive: key press — Enter] once will place a line break in the markup, but it will not show in the rendered content, except when using list markup.
+- Markup such as bold or italics will be terminated at a line break.
+
+[Template unavailable in the 2018 archive: markup — &lt;nowiki&gt;A single newline here
+has no effect on the layout.
+
+But an empty line starts a new paragraph, 
+or ends a list or an indented part.
+&lt;/nowiki&gt;; [Template unavailable in the 2018 archive: crlf2]
+A single newline here
+has no effect on the layout.
+
+But an empty line starts a new paragraph, 
+or ends a list or an indented part.]
+
+HTML equivalent: [Template unavailable in the 2018 archive: tag — br; o] or [Template unavailable in the 2018 archive: tag — br; s]
+
+Templates:
+- [Template unavailable in the 2018 archive: tl — break] adds multiple line breaks.
+- [Template unavailable in the 2018 archive: tl — -] and [Template unavailable in the 2018 archive: tl — clear] adds a break with styling, to clear floating elements.
+- [Template unavailable in the 2018 archive: tl — plainlist] and [Template unavailable in the 2018 archive: tl — unbulleted list] both create an unbulleted list.
+
+#### Indent text
+[Template unavailable in the 2018 archive: see — WP:INDENT]
+
+Indentation is most commonly used on talk pages.
+
+[Template unavailable in the 2018 archive: markup — &lt;nowiki&gt;Indentation as used on talk pages:
+Each colon at the start of a line
+causes the line to be indented by three more character positions.
+(The indentation persists
+so long as no carriage return or line break is used.)
+Repeat the indentation at any line break.
+Use an extra colon for each response.
+And so forth ...
+And so on ...
+[Template unavailable in the 2018 archive: Outdent — ::::::]The outdent template can give a visual indicator that we&#39;re deliberately cancelling the indent (6 levels here)&lt;/nowiki&gt;; Indentation as used on talk pages:
+Each colon at the start of a line
+causes the line to be indented by three more character positions.
+(The indentation persists
+so long as no carriage return or line break is used.)
+Repeat the indentation at any line break.
+Use an extra colon for each response.
+And so forth ...
+And so on ...
+[Template unavailable in the 2018 archive: Outdent — ::::::]The outdent template can give a visual indicator that we&#39;re deliberately cancelling the indent (6 levels here)]
+
+Templates: [Template unavailable in the 2018 archive: tl — outdent], [Template unavailable in the 2018 archive: tl — outdent2]
+
+#### Blockquote
+When there is a need for separating a block of text. This is useful for (as the name says) inserting blocks of quoted (and cited) text.
+[Template unavailable in the 2018 archive: markup — &lt;nowiki&gt;**
+The **blockquote** tag will indent both margins when needed instead of the left margin only as the colon does.
+&lt;/blockquote&gt;
+&lt;/nowiki&gt;; &lt;blockquote&gt;
+The **blockquote** tag will indent both margins when needed instead of the left margin only as the colon does.
+&lt;/blockquote&gt;]
+
+#### Center text
+[Template unavailable in the 2018 archive: markup — &lt;source lang=&quot;html&quot; inline style=&quot;border:none; background:transparent;&quot;&gt;Centered text&lt;/source&gt;; 2=Centered text]
+
+Template [Template unavailable in the 2018 archive: tl — center] uses the same markup. To center a table, see [Table#Centering tables](/Help:Table#Centering_tables).
+Please do not use [Template unavailable in the 2018 archive: tag — center], as it is obsolete.
+
+#### Align text to right
+You can align content in a separate container:
+
+[Template unavailable in the 2018 archive: markup — 1=&lt;source lang=&quot;html&quot; inline style=&quot;border:none; background:transparent;&quot;&gt;Text on the right&lt;/source&gt;; 2=Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.Text on the rightLorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.]
+
+Or; make the text float around it:
+
+[Template unavailable in the 2018 archive: markup — 1=&lt;source lang=&quot;html&quot; inline style=&quot;border:none; background:transparent;&quot;&gt;Text on the right&lt;/source&gt;; 2=Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.Text on the rightLorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.; 3=&lt;nowiki&gt;[Template unavailable in the 2018 archive: stack — Text on the right]&lt;/nowiki&gt;; 4=Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.[Template unavailable in the 2018 archive: stack — Text on the right]Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.]
+
+#### Lists
+[Template unavailable in the 2018 archive: see — Help:List; MOS:LIST]
+
+Do not leave blank lines between items in a list unless there is a reason to do so, since this causes the MediaWiki software to interpret each item as beginning a new list.
+
+##### Unordered lists
+[Template unavailable in the 2018 archive: markup — &lt;nowiki&gt;* Item1
+- Item2
+- Item3
+- Item4
+  - Sub-item 4 a)
+    - Sub-item 4 a) 1.
+      - Sub-item 4 a) 1. i)
+      - Sub-item 4 a) 1. ii)
+  - Sub-item 4 b)
+- Item5&lt;/nowiki&gt;; [Template unavailable in the 2018 archive: crlf2]
+- Item1
+- Item2
+- Item3
+- Item4
+  - Sub-item 4 a)
+    - Sub-item 4 a) 1.
+      - Sub-item 4 a) 1. i)
+      - Sub-item 4 a) 1. ii)
+  - Sub-item 4 b)
+- Item5]
+
+##### Ordered lists
+[Template unavailable in the 2018 archive: markup — &lt;nowiki&gt;
+1. Item1
+1. Item2
+1. Item3
+1. Item4
+  1. Sub-item 1
+    1. Sub-sub-item
+      1. Sub-sub-sub-item
+  1. Sub-item 2
+1. Item5
+&lt;/nowiki&gt;; [Template unavailable in the 2018 archive: crlf2]
+1. Item1
+1. Item2
+1. Item3
+1. Item4
+  1. Sub-item 1
+    1. Sub-sub-item
+      1. Sub-sub-sub-item
+  1. Sub-item 2
+1. Item5]
+
+##### [Template unavailable in the 2018 archive: Anchor — DL]Description lists
+[Template unavailable in the 2018 archive: anchors — Definition lists; Association lists; H:DL]
+[Template unavailable in the 2018 archive: Shortcut — H:DL]
+
+To list terms and definitions, start a new line with a semicolon (;) followed by the term. Then, type a colon (:) followed by a definition. The format can also be used for other purposes, such as make and models of vehicles, etc.
+
+*Description lists* (formerly *definition lists*, and a.k.a. *association lists*) consist of group names corresponding to values. Group names (terms) are in bold. Values (definitions) are indented. Each group &lt;em&gt;must&lt;/em&gt; include one or more definitions. For a single or first value, the &lt;code&gt;:&lt;/code&gt; can be placed on the same line after &lt;code&gt;;&lt;/code&gt; – but subsequent values must be placed on separate lines.
+
+[Template unavailable in the 2018 archive: hatnote-inline — Do not use a semicolon (;) simply to bold a line without defining a value using a colon (:). This usage renders invalid [HTML5](/HTML5) and creates issues with [screen reader](/screen_reader)s.]
+
+[Template unavailable in the 2018 archive: markup — &lt;nowiki&gt;; Term : Definition1&lt;/nowiki&gt;; [Template unavailable in the 2018 archive: crlf2]
+**Term : Definition1; &lt;nowiki&gt;; Term**
+Definition1
+Definition2
+Definition3
+Definition4&lt;/nowiki&gt;; [Template unavailable in the 2018 archive: crlf2]
+**Term**
+Definition1
+Definition2
+Definition3
+Definition4]
+
+HTML equivalent: [Template unavailable in the 2018 archive: tag — dl; o] [Template unavailable in the 2018 archive: tag — dt], [Template unavailable in the 2018 archive: tag — dd] [Template unavailable in the 2018 archive: tag — dl; c]
+
+Templates: [Template unavailable in the 2018 archive: tl — defn]
+
+#### Retaining newlines and spaces
+[Template unavailable in the 2018 archive: shortcut — H:POEM]
+
+The MediaWiki software suppresses single newlines and converts lines starting with a space to preformatted text in a dashed box. HTML suppresses multiple spaces. It is often desirable to retain these elements for poems, lyrics, mottoes, oaths and the like. The [Poem](/mw:Extension:Poem) extension adds HTML-like [Template unavailable in the 2018 archive: tag — poem] tags to maintain newlines and spaces. These tags may be used inside other tags such as [Template unavailable in the 2018 archive: tag — blockquote]. [CSS styles](/H:CSS) may be applied to this tag, e.g.: &lt;code&gt;&lt;nowiki&gt;&lt;/nowiki&gt;&lt;/code&gt;.
+
+[Template unavailable in the 2018 archive: markup — &lt;nowiki&gt;
+In Xanadu did Kubla Khan
+  A stately pleasure-dome decree:
+Where Alph, the sacred river, ran
+  Through caverns measureless to man
+Down to a sunless sea.
+
+So twice five miles of fertile ground
+  With walls and towers were girdled round:
+And there were gardens bright with sinuous rills,
+  Where blossomed many an incense-bearing tree;
+And here were forests ancient as the hills,
+  Enfolding sunny spots of greenery.
+&lt;/nowiki&gt;; 
+In Xanadu did Kubla Khan
+  A stately pleasure-dome decree:
+Where Alph, the sacred river, ran
+  Through caverns measureless to man
+Down to a sunless sea.
+
+So twice five miles of fertile ground
+  With walls and towers were girdled round:
+And there were gardens bright with sinuous rills,
+  Where blossomed many an incense-bearing tree;
+And here were forests ancient as the hills,
+  Enfolding sunny spots of greenery.
+]
+
+Poems and their translation can be presented side-by-side, and the language can be indicated with &lt;code&gt;lang=&quot;xx&quot;&lt;/code&gt;. Following the last side-by-side block, [Template unavailable in the 2018 archive: tlx — Clear; left] must be used to cancel &lt;code&gt;&quot;float:left;&quot;&lt;/code&gt; and to re-establish normal flow. Note that this method does not require [a table](/#Tables) and its columns to achieve the side-by-side presentation.
+
+**Markup**
+&lt;nowiki&gt;Frère Jacques, frère Jacques,
+Dormez-vous? Dormez-vous?
+Sonnez les matines! Sonnez les matines!
+Ding, dang, dong. Ding, dang, dong.
+Are you sleeping? Are you sleeping?
+Brother John, Brother John,
+Morning bells are ringing! Morning bells are ringing!
+Ding, dang, dong. Ding, dang, dong.&lt;br style=&quot;clear:both&quot;/&gt;&lt;/nowiki&gt;
+**Renders as**
+Frère Jacques, frère Jacques,
+Dormez-vous? Dormez-vous?
+Sonnez les matines! Sonnez les matines!
+Ding, dang, dong. Ding, dang, dong.
+Are you sleeping? Are you sleeping?
+Brother John, Brother John,
+Morning bells are ringing! Morning bells are ringing!
+Ding, dang, dong. Ding, dang, dong.&lt;br style=&quot;clear:both&quot;/&gt;
+
+### Format
+#### Text formatting
+
+- style=&quot;vertical-align: top;&quot;
+Description
+What you type
+What it looks like
+
+- id=&quot;emph&quot; style=&quot;vertical-align: top;&quot;
+*italics*, **bold**, [Template unavailable in the 2018 archive: smallcaps — small capital letters]
+
+To *italicize text*, put two consecutive apostrophes on each side of it.
+
+Three apostrophes each side will **bold the text**.
+
+Five consecutive apostrophes on each side (two for italics plus three for bold) produces **bold italics**.
+
+**Italic and bold formatting** works correctly only within a single line.
+
+For text as [Template unavailable in the 2018 archive: smallcaps — small caps], use the template [Template unavailable in the 2018 archive: tl — smallcaps].
+
+To *italicize text*, put two consecutive apostrophes on each side of it.
+
+Three apostrophes each side will **bold the text**.
+
+Five consecutive apostrophes on each side (two for italics plus three for bold) produces **bold italics**.
+
+**Italic and bold formatting** works correctly only within a single line.
+
+For text as [Template unavailable in the 2018 archive: smallcaps — small caps], use the template [Template unavailable in the 2018 archive: tl — smallcaps].
+
+To reverse this effect where it has been automatically applied, use [Template unavailable in the 2018 archive: tl — nobold] and [Template unavailable in the 2018 archive: tl — noitalic].
+
+Small chunks of [source code](/source_code) within a line of normal text.
+
+Code is displayed in a [monospace](/Monospaced_font) font.
+&lt;nowiki&gt;function &lt;code&gt;int m2()&lt;/code&gt; is nice.&lt;/nowiki&gt;
+function &lt;code&gt;int m2()&lt;/code&gt; is nice.
+
+- style=&quot;vertical-align:top;&quot;
+[Syntax highlighting](/mw:Extension:SyntaxHighlight) for source code.
+
+Computer code has colored text and more stringent formatting. For example, to define a function: &lt;code&gt;int m2()&lt;/code&gt;, with highlights.
+
+See [here](https://github.com/wikimedia/mediawiki-extensions-SyntaxHighlight_GeSHi/blob/master/SyntaxHighlight.lexers.php) for a full list of supported languages that can be put in &lt;code&gt;lang=&quot;????&quot;&lt;/code&gt;
+&lt;nowiki&gt;&lt;syntaxhighlight lang=&quot;cpp&quot;&gt;
+1. include &lt;iostream&gt;
+int m2 (int ax, char *p_ax) {
+  std::cout &lt;&lt;&quot;Hello World!&quot;;
+  return 0;
+}&lt;/syntaxhighlight&gt;&lt;/nowiki&gt;
+OR (will be rendered exactly the same way)
+&lt;nowiki&gt;&lt;source lang=&quot;cpp&quot;&gt;
+1. include &lt;iostream&gt;
+int m2 (int ax, char *p_ax) {
+  std::cout &lt;&lt;&quot;Hello World!&quot;;
+  return 0;
+}&lt;/source&gt;&lt;/nowiki&gt;
+&lt;syntaxhighlight lang=&quot;cpp&quot;&gt;
+1. include &lt;iostream&gt;
+int m2 (int ax, char *p_ax) {
+  std::cout &lt;&lt;&quot;Hello World!&quot;;
+  return 0;
+}&lt;/syntaxhighlight&gt;
+
+Small text
+&lt;source lang=&quot;html&quot;&gt;
+Use small text only 
+when necessary.
+&lt;/source&gt;
+Use small text only when necessary.
+
+a &lt;nowiki&gt;&lt;/nowiki&gt; span
+&lt;source lang=&quot;html&quot;&gt;
+To match, for example, the font-size used in an [image caption](/Help:Visual_file_markup#Caption), the &quot;small&quot; tag can also be used to 
+reduce a text&#39;s font-size to 87%.
+&lt;/source&gt;
+To match, for example, the font-size used in an [image caption](/Help:Visual_file_markup#Caption), the &quot;small&quot; tag can also be used to reduce a text&#39;s font-size to 87%.
+
+Big text
+&lt;source lang=&quot;html&quot;&gt;
+Better not use big text, unless it&#39;s within small text.
+&lt;/source&gt;
+Better not use big text, unless it&#39;s within small text.
+
+To prevent two words from becoming separated by a [linewrap](/linewrap) (e.g. *Mr. Smith* or *400 km/h*) a **[non-breaking space](/non-breaking_space)**, sometimes also called a &quot;non-printing character&quot;, may be used between them. (For three or more words, the template [Template unavailable in the 2018 archive: tl — nowrap] is probably more suitable.)
+Mr.&amp;nbsp;Smith or 400&amp;nbsp;km/h
+Mr. Smith or 400 km/h
+
+**Extra spacing** within text is usually best achieved using the [Template unavailable in the 2018 archive: tl — pad] template.
+&lt;nowiki&gt;Mary [Template unavailable in the 2018 archive: pad — 4.0em] had a little lamb.&lt;/nowiki&gt;
+Mary [Template unavailable in the 2018 archive: pad — 4.0em] had a little lamb.
+
+#### Special characters
+[Template unavailable in the 2018 archive: See also — Help:Special characters; List of XML and HTML character entity references]
+Special characters can often be displayed using [numeric character references](/Numeric_character_reference) or [character entity references](/List_of_XML_and_HTML_character_entity_references). See [Character encodings in HTML](/Character_encodings_in_HTML) for more information. For example, &lt;code&gt;&amp;Agrave;&lt;/code&gt; and &lt;code&gt;&amp;#xC0;&lt;/code&gt; both render [À](/À) (A-[grave](/Grave_accent)). [Percent-encoding](/Percent-encoding) can&#39;t be used, as it works only in [URL](/URL)s.
+
+##### Diacritical marks
+[Diacritic](/Diacritic) marks, using character entity references.
+
+What you type
+What it looks like
+
+&lt;nowiki&gt;&amp;Agrave; &amp;Aacute; &amp;Acirc; &amp;Atilde; &amp;Auml; &amp;Aring; &amp;AElig;
+
+&amp;Ccedil; &amp;Egrave; &amp;Eacute; &amp;Ecirc; &amp;Euml;
+
+&amp;Igrave; &amp;Iacute; &amp;Icirc; &amp;Iuml; &amp;Ntilde;
+
+&amp;Ograve; &amp;Oacute; &amp;Ocirc; &amp;Otilde; &amp;Ouml; &amp;Oslash; &amp;OElig;
+
+&amp;Ugrave; &amp;Uacute; &amp;Ucirc; &amp;Uuml; &amp;Yuml; &amp;szlig;
+
+&amp;agrave; &amp;aacute; &amp;acirc; &amp;atilde; &amp;auml; &amp;aring; &amp;aelig; &amp;ccedil;
+
+&amp;egrave; &amp;eacute; &amp;ecirc; &amp;euml;
+
+&amp;igrave; &amp;iacute; &amp;icirc; &amp;iuml; &amp;ntilde;
+
+&amp;ograve; &amp;oacute; &amp;ocirc; &amp;otilde; &amp;ouml; &amp;oslash; &amp;oelig;
+
+&amp;ugrave; &amp;uacute; &amp;ucirc; &amp;uuml; &amp;yuml;&lt;/nowiki&gt;
+
+À Á Â Ã Ä Å Æ
+
+Ç È É Ê Ë
+
+Ì Í Î Ï Ñ
+
+Ò Ó Ô Õ Ö Ø Œ
+
+Ù Ú Û Ü Ÿ ß
+
+à á â ã ä å æ ç
+
+è é ê ë
+
+ì í î ï ñ
+
+ò ó ô õ ö ø œ
+
+ù ú û ü ÿ
+
+##### Punctuation special characters
+Using character entity references.
+
+What you type
+What it looks like
+
+&lt;code&gt;&amp;iquest; &amp;iexcl; &amp;sect; &amp;para;&lt;/code&gt;
+¿ ¡ § ¶ 
+
+&lt;code&gt;&amp;dagger; &amp;Dagger; &amp;bull; &amp;ndash; &amp;mdash;&lt;/code&gt;
+† ‡ • – —
+
+&lt;code&gt;&amp;lsaquo; &amp;rsaquo; &amp;laquo; &amp;raquo;&lt;/code&gt;
+‹ › « »
+
+&lt;code&gt;&amp;lsquo; &amp;rsquo; &amp;ldquo; &amp;rdquo;&lt;/code&gt;
+‘ ’ “ ”
+
+&lt;code&gt;&amp;apos; &amp;quot;&lt;/code&gt; 
+&#39; &quot;
+
+##### Escaping punctuation characters
+The [[#Pre|[Template unavailable in the 2018 archive: tag — pre; o]]], [[#Nowiki|[Template unavailable in the 2018 archive: tag — nowiki; o]]], and  [[#Code|[Template unavailable in the 2018 archive: tag — code; o]]]  markup tags are also available, for writing &lt;nowiki&gt;&quot;[&quot;, &quot;{&quot;, &quot;&amp;&quot;, &quot;}&quot;, &quot;]&quot;&lt;/nowiki&gt; for example. These tags prevent these characters from being recognised as wiki markup, which is a possibility in some circumstances.
+
+##### Commercial symbols
+Using character entity references.
+
+What you type
+What it looks like
+
+&lt;code&gt;&amp;trade; &amp;copy; &amp;reg; &lt;/code&gt;
+™ © ®
+
+&lt;code&gt;&amp;cent; &amp;euro; &amp;yen; &amp;pound; &amp;curren;
+&lt;/code&gt;
+¢ € ¥ £ ¤
+
+##### Greek characters
+Using character entity references.
+
+What you type
+What it looks like
+
+&lt;code&gt;&amp;alpha; &amp;beta; &amp;gamma; &amp;delta; &amp;epsilon; &amp;zeta; &lt;/code&gt;
+α β γ δ ε ζ
+
+&lt;code&gt;&amp;Alpha; &amp;Beta; &amp;Gamma; &amp;Delta; &amp;Epsilon; &amp;Zeta;&lt;/code&gt;
+Α Β Γ Δ Ε Ζ
+
+&lt;code&gt;&amp;eta; &amp;theta; &amp;iota; &amp;kappa; &amp;lambda; &amp;mu; &amp;nu;&lt;/code&gt;
+η θ ι κ λ μ ν
+
+&lt;code&gt;&amp;Eta; &amp;Theta; &amp;Iota; &amp;Kappa; &amp;Lambda; &amp;Mu; &amp;Nu; &lt;/code&gt;
+Η Θ Ι Κ Λ Μ Ν
+
+&lt;code&gt;&amp;xi; &amp;omicron; &amp;pi; &amp;rho; &amp;sigma; &amp;sigmaf;&lt;/code&gt;
+ξ ο π ρ σ ς
+
+&lt;code&gt;&amp;Xi; &amp;Omicron; &amp;Pi; &amp;Rho; &amp;Sigma; &lt;/code&gt;
+Ξ Ο Π Ρ Σ
+
+&lt;code&gt;&amp;tau; &amp;upsilon; &amp;phi; &amp;chi; &amp;psi; &amp;omega;&lt;/code&gt;
+τ υ φ χ ψ ω
+
+&lt;code&gt;&amp;Tau; &amp;Upsilon; &amp;Phi; &amp;Chi; &amp;Psi; &amp;Omega; &lt;/code&gt;
+Τ Υ Φ Χ Ψ Ω
+
+##### Egyptian hieroglyphs
+[Template unavailable in the 2018 archive: main — Help:WikiHiero syntax]
+
+WikiHiero is a software extension that renders [Egyptian hieroglyphs](/Egyptian_hieroglyphs) as PNG images using [Template unavailable in the 2018 archive: xtag — hiero] tags.
+
+Example:
+[Template unavailable in the 2018 archive: markup — &lt;nowiki&gt;&lt;hiero&gt;P2&lt;/hiero&gt;&lt;/nowiki&gt;; &lt;hiero&gt;P2&lt;/hiero&gt;]
+
+##### Chess symbols
+[Template unavailable in the 2018 archive: main — Chess symbols in Unicode]
+
+For example, &amp;#9812; displays ♔
+
+##### Subscripts and superscripts
+- The [Manual of Style](/Wikipedia:Manual_of_Style_(mathematics)#Superscripts_and_subscripts) prefers the [Template unavailable in the 2018 archive: tag — sub; o] and [Template unavailable in the 2018 archive: tag — sup; o] formats, for example &lt;code&gt;x[Template unavailable in the 2018 archive: tag — sub; content=1]&lt;/code&gt;. So this should be used under most circumstances.
+- The latter methods of sub/superscripting cannot be used in the most general context, as they rely on Unicode support that may not be present on all users&#39; machines.
+
+Description
+What you type
+What it looks like
+
+*Subscripts*
+&lt;nowiki&gt;
+x&lt;sub&gt;1&lt;/sub&gt; x&lt;sub&gt;2&lt;/sub&gt; x&lt;sub&gt;3&lt;/sub&gt; or
+
+x&amp;#8320; x&amp;#8321; x&amp;#8322; x&amp;#8323; x&amp;#8324;
+
+x&amp;#8325; x&amp;#8326; x&amp;#8327; x&amp;#8328; x&amp;#8329;
+&lt;/nowiki&gt;
+x&lt;sub&gt;1&lt;/sub&gt; x&lt;sub&gt;2&lt;/sub&gt; x&lt;sub&gt;3&lt;/sub&gt; or
+
+x₀ x₁ x₂ x₃ x₄
+
+x₅ x₆ x₇ x₈ x₉
+
+*Superscripts*
+&lt;nowiki&gt;
+x&lt;sup&gt;1&lt;/sup&gt; x&lt;sup&gt;2&lt;/sup&gt; x&lt;sup&gt;3&lt;/sup&gt; or
+
+x&amp;#8304; x&amp;sup1; x&amp;sup2; x&amp;sup3; x&amp;#8308;
+
+x&amp;#8309; x&amp;#8310; x&amp;#8311; x&amp;#8312; x&amp;#8313;
+&lt;/nowiki&gt;
+x&lt;sup&gt;1&lt;/sup&gt; x&lt;sup &gt;2&lt;/sup &gt; x&lt;sup &gt;3&lt;/sup &gt; or
+
+x⁰ x¹ x² x³ x⁴
+
+x⁵ x⁶ x⁷ x⁸ x⁹
+
+*Combined*
+
+&amp;epsilon;&lt;sub&gt;0&lt;/sub&gt; = 8.85 &amp;times; 10&lt;sup&gt;&amp;minus;12&lt;/sup&gt; C&amp;sup2; / J m
+
+1 [hectare](/hectare) = [1 E+4 m&amp;sup2;](/1_E+4_m&amp;sup2;)
+
+ε&lt;sub&gt;0&lt;/sub&gt; = 8.85 × 10&lt;sup&gt;−12&lt;/sup&gt; C² / J m
+
+1 [hectare](/hectare) = [1 E+4 m²](/1_E+4_m²)
+
+##### Characters in the Private Use Area, and invisible formatting characters
+[Template unavailable in the 2018 archive: main — MOS:TEXT#PUA and RTL]
+
+Invisible and [PUA (Private Use Areas)](/Private_Use_Areas) characters should be avoided where possible.  When needed, they should both be replaced with their (hexa)decimal code values (as &quot;&amp;#(x)...;&quot;).  This renders invisible characters visible, for manual editing, and allows [AWB](/Wikipedia:AutoWikiBrowser) to process pages with PUA characters.  The latter should also be tagged with the [Template unavailable in the 2018 archive: tl — PUA] template for tracking and future maintenance.
+
+#### Mathematical characters and formulae
+##### Mathematical characters
+- See also [Mathematical symbols](/Wikipedia:Mathematical_symbols), [WikiProject Mathematics](/Wikipedia:WikiProject_Mathematics) and [TeX](/TeX).
+
+What you type
+What it looks like
+
+∫ ∑ ∏ √
+
+− ± ∞
+
+≈ ∝ ≡ ≠
+
+≤ ≥
+
+× · ÷ ∂
+
+′ ″
+
+∇ ‰ ° ∴ ℵ
+
+ø
+
+∈ ∉ ∩ ∪
+
+⊂ ⊃ ⊆ ⊇
+
+¬ ∧ ∨ ∃ ∀
+
+⇒ ⇐ ⇓ ⇑ ⇔
+
+→ ← ↓ ↑ ↔
+
+##### Mathematical formulae
+[Template unavailable in the 2018 archive: main — Help:Displaying a formula]
+
+- Formulae that include mathematical letters, like [Template unavailable in the 2018 archive: math — x], and operators like &lt;code&gt;×&lt;/code&gt; should not use the plain letter &lt;code&gt;x&lt;/code&gt;. See [math font formatting](/MOS:MATH#Font_formatting). For a comprehensive set of symbols, and comparison between [Template unavailable in the 2018 archive: tag — math; o] tags and the [Template unavailable in the 2018 archive: tl — math] template see section [*TeX vs HTML*](/Help:Displaying_a_formula#TeX_vs_HTML).
+
+- The [Template unavailable in the 2018 archive: tag — math; o] tag typesets using [LaTeX markup](/MOS:MATH#Typesetting_of_mathematical_formulae), which may render as an image or as HTML, depending on environmental settings. The [Template unavailable in the 2018 archive: tag — math; o] tag is best for the complex formula on its own line in an image format. If you use this tag to put a formula in the line with text, put it in the [Template unavailable in the 2018 archive: tl — nowrap] template.
+
+- The [Template unavailable in the 2018 archive: tl — math] template [uses HTML](/MOS:MATH#Using_HTML), and will size-match a serif font, and will also prevent line-wrap. All templates are sensitive to the &lt;code&gt;=&lt;/code&gt; sign, so remember to replace &lt;code&gt;=&lt;/code&gt; with &lt;code&gt;[Template unavailable in the 2018 archive: tl — [Template unavailable in the 2018 archive: =]]&lt;/code&gt; in template input, or start the input with &lt;code&gt;1=&lt;/code&gt;. Use wikimarkup &lt;code&gt;&lt;nowiki&gt;*&lt;/nowiki&gt;&lt;/code&gt; and &lt;code&gt;&lt;nowiki&gt;**&lt;/nowiki&gt;&lt;/code&gt; inside the [Template unavailable in the 2018 archive: tl — math] template, as well as other [HTML entities](/Wikipedia:Mathematical_symbols). The [Template unavailable in the 2018 archive: tl — math] template is best for typeset formulas in line with the text.
+
+[Template unavailable in the 2018 archive: markup — &lt;source lang=&quot;tex&quot; inline&gt;
+&lt;math&gt;2x \times 4y \div 6z + 8 - \frac {y}{z^2} = 0&lt;/math&gt;
+&lt;/source&gt;
+
+&lt;source lang=&quot;html&quot; inline&gt;
+[Template unavailable in the 2018 archive: math — 2*x* × 4*y* ÷ 6*z* + 8 − [Template unavailable in the 2018 archive: sfrac — *y*; *z*&lt;sup&gt;2&lt;/sup&gt;] [Template unavailable in the 2018 archive: =] 0]
+&lt;/source&gt;
+
+&lt;source lang=&quot;tex&quot; inline&gt;
+&lt;math&gt;\sin 2\pi x + \ln e&lt;/math&gt;
+&lt;/source&gt;
+&lt;nowiki&gt;
+[Template unavailable in the 2018 archive: math — sin 2&amp;pi;*x* + ln *e*]
+&lt;/nowiki&gt;; &lt;math&gt;2x \times 4y \div 6z + 8 - \frac {y}{z^2} = 0&lt;/math&gt;
+[Template unavailable in the 2018 archive: crlf]
+
+[Template unavailable in the 2018 archive: math — 2*x* × 4*y* ÷ 6*z* + 8 − [Template unavailable in the 2018 archive: sfrac — *y*; *z*&lt;sup&gt;2&lt;/sup&gt;] [Template unavailable in the 2018 archive: =] 0]
+
+&lt;math&gt;\sin 2\pi x + \ln e&lt;/math&gt;[Template unavailable in the 2018 archive: crlf]
+[Template unavailable in the 2018 archive: math — sin 2π*x* + ln *e*]]
+
+##### Spacing in simple math formulae
+- Using **&lt;code&gt;&amp;nbsp;&lt;/code&gt;** to prevent line break is not needed; the [Template unavailable in the 2018 archive: tl — math] template will prevent line breaks anyway; you can use [Template unavailable in the 2018 archive: tag — br; s] if you need an explicit line break inside a formula.
+
+[Template unavailable in the 2018 archive: markup — &lt;source lang=&quot;html&quot; inline&gt;
+It follows that [Template unavailable in the 2018 archive: math — *x*&lt;sup&gt;2&lt;/sup&gt; ≥ 0] for real [Template unavailable in the 2018 archive: mvar — x].
+&lt;/source&gt;; 2=
+
+It follows that [Template unavailable in the 2018 archive: math — *x*&lt;sup&gt;2&lt;/sup&gt; ≥ 0] for real [Template unavailable in the 2018 archive: mvar — x].]
+
+##### Complicated formulae
+- See [Displaying a formula](/Help:Displaying_a_formula) for how to use [Template unavailable in the 2018 archive: tag — math; o].
+- A formula displayed on a line by itself should probably be indented by using the colon (:) character.
+
+[Template unavailable in the 2018 archive: markup — &lt;source lang=&quot;latex&quot; inline&gt;
+&lt;math&gt;\sum_{n=0}^\infty \frac{x^n}{n!}&lt;/math&gt;
+&lt;/source&gt;; 2=[Template unavailable in the 2018 archive: crlf2]
+&lt;math&gt;\sum_{n=0}^\infty \frac{x^n}{n!}&lt;/math&gt;]
+
+### Links and URLs
+[Template unavailable in the 2018 archive: main — Help:Link]
+
+#### Free links
+In [Wikipedia](/Wikipedia) and some other [wiki](/wiki)s, **free links** are used in [wikitext](/wikitext) markup to produce [internal link](/internal_link)s between pages, as opposed to the concept of [CamelCase](/CamelCase) for the same purpose, which was used in the early days of Wikipedia – see [CamelCase and Wikipedia](/Wikipedia:CamelCase_and_Wikipedia).
+
+In [Wikipedia&#39;s markup language](/Wikipedia:How_to_edit_a_page#Wiki_markup), you create free links by putting double square brackets around text designating the title of the page you want to link to. Thus, &lt;code&gt;&lt;nowiki&gt;[Texas](/Texas)&lt;/nowiki&gt;&lt;/code&gt; will be rendered as [Texas](/Texas). Optionally, you can use a [vertical bar](/vertical_bar) (|) to customize the link title. For example, typing &lt;code&gt;&lt;nowiki&gt;[Lone Star State](/Texas)&lt;/nowiki&gt;&lt;/code&gt; will produce [Lone Star State](/Texas), a link that is displayed as &quot;&lt;u&gt;Lone Star State&lt;/u&gt;&quot; but in fact links to [Texas](/Texas).
+
+##### Link to another wiki article
+- Internally, the first letter of the target page is automatically capitalized and spaces are represented as underscores (typing an underscore in the link has the same effect as typing a space, but is not recommended).
+- Thus the link hereafter is to the Web address &lt;code&gt;en.wikipedia.org/wiki/Public_transport&lt;/code&gt;, which is the Wikipedia article with the name &quot;Public transport&quot;. See also [Canonicalization](/Help:Link#Conversion_to_canonical_form).
+- [A red link](/Intentionally_permanent_red_link) is a page that doesn&#39;t exist yet; it can be created by clicking on the link.
+- [A link to its own page](/Help:Self_link) will appear only as bold text.
+
+[Template unavailable in the 2018 archive: markup — &lt;nowiki&gt;London has [public transport](/public_transport).&lt;/nowiki&gt;; London has [public transport](/public_transport).; &lt;nowiki&gt;Link to this article: &quot;[Wikitext](/Help:Wikitext)&quot; will appear only as bold text.&lt;/nowiki&gt;; Link to this article: &quot;[Wikitext](/Help:Wikitext)&quot; will appear only as bold text.]
+
+##### Renamed link
+- Same target, different name.
+- The target (&quot;piped&quot;) text must be placed **first**, then the text to be displayed **second**.
+
+What you type
+What it looks like
+
+&lt;code&gt;&lt;nowiki&gt;New York also has [public transportation](/public_transport).&lt;/nowiki&gt;&lt;/code&gt;
+New York also has [public transportation](/public_transport).
+
+##### Automatically rename links
+- Simply typing the pipe character | after a link will automatically rename the link in certain circumstances. The next time you open the edit box you will see the expanded piped link. When [previewing](/Help:Show_preview) your edits, you will not see the expanded form until you press **Save** and **Edit** again. The same applies to [links to sections within the same page](/#link-to-section).
+- See [Pipe trick](/Help:Pipe_trick) for details.
+
+Description
+What you type
+What it looks like
+
+*Automatically hide stuff in parentheses*
+&lt;code&gt;&lt;nowiki&gt;[](/kingdom_(biology))&lt;/nowiki&gt;&lt;/code&gt;
+[kingdom](/kingdom_(biology))
+
+*Automatically hide the comma and following text*
+]]&lt;/nowiki&gt;&lt;/code&gt;
+Seattle]]
+
+*Automatically hide namespace*
+&lt;code&gt;&lt;nowiki&gt;[](/Wikipedia:Village_pump)&lt;/nowiki&gt;&lt;/code&gt;
+[Village pump](/Wikipedia:Village_pump)
+
+*Or both*
+&lt;code&gt;&lt;nowiki&gt;[](/Wikipedia:Manual_of_Style_(headings))&lt;/nowiki&gt;&lt;/code&gt;
+[Manual of Style](/Wikipedia:Manual_of_Style_(headings))
+
+*&lt;b&gt;But this doesn&#39;t work for section links**
+&lt;code&gt;&lt;nowiki&gt;[](/Wikipedia:Manual_of_Style#Links)&lt;/nowiki&gt;&lt;/code&gt;
+[](/Wikipedia:Manual_of_Style#Links)
+
+##### Blend link
+- Endings are blended into the link. 
+  - *Exception*: a trailing [apostrophe](/apostrophe) (&#39;) and any characters following the apostrophe are *not* blended.
+- Preferred style is to use this instead of a piped link, if possible.
+- Blending can be suppressed by using the [[#Nowiki|[Template unavailable in the 2018 archive: tag — nowiki; s]]] tag, which may be desirable in some instances.
+
+Description
+What you type
+What it looks like
+
+*Blending active*
+&lt;code&gt;&lt;nowiki&gt;San Francisco also has [public transport](/public_transport)ation. Examples include [bus](/bus)es, [taxicab](/taxicab)s, and [tram](/tram)s.&lt;/nowiki&gt;&lt;/code&gt;
+San Francisco also has [public transport](/public_transport)ation. Examples include [bus](/bus)es, [taxicab](/taxicab)s, and [tram](/tram)s.
+
+&lt;code&gt;&lt;nowiki&gt;A [micro-](/micro-)second&lt;/nowiki&gt;&lt;/code&gt;
+A [micro-](/micro-)second
+
+*Blending suppressed*
+&lt;code&gt;&lt;nowiki&gt;A [micro-](/micro-)&lt;nowiki /&gt;second.&lt;/nowiki&gt;&lt;/code&gt;
+A [micro-](/micro-)&lt;nowiki /&gt;second
+
+##### Link to a section of a page
+- The part after the hash sign (#) must match a [section heading](/Section_editing#Creation_and_numbering_of_sections) on the page. Matches must be exact in terms of spelling, case, and punctuation. Links to non-existent sections are not broken; they are treated as links to the beginning of the page.
+- Include &quot;| link title&quot; to create a stylish ([piped](/WP:Piping)) link title.
+- If sections have the same title, add a number to link to any but the first. [#Example section 3](/#Example_section_3) goes to the third section named &quot;Example section&quot;. You can use the pipe and retype the section title to display the text without the # symbol.
+
+What you type
+What it looks like
+
+&lt;code&gt;&lt;nowiki&gt;[Manual of Style#Italics](/Wikipedia:Manual_of_Style#Italics) is a link to a section within another page.&lt;/nowiki&gt;&lt;/code&gt;
+[Manual of Style#Italics](/Wikipedia:Manual_of_Style#Italics) is a link to a section within another page.
+
+&lt;code&gt;&lt;nowiki&gt;[#Links and URLs](/#Links_and_URLs) is a link to another section on the current page. [Links and URLs](/#Links_and_URLs) is a link to the same section without showing the # symbol.&lt;/nowiki&gt;&lt;/code&gt;
+[#Links and URLs](/#Links_and_URLs) is a link to another section on the current page. [Links and URLs](/#Links_and_URLs) is a link to the same section without showing the # symbol.
+
+&lt;code&gt;&lt;nowiki&gt;[Italics](/Wikipedia:Manual_of_Style#Italics) is a piped link to a section within another page.&lt;/nowiki&gt;&lt;/code&gt;
+[Italics](/Wikipedia:Manual_of_Style#Italics) is a piped link to a section within another page.
+
+##### Create a page link
+- To create a new page:
+- # Create a link to it on some other (related) page.
+- # Save that page.
+- # Click on the link you just made. The new page will open for editing.
+- For more information, see [starting an article](/Wikipedia:Starting_an_article) and check out Wikipedia&#39;s [naming conventions](/Wikipedia:Naming_conventions).
+- Please do not create a new article without linking to it from at least one other article.
+
+Description
+What you type
+What it looks like
+
+*Links to pages that don’t exist yet look red.*
+&lt;code&gt;&lt;nowiki&gt;The article about [cardboard sandwiches](/cardboard_sandwiches) doesn&#39;t exist yet.&lt;/nowiki&gt;&lt;/code&gt;
+The article about [cardboard sandwiches](/cardboard_sandwiches) doesn&#39;t exist yet.
+
+#### Redirects
+[Template unavailable in the 2018 archive: main — Help:Redirect]
+
+- [Redirect](/Wikipedia:Redirect) one article title to another by placing a directive like the one shown to the right on the *first* line of the article (such as at a page titled &quot;[USA](/USA)&quot;).
+- It is possible to redirect to a section. For example, a redirect to [United States#History](/United_States#History) will redirect to the History section of the [United States](/United_States) page, if it exists.
+
+Description
+What you type
+
+*Redirect to an article*
+&lt;code&gt;&lt;nowiki&gt;#REDIRECT [United States](/United_States) &lt;/nowiki&gt;&lt;/code&gt;
+
+*Redirect to a section*
+&lt;code&gt;&lt;nowiki&gt;#REDIRECT [United States#History](/United_States#History)&lt;/nowiki&gt;&lt;/code&gt;
+
+#### Link to another [namespace](/Help:namespace)
+- The full page name should be included in double square brackets.
+
+What you type
+What it looks like
+
+&lt;code&gt;&lt;nowiki&gt;See the [Manual of Style](/Wikipedia:Manual_of_Style).&lt;/nowiki&gt;&lt;/code&gt;
+See the [Manual of Style](/Wikipedia:Manual_of_Style).
+
+#### Link to the same article in another language (interlanguage links)
+[Template unavailable in the 2018 archive: main — Help:Interlanguage links; Wikipedia:Complete list of language wikis available]
+[Template unavailable in the 2018 archive: notice — After the launch of [Wikidata](/Wikipedia:Wikidata), interlanguage links are now added through it. Links in articles should exist only in special cases, for example when an article in one language has two articles in another language.]
+
+- To link to a corresponding page in another language, use the form: &lt;code&gt;&lt;nowiki&gt;[&lt;em&gt;Foreign title&lt;/em&gt;&lt;nowiki&gt;](/&lt;/nowiki&gt;&lt;em&gt;language_code&lt;/em&gt;:&lt;em&gt;Foreign_title&lt;/em&gt;&lt;nowiki&gt;)&lt;/nowiki&gt;&lt;/code&gt;.
+- It is recommended interlanguage links be placed at the very end of the article.
+- Interlanguage links are not visible within the formatted article, but instead appear as language links on the sidebar (to the left) under the menu section &quot;languages&quot;.
+
+- **NOTE:** To create an **inline link** (a clickable link within the text) to *any* foreign language article, see [Interlanguage links#Inline interlanguage links](/Help:Interlanguage_links#Inline_interlanguage_links) and consider the usage notes.
+
+Description
+What you type
+
+*Link from English article &quot;Plankton&quot; to the Spanish article [&quot;Plancton&quot;](/es:Plancton).*
+
+*&quot;es&quot; is the language code for &quot;[Template unavailable in the 2018 archive: lang — es; español]&quot; (the [Spanish language](/Spanish_language)).*
+
+[Plancton](/es:Plancton)
+
+*Other examples: French (&lt;code&gt;fr&lt;/code&gt; for [Template unavailable in the 2018 archive: lang — fr; français]), German (&lt;code&gt;de&lt;/code&gt; for [Template unavailable in the 2018 archive: lang — de; Deutsch]), Russian (&lt;code&gt;ru&lt;/code&gt;), and simple English (&lt;code&gt;simple&lt;/code&gt;).*
+
+[Plancton](/fr:Plancton)
+[Plankton](/de:Plankton)
+[Планктон](/ru:Планктон)
+[Plankton](/simple:Plankton)
+
+#### Interwiki link
+- [Interwiki links](/Interwiki_links) link to any page on other wikis. [Interwikimedia links](/Help:Interwikimedia_links) link to other Wikimedia wikis.
+- Note that interwikimedia links use the internal link style, with double square brackets.
+- See [Interwiki map](/MetaWikiPedia:Interwiki_map) for the list of shortcuts; if the site you want to link to is not on the list, use an [external link](/#External_links).
+- See also [Wikimedia sister projects](/Wikipedia:Wikimedia_sister_projects).
+
+Description
+What you type
+What it looks like
+
+Linking to a page on another wiki in English.
+
+All of these forms lead to the URL &lt;em&gt;http://en.wiktionary.org/wiki/hello&lt;/em&gt;.
+
+*Simple link.*
+
+*Without prefix.*
+
+*Named link.*
+&lt;code&gt;&lt;nowiki&gt;[hello](/Wiktionary:hello)&lt;/nowiki&gt;&lt;/code&gt;
+
+&lt;code&gt;&lt;nowiki&gt;[](/Wiktionary:hello)&lt;/nowiki&gt;&lt;/code&gt;
+
+&lt;code&gt;&lt;nowiki&gt;[Wiktionary definition of &quot;hello&quot;](/Wiktionary:hello) &lt;/nowiki&gt;&lt;/code&gt;
+[hello](/Wiktionary:hello)
+
+[hello](/Wiktionary:hello)
+
+[Wiktionary definition of &quot;hello&quot;](/Wiktionary:hello)
+
+Linking to a page on another wiki in another language.
+
+All of these forms lead to the URL &lt;em&gt;http://fr.wiktionary.org/wiki/bonjour&lt;/em&gt;.
+
+*Simple link.*
+
+*Without prefix.*
+
+*Named link.*
+&lt;code&gt;&lt;nowiki&gt;[fr:bonjour](/Wiktionary:fr:bonjour)&lt;/nowiki&gt;&lt;/code&gt;
+
+&lt;code&gt;&lt;nowiki&gt;[](/Wiktionary:fr:bonjour)&lt;/nowiki&gt;&lt;/code&gt;
+
+&lt;code&gt;&lt;nowiki&gt;[bonjour](/Wiktionary:fr:bonjour)&lt;/nowiki&gt;&lt;/code&gt;
+[fr:bonjour](/Wiktionary:fr:bonjour)
+
+[fr:bonjour](/Wiktionary:fr:bonjour)
+
+[bonjour](/Wiktionary:fr:bonjour)
+
+#### Categories
+- To put an article in a [category](/Wikipedia:Categorization), place a link like &lt;code&gt;&lt;nowiki&gt;[Example](/Category:Example)&lt;/nowiki&gt;&lt;/code&gt; into the article. As with interlanguage links, placing these links at [the end of the article](/WP:FOOTERS) is recommended.
+- To link to a category page without putting the article into the category, use a colon prefix (&quot;:Category&quot;) in the link.
+
+Description
+What you type
+What it looks like
+
+*Categorize an article.*
+&lt;code&gt;&lt;nowiki&gt;[Character sets](/Category:Character_sets)&lt;/nowiki&gt;&lt;/code&gt;
+
+*Link to a category.*
+&lt;code&gt;&lt;nowiki&gt;[Category:Character sets](/Category:Character_sets)&lt;/nowiki&gt;&lt;/code&gt;
+[Category:Character sets](/Category:Character_sets)
+
+*Without prefix.*
+&lt;code&gt;&lt;nowiki&gt;[](/Category:Character_sets)&lt;/nowiki&gt;&lt;/code&gt;
+[Character sets](/Category:Character_sets)
+
+#### External links
+
+- Single square brackets indicate an external link. Note the use of a *space* (not a pipe |) to separate the URL from the link text in a named link. Square brackets may be used as normal punctuation when not linking to anything – [like this].
+- A [URL](/Uniform_Resource_Locator) must begin with a supported [URI scheme](/URI_scheme): &lt;code&gt;http://&lt;/code&gt; and &lt;code&gt;https://&lt;/code&gt; will be supported by all browsers; &lt;code&gt;irc://&lt;/code&gt;, &lt;code&gt;ircs://&lt;/code&gt;, &lt;code&gt;ftp://&lt;/code&gt;, &lt;source inline&gt;news://&lt;/source&gt;, &lt;code&gt;mailto:&lt;/code&gt;, and &lt;code&gt;gopher://&lt;/code&gt; will require a plugin or an external application. IPv6 addresses in URLs are currently not supported.
+- A URL containing certain characters will display and link incorrectly unless those characters are [percent encoded](/Percent-encoding). For example, a space must be replaced by &lt;code&gt;%20&lt;/code&gt;. Encoding can be achieved by:
+*Use the link button ![Vector toolbar insert link button.png](/assets/uploads/Vector_toolbar_insert_link_button.png) on the enhanced editing toolbar to encode the link; this tool will add the bracket markup and the linked text, which may not always be desirable.
+*Or manually encode the URL by replacing these characters:
+
+*space* !! &quot; !! &#39; !! , !! ; !! &lt; !! &gt; !! ? !! [ !! ]
+
+ %22 || %27 || %2c || %3b || %3c || %3e || %3f || %5b || %5d
+
+*Or use the &lt;nowiki&gt;[Template unavailable in the 2018 archive: urlencode:]&lt;/nowiki&gt; magic word. See [Help:Magic words](/mw:Help:Magic_words#URL_data) in the MediaWiki documentation for more details.
+
+- See [External links](/Wikipedia:External_links) for style issues, and [External link file type templates](/Category:External_link_file_type_templates) for indicating the file type of an external link with an icon.
+
+Description
+What you type
+What it looks like
+
+*Named link* with an [external link icon](/Help:external_link_icons)
+&lt;code&gt;&lt;nowiki&gt;[Wikipedia](http://www.wikipedia.org)&lt;/nowiki&gt;&lt;/code&gt;
+[Wikipedia](http://www.wikipedia.org)
+
+*Unnamed link*
+
+*(Used only within article body for footnotes)*
+&lt;code&gt;&lt;nowiki&gt;[http://www.wikipedia.org](http://www.wikipedia.org)&lt;/nowiki&gt;&lt;/code&gt;
+[http://www.wikipedia.org](http://www.wikipedia.org)
+
+*Bare URL*
+
+*(Bad style)*  
+
+use &lt;nowiki&gt;&lt;nowiki&gt;&lt;/nowiki&gt;&lt;/nowiki&gt; to keep this bad style from showing
+&lt;code&gt;&lt;nowiki&gt;http://www.wikipedia.org&lt;/nowiki&gt;&lt;/code&gt;
+http://www.wikipedia.org
+
+*Link without arrow*
+
+*(Not often used)*
+&lt;code&gt;&lt;nowiki&gt;[Wikipedia](http://www.wikipedia.org)&lt;/nowiki&gt;&lt;/code&gt;
+ [Wikipedia](http://www.wikipedia.org)
+
+#### Automatic links
+[Template unavailable in the 2018 archive: main — Help:Magic links]
+
+Magic links are automatic links for certain unique identifiers that require no markup. They can be used for ISBN numbers, RFC numbers, and PMID numbers.
+
+##### Book sources
+- Link to books using their [ISBN](/Wikipedia:ISBN), which creates a link to [BookSources](/Special:BookSources). This is preferred to linking to a specific online bookstore, because it gives the reader a choice of vendors. However, if one bookstore or online service provides additional free information, such as table of contents or excerpts from the text, then a link to that source will aid the user and is recommended. ISBN links do not need any extra markup, provided you use one of the indicated formats.
+- To create a link to [BookSources](/Special:BookSources) using alternative text (e.g. the book&#39;s title), use the internal link style with the appropriate namespace.
+
+What you type
+What it looks like
+
+&lt;code&gt;&lt;nowiki&gt;[Template unavailable in the 2018 archive: ISBN — 022628705X]&lt;/nowiki&gt;&lt;/code&gt;
+[Template unavailable in the 2018 archive: ISBN — 022628705X]
+
+&lt;code&gt;&lt;nowiki&gt;[Template unavailable in the 2018 archive: ISBN — 0-22-628705-X]&lt;/nowiki&gt;&lt;/code&gt;
+[Template unavailable in the 2018 archive: ISBN — 0-22-628705-X]
+
+&lt;code&gt;&lt;nowiki&gt;Link to a book using [alternative text, such as its title](/Special:BookSources/0670037818)&lt;/nowiki&gt;&lt;/code&gt;
+Link to a book using [alternative text, such as its title](/Special:BookSources/0670037818)
+
+##### RFC number
+- Link to an [Internet Engineering Task Force](/Internet_Engineering_Task_Force) [Request for Comments (RFC)](/Request_for_Comments).
+
+What you type
+What it looks like
+
+&lt;code&gt;&lt;nowiki&gt;Text mentioning an RFC number anywhere, e.g. RFC 4321.&lt;/nowiki&gt;&lt;/code&gt;
+Text mentioning an RFC number anywhere, e.g. RFC 4321.
+
+#### Miscellaneous
+##### &quot;As of&quot; template
+- The *[As of](/Wikipedia:As_of)* template generates phrases like &quot;As of April 2009&quot; or &quot;as of April 2009&quot;, and categorize information that will need updating. For an explanation of the parameters see the [Template unavailable in the 2018 archive: tl — As of] documentation.
+
+What you type
+What it looks like
+
+&lt;code&gt;&lt;nowiki&gt;[Template unavailable in the 2018 archive: As of — 2009; 4; df=us]&lt;/nowiki&gt;&lt;/code&gt;
+[Template unavailable in the 2018 archive: As of — 2009; 4; df=us]
+
+&lt;code&gt;&lt;nowiki&gt;[Template unavailable in the 2018 archive: As of — 2009; 4; df=us; lc=y]&lt;/nowiki&gt;&lt;/code&gt;
+[Template unavailable in the 2018 archive: As of — 2009; 4; df=us; lc=y]
+
+##### Media link
+- To include links to non image uploads such as sounds, use a &quot;media&quot; link. For images, [see next section](/#Images).
+- Some uploaded sounds are listed at [Sound](/Commons:Sound).
+
+What you type
+What it looks like
+
+&lt;code&gt;&lt;nowiki&gt;[Sound](/media:Classical_guitar_scale.ogg)&lt;/nowiki&gt;&lt;/code&gt;
+[Sound](/media:Classical_guitar_scale.ogg)
+
+##### Links directly into edit mode
+- These create links that directly go to the edit or view source tab. For example, to create links to the edit tab for this page, either of the following works:
+
+Description
+What you type
+What it looks like
+
+Using the [Template unavailable in the 2018 archive: tl — fullurl] template
+&lt;code&gt;&lt;nowiki&gt;[[Template unavailable in the 2018 archive: fullurl:Help:Wiki markup — archived-action-removed] edit]&lt;/nowiki&gt;&lt;/code&gt;
+[[Template unavailable in the 2018 archive: fullurl:Help:Wiki markup — archived-action-removed] edit]
+
+Using the [Template unavailable in the 2018 archive: tl — Edit] template
+&lt;code&gt;&lt;nowiki&gt;[Template unavailable in the 2018 archive: edit]&lt;/nowiki&gt;&lt;/code&gt;
+[Template unavailable in the 2018 archive: edit]
+
+##### Links partially italicized
+- Linking to a page with a title containing words that are usually italicized, such as the [*Hindenburg* disaster](/Hindenburg_disaster) article.
+
+What you type
+What it looks like
+
+&lt;code&gt;&lt;nowiki&gt;[*Hindenburg* disaster](/Hindenburg_disaster)&lt;/nowiki&gt;&lt;/code&gt;
+[*Hindenburg* disaster](/Hindenburg_disaster)
+
+### Pronunciation aids
+It is often desirable to provide an aid to pronunciation for a word. The [*IPAc-en*](/Template:IPAc-en) and [*Respell*](/Template:Respell) templates can be of assistance.
+
+What you type
+What it looks like
+
+&lt;code&gt;&lt;nowiki&gt;**Konjac** [Template unavailable in the 2018 archive: IPAc-en — lang; pron; ˈ; k; oʊ; n; j; æ; k]&lt;/nowiki&gt;&lt;/code&gt;
+**Konjac** [Template unavailable in the 2018 archive: IPAc-en — lang; pron; ˈ; k; oʊ; n; j; æ; k]
+
+&lt;code&gt;&lt;nowiki&gt;**Konjac** ([Template unavailable in the 2018 archive: IPAc-en — lang; pron; ˈ; k; oʊ; n; j; æ; k] [Template unavailable in the 2018 archive: respell — KOHN; yak])&lt;/nowiki&gt;&lt;/code&gt;
+**Konjac** ([Template unavailable in the 2018 archive: IPAc-en — lang; pron; ˈ; k; oʊ; n; j; æ; k] [Template unavailable in the 2018 archive: respell — KOHN; yak])
+
+&lt;code&gt;&lt;nowiki&gt;*Konjac* is pronounced [Template unavailable in the 2018 archive: IPAc-en — ˈ; k; oʊ; n; j; æ; k] in English.&lt;/nowiki&gt;&lt;/code&gt;
+*Konjac* is pronounced [Template unavailable in the 2018 archive: IPAc-en — ˈ; k; oʊ; n; j; æ; k] in English.
+
+Refer to [Manual of Style (pronunciation)](/Wikipedia:Manual_of_Style_(pronunciation)) for more information.
+
+### Musical notation
+[Template unavailable in the 2018 archive: main — Help:Score]
+Musical notation is added by using the [Template unavailable in the 2018 archive: xtag — score; p] extension tag. For example:
+[Template unavailable in the 2018 archive: markup — &lt;nowiki&gt;&lt;score&gt;\relative c&#39; { fis d fis a d f e d c cis d e a g f ees }&lt;/score&gt;&lt;/nowiki&gt;; &lt;score&gt;\relative c&#39; { fis d fis a d f e d c cis d e a g f ees }&lt;/score&gt;]
+
+### Images
+[Template unavailable in the 2018 archive: Main page — Help:Visual file markup; Wikipedia:Images]
+Only images that have been uploaded to Wikipedia or [Wikipedia Commons](/commons:main) can be used. To upload images, use the [Commons upload wizard](/commons:Special:UploadWizard) for photos you have taken, and the [upload page](/Special:Upload) if there maybe copyright issues. You can find the uploaded image on the [image list](/Special:Imagelist).
+
+See the Wikipedia&#39;s [image use policy](/Wikipedia:Image_use_policy) for the policy used on Wikipedia.
+
+For further help on images, including some more versatile abilities, see the [picture tutorial](/WP:PIC) and [extended image syntax](/Wikipedia:Extended_image_syntax).
+
+What you type
+What it looks like
+Notes
+- style=&quot;vertical-align:top;&quot;
+The image name, the word thumb then the caption : 
+&lt;nowiki&gt;![Wikipedia logo](/assets/uploads/wiki.png)&lt;/nowiki&gt; 
+
+The image name, the word thumb then the caption : 
+![Wikipedia logo](/assets/uploads/wiki.png) &lt;br style=&quot;clear:both&quot;/&gt;
+
+- The thumb tag automatically allows the image to be enlarged and positions it (floats) automatically to the right of the page.
+- An enlarge icon is placed in the lower right corner.
+- See note below about adding an [alt tag](/#alt_tag)
+- This is the basic markup for most images
+
+- style=&quot;vertical-align: top;&quot;
+A picture: &lt;nowiki&gt;![wiki.png](/assets/uploads/wiki.png)&lt;/nowiki&gt;
+
+A picture: ![wiki.png](/assets/uploads/wiki.png)
+
+- The picture name alone places the image in the text, or on the next line if there is insufficient space.
+- Embedding the image in the text is only possible for very small images.
+- Embedding the image will affect the vertical formatting of text.
+- style=&quot;vertical-align: top;&quot;
+With alternative text: 
+&lt;nowiki&gt;![alt=Puzzle globe logo](/assets/uploads/wiki.png)&lt;/nowiki&gt;
+
+With alternative text: 
+![alt=Puzzle globe logo](/assets/uploads/wiki.png)
+
+- [Template unavailable in the 2018 archive: anchor — alt tag]Alternative text, used when the image is unavailable or when the image is loaded in a text-only browser, or when spoken aloud, is **strongly** encouraged. See [Alternative text for images](/Wikipedia:Alternative_text_for_images) for help on choosing it.
+
+- style=&quot;vertical-align:top;&quot;
+With link: 
+&lt;nowiki&gt;![link=Wikipedia](/assets/uploads/wiki.png)&lt;/nowiki&gt;
+
+With link: 
+![link=Wikipedia](/assets/uploads/wiki.png) &lt;br style=&quot;clear:both&quot;/&gt;
+- The link directs to the Wikipedia page, [Wikipedia](/Wikipedia), instead of the image file page.
+
+- style=&quot;vertical-align:top;&quot;
+Forced to the centre of the page
+using the *frame* tag (attribute), a *centre* tag and a caption: 
+&lt;nowiki&gt;![Wikipedia logo](/assets/uploads/wiki.png)&lt;/nowiki&gt; 
+
+Forced to the centre of the page using the *frame* tag (attribute), a *centre* tag and a caption:
+![Wikipedia logo](/assets/uploads/wiki.png) &lt;br style=&quot;clear:both&quot;/&gt;
+
+- The frame tag automatically floats the image right.
+- The frame tag is only of use with very small images or ones using the [px tag](/#px_tag)
+- The attributes left, center or centre override this, and places the image to the left or the centre of the page. [Template unavailable in the 2018 archive: anchor — upright tag]
+- The last parameter is the caption that appears below the image.
+
+- style=&quot;vertical-align:top;&quot;
+Forced to the left side of the page
+using the *thumb* attribute, the *left* attribute  and a caption: 
+&lt;nowiki&gt;![Wikipedia logo](/assets/uploads/wiki.png)&lt;/nowiki&gt; 
+
+Forced to the left side of the page using the *thumb* attribute, the *left* attribute  and a caption:
+![Wikipedia logo](/assets/uploads/wiki.png) &lt;br style=&quot;clear:both&quot;/&gt;
+
+- The thumb tag automatically floats the image right.
+- An enlarge icon is placed in the lower right corner.
+- The attributes left, center or centre override this, and places the image to the left or the centre of the page. 
+
+- style=&quot;vertical-align:top;&quot;
+Forced to the right side of the page
+*without* a caption: 
+&lt;nowiki&gt;![Wikipedia encyclopedia](/assets/uploads/wiki.png)&lt;/nowiki&gt;
+
+Forced to the right side of the page *without* a caption: 
+![Wikipedia encyclopedia](/assets/uploads/wiki.png)
+- Captions are only displayed when the thumb or frame attributes are present
+- The [picture tutorial](/WP:PIC) explains more options.
+
+- style=&quot;vertical-align:top;&quot;
+A picture resized to 50 pixels... 
+&lt;nowiki&gt;![Wikipedia encyclopedia](/assets/uploads/wiki.png)&lt;/nowiki&gt;
+
+A picture resized to 50 pixels... 
+![Wikipedia encyclopedia](/assets/uploads/wiki.png)
+
+- [Template unavailable in the 2018 archive: anchor — px tag]The [picture tutorial](/WP:PIC) explains more options.
+- This should be used very sparingly, thumb images are always of the same width. 
+- There is an [*upright* attribute](/#upright_tag) that can be used to display tall images. These tags are optimised for both laptop and mobile phone screens.
+
+- style=&quot;vertical-align:top;&quot;
+Linking directly to the description page of an image: 
+&lt;nowiki&gt;[File:wiki.png](/File:wiki.png)&lt;/nowiki&gt;
+
+Linking directly to the description page of an image: 
+[File:wiki.png](/File:wiki.png)
+
+- Clicking on an image displayed normally on a page also leads to the description page.
+
+- style=&quot;vertical-align:top;&quot;
+Linking directly to an image without displaying it: 
+&lt;nowiki&gt;[Image of jigsaw globe](/Media:wiki.png)&lt;/nowiki&gt;
+
+Linking directly to an image without displaying it: 
+[Image of jigsaw globe](/Media:wiki.png)
+
+- To include links to images shown as links instead of drawn on the page, use a &quot;media&quot; link.
+
+- style=&quot;vertical-align:top;&quot;
+&lt;source lang=&quot;html&quot;&gt;Example: 
+
+![Wikipedia encyclopedia](/assets/uploads/wiki.png)![50 px](/assets/uploads/wiki.png) &lt;/source&gt;
+
+Example: 
+
+![Wikipedia encyclopedia](/assets/uploads/wiki.png)![50 px](/assets/uploads/wiki.png) 
+
+- Using the [&lt;code&gt;span&lt;/code&gt; or &lt;code&gt;div&lt;/code&gt; elements](/span_and_div) to separate images from text (note that this may allow images to cover text).
+
+- style=&quot;vertical-align:top;&quot;
+&lt;nowiki&gt;Example:
+
+![50 px](/assets/uploads/wiki.png)
+
+![50 px](/assets/uploads/wiki.png)
+
+![50 px](/assets/uploads/wiki.png)
+
+Example:
+
+![50 px](/assets/uploads/wiki.png)
+
+![50 px](/assets/uploads/wiki.png)
+
+![50 px](/assets/uploads/wiki.png)
+
+- Using wiki markup to make a table in which to place a vertical column of images (this helps edit links match headers, especially in Firefox browsers).
+
+### Tables
+[Template unavailable in the 2018 archive: main — Help:Table]
+There are two ways to build tables:
+- In special wiki-markup (see [Table](/Help:Table)).
+- Using HTML elements: [Template unavailable in the 2018 archive: tag — table; o], [Template unavailable in the 2018 archive: tag — tr; o], [Template unavailable in the 2018 archive: tag — td; o] or [Template unavailable in the 2018 archive: tag — th; o].
+
+See also [When tables are appropriate](/Wikipedia:Manual_of_Style/Tables#Appropriate).
+
+### Columns
+[Template unavailable in the 2018 archive: main — Help:Columns]
+Use [Template unavailable in the 2018 archive: tl — colbegin] and [Template unavailable in the 2018 archive: tl — colend] to produce columns.
+
+### References and citing sources
+[Template unavailable in the 2018 archive: main — Wikipedia:Citing sources; Help:Footnotes]
+[Template unavailable in the 2018 archive: see also — APA style; The Chicago Manual of Style[Template unavailable in the 2018 archive: !]Chicago style; Harvard style; MLA style]
+
+Making a reference citing a printed or online source can be accomplished by using the [Template unavailable in the 2018 archive: tag — ref] tags. Inside these tags details about the reference are added.
+
+Details about the citation can be provided using a structure provided by various templates; the table below lists some typical citation components.
+
+What it&#39;s for !! What you type
+
+ [Template unavailable in the 2018 archive: tag — ref; params=name=&quot;name for reference&quot;; content=Use a closing tag]
+
+ [Template unavailable in the 2018 archive: Tlx — cite book]
+
+ [Template unavailable in the 2018 archive: Tlx — cite web]
+
+ [Template unavailable in the 2018 archive: para — isbn; 0-4397-0818-4] (ISBN of the book)
+
+ [Template unavailable in the 2018 archive: para — url; ht&lt;nowiki /&gt;tp://www.wikipedia.org]
+
+ [Template unavailable in the 2018 archive: para — title; title of source]
+
+ [Template unavailable in the 2018 archive: para — author; authors, use commas for multiple]
+
+ [Template unavailable in the 2018 archive: para — first; first name]
+
+ [Template unavailable in the 2018 archive: para — last; last name]
+
+ [Template unavailable in the 2018 archive: para — location; location of publisher]
+
+ [Template unavailable in the 2018 archive: para — publisher; who published the source]
+
+ [Template unavailable in the 2018 archive: para — date; 2007-09-21] (date of source)
+
+ [Template unavailable in the 2018 archive: para — year; year of source]
+
+ [Template unavailable in the 2018 archive: para — accessdate; 2008-12-25] (only if url= is included)
+
+ [Template unavailable in the 2018 archive: tag — ref; o; params=name=&quot;WikiMarkup&quot;]&lt;code&gt;&lt;nowiki&gt;[Template unavailable in the 2018 archive: cite web — url=http://en.wikipedia.org/w/index.php?title=Help:Wiki_markup; title=Help:Wiki markup; publisher=Wikimedia Foundation]&lt;/nowiki&gt;&lt;/code&gt;[Template unavailable in the 2018 archive: tag — ref; c]
+
+ [Template unavailable in the 2018 archive: tag — ref; s; params=name=&quot;WikiMarkup&quot;]
+
+ [Template unavailable in the 2018 archive: tlx — Citation needed; [Template unavailable in the 2018 archive: tls — DATE]]
+
+### Templates and transcluding pages
+[Template unavailable in the 2018 archive: main — Wikipedia:Transclusion]
+[Template unavailable in the 2018 archive: see also — Help:Template#Noinclude, includeonly, and onlyinclude]
+
+Examples for templates: &lt;nowiki&gt;[Template unavailable in the 2018 archive: pad — ...], [Template unavailable in the 2018 archive: math — ...], [Template unavailable in the 2018 archive: as of — ...], [Template unavailable in the 2018 archive: edit]&lt;/nowiki&gt;
+
+**[Templates](/Help:Template)** are segments of wiki markup that are meant to be copied automatically (&quot;transcluded&quot;) into a page.
+You add them by putting the template&#39;s name in &lt;nowiki&gt;[Template unavailable in the 2018 archive: double braces]&lt;/nowiki&gt;. It is also possible to transclude other pages by using &lt;nowiki&gt;[Template unavailable in the 2018 archive: :colon and double braces]&lt;/nowiki&gt;.
+
+There are three pairs of [tags](/html_element) that can be used in [wikitext](/wikitext) to control how transclusion affects parts of a template or article.
+They determine whether or not wikitext renders, either in its own article, which we will call &quot;**here**&quot;, or in another article where it is transcluded, which we will call &quot;**there**&quot;.
+- **&lt;nowiki&gt;&lt;noinclude&gt;&lt;/nowiki&gt;: ** the content **will not be rendered *there**. These tags have no effect *here*.
+- **&lt;nowiki&gt;&lt;includeonly&gt;&lt;/nowiki&gt;: ** the content  **will render only *there**, and  **will not render *here** (like [invisible ink](/invisible_ink) made visible by means of transclusion).
+- **&lt;nowiki&gt;&lt;onlyinclude&gt;&lt;/nowiki&gt;: ** the content **will render *here** and **will render *there**, but it will only render *there* what is between these tags.
+There can be several such section &quot;[elements](/HTML#Elements)&quot;. Also, they can be nested. All possible renderings are achievable. For example, to render *there* one or more sections of the page *here* use **&lt;nowiki&gt;&lt;onlyinclude&gt;&lt;/nowiki&gt;** tags. To append text *there*, wrap the addition in **&lt;nowiki&gt;&lt;includeonly&gt;&lt;/nowiki&gt;** tags before, within, or after the section. To omit portions of the section, nest **&lt;nowiki&gt;&lt;noinclude&gt;&lt;/nowiki&gt;** tags within it.
+
+If a page is transcluded without transclusion markup, it may cause an unintentional [categorization](/Help:Category#Putting_pages_in_categories). Any page transcluding it will contain the same category as the original page. Wrap the category markup with **&lt;nowiki&gt;&lt;noinclude&gt;&lt;/nowiki&gt;** tags to prevent incorrect categorization.
+[Template unavailable in the 2018 archive: anchor — hovertext]
+Some templates take *parameters*, as well, which you separate with the pipe character &lt;code&gt;|&lt;/code&gt;.
+
+What you type
+What it looks like
+
+[Template unavailable in the 2018 archive: Transclusion demo]
+[Template unavailable in the 2018 archive: Transclusion demo]
+
+[Template unavailable in the 2018 archive: Help:Transclusion demo]
+[Template unavailable in the 2018 archive: Help:Transclusion demo]
+
+This template takes two parameters,
+and creates underlined text with a
+hover box for many modern browsers
+supporting CSS:
+
+[Template unavailable in the 2018 archive: H:title — This is the hover text; Hover your mouse over this text]
+
+Go to this page to see the H:title
+template itself: [Template unavailable in the 2018 archive: tl — H:title]
+
+This template takes two parameters,
+and creates underlined text with a
+hover box for many modern browsers
+supporting CSS:
+
+[Template unavailable in the 2018 archive: H:title — This is the hover text; Hover your mouse over this text]
+
+Go to this page to see the H:title
+template itself: [Template unavailable in the 2018 archive: tl — H:title]
+
+### Talk and project pages
+These are likely to be helpful on [talk](/Help:Using_talk_pages) and [project pages](/Wikipedia:Project_namespace).
+
+#### Signing comments
+- The  *[tilde](/tilde)* character (~) is used when signing a comment on a talk page. Your username provides a link to your [user page](/Wikipedia:user_page).
+
+Description
+What you type
+What it looks like
+
+*You should sign your comments by appending four tildes to the comment, which adds your user name plus date/time.*
+&lt;code&gt;&lt;nowiki&gt;~~~~&lt;/nowiki&gt;&lt;/code&gt;
+[Username](/Special:Mypage) ([talk](/Special:Mytalk)) [Template unavailable in the 2018 archive: CURRENTTIME], [Template unavailable in the 2018 archive: CURRENTDAY] [Template unavailable in the 2018 archive: CURRENTMONTHNAME] [Template unavailable in the 2018 archive: CURRENTYEAR] (UTC)
+
+*Adding three tildes will add just your user name.*
+&lt;code&gt;&lt;nowiki&gt;~~~&lt;/nowiki&gt;&lt;/code&gt;
+[Username](/Special:Mypage) ([talk](/Special:Mytalk))
+
+*Adding five tildes gives the date/time alone.*
+&lt;code&gt;&lt;nowiki&gt;~~~~~&lt;/nowiki&gt;&lt;/code&gt;
+[Template unavailable in the 2018 archive: CURRENTTIME], [Template unavailable in the 2018 archive: CURRENTDAY] [Template unavailable in the 2018 archive: CURRENTMONTHNAME] [Template unavailable in the 2018 archive: CURRENTYEAR] (UTC)
+
+#### Linking to old revisions of pages, diffs, and specific history pages
+- The external link function is mainly used for these. Open an old revision or diff, and copy the [URL](/URL) from the address bar, pasting it where you want it.
+
+What you type
+What it looks like
+
+&lt;code&gt;&lt;nowiki&gt;[//en.wikipedia.org/w/index.php?title=Help:Wiki_markup&amp;diff=330350877&amp;oldid=330349143 Diff between revisions 330349143 and 330350877]&lt;/nowiki&gt;&lt;/code&gt;
+[//en.wikipedia.org/w/index.php?title=Help:Wiki_markup&amp;diff=330350877&amp;oldid=330349143 Diff between revisions 330349143 and 330350877]
+
+- You can also use an [internal diff link](/Help:Diff#Internal_links). **Unlike the template [Template unavailable in the 2018 archive: tl — diff], this kind of link can even be used in edit summaries.**
+
+What you type
+What it looks like
+
+&lt;code&gt;&lt;nowiki&gt;[Diff between revisions 330349143 and 330350877](/Special:Diff/330349143/330350877)&lt;/nowiki&gt;&lt;/code&gt;
+[Diff between revisions 330349143 and 330350877](/Special:Diff/330349143/330350877)
+
+- If the diff intended to be shown is between an immediately previous revision, the first parameter can be dropped.
+
+What you type
+What it looks like
+
+&lt;code&gt;&lt;nowiki&gt;[Diff between revisions 330349143 and 330350877](/Special:Diff/330350877)&lt;/nowiki&gt;&lt;/code&gt;
+[Diff between revisions 330349143 and 330350877](/Special:Diff/330350877)
+
+- For an old revision, you can also use a [permalink](/Help:Permanent_link). Though here only the main text is guaranteed to be retained (images and templates will be shown as they are today, not as they were at the time).
+
+What you type
+What it looks like
+
+&lt;code&gt;&lt;nowiki&gt;[Revision 330350877](/Special:Permalink/330350877)&lt;/nowiki&gt;&lt;/code&gt;
+[Revision 330350877](/Special:Permalink/330350877)
+
+#### What links here, and recent changes linked
+- The following markup can be used. For example, for the article [Beetroot](/Beetroot):
+
+What you type
+What it looks like
+
+&lt;code&gt;&lt;nowiki&gt;[WhatLinksHere/Beetroot](/Special:WhatLinksHere/Beetroot)&lt;/nowiki&gt;&lt;/code&gt;
+[WhatLinksHere/Beetroot](/Special:WhatLinksHere/Beetroot)
+
+&lt;code&gt;&lt;nowiki&gt;[RecentChangesLinked/Beetroot](/Special:RecentChangesLinked/Beetroot)&lt;/nowiki&gt;&lt;/code&gt;
+[RecentChangesLinked/Beetroot](/Special:RecentChangesLinked/Beetroot)
+
+#### User edits
+- Link to a user&#39;s [contributions page](/Help:User_contributions).
+
+Description
+What you type
+What it looks like
+
+*Username (registered users).*
+&lt;code&gt;&lt;nowiki&gt;[Contributions/UserName](/Special:Contributions/UserName)&lt;/nowiki&gt;&lt;/code&gt;
+[Contributions/UserName](/Special:Contributions/UserName)
+
+*[IPv4](/IPv4) address (unregistered users).*
+&lt;code&gt;&lt;nowiki&gt;[Contributions/192.0.2.0](/Special:Contributions/192.0.2.0)&lt;/nowiki&gt;&lt;/code&gt;
+[Contributions/192.0.2.0](/Special:Contributions/192.0.2.0)
+
+*[IPv6](/IPv6) address (unregistered users).*
+&lt;code&gt;&lt;nowiki&gt;[Contributions/2001:0db8:0000:0000:0000:ff00:0042:8329](/Special:Contributions/2001:0db8:0000:0000:0000:ff00:0042:8329)&lt;/nowiki&gt;&lt;/code&gt;
+[Contributions/2001:0db8:0000:0000:0000:ff00:0042:8329](/Special:Contributions/2001:0db8:0000:0000:0000:ff00:0042:8329)
+
+#### Coloring and highlighting text
+- Using the [Template unavailable in the 2018 archive: tl — Color] and [Template unavailable in the 2018 archive: tl — Font color] templates:
+
+What you type
+What it looks like
+
+&lt;code&gt;&lt;nowiki&gt;I will change the color in [Template unavailable in the 2018 archive: color — blue; the middle part of] this sentence.&lt;/nowiki&gt;&lt;/code&gt;
+
+I will change the color in [Template unavailable in the 2018 archive: color — blue; the middle part of] this sentence.
+
+&lt;code&gt;&lt;nowiki&gt;This is how to [Template unavailable in the 2018 archive: Font color — yellow; highlight part of a sentence].&lt;/nowiki&gt;&lt;/code&gt;
+
+This is how to [Template unavailable in the 2018 archive: Font color — yellow; highlight part of a sentence].
+
+#### Example text
+The [Template unavailable in the 2018 archive: tlx — xt] family of templates can be used on help pages and user pages to highlight e**x**ample te**x**t. 
+
+[Template unavailable in the 2018 archive: !bxt — It does not work in mainspace, that is articles.]
+
+What you type
+What you get
+
+&lt;kbd&gt;&lt;nowiki&gt;This is an [Template unavailable in the 2018 archive: &lt;/nowiki&gt;**xt**&lt;nowiki&gt; — A correct example] for comparison [Template unavailable in the 2018 archive: tick]&lt;/nowiki&gt;&lt;/kbd&gt;
+This is an [Template unavailable in the 2018 archive: xt — A correct example] for comparison [Template unavailable in the 2018 archive: tick]
+
+&lt;kbd&gt;&lt;nowiki&gt;this is an [Template unavailable in the 2018 archive: &lt;/nowiki&gt;**!xt**&lt;nowiki&gt; — An incorrect example] for example [Template unavailable in the 2018 archive: cross]&lt;/nowiki&gt;&lt;/kbd&gt;
+this is an [Template unavailable in the 2018 archive: !xt — An incorrect example] for example [Template unavailable in the 2018 archive: cross]
+
+&lt;kbd&gt;&lt;nowiki&gt;this is an [Template unavailable in the 2018 archive: &lt;/nowiki&gt;**mxt**&lt;nowiki&gt; — In monospace] for comparison&lt;/nowiki&gt;&lt;/kbd&gt;
+this is an [Template unavailable in the 2018 archive: mxt — In monospace] for comparison
+
+&lt;kbd&gt;&lt;nowiki&gt;this is an [Template unavailable in the 2018 archive: &lt;/nowiki&gt;**!mxt**&lt;nowiki&gt; — In monospace] for comparison&lt;/nowiki&gt;&lt;/kbd&gt;
+this is an [Template unavailable in the 2018 archive: !mxt — In monospace] for comparison
+
+&lt;kbd&gt;&lt;nowiki&gt;this is an [Template unavailable in the 2018 archive: &lt;/nowiki&gt;**bxt**&lt;nowiki&gt; — in bold] for comparison&lt;/nowiki&gt;&lt;/kbd&gt;
+this is an [Template unavailable in the 2018 archive: bxt — In bold] for comparison
+
+&lt;kbd&gt;&lt;nowiki&gt;this is an [Template unavailable in the 2018 archive: &lt;/nowiki&gt;**!bxt**&lt;nowiki&gt; — In bold] for comparison&lt;/nowiki&gt;&lt;/kbd&gt;
+this is an [Template unavailable in the 2018 archive: !bxt — In bold] for 
+
+#### Show deleted or inserted text
+[Template unavailable in the 2018 archive: details — Wikipedia:Talk page guidelines]
+- When editing your own previous remarks in talk pages, it is sometimes appropriate to mark up deleted or inserted content: 
+  - It is best to indicate deleted content using the strike-through markup [Template unavailable in the 2018 archive: tag — s].
+  - It is best to indicate inserted content using the underline markup [Template unavailable in the 2018 archive: tag — u].
+- When editing regular Wikipedia articles, just make your changes, and do not mark them up in any special way. However, when the article itself discusses deleted or inserted content, such as an amendment to a statute:
+  - It is best to indicate deleted content using the strike-through markup [Template unavailable in the 2018 archive: tag — del].
+  - It is best to indicate inserted content using the underline markup [Template unavailable in the 2018 archive: tag — ins].
+Note: [Template unavailable in the 2018 archive: tag — s; content=] and [Template unavailable in the 2018 archive: tag — u; content=] (speced in HTML 3 &amp; 4) are considerably more popular than [Template unavailable in the 2018 archive: tag — del; content=] and [Template unavailable in the 2018 archive: tag — ins; content=]  (speced in HTML 5) on Wikipedia.
+
+What you type
+What it looks like
+
+&lt;code&gt;&lt;nowiki&gt;You can &lt;del&gt;strike out deleted material&lt;/del&gt; and &lt;ins&gt;underline new material&lt;/ins&gt;.&lt;/nowiki&gt;&lt;/code&gt;
+You can &lt;del&gt;strike out deleted material&lt;/del&gt; and &lt;ins&gt;underline new material&lt;/ins&gt;.
+
+Alternative markup:
+
+&lt;code&gt;&lt;nowiki&gt;You can &lt;s&gt;strike out deleted material&lt;/s&gt; and &lt;u&gt;underline new material&lt;/u&gt;.&lt;/nowiki&gt;&lt;/code&gt;
+You can &lt;s&gt;strike out deleted material&lt;/s&gt; and &lt;u&gt;underline new material&lt;/u&gt;.
+
+#### Strike through
+[Template unavailable in the 2018 archive: anchor — Strikethrough]
+This is also possible with the [Template unavailable in the 2018 archive: tlx — strike]} template.
+
+What you type
+What you get
+
+&lt;kbd&gt;&lt;nowiki&gt;This is an [Template unavailable in the 2018 archive: &lt;/nowiki&gt;**strike**&lt;nowiki&gt; — A misplaced bit of text] for comparison&lt;/nowiki&gt;&lt;/kbd&gt;
+This is an [Template unavailable in the 2018 archive: strike — A misplaced bit of text] for comparison
+
+### [Template unavailable in the 2018 archive: anchor — Limiting formatting] Limiting formatting / escaping wiki markup
+A few different kinds of formatting will tell the wiki to display things as you typed them – what you see is what you get!
+
+What you type
+What it looks like
+
+**&amp;lt;nowiki&amp;gt; tag:**
+
+&lt;nowiki&gt;
+The nowiki tag ignores [wiki](/wiki)
+*markup*. It reformats text by
+removing newlines and multiple
+spaces. It still interprets
+characters specified by
+&amp;name;: &amp;rarr;
+&lt;/nowiki&gt;
+**&lt;nowiki&gt; tag:**
+
+&lt;nowiki&gt;
+The nowiki tag ignores [wiki](/wiki)
+*markup*. It reformats text by
+removing newlines and multiple
+spaces. It still interprets
+characters specified by
+&amp;name;: →
+&lt;/nowiki&gt;
+
+**&amp;lt;pre&amp;gt; tag:**
+
+&lt;pre&gt;The &lt;pre&gt; tag ignores [wiki](/wiki)
+*markup* as does the &lt;nowiki&gt;
+tag. Additionally, &lt;pre&gt; displays
+in a mono-spaced font, and does
+not  reformat    text    spaces.
+It still interprets special
+characters: &amp;rarr;
+&lt;/pre&gt;
+**&lt;pre&gt; tag:**
+
+The &lt;pre&gt; tag ignores [wiki](/wiki)
+*markup* as does the &lt;nowiki&gt;
+tag. Additionally, &lt;pre&gt; displays
+in a mono-spaced font, and does
+not  reformat    text    spaces.
+It still interprets special
+characters: →
+
+**[Text without a URL]:**
+
+Single square brackets holding
+[text without a HTTP URL] are
+preserved, but single square
+brackets containing a URL are
+treated as being an external
+[Web link](http://example.com/).
+**[Text without a URL]:**
+
+Single square brackets holding
+[text without a HTTP URL] are
+preserved, but single square
+brackets containing a URL are
+treated as being an external
+[Web link](http://example.com/).
+
+&lt;source lang=&quot;moin&quot;&gt;**Leading space:**
+
+Leading spaces are another way
+to preserve formatting.
+ Putting a space at the
+ beginning of each line
+ stops the text   from
+ being reformatted.
+ It still interprets [wiki](/wiki)
+ *markup* and special characters: &amp;rarr;&lt;/source&gt;
+**Leading space:**
+
+Leading spaces are another way
+to preserve formatting.
+ Putting a space at the
+ beginning of each line
+ stops the text   from
+ being reformatted.
+ It still interprets [wiki](/wiki)
+ *markup* and special characters: →
+
+#### Nowiki
+[Template unavailable in the 2018 archive: shortcut — Help:NOWIKI; WP:NOWIKI]
+
+In order for the software to interpret wiki markup, its parser first scans the page. When it sees its nowiki tags 
+[Template unavailable in the 2018 archive: tag — nowiki] ([escape](/escape_character)s all contained wiki markup), and
+[Template unavailable in the 2018 archive: tag — nowiki; s] (escapes the interpretations it is designed to &quot;break&quot;),
+it escapes its wikicode, so editors can document its markup *using* its markup.
+
+Article editors can normalize the font of characters trailing &lt;code&gt;[&lt;nowiki /&gt;[...]]outside&lt;/code&gt; a wikilink, which would otherwise adhere to the wikilink font. They can also add line-spacing in the wikitext. Template editors: tag [Template unavailable in the 2018 archive: tag — nowiki; o] works only on its source page, not the target; also &lt;code&gt;[Template unavailable in the 2018 archive: #tag&lt;nowiki /&gt;:nowiki  —  *content*]&lt;/code&gt;, although it wraps that content in nowiki tags, it also does a [pre-save transform](/mw:Manual:Tag_extensions#How_do_I_render_wikitext_in_my_extension?) on that content, which is entirely at odds with the intended purpose of nowiki for templates, subst, signatures, and the pipe-trick.
+
+The two kinds of nowiki operate in different ways to target content, but they both remove meaning (subtract rendering) of wiki markup, then disappear into the background font. Nowiki does nothing toward rendering, but it can add newlines to wikitext (for readability), just like the HTML comment (the preferred method) can. Unlike it does for wiki markup, nowiki does not remove the meaning of *character entities*, either [HTML](/HTML_character_entities) or MediaWiki [special *characters*](/#Special_characters).
+
+There is only one meaning for what [Template unavailable in the 2018 archive: tag — nowiki] contains, so it needs few examples; but the singular [Template unavailable in the 2018 archive: tag — nowiki; s] tag &quot;contains&quot; *many* linkage structures, where it is expected between bracketing-pair characters or in the keyword area.  So this section has *many* examples and few mis-examples.
+
+For example, only at the beginning of a line (bol of wikitext, bol in a transclusion, or beginning of a table cell), do [Template unavailable in the 2018 archive: code — *], [Template unavailable in the 2018 archive: code — #], [Template unavailable in the 2018 archive: code — ;] or [Template unavailable in the 2018 archive: code — :] mean something. 
+
+[Template unavailable in the 2018 archive: markup — &lt;nowiki&gt;# Ordered list&lt;/nowiki&gt;; [Template unavailable in the 2018 archive: crlf2]
+1. Ordered list; &lt;nowiki&gt;&lt;nowiki /&gt;# Ordered list&lt;/nowiki&gt;; [Template unavailable in the 2018 archive: crlf2]
+&lt;nowiki /&gt;# Ordered list; &lt;nowiki&gt;A [micro-](/micro-)second.&lt;/nowiki&gt;; A [micro-](/micro-)second.; &lt;nowiki&gt;A [micro-](/micro-)&lt;nowiki /&gt;second.&lt;/nowiki&gt;; A [micro-](/micro-)&lt;nowiki /&gt;second.; &lt;nowiki&gt;a&lt;nowiki&gt;
+
+&lt;/nowiki&gt;b&lt;/nowiki&gt;; a&lt;nowiki&gt;
+
+&lt;/nowiki&gt;b; &lt;nowiki&gt;&#39;&lt;nowiki /&gt;&#39;Italics&#39; markup&#39;&lt;nowiki /&gt;&#39;&lt;/nowiki&gt;; &#39;&lt;nowiki /&gt;&#39;Italics&#39; markup&#39;&lt;nowiki /&gt;&#39;; &lt;nowiki&gt;&lt;nowiki&gt;[Example](/Example)&lt;/nowiki&gt;&lt;/nowiki&gt;; &lt;nowiki&gt;[Example](/Example)&lt;/nowiki&gt;; &lt;nowiki&gt;&lt;!-- revealed --&gt;&lt;/nowiki&gt;; &lt;nowiki&gt;       &lt;/nowiki&gt;]
+
+The rest of the section consists of simple, live examples showing how a single nowiki tag escapes entire linkage structures, beyond [ wikilink &lt;nowiki /&gt;](/ wikilink &lt;nowiki_/&gt;)&lt;/code&gt; and [Template unavailable in the 2018 archive:  template &lt;nowiki /&gt;]:
+
+[[ *[fullpagename](/wp:fullpagename)* &lt;nowiki /&gt;| *label* ]]
+[Template unavailable in the 2018 archive: *pagename* &lt;nowiki /&gt; — *parameter*]
+[[ *fullpagename* | [Template unavailable in the 2018 archive: *pagename* }&lt;nowiki /&gt;} ]&lt;nowiki /&gt;]
+[Template unavailable in the 2018 archive: *pagename* — [[ *fullpagename* ]&lt;nowiki /&gt;]]
+[Template unavailable in the 2018 archive: *pagename* &lt;nowiki /&gt; — [Template unavailable in the 2018 archive: *pagename* }&lt;nowiki /&gt;}]
+
+Unless you use the two &quot;balanced&quot; nowiki tags, troubleshooting [strip marker](/help:strip_markers) errors and template parameter-handling inconsistencies is a risk. Also, a rendering error may arise when two &lt;kbd&gt;[&lt;nowiki /&gt;[...]]&lt;/kbd&gt; square brackets are on the same line, or two &lt;kbd&gt;{&lt;nowiki /&gt;{...]&lt;/kbd&gt; curly brackets are in the same section, but only when the two have the nowiki markup placed inconsistently.
+
+##### Displaying wikilinks
+(These are all live examples.)
+
+[page name](/wp:pagename)
+[&lt;nowiki /&gt;[ wp:pagename — page name ]]
+[page name](/&lt;nowiki_/&gt;_wp:pagename)
+[page name](/wp:pagename_&lt;nowiki_/&gt;)
+[[ wp:pagename | page name ]&lt;nowiki /&gt;]
+
+[page name](/wp:pagename)
+[&lt;nowiki /&gt;[ wp:pagename | page name ]]
+[page name](/&lt;nowiki_/&gt;_wp:pagename)
+[page name](/wp:pagename_&lt;nowiki_/&gt;)
+[[ wp:pagename | page name ]&lt;nowiki /&gt;] 
+
+For **nested structures**, escaping an inner structure escapes its outer structure too.
+
+[[ wp: [Template unavailable in the 2018 archive: 1x — pagename] ]]
+[[ wp: {&lt;nowiki /&gt;{ 1x | pagename] ]]
+[[ wp: [Template unavailable in the 2018 archive: &lt;nowiki /&gt; 1x — pagename] ]]
+[[ wp: [Template unavailable in the 2018 archive: 1x &lt;nowiki /&gt; — pagename] ]]
+
+[[ wp: [Template unavailable in the 2018 archive: 1x — pagename] ]]
+[pagename }}](/wp:_{&lt;nowiki_/&gt;{_1x)
+[[ wp: [Template unavailable in the 2018 archive: &lt;nowiki /&gt; 1x — pagename] ]]
+[[ wp: [Template unavailable in the 2018 archive: 1x &lt;nowiki /&gt; — pagename] ]]
+
+For **two, first pipes**, two nowiki tags are required: 
+
+[[ wp: pagename | [Template unavailable in the 2018 archive: 1x — label] ]]
+[[ wp: pagename &lt;nowiki /&gt;| [Template unavailable in the 2018 archive: 1x &lt;nowiki /&gt; — label] ]]
+&lt;nowiki&gt;[[ wp: pagename | [Template unavailable in the 2018 archive: 1x — label] ]] &lt;/nowiki&gt;
+
+[[ wp: pagename | [Template unavailable in the 2018 archive: 1x — label] ]]
+[[ wp: pagename &lt;nowiki /&gt;| [Template unavailable in the 2018 archive: 1x &lt;nowiki /&gt; — label] ]]
+&lt;nowiki&gt;[[ wp: pagename | [Template unavailable in the 2018 archive: 1x — label] ]] &lt;/nowiki&gt;
+
+##### Displaying template calls
+[Template unavailable in the 2018 archive: See also — Template:tl]
+
+For templates, put nowiki before the first pipe.
+If a parameter has a wikilink, put it in that, an inmost position.
+
+{&lt;nowiki /&gt;{ val | u=&amp;gt; [ms](/ms) | 49082 }}
+[Template unavailable in the 2018 archive: &lt;nowiki /&gt; val — u=&amp;gt; [ms](/ms); 49082]
+[Template unavailable in the 2018 archive: val &lt;nowiki /&gt; — u=&amp;gt; [ms](/ms); 49082]
+[Template unavailable in the 2018 archive: val — u= &gt; [ms](/ms); 49082 }&lt;nowiki /&gt;}
+[Template unavailable in the 2018 archive: val — u= &gt; [[ ms ]&lt;nowiki /&gt;] | 49082] 
+
+{&lt;nowiki /&gt;{ val | u=&gt; [ms](/ms) | 49082]
+[Template unavailable in the 2018 archive: val — u= &gt; [ms](/ms); 49082 }&lt;nowiki /&gt;}
+[Template unavailable in the 2018 archive: &lt;nowiki /&gt; val — u=&gt; [ms](/ms); 49082]
+[Template unavailable in the 2018 archive: val &lt;nowiki /&gt; — u=&gt; [ms](/ms); 49082]
+[Template unavailable in the 2018 archive: val — u= &gt; [[ ms ]&lt;nowiki /&gt;] | 49082] [Template unavailable in the 2018 archive: OK]
+
+##### Displaying magic words
+For input **parameters**, , , just write them out, unless they have a default (which goes behind their pipe): 
+[Template unavailable in the 2018 archive: &lt;nowiki /&gt;{1 — default]} → [Template unavailable in the 2018 archive: &lt;nowiki /&gt;{1 — default]}
+
+For a **parser function** nowiki goes between bracketing-pair characters, or anywhere before the : colon.
+
+[Template unavailable in the 2018 archive: #ifeq: inYes — inYes; outYes; outNo]
+{&lt;nowiki /&gt;{ #ifeq: inYes | inYes | outYes | outNo]
+[Template unavailable in the 2018 archive: &lt;nowiki /&gt; #ifeq: inYes — inYes; outYes; outNo]
+[Template unavailable in the 2018 archive: #ifeq&lt;nowiki /&gt;: inYes — inYes; outYes; outNo]
+[Template unavailable in the 2018 archive: #ifeq: inYes — inYes; outYes; outNo }&lt;nowiki /&gt;}
+
+[Template unavailable in the 2018 archive: #ifeq: inYes — inYes; outYes; outNo]
+{&lt;nowiki /&gt;{ #ifeq: inYes; inYes; outYes; outNo]
+[Template unavailable in the 2018 archive: &lt;nowiki /&gt; #ifeq: inYes — inYes; outYes; outNo]
+[Template unavailable in the 2018 archive: #ifeq&lt;nowiki /&gt;: inYes — inYes; outYes; outNo] 
+[Unresolved legacy notation: #ifeq: inYes | inYes | outYes | outNo }&lt;nowiki /&gt;}]
+
+**Behavioral switches** expect the tag anywhere:
+
+ 1. __HIDDENCAT__
+ 2. __HIDDENCAT&lt;nowiki /&gt;__
+
+1. __HIDDENCAT__[Template unavailable in the 2018 archive: break]
+2. __HIDDENCAT&lt;nowiki /&gt;__
+
+##### Displaying tags
+[Template unavailable in the 2018 archive: tag — tags; o] do not display; they are just markup. If you want them to, insert [Template unavailable in the 2018 archive: tag — nowiki; s] after an [Template unavailable in the 2018 archive: code — &lt;] opening angle bracket; it goes only in the very front. Opening tags and closing tags must be treated separately.
+
+ Blue 
+&lt;&lt;nowiki /&gt;span style=color:blue&gt; Blue &lt;&lt;nowiki /&gt;/span&gt;
+&lt;section end=la&lt;nowiki /&gt;bel /&gt; 
+
+ Blue 
+&lt;&lt;nowiki /&gt;span style=color:blue&gt; Blue &lt;&lt;nowiki /&gt;/span&gt;
+&lt;section end=la&lt;nowiki /&gt;bel /&gt; [Template unavailable in the 2018 archive: cross]
+
+Use template [Template unavailable in the 2018 archive: tl — tag] instead of nowiki tags to display parser tags:
+
+**Character entities**, nowiki cannot escape.  
+To escape HTML or special character entities, replace &lt;code&gt;&amp;&lt;/code&gt; with &lt;code&gt;&amp;amp;&lt;/code&gt;.
+For example, &lt;code&gt;&amp;amp;lt;&lt;/code&gt; → &lt;code&gt;&amp;lt;&lt;/code&gt;
+
+To **display a nowiki tag**, you can (1) use [Template unavailable in the 2018 archive: tl — tag], (2) replace the &lt; left angle bracket with its HTML character entity, or (3) nest nowiki tags in each other:
+
+[Template unavailable in the 2018 archive: tag — nowiki]
+&lt;code&gt;&amp;lt; nowiki&gt;...&amp;lt;/ nowiki &gt;&lt;/code&gt;
+&lt;code&gt;&lt;&lt;nowiki /&gt;nowiki&gt;...&lt;&lt;nowiki /&gt;/ nowiki &gt;&lt;/code&gt;
+
+[Template unavailable in the 2018 archive: tag — nowiki]
+&lt;code&gt;&lt; nowiki&gt;...&lt;/ nowiki &gt;&lt;/code&gt;
+&lt;code&gt;&lt;&lt;nowiki /&gt; nowiki&gt;...&lt;&lt;nowiki /&gt;/ nowiki &gt;&lt;/code&gt;
+
+[Template unavailable in the 2018 archive: tag — nowiki; s]
+&lt;code&gt;&amp;lt; nowiki /&gt;&lt;/code&gt;
+&lt;code&gt;&lt;&lt;nowiki /&gt; nowiki /&gt;&lt;/code&gt;
+&lt;code&gt;&lt;nowiki&gt;&lt; nowiki /&gt;&lt;/nowiki&gt;&lt;/code&gt;
+
+[Template unavailable in the 2018 archive: tag — nowiki; s]
+&lt;code&gt;&lt; nowiki /&gt;&lt;/code&gt;
+&lt;code&gt;&lt;&lt;nowiki /&gt; nowiki /&gt;&lt;/code&gt;
+&lt;code&gt;&lt;nowiki&gt;&lt; nowiki /&gt;&lt;/nowiki&gt;&lt;/code&gt;
+
+Nowiki tags do not otherwise nest, so it is the second and fourth that displays:
+
+1&lt;nowiki&gt;2&lt;nowiki&gt;3&lt;/nowiki&gt;4&lt;/nowiki&gt;
+&lt;nowiki&gt;[Template unavailable in the 2018 archive: !]&lt;nowiki&gt;&lt;/nowiki&gt;[Template unavailable in the 2018 archive: !]&lt;/nowiki&gt;
+
+1&lt;nowiki&gt;2&lt;nowiki&gt;3&lt;/nowiki&gt;4&lt;/nowiki&gt; [Template unavailable in the 2018 archive: spaces — 5] *[Template unavailable in the 2018 archive: small — second and fourth]* 
+&lt;nowiki&gt;[Template unavailable in the 2018 archive: !]&lt;nowiki&gt;&lt;/nowiki&gt;[Template unavailable in the 2018 archive: !]&lt;/nowiki&gt;
+
+These simply scan from left to right.
+The paired tags cannot overlap, because the very first pair-match nullifies any intervening tags inside. Unbalanced tags always display.
+
+Nowiki tags do not display table markup, use [Template unavailable in the 2018 archive: tag — pre].
+
+#### Pre
+[Template unavailable in the 2018 archive: shortcut — WP:PRE]
+
+[Template unavailable in the 2018 archive: tag — pre; o] is a parser tag that emulates the HTML [Template unavailable in the 2018 archive: tag — pre; o] tag. It defines preformatted text that is displayed in a fixed-width font and is enclosed in a dashed box. HTML and wiki markups are escaped and spaces and line breaks are preserved, but HTML entities are parsed.
+
+[Template unavailable in the 2018 archive: markup — title=[Template unavailable in the 2018 archive: tag — pre; o] examples; &lt;nowiki&gt;
+
+[wiki](/wiki) markup &amp;amp;&lt;/nowiki&gt;; 
+
+[wiki](/wiki) markup &amp;]
+
+[Template unavailable in the 2018 archive: tag — pre; o] formatted text does not wrap, thus text may extend past the browser window:
+
+Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+
+To resolve this, [Template unavailable in the 2018 archive: tag — pre; o] may use CSS styling to add wrapping or a horizontal scrollbar:
+- Wrapping: [Template unavailable in the 2018 archive: tag — pre; o; params=style=&quot;white-space:-moz-pre-wrap; white-space:-pre-wrap; white-space:-o-pre-wrap; white-space:pre-wrap; word-wrap:break-word;&quot;]
+- Scroll bar: [Template unavailable in the 2018 archive: tag — pre; o; params=style=&quot;overflow:auto; width:auto;&quot;]
+
+Alternatively, consider using [Template unavailable in the 2018 archive: tl — pre2] template or [Template unavailable in the 2018 archive: xtag — syntaxhighlight; p; params=lang=&quot;text&quot;].
+
+### Invisible text (comments)
+[Template unavailable in the 2018 archive: see also — Help:Hidden text]
+
+It&#39;s uncommon[Template unavailable in the 2018 archive: spaced ndash]but on occasion acceptable for notes to other editors[Template unavailable in the 2018 archive: spaced ndash]to add a hidden comment within the text of an article. These comments are visible only when editing or viewing the source of a page. Most comments should go on the appropriate [Talk page](/Wikipedia:Talk_page).  The format is to surround the hidden text with &quot;&lt;code&gt;&lt;!--&lt;/code&gt;&quot; and &quot;&lt;code&gt;--&gt;&lt;/code&gt;&quot; and may cover several lines, e.g.:
+ &lt;nowiki&gt;&lt;/nowiki&gt;
+
+Another way to include a comment in the wiki markup uses the [Template unavailable in the 2018 archive: tl — Void] template, which can be abbreviated as [Template unavailable in the 2018 archive: tl — ^]. This template &quot;expands&quot; to the empty string, generating no HTML output; it is visible only to people editing the wiki source. Thus [Template unavailable in the 2018 archive: nowrap — 1=&lt;code&gt;[Template unavailable in the 2018 archive: tlp — ^; A lengthy comment here]&lt;/code&gt;] operates similarly to the comment [Template unavailable in the 2018 archive: nowrap — 1=&lt;code&gt;&lt;!-- A lengthy comment here --&gt;&lt;/code&gt;]. The main difference is that the template version can be nested, while attempting to nest HTML comments produces odd results.
+
+### Variables
+[Template unavailable in the 2018 archive: seealso — Help:Magic_words#Variables]
+
+Code
+Effect
+Notes
+
+ [Template unavailable in the 2018 archive: CURRENTWEEK]
+ &lt;nowiki&gt;[Template unavailable in the 2018 archive: CURRENTDOW]&lt;/nowiki&gt; || [Template unavailable in the 2018 archive: CURRENTDOW]
+Monday = 1, Tuesday = 2, etc., but Sunday = 0
+
+ [Template unavailable in the 2018 archive: CURRENTMONTH]
+ &lt;nowiki&gt;[Template unavailable in the 2018 archive: CURRENTMONTHNAME]&lt;/nowiki&gt;
+[Template unavailable in the 2018 archive: CURRENTMONTHNAME]
+ &lt;nowiki&gt;[Template unavailable in the 2018 archive: CURRENTMONTHNAMEGEN]&lt;/nowiki&gt;
+[Template unavailable in the 2018 archive: CURRENTMONTHNAMEGEN]
+ &lt;nowiki&gt;[Template unavailable in the 2018 archive: CURRENTDAY]&lt;/nowiki&gt; || [Template unavailable in the 2018 archive: CURRENTDAY]
+ &lt;nowiki&gt;[Template unavailable in the 2018 archive: CURRENTDAYNAME]&lt;/nowiki&gt; || [Template unavailable in the 2018 archive: CURRENTDAYNAME]
+ &lt;nowiki&gt;[Template unavailable in the 2018 archive: CURRENTYEAR]&lt;/nowiki&gt; || [Template unavailable in the 2018 archive: CURRENTYEAR]
+ &lt;nowiki&gt;[Template unavailable in the 2018 archive: CURRENTTIME]&lt;/nowiki&gt; || [Template unavailable in the 2018 archive: CURRENTTIME]
+ &lt;nowiki&gt;[Template unavailable in the 2018 archive: NUMBEROFARTICLES]&lt;/nowiki&gt;
+[Template unavailable in the 2018 archive: NUMBEROFARTICLES]
+ &lt;nowiki&gt;[Template unavailable in the 2018 archive: NUMBEROFPAGES]&lt;/nowiki&gt;
+[Template unavailable in the 2018 archive: NUMBEROFPAGES]
+ &lt;nowiki&gt;[Template unavailable in the 2018 archive: NUMBEROFUSERS]&lt;/nowiki&gt;
+[Template unavailable in the 2018 archive: NUMBEROFUSERS]
+ &lt;nowiki&gt;[Template unavailable in the 2018 archive: PAGENAME]&lt;/nowiki&gt; || [Template unavailable in the 2018 archive: PAGENAME]
+ &lt;nowiki&gt;[Template unavailable in the 2018 archive: NAMESPACE]&lt;/nowiki&gt; || [Template unavailable in the 2018 archive: NAMESPACE]
+ &lt;nowiki&gt;[Template unavailable in the 2018 archive: REVISIONID]&lt;/nowiki&gt; || [Template unavailable in the 2018 archive: REVISIONID]
+ &lt;nowiki&gt;[Template unavailable in the 2018 archive: REVISIONUSER]&lt;/nowiki&gt; || [Template unavailable in the 2018 archive: REVISIONUSER]
+ &lt;nowiki&gt;[Template unavailable in the 2018 archive: localurl:pagename]&lt;/nowiki&gt;
+[Template unavailable in the 2018 archive: localurl:pagename]
+ &lt;nowiki&gt;[Template unavailable in the 2018 archive: localurl:&lt;/nowiki&gt;*Wikipedia:Sandbox*&lt;nowiki&gt; — archived-action-removed]&lt;/nowiki&gt;
+[Template unavailable in the 2018 archive: localurl:Wikipedia:Sandbox — archived-action-removed]
+ &lt;nowiki&gt;[Template unavailable in the 2018 archive: fullurl:pagename]&lt;/nowiki&gt;
+[Template unavailable in the 2018 archive: fullurl:pagename]
+ &lt;nowiki&gt;[Template unavailable in the 2018 archive: fullurl:pagename — &lt;/nowiki&gt;*query_string*&lt;nowiki&gt;]&lt;/nowiki&gt;
+[Template unavailable in the 2018 archive: fullurl:pagename — query_string]
+ &lt;nowiki&gt;[Template unavailable in the 2018 archive: SERVER]&lt;/nowiki&gt; || [Template unavailable in the 2018 archive: SERVER]
+ &lt;nowiki&gt;[Template unavailable in the 2018 archive: ns:1]&lt;/nowiki&gt; || [Template unavailable in the 2018 archive: ns:1]
+&lt;nowiki&gt;[Template unavailable in the 2018 archive: ns:&lt;/nowiki&gt;*index*&lt;nowiki&gt;] e.g. [Template unavailable in the 2018 archive: ns:1]&lt;/nowiki&gt;  →  full name of namespace
+
+ [Template unavailable in the 2018 archive: SITENAME]
+**[Template unavailable in the 2018 archive: tlf — NUMBEROFARTICLES]** is the number of pages in the main namespace that contain a link and are not a redirect. This includes full articles, stubs containing a link, and disambiguation pages.
+
+**[Template unavailable in the 2018 archive: tlf — CURRENTMONTHNAMEGEN]** is the genitive (possessive) grammatical form of the month name, as used in some languages but not in English; **[Template unavailable in the 2018 archive: tlf — CURRENTMONTHNAME]*&#39; is the nominative (subject) form, as usually seen in English.
+
+In languages where it makes a difference, you can use constructs like &lt;code&gt;&lt;nowiki&gt;[Template unavailable in the 2018 archive: grammar:case — word]&lt;/nowiki&gt;&lt;/code&gt; to convert a word from the nominative case to some other case. For example, &lt;code&gt;&lt;nowiki&gt;[Template unavailable in the 2018 archive: grammar:genitive — [Template unavailable in the 2018 archive: CURRENTMONTHNAME]]&lt;/nowiki&gt;&lt;/code&gt; means the same as &lt;code&gt;&lt;nowiki&gt;[Template unavailable in the 2018 archive: CURRENTMONTHNAMEGEN]&lt;/nowiki&gt;&lt;/code&gt;. 
+
+### HTML
+[Template unavailable in the 2018 archive: main — Help:HTML in wikitext]
+
+Many [HTML](/HTML) tags can be used in wiki markup. You can check your HTML by using [markup validation](/Help:Markup_validation).
+
+### Common templates
+[Template unavailable in the 2018 archive: quicktemplates — state=expanded]
+
+### See also
+[Template unavailable in the 2018 archive: Help desk]
+See the &#39;Coding wiki markup&#39; section of the Help navigation navbox below for additional links.
+- [Magic links](/Help:Magic_links): magic links are automatic links for certain unique identifiers that require no markup.
+- [Extended image syntax](/Wikipedia:Extended_image_syntax): advanced [visual file markup](/Help:Visual_file_markup).
+- [A quick guide to templates](/Help:A_quick_guide_to_templates): an introduction to [templates](/Help:Template).
+- [Substitution](/Help:Substitution): substitution is an alternative way of including templates than [transclusion](/Wikipedia:Transclusion)
+- [Score](/Help:Score): how to render musical scores.
+- [Displaying a formula](/Help:Displaying_a_formula): displaying mathematical formulae.
+
+[Template unavailable in the 2018 archive: Help navigation]
+[Template unavailable in the 2018 archive: Wikipedia technical help — state=collapsed]
+[Template unavailable in the 2018 archive: Tools — state=collapsed]
+
+[Wikipedia how-to](/Category:Wikipedia_how-to)
+[Wikipedia editor help](/Category:Wikipedia_editor_help)
+[Wikipedia text help](/Category:Wikipedia_text_help)
+</code></pre></main></body></html>

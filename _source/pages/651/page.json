@@ -1,0 +1,43 @@
+{
+  "canonical_path": "/June_6,_2010:_Book_Club_Parable_of_the_Sower",
+  "current_revision_id": 42207,
+  "database_title": "June_6,_2010:_Book_Club_Parable_of_the_Sower",
+  "display_title": "June 6, 2010: Book Club Parable of the Sower",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 1,
+  "page_id": 651,
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "BenSibelman",
+      "comment": "Created page from the EtherPad clone",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 42207,
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": 1654,
+      "same_as_previous_public": false,
+      "timestamp": "2010-06-08T05:05:50Z",
+      "wikitext_bytes": 8544,
+      "wikitext_sha256": "d00d59a25f6db7e46b48a126964e2683568b5ca485211f58d744aadfc3e9fe8d"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 1654,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 8661,
+      "markdown_sha256": "4001154f7c716a0d3df93cac217a7ca712c5e0bae89d316a2a0d490da9bb10ce",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": 1654,
+      "previous_public_revision_id": 1654,
+      "revision_id": 42207,
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z"
+    }
+  ],
+  "site_revision_count": 1
+}

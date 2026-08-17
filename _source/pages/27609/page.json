@@ -1,0 +1,43 @@
+{
+  "canonical_path": "/December_23rd_:_The_Beginning_of_Time",
+  "current_revision_id": 43207,
+  "database_title": "December_23rd_:_The_Beginning_of_Time",
+  "display_title": "December 23rd : The Beginning of Time",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 1,
+  "page_id": 27609,
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "EricSaumur",
+      "comment": "moved [[December 23rd : The Beginning of Time]] to [[The Beginning of Time]]: bod date should not be part of title",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 43207,
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": 40934,
+      "same_as_previous_public": false,
+      "timestamp": "2017-01-15T15:35:17Z",
+      "wikitext_bytes": 35,
+      "wikitext_sha256": "61a9f1fb7581b8ab614ad3f245e4830dd55c8d99be8bb20a7691b0e0cef0e239"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 40934,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 81,
+      "markdown_sha256": "f1677676192419933cb9a302a8333697662b80c04fe3615a72e4e8a6b8be80df",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": 40934,
+      "previous_public_revision_id": 40934,
+      "revision_id": 43207,
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z"
+    }
+  ],
+  "site_revision_count": 1
+}

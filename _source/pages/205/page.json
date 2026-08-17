@@ -1,0 +1,43 @@
+{
+  "canonical_path": "/Group_Experiences/January_29,_2009",
+  "current_revision_id": 41771,
+  "database_title": "Group_Experiences/January_29,_2009",
+  "display_title": "Group Experiences/January 29, 2009",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 1,
+  "page_id": 205,
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "Brandon CS Sanders",
+      "comment": "[[Group Experiences/January 29, 2009]] moved to [[2009.01.29]]: Better URLS",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 41771,
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": 521,
+      "same_as_previous_public": false,
+      "timestamp": "2009-02-07T03:08:13Z",
+      "wikitext_bytes": 24,
+      "wikitext_sha256": "e588a5fb1c80cac8cb9866bccedebe17ff930b3037081979dd4fc00abbb8cb40"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 521,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 59,
+      "markdown_sha256": "56830814ec1dd25cc6ac222e08bc75569d4da9ca0df3be206619ad9607edc96f",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": 521,
+      "previous_public_revision_id": 521,
+      "revision_id": 41771,
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z"
+    }
+  ],
+  "site_revision_count": 1
+}

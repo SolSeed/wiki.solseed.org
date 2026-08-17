@@ -1,0 +1,82 @@
+{
+  "canonical_path": "/Gaia_Yearns_For_the_Pretty_Lights",
+  "current_revision_id": 43103,
+  "database_title": "Gaia_Yearns_For_the_Pretty_Lights",
+  "display_title": "Gaia Yearns For the Pretty Lights",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 4,
+  "page_id": 27505,
+  "published_revision_count": 4,
+  "revisions": [
+    {
+      "author": "EricSaumur",
+      "comment": "Created page with \"Let us imagine ...  Gaia is sitting on a wet bare rock by the ocean.  She is a young girl, her skin a fresh young grey-blue with only a dot of green here and there.  She is bald,...\"",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 40671,
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": 40670,
+      "same_as_previous_public": false,
+      "timestamp": "2015-11-14T18:21:50Z",
+      "wikitext_bytes": 6036,
+      "wikitext_sha256": "5eab37266c5fc9012e08472a7183c88ba3dc5a391196337ab7868b8de9245338"
+    },
+    {
+      "author": "EricSaumur",
+      "comment": "spelling",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 41302,
+      "original_parent_revision_id": 40670,
+      "previous_public_revision_id": 40670,
+      "revision_id": 40671,
+      "same_as_previous_public": false,
+      "timestamp": "2015-11-14T18:24:31Z",
+      "wikitext_bytes": 6044,
+      "wikitext_sha256": "986c29bb10d0631d761bb9b387dea827827c2c57ad78c75ec87e61e480706594"
+    },
+    {
+      "author": "EricSaumur",
+      "comment": "",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 41322,
+      "original_parent_revision_id": 40671,
+      "previous_public_revision_id": 40671,
+      "revision_id": 41302,
+      "same_as_previous_public": false,
+      "timestamp": "2018-04-15T23:37:16Z",
+      "wikitext_bytes": 6157,
+      "wikitext_sha256": "4555f3b1cabdfe7b323f1c4620894715811a3a934fdedfea83e7fd0f818cce28"
+    },
+    {
+      "author": "EricSaumur",
+      "comment": "",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 43103,
+      "original_parent_revision_id": 41302,
+      "previous_public_revision_id": 41302,
+      "revision_id": 41322,
+      "same_as_previous_public": false,
+      "timestamp": "2018-04-19T23:21:36Z",
+      "wikitext_bytes": 6157,
+      "wikitext_sha256": "221e20f79790add1d8551468d8698799a7cc1f76b6bec846f5a1d822e7b58d43"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 41322,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 6184,
+      "markdown_sha256": "528a8ebbaa7d36876e25284251cf8a1673123ec177e8d9f0ecbb216dbb13ee7b",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": 41322,
+      "previous_public_revision_id": 41322,
+      "revision_id": 43103,
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z"
+    }
+  ],
+  "site_revision_count": 1
+}

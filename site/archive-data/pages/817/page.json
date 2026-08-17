@@ -1,0 +1,48 @@
+{
+  "canonical_path": "/Kindred2010/Potential_CoConveners",
+  "current_revision_id": "42372",
+  "database_title": "Kindred2010/Potential_CoConveners",
+  "display_title": "Kindred2010/Potential CoConveners",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 1,
+  "page_id": "817",
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "BenSibelman",
+      "comment": "moved [[Kindred2010/Potential CoConveners]] to [[Kindred2011/Potential CoConveners]]: We didn't have the event in 2010",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": "42372",
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": "2148",
+      "same_as_previous_public": false,
+      "timestamp": "2011-01-10T06:17:42Z",
+      "wikitext_bytes": 47,
+      "wikitext_sha256": "4848c67206dc9f9427b92d5f04199d9b3df98385408638bb1cf1ba3117a3642d",
+      "source_format": "wikitext",
+      "source_extension": "wiki"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 2148,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 105,
+      "markdown_sha256": "b68eb6e1735e88858d78c7014ab97ba87e3ee5d4968b40b1a0ca904565e3f53d",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": "2148",
+      "previous_public_revision_id": "2148",
+      "revision_id": "42372",
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z",
+      "wikitext_bytes": 105,
+      "wikitext_sha256": "b68eb6e1735e88858d78c7014ab97ba87e3ee5d4968b40b1a0ca904565e3f53d",
+      "source_extension": "md"
+    }
+  ],
+  "site_revision_count": 1
+}

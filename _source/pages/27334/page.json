@@ -1,0 +1,43 @@
+{
+  "canonical_path": "/Unitarian_Universalist_Fellowship_of_Ottawa_Service_Entitled,_\"SolSeed:_An_Example_of_Defining_a_Life_Purpose\"",
+  "current_revision_id": 42933,
+  "database_title": "Unitarian_Universalist_Fellowship_of_Ottawa_Service_Entitled,_\"SolSeed:_An_Example_of_Defining_a_Life_Purpose\"",
+  "display_title": "Unitarian Universalist Fellowship of Ottawa Service Entitled, \"SolSeed: An Example of Defining a Life Purpose\"",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 1,
+  "page_id": 27334,
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "EricSaumur",
+      "comment": "moved [[Unitarian Universalist Fellowship of Ottawa Service Entitled, \"SolSeed: An Example of Defining a Life Purpose\"]] to [[Unitarian Universalist Fellowship of Ottawa Service Entitled SolSeed: An Example of Defining a Life Purpose]]: special chara...",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 42933,
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": 40137,
+      "same_as_previous_public": false,
+      "timestamp": "2014-10-21T02:44:27Z",
+      "wikitext_bytes": 121,
+      "wikitext_sha256": "0989e3514e310f3b0f1abfad1188c84259b9530befd02d7fb67ba33606250a3a"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 40137,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 253,
+      "markdown_sha256": "60e426188c2929c7282b8c17289f13c695001f4d6046c67fc33f3db6c05f225b",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": 40137,
+      "previous_public_revision_id": 40137,
+      "revision_id": 42933,
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z"
+    }
+  ],
+  "site_revision_count": 1
+}

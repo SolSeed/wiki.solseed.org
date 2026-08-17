@@ -1,0 +1,43 @@
+{
+  "canonical_path": "/Upward_Spiral",
+  "current_revision_id": 42984,
+  "database_title": "Upward_Spiral",
+  "display_title": "Upward Spiral",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 1,
+  "page_id": 27385,
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "Brandon CS Sanders",
+      "comment": "Created page with \"[http://www.signingsavvy.com/sign/SPIRAL/2593/1 ASL for Spiral], [http://www.handspeak.com/word/index.php?dict=sp&signID=3093 ASL for Spiral]\"",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 42984,
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": 40280,
+      "same_as_previous_public": false,
+      "timestamp": "2015-01-09T03:01:20Z",
+      "wikitext_bytes": 141,
+      "wikitext_sha256": "b41a12531fdc914a7842816f3858b8f43ac7a81b97d4950b1eb7cca074c52759"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 40280,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 144,
+      "markdown_sha256": "399359689656453864505c78191d36fe1e8913f8ba520e367d2865d46fde22ef",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": 40280,
+      "previous_public_revision_id": 40280,
+      "revision_id": 42984,
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z"
+    }
+  ],
+  "site_revision_count": 1
+}

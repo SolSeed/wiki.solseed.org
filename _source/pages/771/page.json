@@ -1,0 +1,43 @@
+{
+  "canonical_path": "/File:Mars_colony.jpg",
+  "current_revision_id": 42327,
+  "database_title": "Mars_colony.jpg",
+  "display_title": "File:Mars colony.jpg",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 6,
+  "original_revision_count": 1,
+  "page_id": 771,
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "BenSibelman",
+      "comment": "A public-domain NASA visualization of a future colony on [[Mars]], from http://commons.wikimedia.org/wiki/File:Concept_Mars_colony.jpg.",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 42327,
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": 1988,
+      "same_as_previous_public": false,
+      "timestamp": "2010-11-16T04:58:54Z",
+      "wikitext_bytes": 135,
+      "wikitext_sha256": "9c2699fdf6d64e1ee6c0161282f7de7600fffbbf9c6d82e5102f8dad5b5be601"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 1988,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 141,
+      "markdown_sha256": "7ba660112eaee2fc43789bf50992a922f1a20ecec5c593f4739ea7a8faab4a6c",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": 1988,
+      "previous_public_revision_id": 1988,
+      "revision_id": 42327,
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z"
+    }
+  ],
+  "site_revision_count": 1
+}

@@ -1,0 +1,48 @@
+{
+  "canonical_path": "/Sol2009/Agenda",
+  "current_revision_id": "42046",
+  "database_title": "Sol2009/Agenda",
+  "display_title": "Sol2009/Agenda",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 1,
+  "page_id": "484",
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "BenSibelman",
+      "comment": "Created page.",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": "42046",
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": "1317",
+      "same_as_previous_public": false,
+      "timestamp": "2010-01-03T22:48:51Z",
+      "wikitext_bytes": 513,
+      "wikitext_sha256": "9295ba7558eb5d9286ed999fabdd67b8ff0205e98403acae13950e0b214217b6",
+      "source_format": "wikitext",
+      "source_extension": "wiki"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 1317,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 720,
+      "markdown_sha256": "d055c9324b8210224a1e384565795686dd2abd124fb155ab7f1c9e9974b7b1cd",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": "1317",
+      "previous_public_revision_id": "1317",
+      "revision_id": "42046",
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z",
+      "wikitext_bytes": 720,
+      "wikitext_sha256": "d055c9324b8210224a1e384565795686dd2abd124fb155ab7f1c9e9974b7b1cd",
+      "source_extension": "md"
+    }
+  ],
+  "site_revision_count": 1
+}

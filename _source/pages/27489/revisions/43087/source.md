@@ -1,0 +1,120 @@
+### Sunday Agenda
+- Check in
+- Opening Blessing
+- Review WWWs
+- Weekly event logistics
+- Review Agenda
+- Business Call/Workbee hiatus
+- WWWs for Gaia Kickstarter
+- Autumn Equinox
+- Next Year’s Summer Event
+- Potential new contacts interested in Gaian reproduction
+- Evaluation
+- Closing Blessing
+
+### Check In
+- Brandon … we did Hood to Coast, and it was good and super-tiring, and I'm still in recovery mode
+- Ben … well I’m getting fed up with being sick and I’m thinking I should probably go to a doctor tomorrow if it is still feeling like my stomach is not wanting to behave
+- Eric … I was taking a bath that I meant to be a 5 minute bath, but it was more like a half hour bath :-)
+
+### Opening Blessing
+In each of our lives we try our best to work toward our highest aspirations.  Here, we come together to plan how our group can do the same, because the group is more than the sum of its parts.  May our work today satisfy us that we are on the path toward the Great Birthing. -- Blessed Be
+
+### WW(W)s from last time
+Organize the WWWs by person and then due date.  We’ll start checking in on topical community protocol and meditation for each mini-period between workbees. Holacracy founder Brian Robertson says these are bad: http://holacracy.org/blog/the-insanity-of-the-what-by-when 
+
+- <s>Ben … meditate and keep track of which days ... ongoing</s>
+- Ben … follow your topical community protocol for this period ... ongoing
+- <s>Ben ... do more web searches for Gaia reproduction ... by next call 
+- Ben … upload Shiny Green Festival notes to the wiki … by next call
+- Ben … 20 minutes on reward levels for kickstarter … by next Sunday
+- Ben … 20 minutes on the reason for it existing … by next Sunday</s>
+- <s>Brandon … meditate and keep track of which days ... ongoing</s>
+- <s>Brandon … follow your topical community protocol for this period ... ongoing</s>
+- Brandon … schedule libations with KW … by Monday
+- Brandon … look for space dinner venue for Sunday, September 20 at 4pm … by Monday
+- <s>Brandon … 20 minutes on reward levels for kickstarter … by next Sunday</s>
+- <s>Brandon … 20 minutes on the reason for it existing … by next Sunday</s>
+- <s>Eric … meditate and keep track of which days ... ongoing</s>
+- Eric … follow your topical community protocol for this period ... ongoing
+- Eric … decor ideas for the Equinox Dinner … by next call
+- Eric … food ideas for Equinox Dinner … by next call
+- Eric … 20 minutes on reward levels for kickstarter … by next Sunday
+- Eric … 20 minutes on the reason for it existing … by next Sunday
+
+### WWWs
+- Eric … meditate and keep track of which days ... ongoing
+- Eric … follow your topical community protocol for this period ... ongoing
+- Brandon … meditate and keep track of which days ... ongoing
+- Brandon … follow your topical community protocol for this period ... ongoing
+- Brandon … schedule libations with KW … by Monday
+- Brandon … look for space dinner venue for Sunday, September 20 at 4pm … by Monday
+- Brandon … bounce the kickstarter idea off Devera and check about shipping for the 4’ statues … by Thursday
+- Brandon … talk to Shelley about the equinox dinner … by Monday
+- Brandon … ping Steven Wolfe about next year summer event … by next business call
+- Brandon … ping John Halstead about next year summer event … by next business call
+- Ben … meditate and keep track of which days ... ongoing
+- Ben … follow your topical community protocol for this period ... ongoing
+- Ben … listen to the Lovolution podcast … by next call
+- Ben … contact someone from my Gaia reproduction search … by next call
+
+### Weekly Events Logistics
+Midweek
+- September 3 Work-Bee: 6:30 PM PDT
+
+Weekend
+Service rotation: Eric, Shelley, Brandon, Ben
+- September 5 Service: 9 AM PDT
+- September 6 Business Call: 6:00 PM PDT (Brandon might not be back from camping in time for this)
+
+### Business Call/Workbee hiatus
+The Saumurs have really tight deadlines for getting their house ready for sale, so Eric won't be joining us for these calls until somewhere around the end of October.
+- He will still join us for service calls and daily meditations
+
+### [Gaia Kickstarter](/Gaia_Kickstarter)
+Call it a religion if you like. Or call it a scientific description of how our living planet works. Or call it a metaphor, a story that inspires us to be our best selves, working together to make a better world. Because we are the world: taken together, you and I, the rest of humanity, and the millions of other species who call this planet home, we form the body of Gaia, the living Earth.
+
+And no one has yet created an image of Gaia more evocative and inspiring than the Millennial Gaia statue by Oberon Zell, which personifies her as a mother goddess figure with an accurate rendition of Earth as her pregnant belly. The rest of the statue is covered with elegant renditions of animals and plants whose interwoven evolutionary story tells us how the present glorious diversity of life came to be. 
+
+Originally produced as a seven-inch-high seated figure, we are proud to announce that the Millennial Gaia statue will soon be available in limited quantities as a human-sized monument for outdoor use—and you can help make it happen!
+
+If you agree that the story of Gaia is a sacred story that needs to be spread far and wide, as an alternative to the dominant narrative of hyper-individualism and consumer culture that sees our planet as merely a storehouse of natural resources for human use, please join us in bringing this spectacular rendition of Mother Earth to life.
+
+This Kickstarter campaign has three main goals:
+
+1) Prime the pump.  Currently, our partners at Devera Publishing, the producers of these statues, say the demand for the garden statue is too low to justify the initial outlay to create the first batch.  Once the first batch has been created, continuing to make garden statues on demand becomes possible.  So, until the first batch is created there will be no new garden sized statues available for purchase.
+
+2) Scale out. We want to take something that we know works (the Millennial Gaia Statue) and increase its impact.  We are hoping to see lots of these statues installed in front of homes and businesses facing the sidewalk to provide provocations and reminders that we are of nature rather than apart from nature.
+
+3) Scale up. This kickstarter is a first step toward creating a larger than life version of the Gaia statue for public display in a city park in Portland, Oregon.  This kickstarter will raise awareness for our effort and possible raise funds to help us move in that direction.
+
+Reward levels for kickstarter:
+- $   1 ... A: Thanks
+- $   5 ... B: Earth marble plus A
+- $  20 ... C: Gaia bumper sticker (need to look into this further … may need to design one ourselves) plus A
+- $  25 ... D: We’ll write an article on Gaia Wiki on a topic of your choice (as long as it’s appropriate) plus B
+- $  30 ... E: Gaia poster plus B
+- $  50 ... G: Your name will be engraved on the base of the first big garden statue produced through this Kickstarter plus B
+- $  60 ... H: Gaia 6" plaque plus B, C
+- $  80 ... I: Gaia 7" Alter Statue plus B, C
+- $ 100 ... J: Gaia 7" Alter  Statue (Bronze) plus B, C 
+- $ 250 ... K: We’ll do a presentation about Gaia at a venue of your choice plus D, I
+- $ 500 ... L: Gaia 4' Garden Statue plus I? (might be too cheap due to shipping costs...could have the backer be responsible for shipping, but they'd be unpleasantly surprised)
+- $ 500 ... M: Your organization will get to help decide where to put the first big statues (in the Portland area only?) plus L
+- $1000 ... N: Small Acknowledgment on Gaia Garden Statue mold (all 4-foot statues will have this) plus L
+
+Free shipping of all prizes to the Continental US.  Additional shipping charges will apply for other locations.
+
+### Potential new contacts interested in Gaian reproduction
+- http://www.lovolution.net/ - Libby Hubbard, a.k.a. Doctress Neutopia - interested in arcologies, lives in Tucson
+- Gaia Spore, for instance http://wikibin.org/articles/gaia-spore.html - "theory was first conceived in 2007 by Robert Duinker"
+- Dr. David Duemler, *Bringing Life to the Stars* (1993)
+- https://web.archive.org/web/20120701090614/http://www.gaianation.net/org/gaiasporing.html - Stephen Miller, 1998 essay
+
+### Evaluation
+- Brandon … Thanks guys, it's good to see you … looking forward to making progress on the Gaia statue Kickstarter
+- Ben … I am really looking forward to having a completed draft of the first part of my book to send out, which I am very close to.
+- Eric … I’m sad that I have to take a hiatus, but I’m looking forward to hearing about all the good things you achieve while I'm gone, and rejoining in at most a couple months
+
+### Closing Blessing
+We came together to do the work and the steps we took in doing the work inspire us to do more.  May that inspiration lead ever onward to the great birthing.  And may your week be filled with life and love.  -- Blessed Be

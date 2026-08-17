@@ -1,0 +1,48 @@
+{
+  "canonical_path": "/The_Blue_and_Green_of_Life_Thriving",
+  "current_revision_id": "43304",
+  "database_title": "The_Blue_and_Green_of_Life_Thriving",
+  "display_title": "The Blue and Green of Life Thriving",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 1,
+  "page_id": "27706",
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "EricSaumur",
+      "comment": "Created page with \"The Blue and Green of Life Thriving is a literary device used to remind readers that [[Life is Precious]].  Anything marked with the Blue and Green of Life Thriving is meant to b...\"",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": "43304",
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": "41270",
+      "same_as_previous_public": false,
+      "timestamp": "2018-04-08T03:22:11Z",
+      "wikitext_bytes": 362,
+      "wikitext_sha256": "73bd8dfa0ffaa74245633c1c4d504df32a4d9f1fc585abaa390d884e2e6a1e40",
+      "source_format": "wikitext",
+      "source_extension": "wiki"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 41270,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 380,
+      "markdown_sha256": "df48d9d11f9039cd02145cfaae0d079f89e404656622b5a59b3a5b921b506e5a",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": "41270",
+      "previous_public_revision_id": "41270",
+      "revision_id": "43304",
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z",
+      "wikitext_bytes": 380,
+      "wikitext_sha256": "df48d9d11f9039cd02145cfaae0d079f89e404656622b5a59b3a5b921b506e5a",
+      "source_extension": "md"
+    }
+  ],
+  "site_revision_count": 1
+}

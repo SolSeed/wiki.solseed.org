@@ -1,0 +1,43 @@
+{
+  "canonical_path": "/Drumming_the_Eons",
+  "current_revision_id": 42917,
+  "database_title": "Drumming_the_Eons",
+  "display_title": "Drumming the Eons",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 1,
+  "page_id": 27317,
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "Brandon CS Sanders",
+      "comment": "Created page with \"This is a ritual we celebrate every year on the Summer Solstice, starting at [[Sol 2012]], to help experience the history of [[life]] on [[Earth]] by compressing the planet's lif...\"",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 42917,
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": 40065,
+      "same_as_previous_public": false,
+      "timestamp": "2014-10-13T19:31:05Z",
+      "wikitext_bytes": 2393,
+      "wikitext_sha256": "7a716f326f85fa9faadd7432dcb9252c0d693a9586e88e8790be5516e750a81c"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 40065,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 2239,
+      "markdown_sha256": "f04fc3540478c65f7691870c408b0deff06e8e3397d1489e7bdb94a3ab8e4400",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": 40065,
+      "previous_public_revision_id": 40065,
+      "revision_id": 42917,
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z"
+    }
+  ],
+  "site_revision_count": 1
+}

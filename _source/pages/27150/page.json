@@ -1,0 +1,82 @@
+{
+  "canonical_path": "/File:DessertBuffet.png",
+  "current_revision_id": 42755,
+  "database_title": "DessertBuffet.png",
+  "display_title": "File:DessertBuffet.png",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 6,
+  "original_revision_count": 4,
+  "page_id": 27150,
+  "published_revision_count": 4,
+  "revisions": [
+    {
+      "author": "EricSaumur",
+      "comment": "Created page with \"Where do I put the file?\"",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 39429,
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": 39428,
+      "same_as_previous_public": false,
+      "timestamp": "2013-10-09T01:29:10Z",
+      "wikitext_bytes": 24,
+      "wikitext_sha256": "24773c9a5af355ffde5ab76d5b37340450c0055e90f0c80bdb4a1f743a36c40b"
+    },
+    {
+      "author": "EricSaumur",
+      "comment": "uploaded &quot;[[File:DessertBuffet.png]]&quot;: A meme to go with the [[Idolatry of the Spiritual Experience]] page. ?",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 39430,
+      "original_parent_revision_id": 39428,
+      "previous_public_revision_id": 39428,
+      "revision_id": 39429,
+      "same_as_previous_public": true,
+      "timestamp": "2013-10-09T01:31:41Z",
+      "wikitext_bytes": 24,
+      "wikitext_sha256": "24773c9a5af355ffde5ab76d5b37340450c0055e90f0c80bdb4a1f743a36c40b"
+    },
+    {
+      "author": "EricSaumur",
+      "comment": "",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 39432,
+      "original_parent_revision_id": 39429,
+      "previous_public_revision_id": 39429,
+      "revision_id": 39430,
+      "same_as_previous_public": false,
+      "timestamp": "2013-10-09T01:32:34Z",
+      "wikitext_bytes": 68,
+      "wikitext_sha256": "1f2cbdde9f2d3bfb2f6cf239601f87234f26a4c7fc76664a2e94e18a32207c4b"
+    },
+    {
+      "author": "EricSaumur",
+      "comment": "",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 42755,
+      "original_parent_revision_id": 39430,
+      "previous_public_revision_id": 39430,
+      "revision_id": 39432,
+      "same_as_previous_public": false,
+      "timestamp": "2013-10-09T19:49:46Z",
+      "wikitext_bytes": 257,
+      "wikitext_sha256": "b691bcfdf850fc08d55bff3909d649e1a45a48774709758b4f877add0e68cc2a"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 39432,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 295,
+      "markdown_sha256": "d70f904c7d6339e1c8e08276bc9a95f689694feac34003587dd84e1777bc0bbe",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": 39432,
+      "previous_public_revision_id": 39432,
+      "revision_id": 42755,
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z"
+    }
+  ],
+  "site_revision_count": 1
+}

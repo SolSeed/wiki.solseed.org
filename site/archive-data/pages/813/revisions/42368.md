@@ -1,0 +1,85 @@
+### Agenda
+- Check In ... New Years Resolution
+- Review WWWs
+- Review Calls
+- Disney
+- Seed 2011
+- Seed Village
+- OnePagePlan
+
+### Check In
+- Shelley ... I want to be less busy ... more unstructured, unscheduled time ... when I create a clearing there are payoffs including decreased stress ... going to bear that in mind as I sign myself up for huge commitments (ex. feeding 12 adults Feb 5-7)
+- Brandon ... I want to be more disciplined, focused, and ahead of the game ... feel pretty good about the house cleanup Shelley's parents did today
+- Ben ... laptop screen just broke :-( ... I will no doubt be spending a lot of time with tech support sometime soon 
+- Petra ... might be getting better ... appropriate poop and sans diarrhea
+- Sequoia ... cute rolling pin for Christmas ... really nice day ... teething going better ... can say 3-5 words ... ASL signing for daddy and asking for music, about 20 others
+
+### WWWs from last time
+- <s>Ben ... expand the newsletter, add pictures, and send it off ... by Friday
+- Ben ... work on core values/beliefs ... by next call
+- Shelley ... do invitation for Jan 15 ... by tonight
+- Shelley and Brandon ... do invitation for Feb 4, 5, 6 ... tonight</s>
+- Brandon ... Send out SpaceWiki emails ... by Friday
+- Brandon ... <s>email all "members by declaration"</s> and invite them to participate ... by Monday (almost ready to send)
+
+### Review Work Bee call format
+- Shelley: My favorite thing is I can fold the laundry during the calls
+- Brandon: We spend a lot of time shallowly touching a whole bunch of things
+  - Shelley: I like it because otherwise it's painful ... we go deep when it's appropriate
+  - Brandon: If we only spend a few minutes on each thing, it's not really a work bee
+  - Shelley: What if we had the first call of the month set the agenda for the others, and have that be the only shallow one?
+  - Brandon: Shoot for half the call actually working on a project
+  - Ben: I think a lot of our projects need frequent checkins to keep them on track
+  - Shelley: Maybe we should lengthen every other call by half and hour
+    - Ben: I think when it's not too late at night I wouldn't mind extending it (when it feels like we've missed important agenda items or rushed through things)
+- Ben: no specific suggestions other than the usual: it would be nice if there were more people participating
+- Try out 90-minute call next week
+
+### Disney
+- Ben can tell them that he will take the ShareFile down but would still like to hear an answer
+- Brandon could host the file on AWS for $1 a month
+- Replacement song: Could give Lori the ideas for lyrics that Ben sketched out, or just give her the video
+  - She wants rights to any music so she would get a share of the money if the song ever makes money
+
+### Seed 2011
+- We want kidlike energy
+- We don't have 12 real SolSeed Members who are interested in all the overlapping areas
+  - Feedback from those who aren't into space will help us communicate better
+- Say "We're going to be talking about space (among other things), but we're not going to assume that you're in to space"
+  - Don't worry, we're not going to assume that you are committed to space
+  - You can observe the services with the SolSeed Creed
+    - Make sure to spell out what the Creed means?
+    - Or leave the Creed out of those services?
+    - Readers' Theater with questioning?
+- Seed 2011 will be our main emphasis for the next few Work Bee calls
+  - Brandon: Also make it the emphasis for the whole quarter
+
+### Seed Village
+- Laura, an intern at Cloacina, will be living there for a month
+  - We explained to her that it's a "trial run for living in community"
+- Jason Swift is still working on the Alaska project, out of town January 8th-18th
+
+### [OnePagePlan](/OnePagePlan)
+#### 2011 1 Year Goals (draft)
+- Village: Start construction on a backyard cottage
+- Outreach: Two more contributing members
+- Media: Finish the two books and maintain SpaceWiki
+- Spiritual practice: Maintain the spiritual practice (weekly service calls, in-person solstice and equinox events)
+- Service: $10,000 or 200 hour contribution (or some combination) to a service project that brings life
+
+Note: Village, Media, and Service can all contribute toward Outreach as a general goal
+
+#### 2011 1st Quarter Goals, due 3/31/2011 (draft)
+- Seed 2011
+  - Yellow: The event occurs on February 5-7
+  - Green: Everyone who attends feels positively toward SolSeed when they leave
+  - Super Green: Somebody "levels up"
+- Children's book
+  - Yellow: Another test copy
+  - Green: Publish it
+  - Super Green: Distribute it to 20 people
+
+### WWWs
+- Shelley ... invite her dad for the service call ... by tonight
+- Shelley ... check responses to the Seed 2011 invitation ... by tonight
+- Ben ... email Disney about the ShareFile etc ... by tomorrow

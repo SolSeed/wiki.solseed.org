@@ -1,0 +1,75 @@
+Oct 18, 2010 ... 6:20 PM
+ Oct 19, 2010 ... 6:18 PM
+ Oct 20, 2010 ... 6:16 PM
+ Oct 21, 2010 ... 6:15 PM
+ Oct 22, 2010 ... 6:13 PM Sunset Service
+ Oct 23, 2010 ... 6:11 PM
+ Oct 24, 2010 ... 6:10 PM
+ Oct 25, 2010 ... 6:08 PM
+ Oct 26, 2010 ... 6:07 PM
+ Oct 27, 2010 ... 6:05 PM
+ Oct 28, 2010 ... 6:03 PM
+ Oct 29, 2010 ... 6:02 PM Sunset Service
+ Oct 30, 2010 ... 6:00 PM
+ Oct 31, 2010 ... 5:59 PM
+ Nov 01, 2010 ... 5:57 PM
+ Nov 02, 2010 ... 5:56 PM
+ Nov 03, 2010 ... 5:55 PM
+ Nov 04, 2010 ... 5:53 PM
+ Nov 05, 2010 ... 5:52 PM Sunset Service
+ Nov 06, 2010 ... 5:51 PM
+ Nov 07, 2010 ... 4:49 PM
+ Nov 08, 2010 ... 4:48 PM
+ Nov 09, 2010 ... 4:47 PM
+ Nov 10, 2010 ... 4:46 PM
+ Nov 11, 2010 ... 4:44 PM
+ Nov 12, 2010 ... 4:43 PM Sunset Service
+ Nov 13, 2010 ... 4:42 PM
+ Nov 14, 2010 ... 4:41 PM
+ Nov 15, 2010 ... 4:40 PM
+ Nov 16, 2010 ... 4:39 PM
+ Nov 17, 2010 ... 4:38 PM
+ Nov 18, 2010 ... 4:37 PM
+ Nov 19, 2010 ... 4:36 PM Sunset Service
+ Nov 20, 2010 ... 4:35 PM
+ Nov 21, 2010 ... 4:35 PM
+ Nov 22, 2010 ... 4:34 PM
+ Nov 23, 2010 ... 4:33 PM
+ Nov 24, 2010 ... 4:32 PM
+ Nov 25, 2010 ... 4:32 PM
+ Nov 26, 2010 ... 4:31 PM Sunset Service
+ Nov 27, 2010 ... 4:31 PM
+ Nov 28, 2010 ... 4:30 PM
+ Nov 29, 2010 ... 4:30 PM
+ Nov 30, 2010 ... 4:29 PM
+ Dec 01, 2010 ... 4:29 PM
+ Dec 02, 2010 ... 4:28 PM
+ Dec 03, 2010 ... 4:28 PM Sunset Service
+ Dec 04, 2010 ... 4:28 PM
+ Dec 05, 2010 ... 4:27 PM
+ Dec 06, 2010 ... 4:27 PM
+ Dec 07, 2010 ... 4:27 PM
+ Dec 08, 2010 ... 4:27 PM
+ Dec 09, 2010 ... 4:27 PM
+ Dec 10, 2010 ... 4:27 PM Sunset Service
+ Dec 11, 2010 ... 4:27 PM
+ Dec 12, 2010 ... 4:27 PM
+ Dec 13, 2010 ... 4:27 PM
+ Dec 14, 2010 ... 4:27 PM
+ Dec 15, 2010 ... 4:28 PM
+ Dec 16, 2010 ... 4:28 PM
+ Dec 17, 2010 ... 4:28 PM Sunset Service
+ Dec 18, 2010 ... 4:29 PM
+ Dec 19, 2010 ... 4:29 PM
+ Dec 20, 2010 ... 4:29 PM
+ Dec 21, 2010 ... 4:30 PM Solstice! (Full Moon)
+ Dec 22, 2010 ... 4:30 PM
+ Dec 23, 2010 ... 4:31 PM
+ Dec 24, 2010 ... 4:32 PM Sunset Service
+ Dec 25, 2010 ... 4:32 PM
+ Dec 26, 2010 ... 4:33 PM
+ Dec 27, 2010 ... 4:34 PM
+ Dec 28, 2010 ... 4:34 PM
+ Dec 29, 2010 ... 4:35 PM
+ Dec 30, 2010 ... 4:36 PM
+ Dec 31, 2010 ... 4:37 PM

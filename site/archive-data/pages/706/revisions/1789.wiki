@@ -1,0 +1,100 @@
+[[Ted Ernst]] is beginning research into what it takes to set up a corporation.  Findings appear on this page.
+
+* Oregon Secretary of State: http://www.filinginoregon.com/
+* Business Wizard to help navigate the process: http://egov.sos.state.or.us/br/pkg_bc1_web_interview.bic_home
+** First question asks about business activity type.  Which is it?
+<pre>
+· Agriculture, Forestry, Fishing and Hunting  
+· Mining, Quarrying, and Oil and Gas Extraction  
+· Utilities  
+· Construction  
+· Manufacturing  
+· Wholesale Trade  
+· Retail Trade  
+· Transportation and Warehousing  
+· Information  
+· Finance and Insurance  
+· Real Estate and Rental and Leasing  
+· Professional, Scientific, and Technical Services  
+· Management of Companies and Enterprises  
+· Commercial, Janitorial, Travel, Security and Landscaping Services  
+· Waste Management and Remediation Services  
+· Educational Services  
+· Health Care and Social Assistance  
+· Arts, Entertainment, and Recreation  
+· Accommodation and Food Services  
+· Other Services (except Public Administration)  
+· Public Administration  
+</pre>
+
+As a strategy, maybe best to use paper forms instead of online so that people more familiar with the business can simply fill out the forms, as long as I figure out which are the right forms.
+
+More resources: 
+* [http://www.filinginoregon.com/forms/pdf/business_guides/how_to_start/1100.pdf How to Start a Business in Oregon (pdf)] (the relevant 1st step from that document is copied here:)
+
+<pre>
+Corporation
+
+A corporation is a legal entity created under Oregon law by submitting articles of incorporation to the Corporation
+Division. A corporation is owned by its shareholders, in whose names the shares are registered in the records of the
+corporation. The articles of incorporation must state how many shares the corporation has authority to issue.
+
+A corporation acts as a single entity. It exists separately from its owners, and continues to exist even though the
+shareholders may change. As a separate entity, a corporation must file its tax returns. It may own property, sue, and
+be sued.
+
+A corporation is managed by a board of directors. Except for the initial board, the shareholders generally select the
+directors. The number of directors is determined by the articles of incorporation or the bylaws. The directors must
+elect the president and secretary and adopt bylaws. The board may elect or appoint other officers, or the bylaws may
+prescribe how other officers are selected. The same person can hold two or more offices.
+
+A corporation must have a registered agent in Oregon whose street address is the registered office. If a corporation
+is sued, the legal papers are served on the registered agent. Thus, it is necessary that the registered agent have a
+street address. The registered office must be a physical street address, and cannot be a post office box or private
+mailbox (PMB) at a commercial mail-receiving agency. A registered agent can be an individual or a legal entity.
+
+The three most common types of corporations filed in Oregon are business corporations, nonprofit corporations, and
+professional corporations. Business and professional corporations are for-profit corporations. A nonprofit
+corporation is formed for any lawful purpose except financial profit. A professional corporation is a for-profit
+corporation formed for providing one or more specific types of professional service. All the shareholders of the
+professional corporation must be licensed to render one of the professional services.
+
+Corporations formed under Oregon law are “domestic” corporations. Those formed under the laws of other states or
+countries, but transacting business in Oregon, are “foreign” corporations.
+
+Domestic Corporation
+
+To form a domestic corporation in Oregon, articles of incorporation and a non-refundable $100 processing fee must
+be submitted to the Corporation Division. Before articles of incorporation are filed, the name is checked for
+availability. The name must be distinguishable from other active names on the division‟s database. A business name
+is “distinguishable” if it does not exactly copy a name already on record. If the name is distinguishable and the
+articles conform to Oregon law, the Corporation Division processes the document and returns an acknowledgment
+to the customer. File online at www.filinginoregon.com/cbr, or download forms at
+www.filinginoregon.com/forms/business.
+
+Once the existence of the corporation is established, an organizational meeting of the board of directors is generally
+held to adopt bylaws and elect officers. The bylaws of the corporation may contain any provisions to regulate and
+manage the affairs of the corporation consistent with statutes and the articles of incorporation.
+
+</pre>
+
+Articles of Incorporation: http://www.filinginoregon.com/forms/pdf/business/10.pdf <- My recommendation is that we get this filled out by hand or on this wiki page and then someone does the online filing here: https://secure.sos.state.or.us/ABNWeb/
+==Articles of Incorporation==
+=== 1)	NAME OF CORPORATION: ===
+NOTE: For a BUSINESS CORPORATION, the name must contain the word “Corporation,” “Company,” “Incorporated,” or “Limited,” or an abbreviation of one of such words. 
+=== 2)	REGISTERED AGENT:(Individual or entity that will accept legal service for this business) ===
+=== 3)	REGISTERED AGENT'S PUBLICLY AVAILABLE ADDRESS: ===
+(Must be an Oregon Street Address, which is identical to the registered agent’s business office. Must include city, state, zip; No PO Boxes.)
+=== 4)	ADDRESS WHERE THE DIVISION MAY MAIL NOTICES: ===
+=== 5)	OPTIONAL PROVISIONS: (Attach a separate sheet if necessary.) ===
+=== 6)	NUMBER OF SHARES: (At least one share must be listed.) ===
+=== 7) (not needed) ===
+=== 8)	WHO IS FORMING THIS BUSINESS? (INCORPORATORS) ===
+(List names and addresses of each incorporator.) (Attach a separate sheet if necessary.)
+=== 9)	EXECUTION/SIGNATURE(S): ===
+(All Incorporators must sign.) (Attach a separate sheet if necessary.) By my signature, I declare as an authorized authority, that this filing has been examined by me and is, to the best of my knowledge and belief, true, correct, and complete. Making false statements in this document is against the law and may be penalized by fines, imprisonment or both.
+Signature:	Printed Name:
+=== CONTACT NAME: ===
+(To resolve questions with this filing.)
+=== PHONE NUMBER: ===
+(Include area code.)

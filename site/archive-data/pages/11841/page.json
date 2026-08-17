@@ -1,0 +1,48 @@
+{
+  "canonical_path": "/File:Circles_and_categories.JPG",
+  "current_revision_id": "42611",
+  "database_title": "Circles_and_categories.JPG",
+  "display_title": "File:Circles and categories.JPG",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 6,
+  "original_revision_count": 1,
+  "page_id": "11841",
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "BenSibelman",
+      "comment": "A pair of diagrams describing philosophical concepts created at [[Sol 2012]].",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": "42611",
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": "15429",
+      "same_as_previous_public": false,
+      "timestamp": "2012-07-01T23:06:43Z",
+      "wikitext_bytes": 77,
+      "wikitext_sha256": "88cde7b6d11f387557a2741c740483b779fd0af07542b32d486b3e0e8516556a",
+      "source_format": "wikitext",
+      "source_extension": "wiki"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 15429,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 87,
+      "markdown_sha256": "80c8dd972aa06d5f512fb3ea4a30ad665c879f5a9850294b0352987578bbd72b",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": "15429",
+      "previous_public_revision_id": "15429",
+      "revision_id": "42611",
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z",
+      "wikitext_bytes": 87,
+      "wikitext_sha256": "80c8dd972aa06d5f512fb3ea4a30ad665c879f5a9850294b0352987578bbd72b",
+      "source_extension": "md"
+    }
+  ],
+  "site_revision_count": 1
+}

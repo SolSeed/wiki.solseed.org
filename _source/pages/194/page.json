@@ -1,0 +1,43 @@
+{
+  "canonical_path": "/Alex",
+  "current_revision_id": 41760,
+  "database_title": "Alex",
+  "display_title": "Alex",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 1,
+  "page_id": 194,
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "Brandon CS Sanders",
+      "comment": "Redirecting to [[User:Ofnature]]",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 41760,
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": 501,
+      "same_as_previous_public": false,
+      "timestamp": "2009-01-30T14:29:50Z",
+      "wikitext_bytes": 27,
+      "wikitext_sha256": "bd2c33d834ebc28d112bcd2207303cb571802a9bb6f2a0eb0f1642741dc38ce6"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 501,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 65,
+      "markdown_sha256": "b2229919d7ec1c83308276286191c8d3bfa23d7f4fed3cee29582c3dd8388489",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": 501,
+      "previous_public_revision_id": 501,
+      "revision_id": 41760,
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z"
+    }
+  ],
+  "site_revision_count": 1
+}

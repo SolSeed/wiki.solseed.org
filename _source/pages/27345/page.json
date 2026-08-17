@@ -1,0 +1,43 @@
+{
+  "canonical_path": "/Gaia_and_the_Whale",
+  "current_revision_id": 42944,
+  "database_title": "Gaia_and_the_Whale",
+  "display_title": "Gaia and the Whale",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 1,
+  "page_id": 27345,
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "EricSaumur",
+      "comment": "moved [[Gaia and the Whale]] to [[Gaia as the Whale]]",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 42944,
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": 40182,
+      "same_as_previous_public": false,
+      "timestamp": "2014-11-29T18:40:06Z",
+      "wikitext_bytes": 31,
+      "wikitext_sha256": "addd622949a4541e83750789d552e900a7661c04ef7938029eff67a7ebda9117"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 40182,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 73,
+      "markdown_sha256": "2bb156cb423170d6e33a8c2cc324fd6fe9a3f0d288073225b7c38b20100df657",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": 40182,
+      "previous_public_revision_id": 40182,
+      "revision_id": 42944,
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z"
+    }
+  ],
+  "site_revision_count": 1
+}

@@ -1,0 +1,63 @@
+{
+  "canonical_path": "/Awakening_the_Horse_People",
+  "current_revision_id": "43170",
+  "database_title": "Awakening_the_Horse_People",
+  "display_title": "Awakening the Horse People",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 2,
+  "page_id": "27572",
+  "published_revision_count": 2,
+  "revisions": [
+    {
+      "author": "BenSibelman",
+      "comment": "Created page from notes",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": "40845",
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": "40839",
+      "same_as_previous_public": false,
+      "timestamp": "2016-08-27T20:17:55Z",
+      "wikitext_bytes": 1317,
+      "wikitext_sha256": "3ae376b8464d69fb5969e7b397ee2ccc25daa6fa33f5f22e84e48c1207298f42",
+      "source_format": "wikitext",
+      "source_extension": "wiki"
+    },
+    {
+      "author": "BenSibelman",
+      "comment": "Added link back to the event",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": "43170",
+      "original_parent_revision_id": "40839",
+      "previous_public_revision_id": "40839",
+      "revision_id": "40845",
+      "same_as_previous_public": false,
+      "timestamp": "2016-08-27T20:30:43Z",
+      "wikitext_bytes": 1378,
+      "wikitext_sha256": "e6f0ed8990ec27176ec130462df84c71a02d3d12c1cd91898a3b826a2678a490",
+      "source_format": "wikitext",
+      "source_extension": "wiki"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 40845,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 1433,
+      "markdown_sha256": "a651e600025c4ecfd7445f6d5be44241a5c53550d7c3bc20e357878ae27289f3",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": "40845",
+      "previous_public_revision_id": "40845",
+      "revision_id": "43170",
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z",
+      "wikitext_bytes": 1433,
+      "wikitext_sha256": "a651e600025c4ecfd7445f6d5be44241a5c53550d7c3bc20e357878ae27289f3",
+      "source_extension": "md"
+    }
+  ],
+  "site_revision_count": 1
+}

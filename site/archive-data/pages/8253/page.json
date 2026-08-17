@@ -1,0 +1,48 @@
+{
+  "canonical_path": "/File:Hank's_solar_array.jpg",
+  "current_revision_id": "42556",
+  "database_title": "Hank's_solar_array.jpg",
+  "display_title": "File:Hank's solar array.jpg",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 6,
+  "original_revision_count": 1,
+  "page_id": "8253",
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "BenSibelman",
+      "comment": "[[Shelley]], [[Brandon]], [[Sequoia]], and [[Hank]] walking away after a brief tour of Hank's photovoltaic array.",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": "42556",
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": "11424",
+      "same_as_previous_public": false,
+      "timestamp": "2012-04-28T19:57:41Z",
+      "wikitext_bytes": 113,
+      "wikitext_sha256": "83905bd50708533c3c234a24a76aca4b6358f8bfe5ad3d1471d54ebb111b1015",
+      "source_format": "wikitext",
+      "source_extension": "wiki"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 11424,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 143,
+      "markdown_sha256": "d3027049b5bfe8c7723a069fd06dd73dc99a88b15a2d9570adbba24866eeb82a",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": "11424",
+      "previous_public_revision_id": "11424",
+      "revision_id": "42556",
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z",
+      "wikitext_bytes": 143,
+      "wikitext_sha256": "d3027049b5bfe8c7723a069fd06dd73dc99a88b15a2d9570adbba24866eeb82a",
+      "source_extension": "md"
+    }
+  ],
+  "site_revision_count": 1
+}

@@ -1,0 +1,82 @@
+{
+  "canonical_path": "/Gaia_demands_a_contribution",
+  "current_revision_id": 43077,
+  "database_title": "Gaia_demands_a_contribution",
+  "display_title": "Gaia demands a contribution",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 4,
+  "page_id": 27479,
+  "published_revision_count": 4,
+  "revisions": [
+    {
+      "author": "EricSaumur",
+      "comment": "Created page with \"2015-07-20 Monday 12:30 PM == Opening Thought==  I come to this place to rest my mind.  I use my practice to align my thoughts, words, actions, habits and character with my highe...\"",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 40586,
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": 40585,
+      "same_as_previous_public": false,
+      "timestamp": "2015-07-20T17:46:09Z",
+      "wikitext_bytes": 3393,
+      "wikitext_sha256": "b5fb81cd04c02048372acb95762e9f2c73c68eaaaada8adada1fd51963d72dee"
+    },
+    {
+      "author": "EricSaumur",
+      "comment": "/* Opening Thought */",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 41266,
+      "original_parent_revision_id": 40585,
+      "previous_public_revision_id": 40585,
+      "revision_id": 40586,
+      "same_as_previous_public": false,
+      "timestamp": "2015-07-20T17:48:10Z",
+      "wikitext_bytes": 3423,
+      "wikitext_sha256": "35ce6d6f49b11d708ba6028255effd614e358064049e30d1521bc4d6b39e2b2c"
+    },
+    {
+      "author": "EricSaumur",
+      "comment": "",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 41313,
+      "original_parent_revision_id": 40586,
+      "previous_public_revision_id": 40586,
+      "revision_id": 41266,
+      "same_as_previous_public": false,
+      "timestamp": "2018-04-08T03:09:02Z",
+      "wikitext_bytes": 3427,
+      "wikitext_sha256": "32a23a8a3d9331107e499d23ec6d367bf5c913e5210c8558b3591e189a08fc19"
+    },
+    {
+      "author": "EricSaumur",
+      "comment": "",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 43077,
+      "original_parent_revision_id": 41266,
+      "previous_public_revision_id": 41266,
+      "revision_id": 41313,
+      "same_as_previous_public": false,
+      "timestamp": "2018-04-19T23:16:47Z",
+      "wikitext_bytes": 3477,
+      "wikitext_sha256": "1c523309e05a12aee1aec539aadafbdee5bf52029af92f0fd35739af1600db18"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 41313,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 3527,
+      "markdown_sha256": "80abdbeba6eff5daa1f9abf215d86c9b4a832899db72335fcdda88ee3dbdebfe",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": 41313,
+      "previous_public_revision_id": 41313,
+      "revision_id": 43077,
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z"
+    }
+  ],
+  "site_revision_count": 1
+}

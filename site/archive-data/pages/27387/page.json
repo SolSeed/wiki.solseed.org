@@ -1,0 +1,48 @@
+{
+  "canonical_path": "/Possibilities",
+  "current_revision_id": "42986",
+  "database_title": "Possibilities",
+  "display_title": "Possibilities",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 1,
+  "page_id": "27387",
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "Brandon CS Sanders",
+      "comment": "Created page with \"[http://www.signingsavvy.com/sign/POSSIBLE/4155/1 ASL for Possible], [http://www.handspeak.com/word/index.php?dict=po&signID=1684 ASL for Possible 2]  [http://www.signingsavvy.co...\"",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": "42986",
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": "40283",
+      "same_as_previous_public": false,
+      "timestamp": "2015-01-09T03:09:33Z",
+      "wikitext_bytes": 309,
+      "wikitext_sha256": "d9bf349c43fd68f6bd3edacd17ecba220bc714989860d816707828ba107f975a",
+      "source_format": "wikitext",
+      "source_extension": "wiki"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 40283,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 314,
+      "markdown_sha256": "7c58d599d0848f556628ba786ebaaa5ca3abf3a0cd425c2e8f11e2bd2ecdaaf9",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": "40283",
+      "previous_public_revision_id": "40283",
+      "revision_id": "42986",
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z",
+      "wikitext_bytes": 314,
+      "wikitext_sha256": "7c58d599d0848f556628ba786ebaaa5ca3abf3a0cd425c2e8f11e2bd2ecdaaf9",
+      "source_extension": "md"
+    }
+  ],
+  "site_revision_count": 1
+}

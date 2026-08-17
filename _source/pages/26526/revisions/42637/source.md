@@ -1,0 +1,1 @@
+An opportunity profile provides a brief description of the opportunity including an objective outcome, the hoped for impact if the outcome is achieved, and an estimate of the cost to achieve the outcome.  Having these details specified helps us to all be on the same page during prioritization conversations.

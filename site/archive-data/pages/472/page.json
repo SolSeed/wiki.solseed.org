@@ -1,0 +1,48 @@
+{
+  "canonical_path": "/The_Decision",
+  "current_revision_id": "42034",
+  "database_title": "The_Decision",
+  "display_title": "The Decision",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 1,
+  "page_id": "472",
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "BenSibelman",
+      "comment": "Created page",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": "42034",
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": "1281",
+      "same_as_previous_public": false,
+      "timestamp": "2009-12-20T02:35:51Z",
+      "wikitext_bytes": 953,
+      "wikitext_sha256": "ea11fddafd919493c952dbe6f21c3eb66134b542fd45df5d1cc32922f810333f",
+      "source_format": "wikitext",
+      "source_extension": "wiki"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 1281,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 1063,
+      "markdown_sha256": "9c93cbe9cd7d94d06f8dc8f7b967237f107dfe37ef165377affba97dee1fa146",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": "1281",
+      "previous_public_revision_id": "1281",
+      "revision_id": "42034",
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z",
+      "wikitext_bytes": 1063,
+      "wikitext_sha256": "9c93cbe9cd7d94d06f8dc8f7b967237f107dfe37ef165377affba97dee1fa146",
+      "source_extension": "md"
+    }
+  ],
+  "site_revision_count": 1
+}

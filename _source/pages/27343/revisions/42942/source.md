@@ -1,0 +1,301 @@
+### Agenda
+- Check in
+- Review WWWs
+- Daily Practice/Metrics
+- Weekly event logistics
+- Review Agenda
+- Kindred Map
+- Outreach (just added WWWs)
+  - Interstellar
+  - Pantheacon
+- Project work
+  - Program and revisions to Invitation for Solstice celebration
+- Evaluation
+
+### Next time
+- Bioneers report
+- Evaluating Holacracy
+- Kickstarter for High Frontier 
+
+### Check-in (gratinews)
+- Brandon ... I am so not getting my stuff done for our movement! … it is exciting times
+- Ben … I’m pretty proud of the essay I just finished and emailed about Interstellar
+
+### WW(W)s from last time
+Organize the WWWs by person and then due date.  We’ll start checking in on topical community protocol and meditation for each mini-period between workbees.
+
+Holacracy founder Brian Robertson says these are bad: http://holacracy.org/blog/the-insanity-of-the-what-by-when 
+
+- <s>Brandon ... follow your topical community protocol for this period ... ongoing</s>
+- <s>Brandon ... meditate and keep track of which days ... ongoing</s>
+- <s>Ben ... follow your topical community protocol for this period ... ongoing
+- Ben ... meditate and keep track of which days ... ongoing</s>
+- Ben … post to the Hieroglyph forums … by next call
+- <s>Ben … spread the word about the High Frontier Kickstarter … by next call</s> (need to do more)
+- <s>Ben … draft some kind of article about Interstellar … by next Thursday</s>
+- Eric ... follow your topical community protocol for this period ... ongoing
+- Eric ... meditate and keep track of which days ... ongoing
+- Eric … work on Viventibus Galaxia blog post … if I have time
+- Eric … buy more chutes from Hobby House to replace the ones that burned two years ago … by Solstice
+- Eric … make arrangements to announce the Rockets to the Destiny event at church … by Saturday
+
+### WW(W)s
+- Ben ... follow your topical community protocol for this period ... ongoing
+- Ben ... meditate and keep track of which days ... ongoing
+- Ben … support the High Frontier Kickstarter … by tonight
+- Ben … spread the word some more about the High Frontier Kickstarter … by tonight
+- Ben … post to the Hieroglyph forums … by next call
+- Ben … update the [Kindred](/Kindred) page to include Hieroglyph and Bioneers … by next call
+- Ben … look into publishing options for my Interstellar article, like BoingBoing and the Space Reddit … by next call
+- Ben … post my article (or a summary & link) to spacesettlers@yahoogroups.com … after Brandon reviews it
+- Eric ... follow your topical community protocol for this period ... ongoing
+- Eric ... meditate and keep track of which days ... ongoing
+- Brandon ... follow your topical community protocol for this period ... ongoing
+- Brandon ... meditate and keep track of which days ... ongoing
+- Brandon … reserve hotel room for Pantheacon … ASAP
+- Brandon … finish a draft of “What will Earth’s children really look like?” … We are not children of Mother Earth
+- Brandon … work on the [Winter Solstice](/Winter_Solstice) event page on the wiki … by next Sunday
+- Brandon … invite Jude to the next service call … by next Sunday
+- Brandon … feedback on the Interstellar essay … ASAP
+
+### Daily Practice (from Sunday to Sunday)
+- https://tdp.me/person/brandon-cs-sanders
+- https://tdp.me/person/EricOfSolseed
+- https://tdp.me/person/SciFiBen 
+
+2014-11-02 to 2014-11-09: 34+5+8 = 47 checkmarks
+
+### Metrics (from Sunday to Sunday)
+1 … articles published (blog, etc)
+3 … net signups to the newsletter for the week (93 total)
+0 … conversants from signup (people we are talking or emailing with) 
+0 … bios added to the wiki by conversants
+5+1=6 … topical community touches (Eric's unknown)
+47 … daily practice checkmarks for the week
+
+### Weekly Events Logistics
+Weekend
+Service rotation: Eric, Shelley, Brandon, Ben
+- November 22 Service: 9:00 AM PDT, 12:00 EST  (Brandon)
+- November 23 Work-Bee: 5:30 PM PST, 20:30 EST (Brandon is out having a birthday party)
+
+Midweek
+- November 20 Work-Bee: 6:30 PM PST, 21:30 EST
+
+### Kindred Map
+A start … I’m transferring it over to a [Google Doc image](https://docs.google.com/a/solseed.org/drawings/d/1iSIJi4PbzGy8ecGjcUbKGYKwYVcJn7gSSrPnaaDx-Cg/edit)
+
+Other candidate dimensions
+- Living in community
+- Earnest/sincere rather than cynical/sophisticated
+- Based mainly in hope rather than fear
+
+Other suggestions
+- Spreadsheet with checkmarks
+- Bar-chart version of spreadsheet
+  - Windward … cherish earth … living in community … embrace science … starfarers-ish
+  - Living U    … starfarers      …  embrace science   … living in community
+
+### Winter Solstice
+Brandon: I want to synthesize the Pagan Wheel of the Year with the SolSeed [Cosmic Calendar](/Cosmic_Calendar)
+- Brandon is going to dress up as "Father Greenfire the Holly King"
+- Shelley  is going to dress up as “Mother Star the Holly Queen”
+- Sequoia is going to dress up as “Kid universe”
+- Ren is going to dress up as “Baby sun”
+- What's your costume going to be, Ben?
+
+#### Invitation
+Moment of Solstice is 3:03 PM PST, 18:03 EST
+
+We're excited to invite you to the Longest Night Festival, a costume-party celebration of the Winter Solstice -- the longest night of the year. Our celebration will include a simple Pagan-style ceremony to honor the cycles of nature, including a non-theistic version of "Silent Night" and the song "Psalm of Solstice" from Hymnody of Earth.
+
+Of course, SolSeed is more than just a Pagan religion. We also have a Carl-Sagan-style "cosmic calendar" that maps the history of the Universe onto the year, with the Winter Solstice as its beginning and endpoint. The SolSeed Movement uses this calendar to celebrate the history and future of life in the Universe. We will share with you two of our eight Sabbath rituals representing the last and first stages of this story.
+
+Afterward, for those of you who don't live nearby, there are hotels in Goldendale and Biggs Junction, and if you have a warm enough sleeping bag, there's camping at Maryhill State Park on the shore of the Columbia River.
+
+WHEN: 7:30 - 9:00 PM on Sunday, December 21st.
+
+WHERE: The Seed Village, 1824 SE Oak St, Portland, OR
+
+#### Longest Night Festival - Program
+Thanks to John Halstead (the allergic pagan for lots of ideas)
+
+##### Pre-activities
+String a cosmic year rosary.
+Apply a SolSeed temporary tattoo. (Perhaps one they can draw themselves)
+
+##### Introduction
+I enter dressed as the Holly King and narrate the following:
+
+I am the Holly King, King of Winter, the dark time of the year, Lord of the Underworld.  I am the dark twin of my brother, the Oak King, the King of the Summerlands, the Lord of Light.  I am the wolf and he is the stag.  I am the dark to his light.
+
+I have come to teach you about the Wheel of the Year.  The Wheel of the Year has eight special days, spread evenly apart.
+
+The winter solstice is the longest night of the year.  Pagans today call this time by its ancient Anglo-Saxon name, Yule.  Yule is the night when I am the strongest.  But it is also the time when I slowly begin to grow weak again, as the Sun slowly returns from land of darkness.  This is night that the Child of Promise is born from the dark womb of the Goddess.  The Child of Promise is the new sun, which is small and weak at this time of the year, but will grow stronger and stronger until he defeats me in the springtime.  This is a time for celebrating new beginnings.
+
+Christmas is also celebrated at this time of the year by Christians.  It is when they celebrate the birth of Jesus.  We have learned from scholars that Jesus was actually born in the Springtime.  But around the year 350 AD, the Christian church changed the date to be on the same date as the pagan celebration, Dies Natali Solis Invicti, which means the birthday of the conquering sun, which was celebrated at the winter solstice.  Pagans believe that Jesus was an example of the Child of Promise, who was born at the winter solstice and grows up to defeat the powers of darkness, but is later killed and reborn.  Pagans believe that this happened not just one time long ago, but happens every year, in nature.  It also can happen many times within us, in our souls.
+
+##### Flowering
+###### Psalm of Solstice
+Gazing out into the skies
+On the eve of the longest night.    
+Here we dream with open eyes    
+On the eve of a holy night. 
+Choirs of stars, high in the air
+Shine like some amazing silent prayer.
+The earth is still and calm
+Everyone can hear the Psalm.
+
+###### [Viventibus Galaxia](/Viventibus_Galaxia) ritual
+##### Death
+###### “Winter Solstice Chant” by Phillip Palmer (UU Hymn 1063)
+Child – ren of the Earth, _____
+we have come to sing to each oth – er,
+Sist – er to Broth – er,
+songs of our Moth – er Earth.
+Children of the Earth _____
+Autumn soon will breathe her last breath and
+quick will hear death bear
+witness to Winter’s Birth.
+Children of the Earth _____
+can you feel the air getting cold as
+darkness takes hold and
+sleep covers Mother Earth?
+Children of the Earth _____
+we have come to sit in the dakrness,
+breathe in the silence,
+think of our Mother Earth.
+
+###### Activity
+We go outside and gather around the unlit campfire in dark (?)
+
+We have a brief silent meditation on darkness:
+
+*Now we will have a brief silent meditation.  Think about the darkness.  Think about the silence.  Think about how everything begins in the darkness.  Think about how in the darkness there is always a spark of light.*
+
+We then light candles.
+
+###### Brief Homily on Darkness
+The winter solstice happens in nature around us.  But it also happens inside of us, in our souls.  It can happen inside of us is summer or winter, spring or fall.   In the dark place of our soul, we carry secret wishes, pains, frustrations, loneliness, fears, regrets, worries.  Darkness is not something to be afraid of.  Sometimes we go to the dark place of our soul, where we can find safety and comfort.  In the the dark place in our soul we can find rest and rejuvenation.  In the dark place of our soul we can find balance.  And when we have rested, and been comforted, and restored, we can return from the dark place in our soul to the world of light and new possibilities.
+
+###### Story: “The Rebirth of the Sun” by Starhawk (part 1)
+Circle round, and I’ll tell you a story about when the sun was born again …
+
+It was the middle of winter, and the sun had grown very old.
+
+All year long the sun had worked very hard, rising and setting day after day. All year long the sun had fed everybody on earth, shining and shining, giving energy to the trees and the flowers and the grasses so they could grow and feed the animals and birds and insects and people.
+
+All year the sun’s gravity held tight to the spinning ball of the earth and the twirling ball of the moon and the eight other whirling planets as they traveled around and around and around, until the poor sun was dizzy watching it all.
+
+Now the poor tired sun could barely make it up in the morning, and after a very short time, needed to sleep again. So the days grew shorter, and the nights grew longer, until the day was so short it was hardly worth getting up for.
+
+Mother Night felt sorry for the sun.
+
+[My daughter reads:] “Come to my arms and rest, child.  After all, I am your mother. You were born out of my darkness, billions of years ago, and you will return to me when all things end. Let me cradle you now, as I shelter every galaxy and star in the universe.”
+
+So Mother Night wrapped her great arms around the sun, and the night was very long indeed.
+
+##### (re)Birth
+###### Prelude: “Solstice Prayer” chant by Thorn Coyle
+We wait in the dark for the light to appear,
+Mother, give birth to our brother the Sun.
+We wait in the dark for the light to appear,
+Mother, give birth to our brother the Sun!
+We wait. We watch.
+Out of the cold comes the promise of newness.
+We wait. We watch.
+Out of the cold comes the promise of day!
+
+###### [Genesis](/Genesis) ritual
+###### Story: “The Rebirth of the Sun” by Starhawk (part 2)
+“Why does the dark go on so long?” asked children all over the earth. “Won’t the sun ever come back again?”
+
+“The sun is very tired,” the old ones said. “But maybe, if you children say thank you for all the things the sun does for us, the light may return in the morning.”
+
+The children sang songs to the sun. They thought about all the things the sun gave them.
+
+[My wife asks the kids what they think the children might have thanked the sun for, then resumes the story.]
+
+“Thank you for growing the lettuces and the corn and the rice and the wheat,” they said. “Thank you for growing the trees of the forests and the seaweed in the oceans and the krill that feeds the whales. Thank you for stirring the air and making winds that bring the rain.”
+
+Every time a child said thank you, the sun began to feel a little warmer, a little brighter. Wrapped safely in the arms of Night, the sun grew younger and younger.
+At last the children had to go to bed. “We will stay up and wait for the sun to rise again” the old ones said.
+
+“Can’t we stay up, too?” the children asked.
+
+“You can try, but you will get too sleepy,” the old ones said. “But you can each light a candle, because all fire is a spark of the sun’s fire. Put your candle in a very safe place, and let it keep vigil for you as you sleep and dream of sunrise.”
+
+So the children lit their candles and put them in very safe places, and each flame was a little spark of the sun’s fire.
+
+[My wife lights a candle.]
+
+And the sun peeped out from between the arms of Night, and saw all the little fires, and began to feel warmer and brighter and younger still.
+
+Early in the morning, the old ones woke the children. Together they climbed a high hill and faced to the east, the direction of sunrise. They sang songs to the sun and ran around trying to keep warm. They waited and waited to see what dawn would bring.
+The sky began to turn from black to indigo to blue. Slowly the sky grew light. A golden glow crept over the horizon. Night opened her great arms, and in a burst of brightness, the sun appeared, new and strong and shining.
+
+For in the long night the sun had rested well and grown young from the songs and the thanks of the children, young as a brand-new baby, born out of Night once more.
+Everybody cheered, and the children jumped up and down.
+
+“The sun has returned! The sun is reborn!” the people cried. And they danced and sang to celebrate the birth of a new day, and then went home to breakfast.
+
+##### Unsorted activities
+###### Responsive Reading: “Reflections on the Resurgence of Joy” litany by Dori Jeanine Somers (UU Reading 653)
+How short the daylight hours have now become.  How grey the skies, how barren seem the trees.
+A damp and chilling wind has gripped my mind and made me gloomy, too.
+But there is that in me which reaches up toward the light and laughter, bells, and carolers,
+And knows that my religious myth and dream of reborn joy and goodness must be true,
+Because it speaks the truths of older myths;
+That light returns to balance darkness, life surges in the evergreen – and us,
+As babes are hope, and saviors of the world, as miracles abound in common things.
+Rejoice!  And join in the gladness of the season.
+
+###### Song: “Pagan Silent Night” (UU Hymn 251) adapted by Ellen Reed
+Si – lent night, Sol – stice Night
+All is calm, gone is light
+Na- ture slum – bers in for – est and glen
+Till in Spring – time She wakens a – gain
+Sleep – ing spir – its grow strong!
+Sleep – ing spir – its grow strong!
+Si – lent night, Sol – stice Night
+Sil – ver moon shin – ing bright
+Snow – fall blank – ets the slum – ber – ing Earth
+Yule fires wel – come the Sun’s re – birth
+Hark, the Light is re – born!
+Hark, the Light is re – born!
+Si – lent night, Sol – stice Night
+Qui – et rest till the Light
+Turn – ing ev – er the roll – ing Wheel
+Brings the win – ter to com – fort and heal
+Rest your spir – it in peace!
+Rest your spir – it in peace!
+
+###### Activity (continued)
+We then light the bonfire/yule log.  We then circle round the campfire.
+
+###### Litany: “The Light is Reborn”
+We each take turns reading a line of the “call”.  Everyone responds to the call with the line is “The light is reborn.”
+When the earth is barren.
+The light is reborn.
+When the animals sleep.
+The light is reborn.
+When the leaves have all fallen.
+The light is reborn.
+When the rivers are frozen.
+The light is reborn.
+When the ground is hard.
+The light is reborn.
+When the shadows grow long.
+The light is reborn.
+When warmth has fled.
+The light is reborn.
+In the darkest night.
+The light is reborn.
+We the go inside for hot chocolate.
+
+Read more: http://www.patheos.com/blogs/allergicpagan/2011/12/29/winter-solstice-ritual/#ixzz3JHyTpwCJ
+
+### Evaluation
+- Brandon … I’m excited
+- Ben … Time flies when you’re trying to organize lots of ritual
+- Eric … Ooops!

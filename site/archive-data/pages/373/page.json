@@ -1,0 +1,48 @@
+{
+  "canonical_path": "/File:Milky_Way_from_Wikipedia.jpg",
+  "current_revision_id": "41937",
+  "database_title": "Milky_Way_from_Wikipedia.jpg",
+  "display_title": "File:Milky Way from Wikipedia.jpg",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 6,
+  "original_revision_count": 1,
+  "page_id": "373",
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "BenSibelman",
+      "comment": "An image used in the [http://en.wikipedia.org/wiki/Milky_way Milky Way Galaxy article on Wikipedia], rotated and touched up by [[Ben]] using Windows Live Photo Gallery",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": "41937",
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": "1084",
+      "same_as_previous_public": false,
+      "timestamp": "2009-11-11T04:26:31Z",
+      "wikitext_bytes": 167,
+      "wikitext_sha256": "669517db4707f32a193cf8e80f525740d2ea5238d4d0fd7d20dd5bdcc59b200f",
+      "source_format": "wikitext",
+      "source_extension": "wiki"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 1084,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 173,
+      "markdown_sha256": "dec0c5d607f178a2d89444f4084d2f25b420aa5c8bbc707d4b4965f33e269d78",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": "1084",
+      "previous_public_revision_id": "1084",
+      "revision_id": "41937",
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z",
+      "wikitext_bytes": 173,
+      "wikitext_sha256": "dec0c5d607f178a2d89444f4084d2f25b420aa5c8bbc707d4b4965f33e269d78",
+      "source_extension": "md"
+    }
+  ],
+  "site_revision_count": 1
+}

@@ -1,0 +1,63 @@
+{
+  "canonical_path": "/Sol_2012_next_steps",
+  "current_revision_id": "42607",
+  "database_title": "Sol_2012_next_steps",
+  "display_title": "Sol 2012 next steps",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 2,
+  "page_id": "11625",
+  "published_revision_count": 2,
+  "revisions": [
+    {
+      "author": "BenSibelman",
+      "comment": "Created page",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": "15047",
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": "15044",
+      "same_as_previous_public": false,
+      "timestamp": "2012-06-25T22:13:59Z",
+      "wikitext_bytes": 3104,
+      "wikitext_sha256": "9e34aae7db4da7aca4d02f6908a04bd9e256aa4abb1bf49a08c75e77ae956710",
+      "source_format": "wikitext",
+      "source_extension": "wiki"
+    },
+    {
+      "author": "BenSibelman",
+      "comment": "Fixed link",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": "42607",
+      "original_parent_revision_id": "15044",
+      "previous_public_revision_id": "15044",
+      "revision_id": "15047",
+      "same_as_previous_public": false,
+      "timestamp": "2012-06-25T22:16:34Z",
+      "wikitext_bytes": 3111,
+      "wikitext_sha256": "bb595e9452a3d7a29053876b36b6aaa8844f41624ff2d10f6ca79590972e4a4f",
+      "source_format": "wikitext",
+      "source_extension": "wiki"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 15047,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 3217,
+      "markdown_sha256": "1e5e0f5674a1f943b04da6be7f2ad78accf513a31754108fc2b95f161e601406",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": "15047",
+      "previous_public_revision_id": "15047",
+      "revision_id": "42607",
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z",
+      "wikitext_bytes": 3217,
+      "wikitext_sha256": "1e5e0f5674a1f943b04da6be7f2ad78accf513a31754108fc2b95f161e601406",
+      "source_extension": "md"
+    }
+  ],
+  "site_revision_count": 1
+}

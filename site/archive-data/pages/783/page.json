@@ -1,0 +1,63 @@
+{
+  "canonical_path": "/November_2010_Newsletter",
+  "current_revision_id": "42339",
+  "database_title": "November_2010_Newsletter",
+  "display_title": "November 2010 Newsletter",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 2,
+  "page_id": "783",
+  "published_revision_count": 2,
+  "revisions": [
+    {
+      "author": "BenSibelman",
+      "comment": "Created page",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": "2022",
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": "2021",
+      "same_as_previous_public": false,
+      "timestamp": "2010-12-04T19:12:27Z",
+      "wikitext_bytes": 2356,
+      "wikitext_sha256": "7690c65058dc424aa82311fb50b9b9405d6b6ee11f84748c935852720c4d556f",
+      "source_format": "wikitext",
+      "source_extension": "wiki"
+    },
+    {
+      "author": "BenSibelman",
+      "comment": "Added unsubscribe postscript",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": "42339",
+      "original_parent_revision_id": "2021",
+      "previous_public_revision_id": "2021",
+      "revision_id": "2022",
+      "same_as_previous_public": false,
+      "timestamp": "2010-12-04T19:13:15Z",
+      "wikitext_bytes": 2427,
+      "wikitext_sha256": "96971d92008ca1c4074e3e7efd87773570b1caa74974f87a9355a83a406c9c49",
+      "source_format": "wikitext",
+      "source_extension": "wiki"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 2022,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 2457,
+      "markdown_sha256": "2ffc3705eee3677526246544ac650614cf7e012c2f875f24d4f561e01966d318",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": "2022",
+      "previous_public_revision_id": "2022",
+      "revision_id": "42339",
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z",
+      "wikitext_bytes": 2457,
+      "wikitext_sha256": "2ffc3705eee3677526246544ac650614cf7e012c2f875f24d4f561e01966d318",
+      "source_extension": "md"
+    }
+  ],
+  "site_revision_count": 1
+}

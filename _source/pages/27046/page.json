@@ -1,0 +1,69 @@
+{
+  "canonical_path": "/File:PedalWaterPump.jpg",
+  "current_revision_id": 42651,
+  "database_title": "PedalWaterPump.jpg",
+  "display_title": "File:PedalWaterPump.jpg",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 6,
+  "original_revision_count": 3,
+  "page_id": 27046,
+  "published_revision_count": 3,
+  "revisions": [
+    {
+      "author": "EricSaumur",
+      "comment": "Created page with \"a\"",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 39079,
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": 39078,
+      "same_as_previous_public": false,
+      "timestamp": "2012-10-22T00:18:51Z",
+      "wikitext_bytes": 1,
+      "wikitext_sha256": "ca978112ca1bbdcafac231b39a23dc4da786eff8147c4e72b9807785afee48bb"
+    },
+    {
+      "author": "EricSaumur",
+      "comment": "uploaded &quot;[[File:PedalWaterPump.jpg]]&quot;",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 39080,
+      "original_parent_revision_id": 39078,
+      "previous_public_revision_id": 39078,
+      "revision_id": 39079,
+      "same_as_previous_public": true,
+      "timestamp": "2012-10-22T00:21:36Z",
+      "wikitext_bytes": 1,
+      "wikitext_sha256": "ca978112ca1bbdcafac231b39a23dc4da786eff8147c4e72b9807785afee48bb"
+    },
+    {
+      "author": "EricSaumur",
+      "comment": "Blanked the page",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 42651,
+      "original_parent_revision_id": 39079,
+      "previous_public_revision_id": 39079,
+      "revision_id": 39080,
+      "same_as_previous_public": false,
+      "timestamp": "2012-10-22T00:22:22Z",
+      "wikitext_bytes": 0,
+      "wikitext_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 39080,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 45,
+      "markdown_sha256": "252140068a92a43adc08c92c83b7dcebf93357b7e39a6a517958df64a49b38ca",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": 39080,
+      "previous_public_revision_id": 39080,
+      "revision_id": 42651,
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z"
+    }
+  ],
+  "site_revision_count": 1
+}

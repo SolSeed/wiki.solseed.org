@@ -1,0 +1,56 @@
+{
+  "canonical_path": "/2013_Vision/Purpose_Retreat",
+  "current_revision_id": 42679,
+  "database_title": "2013_Vision/Purpose_Retreat",
+  "display_title": "2013 Vision/Purpose Retreat",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 2,
+  "page_id": 27074,
+  "published_revision_count": 2,
+  "revisions": [
+    {
+      "author": "BenSibelman",
+      "comment": "Created page from the EtherPad, with adjustments",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 39161,
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": 39160,
+      "same_as_previous_public": false,
+      "timestamp": "2013-01-13T20:14:08Z",
+      "wikitext_bytes": 16727,
+      "wikitext_sha256": "6605d909a3f73bb93a3179b585c6f89d17a56380c6395a0eee14ad3e76b570ae"
+    },
+    {
+      "author": "BenSibelman",
+      "comment": "/* Agenda */",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 42679,
+      "original_parent_revision_id": 39160,
+      "previous_public_revision_id": 39160,
+      "revision_id": 39161,
+      "same_as_previous_public": false,
+      "timestamp": "2013-01-13T20:14:34Z",
+      "wikitext_bytes": 16730,
+      "wikitext_sha256": "4df6a9fff16efb9ea538ef3f59b4865b39e57ca0f20a022b40ab0152bafda254"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 39161,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 16789,
+      "markdown_sha256": "9f2f3051eabd4aad8befde56bfcf4d177658037c758c860d1b2ff19516b3c94d",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": 39161,
+      "previous_public_revision_id": 39161,
+      "revision_id": 42679,
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z"
+    }
+  ],
+  "site_revision_count": 1
+}

@@ -1,0 +1,69 @@
+{
+  "canonical_path": "/June_14,_2015:_Business_Call",
+  "current_revision_id": 43063,
+  "database_title": "June_14,_2015:_Business_Call",
+  "display_title": "June 14, 2015: Business Call",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 3,
+  "page_id": 27465,
+  "published_revision_count": 3,
+  "revisions": [
+    {
+      "author": "BenSibelman",
+      "comment": "Created page from the Google doc, with adjustments",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 40542,
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": 40541,
+      "same_as_previous_public": false,
+      "timestamp": "2015-06-14T21:56:21Z",
+      "wikitext_bytes": 6353,
+      "wikitext_sha256": "61fe189a0fad502edba1c2ee2e2ec9ca659fd04b001cafb5c0d484c62db6ff4e"
+    },
+    {
+      "author": "BenSibelman",
+      "comment": "Removed Thursday agenda",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 40543,
+      "original_parent_revision_id": 40541,
+      "previous_public_revision_id": 40541,
+      "revision_id": 40542,
+      "same_as_previous_public": false,
+      "timestamp": "2015-06-14T21:56:52Z",
+      "wikitext_bytes": 5778,
+      "wikitext_sha256": "10abc4bab9a8780c06b527c852d480013d64df6409bf304e56f906ab5a3df223"
+    },
+    {
+      "author": "BenSibelman",
+      "comment": "/* Sunday Agenda */",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 43063,
+      "original_parent_revision_id": 40542,
+      "previous_public_revision_id": 40542,
+      "revision_id": 40543,
+      "same_as_previous_public": false,
+      "timestamp": "2015-06-14T21:57:17Z",
+      "wikitext_bytes": 5742,
+      "wikitext_sha256": "520269c56f87ac6b3f849c5d7824736ba9e063048ef4cf3161f4e5e6bf7e3111"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 40543,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 5699,
+      "markdown_sha256": "3292e86236b41aeb8f3ce9f9735be7ac4916d602b8079913d4b9af08e0f68e50",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": 40543,
+      "previous_public_revision_id": 40543,
+      "revision_id": 43063,
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z"
+    }
+  ],
+  "site_revision_count": 1
+}

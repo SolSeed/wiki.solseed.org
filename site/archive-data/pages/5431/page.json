@@ -1,0 +1,48 @@
+{
+  "canonical_path": "/Being_a_Starfarer",
+  "current_revision_id": "42515",
+  "database_title": "Being_a_Starfarer",
+  "display_title": "Being a Starfarer",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 1,
+  "page_id": "5431",
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "Brandon CS Sanders",
+      "comment": "moved [[Being a Starfarer]] to [[Bringing life to ourselves]]: Reworking the table of contents for the book",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": "42515",
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": "7698",
+      "same_as_previous_public": false,
+      "timestamp": "2012-03-12T04:50:04Z",
+      "wikitext_bytes": 40,
+      "wikitext_sha256": "7c44a6a3064220ae7220435e3aa488af7b98147f2896496b3c08e129af7c3665",
+      "source_format": "wikitext",
+      "source_extension": "wiki"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 7698,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 91,
+      "markdown_sha256": "b39fd09540727e6339a21dbee35e6cf5cbec5d6ca013d381cf8961fed5d8ec45",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": "7698",
+      "previous_public_revision_id": "7698",
+      "revision_id": "42515",
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z",
+      "wikitext_bytes": 91,
+      "wikitext_sha256": "b39fd09540727e6339a21dbee35e6cf5cbec5d6ca013d381cf8961fed5d8ec45",
+      "source_extension": "md"
+    }
+  ],
+  "site_revision_count": 1
+}

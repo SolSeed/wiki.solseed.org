@@ -1,0 +1,19 @@
+It’s been over three months since our last newsletter, so it’s high time to update you on SolSeed’s doings.
+  
+
+![right](/assets/uploads/Earth_Day_2011_booth.JPG) As mentioned in the last report, our booth at City Repair’s annual [Earth Day festival](/Earth_Day_2011) was even bigger than last year, in a number of ways.  In addition to the popular participatory mural painting and galaxy planter, we showed off our backyard cottage concept plans and a test copy of Happy in the Sun (more on those below).  Plus we donated some space to three friends we met at last year’s Earth Day, Mathew and Molly representing [Cloacina](http://www.cloacina.org) (and face painting), and Gus representing the Silverton [Green Grange](http://greengranges.org) (and Extraterrestrial Agriculture).  We met lots of interesting people and had a great time, and this time the weather was beautiful throughout. 
+
+Swift Architecture produced some beautiful concept plans for our backyard cottage.  After showing them off at Earth Day, we took a break from architectural planning and started on a process of developing our community vision, values, mission, and goals, following the excellent advice in the book Creating a Life Together by Diana Leafe Christian.  To this end, we held a two-day [Vision Workshop](/Vision_Workshop) during Memorial Day weekend, then continued the conversation on our regular [weekly “work bee” calls](/Group_Experiences#SolSeedCalls).  We’re also still considering other options for the next physical step in building the [Seed Village](/Seed_Village), from remodeling Brandon and Shelley’s basement to buying or renting another house nearby. 
+  
+
+![left](/assets/uploads/Reading_Happy_in_the_Sun.JPG)
+After working on it for a year and a half, we’ve finally self-published our first SolSeed book, *[Happy in the Sun](/Happy_in_the_Sun)*!  We have an initial run of twenty copies, several of which are already spoken for (Sequoia is already very attached to his copy).  If you’d like a copy, please contact [mailto:brandon@solseed.org brandon@solseed.org].
+  
+
+To celebrate the Summer Solstice this year, we went on a [hike to beautiful Wahclella Falls](/Summer_Solstice_2011) in the Columbia Gorge, followed by dinner at the Seed Village.  ![right](/assets/uploads/Hiking_party_at_Wahclella_Falls.JPG) The falls was in an impressively large side-canyon to the south of the Columbia, on a stream dotted with huge boulders.  Near the falls, we found a cave that looked like it would have been fun to explore, if only anyone had brought a flashlight.  The weather was looking questionable for the hike, but the rainclouds politely held off and only sprinkled us a little until after we got back in our cars to head home, at which point the downpour began.
+
+As for the upcoming months: We will of course be celebrating the Equinox on September 23rd.  This year we’re joining a massive global event on Equinox weekend, [Moving Planet](http://www.moving-planet.org/map), with a SolSeed bicycle squad—we hope you’ll join us!  Other things we’re getting involved in are more cryptic . . . like Meetups, a church survey, and space elevators.  Stay tuned for more details!
+
+Thanks for reading!  
+
+Ben Sibelman

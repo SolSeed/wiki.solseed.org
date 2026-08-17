@@ -1,0 +1,48 @@
+{
+  "canonical_path": "/File:Cubesat_in_orbit.jpg",
+  "current_revision_id": "42640",
+  "database_title": "Cubesat_in_orbit.jpg",
+  "display_title": "File:Cubesat in orbit.jpg",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 6,
+  "original_revision_count": 1,
+  "page_id": "27015",
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "BenSibelman",
+      "comment": "A 10x10x10-centimeter satellite. Image by Erik Kulu and Austin Hess, Creative Commons licensed, from http://commons.wikimedia.org/wiki/File:ESTCube-1.jpg.",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": "42640",
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": "39036",
+      "same_as_previous_public": false,
+      "timestamp": "2012-09-23T18:15:24Z",
+      "wikitext_bytes": 154,
+      "wikitext_sha256": "ab6dc9d1dbbd76bf46e2dfd43632ed5546c648612decd78ac2e48f9bf1a752c3",
+      "source_format": "wikitext",
+      "source_extension": "wiki"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 39036,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 155,
+      "markdown_sha256": "243004daa2ad15724ac40e1b04476181073b12a32db9e3e66618773edb9bfec3",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": "39036",
+      "previous_public_revision_id": "39036",
+      "revision_id": "42640",
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z",
+      "wikitext_bytes": 155,
+      "wikitext_sha256": "243004daa2ad15724ac40e1b04476181073b12a32db9e3e66618773edb9bfec3",
+      "source_extension": "md"
+    }
+  ],
+  "site_revision_count": 1
+}

@@ -1,0 +1,13 @@
+Hi Mcennalakidd,
+
+Welcome to the site!  I moved your comment from the news section to here where it is a bit more appropriate.
+
+Regards,  
+
+[Brandon](/Brandon)
+
+----
+
+Howdy, wonderful site except a bit sluggish every time I access it, it is most probably my web connection, I am unsure. Many thanks =-=
+
+Sorry about that.  Can you provide any more info about the sluggishness you are seeing?  Thanks!  --[Brandon](/Brandon)

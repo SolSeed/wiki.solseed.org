@@ -1,0 +1,48 @@
+{
+  "canonical_path": "/August_20,_2015:_Workbee",
+  "current_revision_id": "43084",
+  "database_title": "August_20,_2015:_Workbee",
+  "display_title": "August 20, 2015: Workbee",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 1,
+  "page_id": "27486",
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "Brandon CS Sanders",
+      "comment": "moved [[August 20, 2015: Workbee]] to [[August 20, 2015: Online Work Bee]]",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": "43084",
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": "40602",
+      "same_as_previous_public": false,
+      "timestamp": "2015-08-24T00:37:36Z",
+      "wikitext_bytes": 46,
+      "wikitext_sha256": "9ec31f094456f510791108b1550ccf7d13da6ffb91cbb14bd552493d6acf6cd5",
+      "source_format": "wikitext",
+      "source_extension": "wiki"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 40602,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 103,
+      "markdown_sha256": "bad846b9299f155d7d2c8fb39b1560f94498214c65895b6f36154cac5053249b",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": "40602",
+      "previous_public_revision_id": "40602",
+      "revision_id": "43084",
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z",
+      "wikitext_bytes": 103,
+      "wikitext_sha256": "bad846b9299f155d7d2c8fb39b1560f94498214c65895b6f36154cac5053249b",
+      "source_extension": "md"
+    }
+  ],
+  "site_revision_count": 1
+}

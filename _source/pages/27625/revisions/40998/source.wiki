@@ -1,0 +1,53 @@
+== Adapting the Hanukkah menorah for SolSeed ==
+<table><tr>
+<td valign="top">
+Hanukkah was originally a minor Jewish holiday, but is very popular in America due to its close association with Christmas. In 2016, [[Ben]], who grew up in a Jewish family, realized that he could easily use his menorah, with its central candle that provides flame to eight surrounding candles, to celebrate the Solar System. The motivation for this comes partly from Kathryn Denning's [[Contact Conference#Kathryn Denning - "If You Love This Solar System"|If You Love This Solar System]] talk at the 2012 [[Contact Conference]].
+
+As in traditional Hanukkah celebrations, the central candle, known as the shamash, is lit first, and is then used to light one or more additional candles; the first night there is only one candle apart from the shamash, and on the eighth night the menorah is filled with nine candles. Therefore, in the script that follows, you skip to the last line after lighting the last available candle for the night and reciting the words for that candle; you only recite the entire script on the last night.
+</td>
+<td><YouTube v="doBS_MfymR8"/></td>
+</tr></table>
+
+=== Ritual script ===
+
+''Light a match''
+
+Blessed is flame, gateway to the numinous, the awe and reverence that fill us as we contemplate All that Is.
+
+''Light the shamash''
+
+Blessed is Sol, heart of the Solar System, source of light and life.
+
+''Light the first candle''
+
+Blessed is Mercury, fast-moving, slow-turning stone, rich in energy. Difficult but possible future home of life, cowering in polar craters or forever fleeing the dawn around the curve.
+
+''Light the second candle''
+
+Blessed is Venus, slow-turning stone blanketed in thick hot acid air. Possible future home of life floating above the cloud tops.
+
+''Light the third candle''
+
+Blessed is Earth, mostly-molten rock sheathed in thin layers of water and air. Mother to all life we presently know, from the depths of the ocean to the expanse of the land to the heights of the air, an ancient and mighty biosphere poised to flower and spread.
+
+''Light the fourth candle''
+
+Blessed is Mars, rust-red rock with a thin wisp of atmosphere. Possible past home of life, back when its air was thick, warm and moist. Possible current home of life cowering in underground reservoirs. And possible future home of life from Earth, which may transform its surface and atmosphere to be warm and moist once more.
+
+''Light the fifth candle''
+
+Blessed is Jupiter, gigantic fast-spinning ball of gas. Circled by many moons, including three with likely oceans locked under ice, possible current or future homes of life.
+
+''Light the sixth candle''
+
+Blessed is Saturn, great ball of gas circled by mighty rings and many moons, including one with liquid water and one with methane lakes, possible current homes of life.
+
+''Light the seventh candle''
+
+Blessed is Uranus, great ball of gas turned on its side. Circled by many moons, possible future homes of life under domes or in caverns filled with air and light by the power of science.
+
+''Light the eighth candle''
+
+Blessed is Neptune, great ball of gas circled by thin rings and several moons, possible future home of life preparing to take the next great leap, outward into the great realm of the comets and beyond, to other stars.
+
+Blessed is our Solar System.

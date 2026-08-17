@@ -1,0 +1,48 @@
+{
+  "canonical_path": "/File:Earth_Day_2011_mural_after.JPG",
+  "current_revision_id": "42430",
+  "database_title": "Earth_Day_2011_mural_after.JPG",
+  "display_title": "File:Earth Day 2011 mural after.JPG",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 6,
+  "original_revision_count": 1,
+  "page_id": "1169",
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "BenSibelman",
+      "comment": "The \"after\" photo of the [[Earth Day 2011]] mural, with two guys adding \"finishing touches\" to a project featuring the contributions of dozens of festival visitors.",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": "42430",
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": "2593",
+      "same_as_previous_public": false,
+      "timestamp": "2011-05-07T23:39:50Z",
+      "wikitext_bytes": 164,
+      "wikitext_sha256": "abdd301623182cda31ffd3731853c2d8767394901650fcdeb4b73fc628908ceb",
+      "source_format": "wikitext",
+      "source_extension": "wiki"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 2593,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 180,
+      "markdown_sha256": "79e9e4cb04289b9df4b3ed36cac67850e5f38f9373cd623adbd482a45d1964bc",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": "2593",
+      "previous_public_revision_id": "2593",
+      "revision_id": "42430",
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z",
+      "wikitext_bytes": 180,
+      "wikitext_sha256": "79e9e4cb04289b9df4b3ed36cac67850e5f38f9373cd623adbd482a45d1964bc",
+      "source_extension": "md"
+    }
+  ],
+  "site_revision_count": 1
+}

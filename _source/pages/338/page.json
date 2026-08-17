@@ -1,0 +1,43 @@
+{
+  "canonical_path": "/File_talk:Sol2009CinchSack.png",
+  "current_revision_id": 41902,
+  "database_title": "Sol2009CinchSack.png",
+  "display_title": "File talk:Sol2009CinchSack.png",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 7,
+  "original_revision_count": 1,
+  "page_id": 338,
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "Kimisu",
+      "comment": "New page: This is ADORABLE. :)",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 41902,
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": 962,
+      "same_as_previous_public": false,
+      "timestamp": "2009-06-19T12:19:40Z",
+      "wikitext_bytes": 20,
+      "wikitext_sha256": "8f9ff621bc9a290e3b758de6ad34f7ae79395c378c6b28207d0cf2114e0869a9"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 962,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 21,
+      "markdown_sha256": "840a6b67a00a87afa5f814990d872980e8b6842f8b4f610ee74402c8d6ba28bc",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": 962,
+      "previous_public_revision_id": 962,
+      "revision_id": 41902,
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z"
+    }
+  ],
+  "site_revision_count": 1
+}

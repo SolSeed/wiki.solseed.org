@@ -1,0 +1,48 @@
+{
+  "canonical_path": "/File:UUAlogo.jpg",
+  "current_revision_id": "42931",
+  "database_title": "UUAlogo.jpg",
+  "display_title": "File:UUAlogo.jpg",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 6,
+  "original_revision_count": 1,
+  "page_id": "27332",
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "EricSaumur",
+      "comment": "The logo of the Unitarian Universalist Association of Congregations; A stylized unitarian chalice with flame, where the bowl of the chalice is also the letter U.",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": "42931",
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": "40134",
+      "same_as_previous_public": false,
+      "timestamp": "2014-10-21T02:41:36Z",
+      "wikitext_bytes": 161,
+      "wikitext_sha256": "0144effc1b4ebb1423d19065ed4969f005dd4e9565d1a0fb760761560da70744",
+      "source_format": "wikitext",
+      "source_extension": "wiki"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 40134,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 162,
+      "markdown_sha256": "1ae939ddecff3b3910bc31376c634f13d8b5163635ab9e324de5c03e3f8d2da8",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": "40134",
+      "previous_public_revision_id": "40134",
+      "revision_id": "42931",
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z",
+      "wikitext_bytes": 162,
+      "wikitext_sha256": "1ae939ddecff3b3910bc31376c634f13d8b5163635ab9e324de5c03e3f8d2da8",
+      "source_extension": "md"
+    }
+  ],
+  "site_revision_count": 1
+}

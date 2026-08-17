@@ -1,0 +1,119 @@
+### Agenda
+- Check In
+- Review WWWs
+- Review Agenda
+- Weekly Events Logistics
+- Winter Solstice
+- Book
+
+### Check In
+- Ren ... eeehhh
+- Sequoia ... zzzZZZzzz
+- Patrick ... tap tap tap (video game)
+- Shelley ... ahhh, <laughs> I'm well thank you, ahhh
+- Petra ... purrrr
+- Ben ... feeling accomplished and also at the same time really worried at the stuff I still have to do
+- Eric ... crazy busy weekend, lots of fun, but I didn't get a lot of things done that needed doing ... uhh, so oh well 
+- Brandon ... I'm sleepy and I'm in a funk (not a bad funk, more of a funklet) ... I finished 44 weeks of weight loss and lost 43 pounds.
+
+### WWWs from last time
+- <s>Brandon ... follow your topical community protocol for this week ... ongoing
+- Brandon ... meditate and keep track of which days ... ongoing</s>
+- Brandon ... order some larger rocket motors ... by next call
+- Brandon ... get a rocket to pass (speaking object?) ... by next call
+- <s>Brandon ... spend 1 hour on the book ... by next call
+- Shelley ... follow your topical community protocol for this week ... ongoing
+- Shelley ... meditate and keep track of which days ... ongoing</s>
+- Shelley ... plan out when to buy, when to cook for each menu item ... by next week
+- <s>Eric ... follow your topical community protocol for this week ... ongoing
+- Eric ... meditate and keep track of which days ... ongoing</s>
+- Eric ... make a substantive commit on the book ... by next call (I plead the fifth)
+- Ben ... follow your topical community protocol for this week ... ongoing
+- <s>Ben ... meditate and keep track of which days ... ongoing
+- Ben ... make a substantive commit on the book ... by next call</s>
+
+### WWWs
+- Ben ... follow your topical community protocol for this week ... ongoing
+- Ben ... meditate and keep track of which days ... ongoing
+- Eric ... follow your topical community protocol for this week ... ongoing
+- Eric ... meditate and keep track of which days ... ongoing
+- Brandon ... follow your topical community protocol for this week ... ongoing
+- Brandon ... meditate and keep track of which days ... ongoing
+- Brandon ... take some pictures of the hard copy of the book ... by next call
+- Brandon ... go shopping for the Solstice ... Tuesday the 18th and Thursday the 20th
+- Shelley ... follow your topical community protocol for this week ... ongoing
+- Shelley ... meditate and keep track of which days ... ongoing
+- Shelley ... seek to change attending block around the summer solstice ... by next call
+
+### Summer Solstice
+- Algonquin Park in Ontario: booking opens in February and fills up within a month
+  - Sometimes there are a lot of blackflies at the time of the Solstice ... midsummer might be better
+
+### Weekly Events Logistics
+Service Saturday December 15, 3:30 pm PST  18:30 EST (Eric)
+Rotation: Brandon, Eric, Shelley, Ben
+Work-Bee Sunday December 16, 1:30 pm PST 16:30 EST
+In-person service with Vliets: Saturday 9:30 am
+Seeing Nature Readings and Practices: next is December 16th.
+
+### Winter Solstice
+#### Menu
+buy everything not otherwise noted on 14th
+- Broccoli for 8-12 people (buy on 20th)
+- Salad (special!) (clementines, avocado, parmesan) buy on 20th
+- Yams (12) (monday)
+- Dressing with cranberry chutney (monday)
+- Squash stuffed with wild rice 
+- Rolls (thursday or friday)
+- Seasonal Nog
+- Pumpkin Pie (thursday) with Ice Cream and real whipped cream (friday)
+- Apple Pie (thursday)
+- Martinellis
+- Coffee ... decaff and caff 
+- Other hot drinks
+- Hot mulled cider
+
+When to make stuff
+- Monday: Dressing and chutney, yams, squash
+- Thursday: Pies, rolls?
+- Friday: Salad, broccoli, rolls?, whipped cream
+
+#### Schedule
+- Thursday the 20th
+  - Sanders prepare for rockets and dinner
+  - Sanders pack for trip to Canby
+  - Ben arrives from Portland 10:30 PM
+- Friday the 21st (Solstice)
+  - Ben will come down to Portland on Friday morning if it's not Thursday evening
+  - Maybe some fun in the morning, e.g. a trip to OMSI
+  - Launch rockets starting at 3:30 PM
+  - Eat at 6 PM
+- Saturday the 22nd (Sabbath)
+  - Service as usual at 9 AM PST, 12 EST
+  - Ben needs to be at PDX by 11 AM on Saturday December 23
+    - Will probably take the MAX, which takes about half an hour
+
+#### Guest list for dinner
+- Carol (yes) & Vicki
+- Malinda & Sergio (yes)
+- Forest (Shelley and Sequoia made him a personalized paper invite)
+- Mathew & Molly
+- Gus
+- Hank (said Maybe)
+- Amber
+- Ben
+- Shelley, Brandon, Sequoia, Ren
+- Mickki
+
+#### Guest list for Rockets
+- Ted, Celeste, Max, Shogi
+- Mathew & Molly
+- Gus
+- Hank
+- Amber
+
+### Book
+- Brandon likes starting with "A Book of Life, v0.1" and letting it continue to grow
+- Could we eventually include *Seeing Nature* and even the *Parables* books?
+- Eric needs to know how to copy and paste in Powershell
+- Audience: Is this book the big book, or a targetted book for outreach?

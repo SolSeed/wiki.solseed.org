@@ -1,0 +1,126 @@
+### Agenda
+- Check In
+- Review WWWs
+- Review Agenda
+- Weekly Events Logistics
+- Superordinate purpose
+- Budget
+- Newsletter
+- One Page Plan
+- Summer Event
+- Evaluation
+
+#### Items for future meetings
+- One Page Plan ... evaluating autumn and planning winter and 2013 goals
+- Book ... the underlying conflict
+
+### Check In
+- Eric ... feel good because I made it through the whole Christmas season ... ready to get back to normal
+- Shelley ... I feel the same, it's weird that it is a time for celebration and one of the biggest things I celebrate is being done
+- Brandon ... I feel pretty good. I am very excited about working on the book some more. And I really dig the Facebook group!
+- Ben ... I don't feel like the holiday season is over yet because I have several things to get done before New Years (donations, website move, etc), friend who is moving ... makes me feel tired, slow ... Brandon challenges Ben to a 2 week coffee challenge (that can be aborted if necessary)
+- Sequoia ... almost asleep
+- Ren ... almost asleep
+
+http://cogsci.stackexchange.com/questions/111/does-caffeine-improve-performance-for-habituated-consumers
+
+### WWWs from last time
+- <s>Brandon ... follow your topical community protocol for this week ... ongoing
+- Brandon ... meditate and keep track of which days ... ongoing
+- Brandon ... build rockets ... by Friday
+- Brandon and Shelley ... look into scheduling for Summer Solstice ... by next call
+- Brandon ... 1 hour on the book ... by next call
+- Shelley ... follow your topical community protocol for this week ... ongoing
+- Shelley ... meditate and keep track of which days ... ongoing
+- Shelley ... get the solstice dinner done ... by the solstice dinner
+- Shelley ... get zen and happy ... by the solstice dinner</s>
+- Ben ... follow your topical community protocol for this week ... ongoing
+- <s>Ben ... meditate and keep track of which days ... ongoing
+- Ben ... draft an Autumn newsletter ... by next call</s>
+- Eric ... follow your topical community protocol for this week ... ongoing
+- Eric ... meditate and keep track of which days ... ongoing
+- Eric ... ask family about using their cottage for the Summer Solstice ... by next call
+- <s>Eric ... make the appetisers for the potluck ... by the launch</s>
+
+### WWWs
+- Eric ... follow your topical community protocol for this week ... ongoing
+- Eric ... meditate and keep track of which days ... ongoing
+- Eric ... ask family about using their cottage for the Summer Solstice ... by next call
+- Ben ... follow your topical community protocol for this week ... ongoing
+- Ben ... meditate and keep track of which days ... ongoing
+- Shelley ... follow your topical community protocol for this week ... ongoing
+- Shelley ... meditate and keep track of which days ... ongoing
+- Brandon ... follow your topical community protocol for this week ... ongoing
+- Brandon ... meditate and keep track of which days ... ongoing
+- Brandon ... start the budget (going forward)  ... by next call
+- Brandon ... consider how we can schedule a retreat to plan the future of SolSeed (childcare, etc) ... by next call
+
+### Weekly Events Logistics
+Service Saturday January 5, 9:00am PST  12:00 EST (Ben)
+Rotation: Brandon, Eric, Shelley, Ben
+
+Work-Bee Sunday January 6, 1:30 pm PST 16:30 EST
+
+In-person service with Vliets: Saturday the 5th, 9:30 am
+Seeing Nature Readings and Practices: next is 2013-01-20 13:00 EST
+
+### Superordinate Purpose
+RSA described groups that last (or high-performing teams) as having a single clear purpose that all group members agree on
+
+### Budget
+Itemizing and tracking the money we have coming in and out will help us move toward becoming an official organization
+
+### Newsletter
+This season, we focused in on our priority projects and took a few big steps.
+- We moved toward publishing the big SolSeed book (title under review) by translating the text into LaTeX format, which allows us to define margins, title pages, and so on.  We even had a partial test copy printed to find out what it would look like.
+- The CD of songs about science that we helped to produce, Terra Lumina, was released on December 18th!  John and Will should now have some time to work on the SolSeed song, using lyrics that I completed in November.
+- We all had a great time launching rockets to represent The Destiny, as part of the Portland and Ottawa Solstice celebrations on December 21st and 22nd.  The map of the United States on the asphalt was a nice touch, allowing the Portland contingent to imagine the city as the site of a major spaceport.  Each celebration also featured a potluck dinner with family and friends.
+
+### OnePagePlan
+#### Core Values/Beliefs
+- **All life is precious.**  This is the root of our value system.  Respecting and cherishing life is the reason for everything we do. 
+  - Having this universal value is appealing for us and for our growth, and for retention and recruitment.
+We should try to figure out what is our universal, singular value ... it  will be appealing to a broader audience.  Once they buy in, the logic of how to get to colonizing the stars will be clearer.  Talk first to the elephant, and then to the rider.
+  - If people get hung up on the name "SolSeed" being about spreading life to other worlds, maybe we need a different name that focuses more on "Life is precious."
+    - SolSeed is evocative like Amazon, or Apple, Google (an evocative icon) but also confuses people, who usually think it's spelled SoulSeed
+    - Could we change our name to "the church of the Upward Spiral" and not lose anything?
+    - Could we change our name to "Life Worshippers" and not lose anything?
+    - LifeSeed?
+
+#### Purpose/North Star
+Original version: Bring life to ourselves, each other, our communities, our planet, and even unto the galaxy (5 things)
+
+##### Discussion
+Life is precious (value)
+
+We want to spread life throughout the galaxy (what we do)
+
+To us these are things that seem like one thing ... to others they seem separate.  The link between them is not clear and obvious to people who are first encountering us.
+
+We want life to be abundant and thriving.  The way we do that is living in community, preparing ourselves to go to the stars.  If you say we should go to space...
+
+"Life has invested in us" is a compelling argument.
+
+People want to be good, so they want to be living in alignment with their values.   If you can show them that it is being good going to the stars, or promoting diversity, beauty, and complexity ... they will take pleasure living into that.
+
+If "Taking root amongst the Stars" ends up meaning that we shrink ourselves down to atomic scale rather than terraforming planetoids around other stars ... the purpose still needs to be relevant.
+
+If life was already everywhere, we can still "bring life" through rich mutually-beneficial interaction with alien biospheres.
+
+##### New ideas
+- We Bring Life!  
+- Life: Quantity Matters
+- We repay Gaia's investment in us!
+- Help life thrive, grow, and spread (3 things)
+- Support greater diversity and complexity and beauty of life (3 things)
+
+### Summer Solstice
+- The Sanders are in, but still haven't worked out all the logistics
+- Eric usually gets use of the cabin for a week or two at a time
+
+### Evaluation
+- Brandon ... I'm sweaty ... that's a good sign ... I'm also feeling uncomfortable and concerned about the book, because there's some underlying conflict that hasn't really come out
+- Ben ... I don't like arguments (ex. about the newsletter) ... the conflict with the book is basically that Brandon keeps changing things out from under me and I don't like that
+- Shelley ... I didn't like that either (I still feel sad) ... (about being honest, and positive etc) ... I feel like that is unresolved ... but I'm excited about Ottowa ... excited about what is SolSeed that is going to have lasting value
+- Ren ... Aaah aah ehh aah
+- Eric ... I think a little conflict is good, getting them out and talking about them ... and I am very happy that Shelley is excited about coming to Ottowa ... I really like the idea of talking about our values and doing a really good review of our purpose going forward (at the start of the year)

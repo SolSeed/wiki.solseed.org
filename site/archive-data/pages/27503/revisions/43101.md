@@ -1,0 +1,13 @@
+### Check In
+- Brandon … I'm so tired … I've been getting up at 4:45am
+- Ben … I’m coughing again … I hope I don’t have anything contagious
+
+### Logistics
+- October 31 Service: 9 AM PDT, 12 EDT … Brandon
+- 1:30 PM: Ben gets to the [Seed Village](/Seed_Village)
+- 2 PM: Play board games and decorate (maybe jack-o-lanterns?)
+- 5:15 PM: Dinner (tater tots, pizza, popcorn, tea, root beer)
+- 6 PM: Trick-or-treating
+- 7-8 PM: Shelley gets back from the hospital, put the boys to bed
+
+- November 5 Work-Bee: 6:30 PM PDT

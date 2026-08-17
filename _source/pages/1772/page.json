@@ -1,0 +1,43 @@
+{
+  "canonical_path": "/SolSeed_Projects",
+  "current_revision_id": 42468,
+  "database_title": "SolSeed_Projects",
+  "display_title": "SolSeed Projects",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 1,
+  "page_id": 1772,
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "BenSibelman",
+      "comment": "redirect",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 42468,
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": 3418,
+      "same_as_previous_public": false,
+      "timestamp": "2011-10-22T18:44:12Z",
+      "wikitext_bytes": 29,
+      "wikitext_sha256": "e6d991db5438ebd6f9ff5f34308cf335f17c64d8660ac810a323b2298bf596dc"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 3418,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 69,
+      "markdown_sha256": "ff9c42529ad6d990a40ccb884860acb84d97a054dee7104dc7dffee4430c2abc",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": 3418,
+      "previous_public_revision_id": 3418,
+      "revision_id": 42468,
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z"
+    }
+  ],
+  "site_revision_count": 1
+}

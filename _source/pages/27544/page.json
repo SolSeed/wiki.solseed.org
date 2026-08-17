@@ -1,0 +1,43 @@
+{
+  "canonical_path": "/Abe's_Inquisition",
+  "current_revision_id": 43142,
+  "database_title": "Abe's_Inquisition",
+  "display_title": "Abe's Inquisition",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 1,
+  "page_id": 27544,
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "Brandon CS Sanders",
+      "comment": "Created page with \"== Abe's Inquisition (AI for Short) ==  My name is Abe, and this is one run of my story (or so I've heard).  The snailmail letter came on a Saturday.  That was my first tipoff th...\"",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 43142,
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": 40755,
+      "same_as_previous_public": false,
+      "timestamp": "2016-03-28T00:58:10Z",
+      "wikitext_bytes": 3528,
+      "wikitext_sha256": "cc9d7f2134ca373947558eb5a151f2d39ae6269f088d95528c267a69e200fa5a"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 40755,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 3526,
+      "markdown_sha256": "81fe30f082038257e13e97c922c83000a80f559777d84ecefc87bf3eb2d235e6",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": 40755,
+      "previous_public_revision_id": 40755,
+      "revision_id": 43142,
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z"
+    }
+  ],
+  "site_revision_count": 1
+}

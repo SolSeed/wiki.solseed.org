@@ -1,0 +1,43 @@
+{
+  "canonical_path": "/June_2,_2009:_Flower_and_Roots_Metaphor",
+  "current_revision_id": 41881,
+  "database_title": "June_2,_2009:_Flower_and_Roots_Metaphor",
+  "display_title": "June 2, 2009: Flower and Roots Metaphor",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 1,
+  "page_id": 317,
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "Shelley Schoepflin Sanders",
+      "comment": "New page: Notes from Previous Calls: http://solseed.org/Group_Experiences   Dial-in Number: 1-218-936-4700   Participant Access Code: 815066    == May 25, 2009 @8pm PST ==  * Opening Words - 5 mins ...",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 41881,
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": 867,
+      "same_as_previous_public": false,
+      "timestamp": "2009-06-03T04:02:38Z",
+      "wikitext_bytes": 12262,
+      "wikitext_sha256": "730176c51762fe9d6ae0f741380c52f1e46c5542b66c507ead09a1834c2095e3"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 867,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 12208,
+      "markdown_sha256": "c235f961bfab0d19c33fa6721db94e6bdc976e35893f19b24947497364a7649a",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": 867,
+      "previous_public_revision_id": 867,
+      "revision_id": 41881,
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z"
+    }
+  ],
+  "site_revision_count": 1
+}

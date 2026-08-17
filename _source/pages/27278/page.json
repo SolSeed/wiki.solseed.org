@@ -1,0 +1,43 @@
+{
+  "canonical_path": "/Sign_for_Wisdom",
+  "current_revision_id": 42879,
+  "database_title": "Sign_for_Wisdom",
+  "display_title": "Sign for Wisdom",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 1,
+  "page_id": 27278,
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "Brandon CS Sanders",
+      "comment": "Created page with \"== Wisdom ==  Wisdom: [http://www.signingsavvy.com/sign/WISDOM/5964/1 The X handshape makes a repeated downward movement in front of the forehead.]  [[Category: ASL Signs]]\"",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 42879,
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": 39943,
+      "same_as_previous_public": false,
+      "timestamp": "2014-08-24T21:25:14Z",
+      "wikitext_bytes": 172,
+      "wikitext_sha256": "1a04ddeb4d7fa44722c38ed4866231eb5dc6d531a589edd8be68d21100258abb"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 39943,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 182,
+      "markdown_sha256": "a861c90284fd762c4725171056696afca28c8d45fc9994650966a03c58443da2",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": 39943,
+      "previous_public_revision_id": 39943,
+      "revision_id": 42879,
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z"
+    }
+  ],
+  "site_revision_count": 1
+}

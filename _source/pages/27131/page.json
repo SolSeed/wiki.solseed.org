@@ -1,0 +1,43 @@
+{
+  "canonical_path": "/July_28,_2013:_Online_Work_Bee",
+  "current_revision_id": 42736,
+  "database_title": "July_28,_2013:_Online_Work_Bee",
+  "display_title": "July 28, 2013: Online Work Bee",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 1,
+  "page_id": 27131,
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "Brandon CS Sanders",
+      "comment": "Created page with \"== Agenda == * Check In * Review WWWs * Review Agenda * Weekly Events Logistics * Opening words for the service * Ad experiments/Greenhouses * Evaluation  == Check In == * Eric ....\"",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 42736,
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": 39389,
+      "same_as_previous_public": false,
+      "timestamp": "2013-07-28T22:05:14Z",
+      "wikitext_bytes": 6285,
+      "wikitext_sha256": "9b7f26b4fe8b5d40870edae26586c30795646796ffe78a718fa4a66fa5ae8d97"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 39389,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 6231,
+      "markdown_sha256": "68145f7e4abfb09b55efdeade577918586d4dbd83e20ae4e8d6c6d33a3c2b928",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": 39389,
+      "previous_public_revision_id": 39389,
+      "revision_id": 42736,
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z"
+    }
+  ],
+  "site_revision_count": 1
+}

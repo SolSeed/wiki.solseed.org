@@ -1,0 +1,60 @@
+This is one page of the [Metaphoriuminomicon](/Metaphoriuminomicon)
+
+#### Quote of the Day
+Before she knew it she was spinning on a thin black sheet of glass
+She saw both their lives flash before her eyes
+She didn't even have time to cry
+She was so scared
+She threw her hands up in the air
+Jesus, take the wheel
+- Carrie Underwood, "Jesus, Take the Wheel"
+
+"when an atheist performs an act of charity, ... 
+he is not doing so because of some religious teaching. 
+He does not believe that God commanded him to perform this act. ...
+his acts are based on an inner sense of morality. ...”
+“This means,” the Master continued “that when someone reaches out to you for help, 
+you should never say ‘I pray that God will help you.’ 
+Instead for the moment, you should become an atheist, 
+imagine that there is no God who can help, 
+and say ‘I will help you.’”
+—Martin Buber, Tales of Hasidim Vol. 2 (1991)
+
+#### Contemplation for the Day
+[Let us imagine](/Suspension_of_Skyfall)
+
+[You](/You) are coming out of a charity shop front having just donated all of your paycheck to the Planetary Society and you see your Tesla Model U parked by the side of the street, it's alarm blaring as some long haired freak, just having removed a wheel from it, is throwing the wheel in the back of a cube truck.  You run after him yelling, "Hey!"  Not the most witty thing you could say but you are more than a little flabbergasted.
+
+The guy probably doesn't even hear you over the blaring of the Tesla car alarm and runs round to the front of his truck and jumps into the driver's seat.  Not wanting him to get away you jump into the back of his truck just before it pulls away.
+
+After a long drive out into the country side the truck turns into the lane of a huge used tire depot.  Soon it stops and, as you jump down from the back of the truck, the thief climbs out of the front.  You expect to have a confrontation with him but he seems an easy going chap, who is only a little surprised to see you.
+
+“Why did you steal my wheel?"  You ask.
+
+As he answers you notice his hands, "I didn't steal it, I took it.  People are always saying that I should, 'Take the wheel.'"  He laughs and spreads his arms wide to indicate the huge piles of wheels all around you stretching heavenward, each stack slightly taller than the next like a giant staircase.
+
+"Jesus, they don't mean for you to steal wheels from parked cars," You say in shock, "They want you to guide their cars to safety."
+
+Jesus laughs and the piles of wheels disappear.  You find yourself, still with Jesus, in an ancient Middle-Eastern market.  "Sorry that was just a bad story."
+
+A flower merchant yells from a nearby stall, "Jesus, you specialize in bad stories."  You look at the merchant closely and realize that she is [Gaia](/Gaia).  You and Jesus walk over to her stall.
+
+Jesus looks sheepishly at her, "There is the one about the good Samaritan.  That's a good story isn't it?"  You find yourself standing on a road.  Two legs are sprawled on the ground sticking out from under some bushes.  A frightened man is pulling the bushes aside to look at the owner of the legs.
+
+Gaia laughs, "It's OK I suppose.  But this whole promise of an afterlife thing is really hurtful."  The road blurs and tilts and as it comes back into focus you find yourself on the tire stacks.  Jesus is climbing up them while Gaia is descending toward the Earth below.  You are watching two figures get out of a cube van far below, one from the back the other from the cab.
+
+Again, Jesus looks sheepish, "It gives people comfort."  A fog rolls in and soon you find yourself, along with the two gods, standing in a landscape of mist.  You notice there are people sleeping in the soft fluffy mist like it’s a huge pile of cotton wool.  Through a break in the mist you see the steep tire staircase below and even further below the cube van, a mere toy so far below.
+
+Gaia rolls her eyes, "It gives them the wrong kind of comfort.  You wrap it in all sorts of messages about being good to others but the story really makes them totally selfish.  How can they care about the bigger picture when they are learning to count on their self lasting forever?  They need to learn to identify with something bigger than themselves and to accept their own temporary nature.  It gives them too much of a sense of self importance."
+
+It turns out the mist is just that, mist, not cotton wool.  As physics comes to its senses everyone, god, goddess, you, the sleeping people, drop through the mist and begin the long fall through the open air toward the hard ground below.
+
+“When I found them, they were blind.  They could no more see the big picture than an ant can see the layout of a city.  At least I gave them a reason to be kind to each other.”  Jesus yells over the rush of the wind.  As you all crash to the ground you are miraculously unhurt.  The ground is strange.  You realize you have been miniaturized.  Sand grains are boulders.  Stalks of grass stand hundreds of times your height.  An ant is standing nearby about the same size as you and the two gods.  She, the ant, is looking confused and frightened perhaps by your sudden appearance.  Jesus hands the ant a picture with flames at the bottom and rainbows and fluffy white clouds at the top.  The ant looks even more frightened but seems to understand and kneels before Jesus.
+
+“How can they find comfort in reality, when the universe is so dangerous and changing?” Jesus asks.  A man in a lab coat carrying a laptop walks by and hands the ant a picture of an asteroid striking the Earth and the ant looks all the more frightened and again confused.
+
+Gaia laughs, “This ant, you think she is a symbol of how small and frightened a human would be without belief in an everlasting soul.  But, you forget, this is a social insect.  It knows in the depths of its genes that it is part of a much bigger superorganism, a colony of ants numbering in the thousands or tens of thousands, capable of taking on some of the largest animals in the world.”  Suddenly the area is overrun with ants, crawling over the grass and the ground and even each other like a tsunami of exoskeleton clad soldiers washing over the area.  The ant, with the two pictures, drops them and joins the flood disappearing into anonymity among the others of her kind.
+
+“Humanity needs to see itself in that light,” You cry, “members of a bigger superorganism, all the life on the planet, each of us doing our part while the superorganism cares for us, not with perfect fairness but with immense generosity.  Giving us air, and water and shelter and food in return for our service to the superorganism.”   Jesus has turned ethereal, like a ghost.
+
+Gaia nods, “Yes, Little One, and the stories of afterlife and hierarchy, of humanity being above the animals and below the angels, those stories are getting in the way of people being able to take in the true story of participation and the glory of Life here in this, the real universe.”  As Gaia speaks, Jesus fades away completely.

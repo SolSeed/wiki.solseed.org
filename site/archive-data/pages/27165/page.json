@@ -1,0 +1,63 @@
+{
+  "canonical_path": "/File:GaiaCrack.jpg",
+  "current_revision_id": "42768",
+  "database_title": "GaiaCrack.jpg",
+  "display_title": "File:GaiaCrack.jpg",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 6,
+  "original_revision_count": 2,
+  "page_id": "27165",
+  "published_revision_count": 2,
+  "revisions": [
+    {
+      "author": "EricSaumur",
+      "comment": "Created page with \"Mage\"",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": "39471",
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": "39470",
+      "same_as_previous_public": false,
+      "timestamp": "2013-11-12T13:37:21Z",
+      "wikitext_bytes": 4,
+      "wikitext_sha256": "e181bc015be0fe01de62a0e9898c690c3a2bb48fa90e4e5cb9aab481ea3fe004",
+      "source_format": "wikitext",
+      "source_extension": "wiki"
+    },
+    {
+      "author": "EricSaumur",
+      "comment": "uploaded &quot;[[File:GaiaCrack.jpg]]&quot;: An image showing wins blown snow caught in a crack in the pavement on the street outside the photographer's home.",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": "42768",
+      "original_parent_revision_id": "39470",
+      "previous_public_revision_id": "39470",
+      "revision_id": "39471",
+      "same_as_previous_public": true,
+      "timestamp": "2013-11-12T13:43:25Z",
+      "wikitext_bytes": 4,
+      "wikitext_sha256": "e181bc015be0fe01de62a0e9898c690c3a2bb48fa90e4e5cb9aab481ea3fe004",
+      "source_format": "wikitext",
+      "source_extension": "wiki"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 39471,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 5,
+      "markdown_sha256": "713296843ca889f6400578ebd8bdd7a64becd18accbd4f840302ad0ce4f66566",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": "39471",
+      "previous_public_revision_id": "39471",
+      "revision_id": "42768",
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z",
+      "wikitext_bytes": 5,
+      "wikitext_sha256": "713296843ca889f6400578ebd8bdd7a64becd18accbd4f840302ad0ce4f66566",
+      "source_extension": "md"
+    }
+  ],
+  "site_revision_count": 1
+}

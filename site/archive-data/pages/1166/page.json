@@ -1,0 +1,48 @@
+{
+  "canonical_path": "/File:Earth_Day_SolSeed_display.JPG",
+  "current_revision_id": "42427",
+  "database_title": "Earth_Day_SolSeed_display.JPG",
+  "display_title": "File:Earth Day SolSeed display.JPG",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 6,
+  "original_revision_count": 1,
+  "page_id": "1166",
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "BenSibelman",
+      "comment": "The SolSeed display table and banner at our [[Earth Day 2011]] booth.",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": "42427",
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": "2589",
+      "same_as_previous_public": false,
+      "timestamp": "2011-05-07T23:10:43Z",
+      "wikitext_bytes": 69,
+      "wikitext_sha256": "595ce273d7adf2d81b9825bd6467b00a926b92f1ae267112e7ffb54b0e66b452",
+      "source_format": "wikitext",
+      "source_extension": "wiki"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 2589,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 85,
+      "markdown_sha256": "3ec5b9372999cb43b3642bfc001494f29caf490c46d2398756bd6e53e8c82db0",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": "2589",
+      "previous_public_revision_id": "2589",
+      "revision_id": "42427",
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z",
+      "wikitext_bytes": 85,
+      "wikitext_sha256": "3ec5b9372999cb43b3642bfc001494f29caf490c46d2398756bd6e53e8c82db0",
+      "source_extension": "md"
+    }
+  ],
+  "site_revision_count": 1
+}

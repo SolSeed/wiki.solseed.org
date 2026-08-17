@@ -1,0 +1,43 @@
+{
+  "canonical_path": "/RealityTesting",
+  "current_revision_id": 42309,
+  "database_title": "RealityTesting",
+  "display_title": "RealityTesting",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 1,
+  "page_id": 753,
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "Brandon CS Sanders",
+      "comment": "Created page with \"http://seereports.blogspot.com/2010/05/reality-testing.html has some beautiful examples of Reality Testing.   : All the world is queer save thee and me, and even thou art a littl...\"",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 42309,
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": 1938,
+      "same_as_previous_public": false,
+      "timestamp": "2010-10-28T20:03:14Z",
+      "wikitext_bytes": 201,
+      "wikitext_sha256": "0c177f60e6aed94ff06bfe82c0ed56dd97187ace4344104fa5144acf23b81177"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 1938,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 199,
+      "markdown_sha256": "c8dc0f5d5ef740e4b9d889d6ca9982a4e44aaed7a65466f52e3b47fdd8edda17",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": 1938,
+      "previous_public_revision_id": 1938,
+      "revision_id": 42309,
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z"
+    }
+  ],
+  "site_revision_count": 1
+}

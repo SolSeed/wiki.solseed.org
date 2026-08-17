@@ -1,0 +1,43 @@
+{
+  "canonical_path": "/Calendar_of_Events",
+  "current_revision_id": 41836,
+  "database_title": "Calendar_of_Events",
+  "display_title": "Calendar of Events",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 1,
+  "page_id": 270,
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "Brandon CS Sanders",
+      "comment": "New page: * Wed April 8 @7pm [[Building the Spectacle]] * Sun April 12 @2pm [[Hike and Trail Cleaning]] * Sun April 12 @6pm [[Book Club]] * Sat May 23 @1pm [[Beach Outing and Cleanup]]",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 41836,
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": 725,
+      "same_as_previous_public": false,
+      "timestamp": "2009-04-09T05:25:24Z",
+      "wikitext_bytes": 174,
+      "wikitext_sha256": "0d046035d1520086e08f1f5604003d4ebe003a3bde3276614d8b87afe679c3c1"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 725,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 257,
+      "markdown_sha256": "cfaeaba65d46ecc7bc3b9d96a483888c5d3551d65e86954a3f9635eda1cf95c3",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": 725,
+      "previous_public_revision_id": 725,
+      "revision_id": 41836,
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z"
+    }
+  ],
+  "site_revision_count": 1
+}

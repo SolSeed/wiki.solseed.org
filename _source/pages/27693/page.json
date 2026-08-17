@@ -1,0 +1,56 @@
+{
+  "canonical_path": "/Shawn",
+  "current_revision_id": 43291,
+  "database_title": "Shawn",
+  "display_title": "Shawn",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 2,
+  "page_id": 27693,
+  "published_revision_count": 2,
+  "revisions": [
+    {
+      "author": "Shawn G Marincas",
+      "comment": "creating redirect, there can only be one Shawn now!",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 41206,
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": 41205,
+      "same_as_previous_public": false,
+      "timestamp": "2018-03-05T22:21:32Z",
+      "wikitext_bytes": 30,
+      "wikitext_sha256": "8924fa170ae1fbf1500de88a0987a4f86fbf64798f23fd7aa9b7350e7ff0803e"
+    },
+    {
+      "author": "Shawn G Marincas",
+      "comment": "Redirected page to [[User:Shawn G Marincas]]",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 43291,
+      "original_parent_revision_id": 41205,
+      "previous_public_revision_id": 41205,
+      "revision_id": 41206,
+      "same_as_previous_public": false,
+      "timestamp": "2018-03-05T22:23:11Z",
+      "wikitext_bytes": 35,
+      "wikitext_sha256": "a9ff3d80013925db732ae9bc74361ac5b29c299536471723e42888f111e3c523"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 41206,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 81,
+      "markdown_sha256": "398885c2ef187f02a96a5f520a445007db7bc2db47f6f5556f57b25e7765d6fb",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": 41206,
+      "previous_public_revision_id": 41206,
+      "revision_id": 43291,
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z"
+    }
+  ],
+  "site_revision_count": 1
+}

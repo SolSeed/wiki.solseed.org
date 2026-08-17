@@ -1,0 +1,48 @@
+{
+  "canonical_path": "/File:Earth_Day_galaxy_planter_2.JPG",
+  "current_revision_id": "42248",
+  "database_title": "Earth_Day_galaxy_planter_2.JPG",
+  "display_title": "File:Earth Day galaxy planter 2.JPG",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 6,
+  "original_revision_count": 1,
+  "page_id": "692",
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "BenSibelman",
+      "comment": "A photo taken at [[Earth Day 2010]].",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": "42248",
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": "1758",
+      "same_as_previous_public": false,
+      "timestamp": "2010-07-30T05:22:46Z",
+      "wikitext_bytes": 36,
+      "wikitext_sha256": "a692aa86526dcbb7abe6034a7a6e03d843ad13051989593486be5295fb571517",
+      "source_format": "wikitext",
+      "source_extension": "wiki"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 1758,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 52,
+      "markdown_sha256": "e5708cb59cec67b36970812cb78365c54e2ac31a02a7a9c713627b7bb3fb773a",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": "1758",
+      "previous_public_revision_id": "1758",
+      "revision_id": "42248",
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z",
+      "wikitext_bytes": 52,
+      "wikitext_sha256": "e5708cb59cec67b36970812cb78365c54e2ac31a02a7a9c713627b7bb3fb773a",
+      "source_extension": "md"
+    }
+  ],
+  "site_revision_count": 1
+}

@@ -1,0 +1,63 @@
+{
+  "canonical_path": "/Sign_for_Earth",
+  "current_revision_id": "42882",
+  "database_title": "Sign_for_Earth",
+  "display_title": "Sign for Earth",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 2,
+  "page_id": "27281",
+  "published_revision_count": 2,
+  "revisions": [
+    {
+      "author": "Brandon CS Sanders",
+      "comment": "Created page with \"Earth: [http://www.signingsavvy.com/sign/EARTH/1255/1 The thumb and middle finger of one hand pinch at the wrist of the other hand.  [[Category: ASL Signs]]\"",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": "39951",
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": "39950",
+      "same_as_previous_public": false,
+      "timestamp": "2014-08-24T21:32:58Z",
+      "wikitext_bytes": 156,
+      "wikitext_sha256": "d9b1e0dde941b71c0bd6d877df7815f93827dab8a87de3d9ca47942be0624d97",
+      "source_format": "wikitext",
+      "source_extension": "wiki"
+    },
+    {
+      "author": "Brandon CS Sanders",
+      "comment": "",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": "42882",
+      "original_parent_revision_id": "39950",
+      "previous_public_revision_id": "39950",
+      "revision_id": "39951",
+      "same_as_previous_public": false,
+      "timestamp": "2014-08-24T21:33:10Z",
+      "wikitext_bytes": 157,
+      "wikitext_sha256": "0b432a22dd55afe4bc5837ef852bccb3488bc6ca7ae1828022c3c2d55a04ba10",
+      "source_format": "wikitext",
+      "source_extension": "wiki"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 39951,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 170,
+      "markdown_sha256": "90188f33525818d41144294e638a422e4cb3d65e427915b952aec219b4f92f8b",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": "39951",
+      "previous_public_revision_id": "39951",
+      "revision_id": "42882",
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z",
+      "wikitext_bytes": 170,
+      "wikitext_sha256": "90188f33525818d41144294e638a422e4cb3d65e427915b952aec219b4f92f8b",
+      "source_extension": "md"
+    }
+  ],
+  "site_revision_count": 1
+}

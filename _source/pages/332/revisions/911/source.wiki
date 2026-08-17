@@ -1,0 +1,1 @@
+A version of the logo that represents the idea of the spaceships, rather than the Earth, as the seeds.

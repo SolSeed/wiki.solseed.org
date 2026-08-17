@@ -1,0 +1,82 @@
+{
+  "canonical_path": "/Shaping_Change_Conference",
+  "current_revision_id": 43163,
+  "database_title": "Shaping_Change_Conference",
+  "display_title": "Shaping Change Conference",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 4,
+  "page_id": 27565,
+  "published_revision_count": 4,
+  "revisions": [
+    {
+      "author": "BenSibelman",
+      "comment": "Created page",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 40816,
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": 40815,
+      "same_as_previous_public": false,
+      "timestamp": "2016-08-07T00:54:46Z",
+      "wikitext_bytes": 46312,
+      "wikitext_sha256": "4a4159e11541e40b870b464fcd881ca54e057b8e66ab405b126a641897ec14ac"
+    },
+    {
+      "author": "BenSibelman",
+      "comment": "/* Ella Maria Ray */",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 40817,
+      "original_parent_revision_id": 40815,
+      "previous_public_revision_id": 40815,
+      "revision_id": 40816,
+      "same_as_previous_public": false,
+      "timestamp": "2016-08-07T00:57:37Z",
+      "wikitext_bytes": 46360,
+      "wikitext_sha256": "582b85c36e03c37c7490f132db33bde33802095bf2f153241cc1eae73f7deb5c"
+    },
+    {
+      "author": "BenSibelman",
+      "comment": "/* Ella Maria Ray, maker of masks and quilts made from fired clay */",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 40818,
+      "original_parent_revision_id": 40816,
+      "previous_public_revision_id": 40816,
+      "revision_id": 40817,
+      "same_as_previous_public": false,
+      "timestamp": "2016-08-07T00:58:19Z",
+      "wikitext_bytes": 46367,
+      "wikitext_sha256": "4c82d8b5a1876de4bd7c802eb34760360c8a0bd9df806a4b736ae7db4438d9d5"
+    },
+    {
+      "author": "BenSibelman",
+      "comment": "/* Ola Akinmowo, Lauren Olamina's Life Tips */",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 43163,
+      "original_parent_revision_id": 40817,
+      "previous_public_revision_id": 40817,
+      "revision_id": 40818,
+      "same_as_previous_public": false,
+      "timestamp": "2016-08-07T00:59:34Z",
+      "wikitext_bytes": 46374,
+      "wikitext_sha256": "6629a13dbc59c16f274c8a99d6aed520656e3ce63db1df0f3a61f1e167ce9c3f"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 40818,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 46884,
+      "markdown_sha256": "ae5d68cc817203ab56c1c44aaa2a30e341fb52d8995daccb17c09e412aa0292a",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": 40818,
+      "previous_public_revision_id": 40818,
+      "revision_id": 43163,
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z"
+    }
+  ],
+  "site_revision_count": 1
+}

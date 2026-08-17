@@ -1,0 +1,48 @@
+{
+  "canonical_path": "/SolSeedMovement/Organizing",
+  "current_revision_id": "41688",
+  "database_title": "SolSeedMovement/Organizing",
+  "display_title": "SolSeedMovement/Organizing",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 1,
+  "page_id": "118",
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "BenSibelman",
+      "comment": "Created page using material from AboutUs and a new quote (top) and link (bottom)",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": "41688",
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": "238",
+      "same_as_previous_public": false,
+      "timestamp": "2008-12-24T01:17:30Z",
+      "wikitext_bytes": 5674,
+      "wikitext_sha256": "edead2dc9aad22e721a8d9d9143dea51e4f49218b67a61967016efb45d7190c6",
+      "source_format": "wikitext",
+      "source_extension": "wiki"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 238,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 5883,
+      "markdown_sha256": "50b2ce2edb6c6a1d182cc33509d0332258dadebd41e5fdee7da794cb24561c99",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": "238",
+      "previous_public_revision_id": "238",
+      "revision_id": "41688",
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z",
+      "wikitext_bytes": 5883,
+      "wikitext_sha256": "50b2ce2edb6c6a1d182cc33509d0332258dadebd41e5fdee7da794cb24561c99",
+      "source_extension": "md"
+    }
+  ],
+  "site_revision_count": 1
+}

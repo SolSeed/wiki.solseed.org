@@ -1,0 +1,69 @@
+{
+  "canonical_path": "/January_8,_2017:_Business_Call",
+  "current_revision_id": 43200,
+  "database_title": "January_8,_2017:_Business_Call",
+  "display_title": "January 8, 2017: Business Call",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 3,
+  "page_id": 27602,
+  "published_revision_count": 3,
+  "revisions": [
+    {
+      "author": "BenSibelman",
+      "comment": "Created page from the Google doc",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 40912,
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": 40911,
+      "same_as_previous_public": false,
+      "timestamp": "2017-01-08T17:31:34Z",
+      "wikitext_bytes": 5398,
+      "wikitext_sha256": "5442ebdd50b6e42bba6d77ae1bf8badbbead3fb831fd3594224a4041f070adf1"
+    },
+    {
+      "author": "BenSibelman",
+      "comment": "/* Opening Blessing */",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 40955,
+      "original_parent_revision_id": 40911,
+      "previous_public_revision_id": 40911,
+      "revision_id": 40912,
+      "same_as_previous_public": false,
+      "timestamp": "2017-01-08T17:32:33Z",
+      "wikitext_bytes": 5397,
+      "wikitext_sha256": "5a433b8bb8a9760247e6a23017f50548149fc75cdf071f3d1ee3b3c6d31246f6"
+    },
+    {
+      "author": "BenSibelman",
+      "comment": "moved [[January 7, 2017: Business Call]] to [[January 8, 2017: Business Call]]: Fixed date",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 43200,
+      "original_parent_revision_id": 40912,
+      "previous_public_revision_id": 40912,
+      "revision_id": 40955,
+      "same_as_previous_public": true,
+      "timestamp": "2017-01-15T17:09:36Z",
+      "wikitext_bytes": 5397,
+      "wikitext_sha256": "5a433b8bb8a9760247e6a23017f50548149fc75cdf071f3d1ee3b3c6d31246f6"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 40955,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 5401,
+      "markdown_sha256": "bac18997fdecbeeb7d8e1ecdb7c594818cc9b7b2d5ebe07b2d74e5b44c498c0a",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": 40955,
+      "previous_public_revision_id": 40955,
+      "revision_id": 43200,
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z"
+    }
+  ],
+  "site_revision_count": 1
+}

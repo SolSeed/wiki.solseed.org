@@ -1,0 +1,285 @@
+The Greenhouses project is a project of [SolSeed](/SolSeed) which is an expression of our desire to contribute to [theDestiny](/theDestiny).  The Greenhouses will be designed to land on cold worlds in the Solar System and grow and store food for later consumption by astronauts visiting the world.
+
+## Scope
+The scope of this project is to [Bring Life](/Bring_Life) to other worlds in a meaningful way with the minimum payload size.
+- The project will include the following abilities
+  - The ability to extract resources needed to grow plants (e.g. CO<sub>2</sub>, NH<sub>3</sub>, H<sub>2</sub>O, K&P-compounds)
+  - The ability to process resources into the forms needed for plants
+  - The ability to maintain the environment needed for plant growth (Temperature, atmospheric pressure and composition, water chemistry)
+  - The ability to garden plants (protect from disease, etc...)
+  - The ability to harvest plants or edible parts of plants
+  - The ability to preserve harvested plants
+- The project may include the following abilities
+  - The ability to store Oxygen gas produced as a useful bi-product of the plant growth
+- The project will not include the following abilities
+  - The ability to build new greenhouse infrastructure (robotics, pumps, sensors, etc...) in situ
+
+## Phases
+The project will have three major phases:
+### Experimental Phase
+In this phase, the components will be designed and tested and incrementally assembled at our three separate facilities in Ottawa, Portland and Redmond.
+### Arctic Test Phase
+In this phase, a version of the greenhouse will be deployed to the Arctic (or Antarctic) in order to attempt to grow food remotely in a cold environment.  Even the coldest places in the Arctic and Antarctic are significantly warmer than most of the worlds in the inner solar system.  Carbon dioxide will be available as a gas in the Arctic, rather than a solid as in most worlds in the inner solar system (by inner I mean inside the scattered disk)
+### Alien Development Phase
+In this phase, a version of the greenhouse, capable of surviving on alien worlds, will be developed, tested and launched and sent to other worlds (initially outer main belt asteroids and possibly Mars).
+
+## Resource Flow Chart
+The following table shows the 7 critical resources required for plant growth and summarizes the process for converting them as found in raw form on alien worlds into stored food.
+
+Gather Raw Materials ->
+Prepare and Feed it to PLants ->
+Store Plant Parts for later Astronauts to Eat
+
+Abr
+Resource
+Sources
+Required Form
+Results
+
+C
+Carbon
+CO<sub>2</sub>, CO, C, CH<sub>4</sub>, HCN
+CO<sub>2</sub>
+C<sub>6</sub>H<sub>12</sub>O<sub>6</sub> (->Carbohydrates, Lipids, etc)
+
+H
+Hydrogen
+H<sub>2</sub>O, CH<sub>4</sub>, NH<sub>3</sub>, HCN
+H<sub>2</sub>O
+
+O
+Oxygen
+H<sub>2</sub>O, CO<sub>2</sub>, CO, metal oxides
+H<sub>2</sub>O, CO<sub>2</sub>, O<sub>2</sub>, NO<sub>3</sub><sup>(-)</sup>, PO<sub>4</sub><sup>(3-)</sup>
+
+N
+Nitrogen
+NH<sub>3</sub>, HCN
+NO<sub>3</sub><sup>(-)</sup>
+Proteins
+
+K
+Potassium
+K?
+K<sup>+</sup>
+K<sup>+</sup>
+
+E
+Energy
+sunlight
+Blue and Red parts of spectrum
+holds molecules together as chemical bonds
+
+P
+Phosphorus
+P?
+PO<sub>4</sub><sup>(3-)</sup>
+DNA, ATP, ADP
+
+### Addtional Considerations
+- Atmospheric composition
+- Atmospheric pressure
+- Temperature
+- Radiation
+- Robotic miners
+- Robotic food preservation system
+- Robotic gardeners
+
+## Approval and Sub-projects
+This project was approved as a SolSeed project at [Sol2014](/Sol2014).  At [Sol2014](/Sol2014), 4 separate sub-projects were also approved.
+
+### Food Preservation Recipe Development
+At [Sol2014](/Sol2014), it was decided that Duck Weed would be used as the first test food for the system for the following reasons:
+- Being the smallest flowering plant, they will allow us to use the smallest possible greenhouse cells.
+- Being fast reproducing, they will allow greenhouse cells that become contaminated or otherwise fail, to be recolonized from neighbouring cells and repopulated quickly.
+- Being water plants, they can be grown with the simplest hydroponic systems.
+- Duck weed has been proven as a food by a number of experimental projects
+
+However, Duck Weed is not commonly used as a food and there are few recipes for preserving it as a food for delayed consumption.  Therefore, this sub-project was created with the purpose of finding ways to make preserved (freeze-dried?) Duck Weed palatable with minimum other organic ingredients.
+
+[Patrick Saumur](/User:Patch) was chosen as the Chief Food Preservation Officer and head of this sub-project at [Sol2014](/Sol2014).
+
+### Resource Extraction Robot Development
+In order to store food we must remove mass from the inside of the greenhouse cells.  This mass must be replaced if the greenhouses are not to become vacuums.  In order to continue to grow plants, the greenhouses must remain filled with the proper gasses (CO<sub>2</sub>, N<sub>2</sub>), water and dissolved substances (K<sup>+</sup>, NO<sub>3</sub><sup>-</sup>, PO<sub>4</sub><sup>(3-)</sup>).  In order to supply these substances indefinitely, raw materials must be extracted from the worlds that the greenhouses land on.  Seeing as the resources may be scattered over the surface of the worlds, the greenhouses must be teamed with rovers which can traverse the world, extract the correct resources and return to the greenhouses.
+
+This sub-project will develop those robots.
+
+[Eric Saumur](/User:EricSaumur) was chosen as the Chief Rover Development Officer and head of this sub-project at [Sol2014](/Sol2014).
+
+#### How to expand production
+(a linear process supported from Earth is expensive and limited; an exponential self supporting process is cheap and unlimited! )	
+- To expand production you must construct new green houses and other infrastructure (storage tanks, solar panels, lights, etc...)	
+  - Plants reproduce themselves but infrastructure must be built	
+  - If you use robots to build them from raw materials the following issues arise	
+    - Complexity of equipment to be launched goes way up
+    - Robots must self repair and self replicate in order to keep up with plants
+    - (Ethical issue: is it wise to release self replicating robots into space?)
+    - (Religious issue: would those robots be (or evolve to be) alive and so is that just another path to Send Life)
+- Do we stay linear until we develop true Dyson Trees and so keep evolution in the realm of Life (for now?)?  If not we will have to accept the added complexity at a later phase in which we add self replicating robots.  In either case, these phases will remain linear.
+
+#### How to dig in micro-gravity
+Most methods of digging involve pressing down on the surface from above but in micro-gravity pressing down will push you up and potentially off the world.
+
+The following adaptations might be effective:
+- lasers (cut cones out of the surface)	
+- Grip irregularities in the surface	
+  - (This would allow a force greater than gravity to be applied)
+  - (Failure of the grip could result in sudden escape velocity)
+  - Powder in a bag plus air or vacuum has been used successfully to grip things powerfully with a robot.
+- laser long thin holes into the surface and then use those for grip	
+  - (Deeper holes allow more reliable grip)
+- use strong grip to crush surface irregularities breaking off the irregularities for use in the greenhouses.
+
+Micro-gravity is difficult to simulate.  This will need to be taken into account in testing:
+- test robots working on walls and ceilings	
+
+#### How to mine with tiny robots
+The mining robots will need to be a small portion of the overall payload given how many other pieces of equipment will be needed.  Tiny robots will have smaller parts which will wear out more quickly and tiny robots will have low productivity due to the scaling of capacity. Building more robots in place will require a massive payload of equipment and leads to issues of self-replicating robots.
+
+The following considerations may mitigate this:
+- choose worlds with easy surface deposits	
+- choose worlds where soft minerals can be mined	(ices relatively close to their melting points are soft and mining metal oxides would wear out robots faster)
+- build robots out of very hard materials (ceramics, hardened steel).(over-engineer: build all moving parts hard to avoid wear)
+- include multiple robots with each mission so that the Opportunities make up for the Spirits	
+- send multiple missions to the same world so that they can help each other.  (If one mission loses all of one type of equipment, it can use the spares from the other.)
+- Build redundancy into each robot so that if a part fails it can still function	
+- Maximize autonomy of robots so that they can produce without Mission Control intervention and thus, they don't wear out waiting for instructions.
+
+### Atmospheric and Hydrological Analysis
+In order to know how much of each substance to add to the cells, we must monitor the concentrations of each substance inside the greenhouses.  This sub-project will acquire, select and test the sensors required to monitor the greenhouses and determine quantities of substances for addition to the cells.
+
+[Dr. Brandon C. S. Sanders](/User:Brandon_CS_Sanders) was chosen as Chief Analysis Sensor Officer and head of this sub-project at [Sol2014](/Sol2014).
+
+#### Items to Sense
+- Water
+  - Temperature
+  - Ph
+  - Composition
+    - Dissolved nitrogen
+    - Potassium
+    - Phosphate
+    - Trace elements in the water
+    - Salinity
+- Air
+  - Concentrations of oxygen and carbon dioxide
+  - Temperature
+  - Pressure
+  - Presence of toxins
+
+#### Issues to Consider
+- Atmospheric composition and/or pressure slips off of ideal.  This issue might be solved as follows:
+  - Keep stores of each of the gases (in tanks) or ices (as blocks in cold warehouse) cold warehouse could be natural cavern or robotically excavated burrow.
+  - Include equipment for destilling the atmosphere to remove overly high partial pressures of certain gases (e.g. oxygen)
+    - Balance gases by releasing substances from storage into greenhouses to make up for deficits or using still to remove and store other substances to reduce surfits
+
+#### Sensors for PC-board integrations:
+- http://playground.arduino.cc/Main/MQGasSensors
+- pH https://www.sparkfun.com/products/10972
+- dissolved oxygen https://www.sparkfun.com/products/11194
+- IR thermometer https://www.sparkfun.com/products/10740
+- ammonia
+  - gas detector http://www.figarosensor.com/products/826pdf.pdf
+  - in water http://www.ysi.com/parametersdetail.php?Ammonia---Ammonium-16
+  - review of sensors http://apachepersonal.miun.se/~gorthu/Sensor/chap8/ammoniasensorsandtheir.pdf
+- CO2
+  - http://www.co2meter.com/collections/co2-sensors
+  - http://www.spencerpages.com/wiki/index.php?title=MG811_Carbon_Dioxide_(CO2)_Sensor
+  - SONBEST SM5970 infrared carbon dioxide sensor
+
+#### What to do with the oxygen?
+Plants produce oxygen as they produce sugar so as we store food we will have extra oxygen produced as a bi-product.  This product is valuable as the massive component of Hydrogen-Oxygen Rocket fuel and as the key component of air for astronauts to breath (needed to metabolize the food we create).  The following table summarizes the Pros and Cons of various solutions:
+
+Solution
+Pros
+Cons
+
+Oxidize Metals 
+metal oxides are easy to store
+at least on some worlds reduced metals should be easy to find
+(they are the chief component of metalic meteors)
+oxidizing metals could be a source of energy reducing dependence on solar panels
+!Oxidize Carbon 
+carbon dioxide can be stored as an ice
+reduced carbon may be available on carbonaceous condrite worlds
+carbon dioxide is a resource
+oxidizing carbon could be a source of energy reducing dependence on solar panels
+
+Store as Liquid Oxygen 
+astronauts will need oxygen to breath in order to metabolize food
+hard to store; will need large tanks and refrigeration (LOX requires -183 C much colder than the asteroid belt)
+
+Dump into Atmosphere 
+an option on Mars 
+but elsewhere a terrible waste of a major component of CHON
+even on Mars, it would be lost for a very long time as a trace presence
+
+Carve out Caverns and Fill them with an Oxygen Atmosphere
+Add CO2 and keep at low enough pressure 
+May be able to grow some plants in the cavern if extra lighting is sent
+!L2 Point
+shaded from the sun
+mirror of Mylar to protect from infrared from backside of body
+could make tanks made out of ice to store it or an inflatable box
+could use inflatable tank (large capacity with relatively small mass)
+
+### Food Preservation Automation
+In order to create the preserved Duck Weed when the greenhouses are at remote locations, the process developed by the Food Preservation Recipe Development project must be automated.  This subproject will work to achieve that automation.
+
+[Ben Sibleman](/User:Scifiben) was chosen as Chief Food Preservation Automation Officer and head of this sub-project at [Sol2014](/Sol2014).  He was also chosen as Chief Documentation Quality Officer.  He will be in charge of ensuring that each documented process developed by this project (Greenhouses project as a whole) is tested in order to ensure that the process can be repeated accurately based on the documentation provided by the sub-project that developed it.
+
+#### Issues to Consider
+These robots need not locomote; they can be sessile.
+
+- Test on Earth to ensure that the food they produce is palatable	
+- Test to ensure that the food preservation they do is successful (sterile; non-toxic)	
+- No need for variety; astronauts who arrive without enough food are beggers not choosers
+- If unusual food plants are used, develop palatable preserved foods based on it before begining to develop these robots!(Duck Weed bars?)
+- Test in appropriate environmental simulations (e.g. vacuum and 180 to 220 K environments
+
+#### Optimal growing conditions for Duck Weed
+- between 6.5 and 7.5 Ph
+- 303.2 K
+
+## Additional sub-projects that will be needed:
+### Survive the cold of space
+There are few worlds closer to the Sun than Earth (Mercury, Venus, a few asteroids, 50% of the time the Moon).  All of these worlds, except Venus, are light-element-poor and all are hot.  Heat is much harder to survive than cold because it is easy to produce heat and hard to dump heat into a hotter sink.
+
+Therefore there is more to be gained with less effort by learning to Send Life to cold worlds rather than hot ones.	
+
+The following adaptations are effective against the cold:
+- Insulation: fur and feathers make excellent insulation; even better in a vacuum than in an atmosphere; artificial fur or feathers may be used to keep the warmth inside greenhouses.	
+- Black surfaces absorb heat better than light colored ones	
+- Antifreeze (increased solutes in all liquids) would allow Life to survive at colder temperatures	
+- High pressure allows water to stay liquid at lower temperatures	
+- Actively cooling your outer surface by pumping heat into the centre of the building decreases out flow of heat and reduces energy requirements for heating the building.
+- Burial (rock and ice above the building will provide insulation)	
+  - the new issue that is created is that waste heat may vaporise ices causing explosive destruction
+
+### Survive hard radiation
+The Earth's atmosphere and magnetic field protect us from the radiation that is traversing outerspace at speeds equal to or approaching c.		
+
+Various forms of this radiation are toxic to Life (ultraviolet, high speed particles, neutrons, xrays, gamma rays).
+
+The following adaptations are effective against radiation:
+- Burial (rock and ice above the building will provide a shield)	
+- Adaptation: Can organisms adapt to radiation (witness [Tardigrades](http://en.wikipedia.org/wiki/Tardigrade))?
+
+### Develop robot gardeners
+These robots might require the highest degree of intelligence of all robots on the mission because gardening can be very complicated.
+Therefore it would be wise to reduce the need for these gardeners by growing plants that are simple and easy to grow.  It would make sense to make use of hydroponics already developed on Earth.  We will, if at all possible, choose plants in which the whole plant can be eaten so that gardeners do not have to pick or prune edible parts away from the growing plant, but can simply remove whole plants making harvesting as simple as possible.
+
+On all of these counts; easy to grow, uses hydroponics, and the whole plant can be eaten, duck weed is an excellent choice.
+
+### Power supply
+
+Local test version
+Plug in
+
+Arctic version	
+Wind power
+
+Alien version
+Solar power (need to track sun)
+
+### Air lock
+Air locks will be needed to remove produce and take in resources.  A simple way to prove airlocks in test environments is to pass inputs and outputs through a water trap.  In operational versions the water will freeze due to low temperatures.

@@ -1,0 +1,69 @@
+{
+  "canonical_path": "/Idolatry_of_the_Spiritual_Experience",
+  "current_revision_id": 42754,
+  "database_title": "Idolatry_of_the_Spiritual_Experience",
+  "display_title": "Idolatry of the Spiritual Experience",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 3,
+  "page_id": 27149,
+  "published_revision_count": 3,
+  "revisions": [
+    {
+      "author": "EricSaumur",
+      "comment": "Created page with \"Idolatry of the Spiritual Experience  One of the points of Religion is to help us stay in right relationship with our parent and superparent holons.  You might count God, the Uni...\"",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 39431,
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": 39427,
+      "same_as_previous_public": false,
+      "timestamp": "2013-10-09T00:48:41Z",
+      "wikitext_bytes": 6059,
+      "wikitext_sha256": "0b9b454ff7fa96c007e9c7c5df91ef50e05596134072b7cd45c23da768f8a9b5"
+    },
+    {
+      "author": "EricSaumur",
+      "comment": "",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 40420,
+      "original_parent_revision_id": 39427,
+      "previous_public_revision_id": 39427,
+      "revision_id": 39431,
+      "same_as_previous_public": false,
+      "timestamp": "2013-10-09T01:33:27Z",
+      "wikitext_bytes": 6049,
+      "wikitext_sha256": "f007a09ded3664b2fef23d32bcd23abf2bd6407018e151fc9be382ad4aadb126"
+    },
+    {
+      "author": "EricSaumur",
+      "comment": "",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 42754,
+      "original_parent_revision_id": 39431,
+      "previous_public_revision_id": 39431,
+      "revision_id": 40420,
+      "same_as_previous_public": false,
+      "timestamp": "2015-03-21T13:30:33Z",
+      "wikitext_bytes": 6067,
+      "wikitext_sha256": "3965ba17a3599403bdddd9802209acbec9a104227ef0f42073386b3bed10f58e"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 40420,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 6067,
+      "markdown_sha256": "a66b48e34535a3a98259900d2e9f7ec85c98e5ff18ede57a4542114026fd1cbb",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": 40420,
+      "previous_public_revision_id": 40420,
+      "revision_id": 42754,
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z"
+    }
+  ],
+  "site_revision_count": 1
+}

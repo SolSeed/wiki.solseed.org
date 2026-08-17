@@ -1,0 +1,56 @@
+{
+  "canonical_path": "/Finding_quotes_about_Acorn",
+  "current_revision_id": 43169,
+  "database_title": "Finding_quotes_about_Acorn",
+  "display_title": "Finding quotes about Acorn",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 2,
+  "page_id": 27571,
+  "published_revision_count": 2,
+  "revisions": [
+    {
+      "author": "BenSibelman",
+      "comment": "Created page from notes",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 40838,
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": 40837,
+      "same_as_previous_public": false,
+      "timestamp": "2016-08-27T20:12:38Z",
+      "wikitext_bytes": 977,
+      "wikitext_sha256": "6eaec42ce46adb23dc84123fa1814e5f04406fd62ae23464f7d63cfc704ad82f"
+    },
+    {
+      "author": "BenSibelman",
+      "comment": "/* Notes */",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 43169,
+      "original_parent_revision_id": 40837,
+      "previous_public_revision_id": 40837,
+      "revision_id": 40838,
+      "same_as_previous_public": false,
+      "timestamp": "2016-08-27T20:12:54Z",
+      "wikitext_bytes": 978,
+      "wikitext_sha256": "21706ba0bb2f9743e9f25d44eac76a969078af946e16657adc78abf8588ca83a"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 40838,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 997,
+      "markdown_sha256": "1b1961b2e1ac1646809fb4a52b4033ab4c1c23c608cc91e26767a935dc0645e0",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": 40838,
+      "previous_public_revision_id": 40838,
+      "revision_id": 43169,
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z"
+    }
+  ],
+  "site_revision_count": 1
+}

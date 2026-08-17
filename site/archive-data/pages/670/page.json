@@ -1,0 +1,48 @@
+{
+  "canonical_path": "/PreTransFallacy",
+  "current_revision_id": "42226",
+  "database_title": "PreTransFallacy",
+  "display_title": "PreTransFallacy",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 1,
+  "page_id": "670",
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "Brandon CS Sanders",
+      "comment": "Redirecting to [[Pre Trans Fallacy]]",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": "42226",
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": "1711",
+      "same_as_previous_public": false,
+      "timestamp": "2010-06-24T07:43:40Z",
+      "wikitext_bytes": 31,
+      "wikitext_sha256": "f59d5716ead6cfdcd60ae34443af3f741fa81c6322b3358d7cf573f27861c596",
+      "source_format": "wikitext",
+      "source_extension": "wiki"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 1711,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 73,
+      "markdown_sha256": "c0430f01e6e9cc684cda642d4772b3f0ebe015b2969a47295f4b33077d78c5e7",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": "1711",
+      "previous_public_revision_id": "1711",
+      "revision_id": "42226",
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z",
+      "wikitext_bytes": 73,
+      "wikitext_sha256": "c0430f01e6e9cc684cda642d4772b3f0ebe015b2969a47295f4b33077d78c5e7",
+      "source_extension": "md"
+    }
+  ],
+  "site_revision_count": 1
+}

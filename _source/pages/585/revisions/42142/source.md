@@ -1,0 +1,25 @@
+#### [Brandon](/Brandon)'s perspective
+Is [Life](/Life) worthy of [TheDestiny](/TheDestiny)?  Are we worthy of [TheDestiny](/TheDestiny)?  If we start seeding life on other worlds, wouldn't we take the same problems we have here on Earth with us?
+
+I once believed that we had to become worthy of [TheDestiny](/TheDestiny) before pursuing its fulfillment. I believed that only after we had rid the world of poverty and oppression could we morally afford to devote significant resources to building interstellar space ships.
+
+Now I believe that life has always been worthy and will always be worthy.  Either life is a wonderful thing, or it isn't.  I don't think it will ever be a different thing or that it will someday become a worthy thing.  It is either worthy right now or it will never be worthy.
+
+Don't get me wrong, I've suffered sorrow and unfairness.  But these things are part of life too.
+
+When life spreads out to other parts of the galaxy it will take with it both [TheUpwardSpiral](/TheUpwardSpiral) and [TheDownwardSpiral](/TheDownwardSpiral).  They are two sides of the same coin.  The upward spiral creates abundance and the conditions for more life.  The downward spiral drains away possibility and saps life.
+
+[Life](/Life) is precious.  It always has been and it always will be.  [Life](/Life) is worthy of [TheDestiny](/TheDestiny) right now.
+
+Yay!
+
+http://xkcd.com/1232/
+
+#### An alternate view
+[Life](/Life) in general may be worthy of [TheDestiny](/TheDestiny) now, but human civilization is another matter.
+
+"A History of Terraforming" by Robert Reed is a novella covering a thousand years of future history in our solar system, focusing on [terraforming](/terraforming) efforts, mistakes, catastrophes, and military abuses of the technology to destroy whole worlds.  At the end of the story, speaking to an audience of terraforming technicians humbled and chastened by the vast destruction their art has wrought, Reed's main character sums up the situation like this:
+
+"And when, at long last, will we leave our Solar System for other suns and the rich new worlds waiting their chance to be claimed? . . . 
+"We will embark as soon as we can trust our nature and our institutions not to use this migration as an excuse for easy growth and return voyages of conquest.  When we have a worthy plan and the courage and [discipline](/discipline) to trust in it. . . .  When we have become adults, finally mature and responsible on all occasions.  But most important . . .
+"we will not leave this little realm of ours until we are children again.  Wide-eyed, enthralled children who know what they have in their hands and hold it with all the care they possess."

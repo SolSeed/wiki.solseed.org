@@ -1,0 +1,48 @@
+{
+  "canonical_path": "/Building_a_Society_of_Starfarers",
+  "current_revision_id": "42517",
+  "database_title": "Building_a_Society_of_Starfarers",
+  "display_title": "Building a Society of Starfarers",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 1,
+  "page_id": "5433",
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "Brandon CS Sanders",
+      "comment": "moved [[Building a Society of Starfarers]] to [[Bringing life to each other and our communities]]: Reworking the TOC",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": "42517",
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": "7703",
+      "same_as_previous_public": false,
+      "timestamp": "2012-03-12T04:55:31Z",
+      "wikitext_bytes": 61,
+      "wikitext_sha256": "d82b130168e21c1fce219f6d34ddbb8e8d1ff364d041b7b037a0c2689d245077",
+      "source_format": "wikitext",
+      "source_extension": "wiki"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 7703,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 133,
+      "markdown_sha256": "1f4ea340353461b39f7d4867bff0aa4d43006487bae8534a8c2bde797e7c114a",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": "7703",
+      "previous_public_revision_id": "7703",
+      "revision_id": "42517",
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z",
+      "wikitext_bytes": 133,
+      "wikitext_sha256": "1f4ea340353461b39f7d4867bff0aa4d43006487bae8534a8c2bde797e7c114a",
+      "source_extension": "md"
+    }
+  ],
+  "site_revision_count": 1
+}

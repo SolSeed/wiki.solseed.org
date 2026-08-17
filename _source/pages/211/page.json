@@ -1,0 +1,43 @@
+{
+  "canonical_path": "/User_talk:Shelley_Schoepflin_Sanders",
+  "current_revision_id": 41777,
+  "database_title": "Shelley_Schoepflin_Sanders",
+  "display_title": "User talk:Shelley Schoepflin Sanders",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 3,
+  "original_revision_count": 1,
+  "page_id": 211,
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "TedErnst",
+      "comment": "New page: Hi Shelley, I commented back on [[Alternative Dates for Sol 2009]].  Talk with you soon.  ~~~~",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 41777,
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": 549,
+      "same_as_previous_public": false,
+      "timestamp": "2009-02-12T18:04:33Z",
+      "wikitext_bytes": 146,
+      "wikitext_sha256": "1c7fb74b12642f9475621d2893d03eed6a7782ac21aa9408ce460ea1d9f8fcf7"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 549,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 178,
+      "markdown_sha256": "36aa29e7a51a18da5dc8ce09d54c65d29c34d16044234da0ecea930eed814f62",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": 549,
+      "previous_public_revision_id": 549,
+      "revision_id": 41777,
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z"
+    }
+  ],
+  "site_revision_count": 1
+}

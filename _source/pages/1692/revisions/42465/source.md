@@ -1,0 +1,86 @@
+### Agenda
+- Check In
+- Review WWWs
+- Review Agenda
+- Next Service Logistics
+- Equinox/Moving Planet
+  - Bike decorations
+  - Refreshments
+- 100 Year Starship Symposium
+  - Business Cards
+  - [Distinctively SolSeed](/Distinctively_SolSeed)
+- SolSeed Direction
+  - Seed Village
+  - SpaceVision conference in October
+- Evaluation
+
+### Check In
+- Shelley ... looking at race times ... Shelley was first in her age group for the half-marathon!
+- Brandon ... disappointed because "Big Mind, Big Heart" guy cheats on his wife
+- Ben ... has been having digestion issues and a headache ... he's hoping he won't be sick for the equinox/350 event
+- Sequoia ... was sleeping in his own bed, now awake again
+
+### WWWs from last time
+- <s>Brandon ... make plans with Julie ... by next call (in process)
+- Shelley ... update 350 by Bike page ... by next Monday
+- Shelley ... email everyone involved in the 350 by Bike event (are you coming back to house for refreshments?) ... by next Monday
+- Brandon, Shelley, Ben ... decide on bracelet inside statement ... by tonight</s> (but bracelet fell through)
+- Brandon ... remind Shelley about the 350 by Bike ... by next Sunday (turned out to be unnecessary)
+- <s>Brandon ... create business card design ... by next call
+- Brandon ... contact a basement contractor ... by Wednesday
+- Brandon ... contact the bracelet people ... by Wednesday
+- Ben ... send portraits to Brandon ... by tomorrow
+- Ben ... send another version of the trifold with a different photo ... by next call</s>
+
+### WWWs
+- Ben ... start printing the trifolds ... by Thursday
+- Ben ... finish LEGO wind turbines ... by Thursday
+- Brandon ... experiment with bamboo options ... by Wednesday
+- Brandon ... buy the cheapest cut flowers, graham crackers and frozen AJ when buying the Challah ... by Friday
+- Brandon ... order business cards ... by Wednesday
+- Brandon ... contact Sean Clayton and Karla Wheeler ... by noon tomorrow
+- Shelley ... email people asking for food ... by tomorrow
+
+### Next Service Logistics
+10am Saturday September 17, 2011 ... Brandon
+Rotation: Brandon, Jerry?, Shelley, Ben
+
+### Next Work Bee Logistics
+In-person work bee Sunday 4pm
+
+### Equinox/Moving Planet
+Bike decorations
+- Ben made 3 LEGO wind turbines with paper blades
+- Origami flowers?  Real flowers?
+  - Hook plastic bags or $1 vases to handlebars so they have water
+- Ribbons or bamboo in spokes
+- Mount a vertical bamboo stick behind seat
+- Spray chalk?
+Refreshments
+- Graham crackers and apple juice and or lemonade
+- Huge fruit plate
+- Cookies, fair-trade chocolates
+- Invite people to bring something to share
+
+### 100 Year Starship Symposium
+Business cards
+- Brandon's design is approved!
+- Go with "Seeding the galaxy with life"
+- Ben wants his address on his cards
+- Brandon will order 250 of each
+
+Jewelry
+- Try to get more than one of the pendant from Sean Clayton
+- Try to get a custom-etched bracelet from Karla Wheeler
+
+### SolSeed direction
+[Seed Village](/Seed_Village)
+- Brandon hasn't heard back from basement contractors
+- Ben points out that a backyard cottage could be designed to take with us if we build it and then move out
+
+SpaceVision: we're not going (two conferences in October is too much)
+
+### Evaluation
+- Brandon ... feeling like we need to focus
+- Ben ... feel like I hope we don't have to spend a lot more time on jewelry, as we have over the last three calls ... otherwise went well
+- Shelley ... had a nice time, agree that the jewelry is not that efficient, but that it will make us distinctive

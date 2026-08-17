@@ -1,0 +1,43 @@
+{
+  "canonical_path": "/File:Solstice_and_Equinox_collage.jpg",
+  "current_revision_id": 42406,
+  "database_title": "Solstice_and_Equinox_collage.jpg",
+  "display_title": "File:Solstice and Equinox collage.jpg",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 6,
+  "original_revision_count": 1,
+  "page_id": 1043,
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "BenSibelman",
+      "comment": "Collage of photos from our first five Solstice and Equinox celebrations.",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 42406,
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": 2426,
+      "same_as_previous_public": false,
+      "timestamp": "2011-04-01T04:55:31Z",
+      "wikitext_bytes": 72,
+      "wikitext_sha256": "66472ae7e351294b955714f551fd8f4e13042e3b9ed10d119ef6c2d5910e9f2b"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 2426,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 73,
+      "markdown_sha256": "c2e2f65b00d8e6e0842455a8ca0b988ba9cd12c8136ecd0091c1f2adb201ddc2",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": 2426,
+      "previous_public_revision_id": 2426,
+      "revision_id": 42406,
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z"
+    }
+  ],
+  "site_revision_count": 1
+}

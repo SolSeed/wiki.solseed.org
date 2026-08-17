@@ -1,0 +1,43 @@
+{
+  "canonical_path": "/File:Homes_at_Share-It_Square.JPG",
+  "current_revision_id": 42303,
+  "database_title": "Homes_at_Share-It_Square.JPG",
+  "display_title": "File:Homes at Share-It Square.JPG",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 6,
+  "original_revision_count": 1,
+  "page_id": 747,
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "BenSibelman",
+      "comment": "[[Shelley]] and [[Sequoia]] looking at some homes in the [[EcoVillageTour#Share-It Square|Share-It Square]] neighborhood.",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 42303,
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": 1921,
+      "same_as_previous_public": false,
+      "timestamp": "2010-10-23T21:35:02Z",
+      "wikitext_bytes": 121,
+      "wikitext_sha256": "00f61419f853d625dec8aa99a4b44e4efae2bfcae859a410801c6f4a15e664da"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 1921,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 138,
+      "markdown_sha256": "c84a2e252f57cd474b2e0d2af23cd05659eaabbec32d1f8098397a24a76a8561",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": 1921,
+      "previous_public_revision_id": 1921,
+      "revision_id": 42303,
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z"
+    }
+  ],
+  "site_revision_count": 1
+}

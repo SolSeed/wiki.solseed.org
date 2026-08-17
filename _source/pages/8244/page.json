@@ -1,0 +1,43 @@
+{
+  "canonical_path": "/Weekly_Service_Call",
+  "current_revision_id": 42547,
+  "database_title": "Weekly_Service_Call",
+  "display_title": "Weekly Service Call",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 1,
+  "page_id": 8244,
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "BenSibelman",
+      "comment": "redirect",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 42547,
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": 11415,
+      "same_as_previous_public": false,
+      "timestamp": "2012-04-28T19:32:54Z",
+      "wikitext_bytes": 34,
+      "wikitext_sha256": "e0a4d4fa14b29107a9a5ad5bd6f07888b552e2ccf4dfd0f7ff2d2272138352e8"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 11415,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 79,
+      "markdown_sha256": "57d46ff4fb6282be6efac22bf2c8e69d63e4f0252cc3067471ea5d204393ba8d",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": 11415,
+      "previous_public_revision_id": 11415,
+      "revision_id": 42547,
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z"
+    }
+  ],
+  "site_revision_count": 1
+}

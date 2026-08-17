@@ -1,0 +1,56 @@
+{
+  "canonical_path": "/2012_Space_Elevator_Conference",
+  "current_revision_id": 42708,
+  "database_title": "2012_Space_Elevator_Conference",
+  "display_title": "2012 Space Elevator Conference",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 2,
+  "page_id": 27103,
+  "published_revision_count": 2,
+  "revisions": [
+    {
+      "author": "BenSibelman",
+      "comment": "Created page",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 39270,
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": 39268,
+      "same_as_previous_public": false,
+      "timestamp": "2013-04-13T18:16:45Z",
+      "wikitext_bytes": 1271,
+      "wikitext_sha256": "0c246ecd3f8292b3d821aa9ab2d9dbf67084ac865e3ebb4310c2c39947dacb23"
+    },
+    {
+      "author": "BenSibelman",
+      "comment": "Added image",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 42708,
+      "original_parent_revision_id": 39268,
+      "previous_public_revision_id": 39268,
+      "revision_id": 39270,
+      "same_as_previous_public": false,
+      "timestamp": "2013-04-13T18:22:18Z",
+      "wikitext_bytes": 1328,
+      "wikitext_sha256": "7d5e955e6cc8f12466c107a2cd27ac8c91002e14d1bfe857f344f65bfd2fe482"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 39270,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 1355,
+      "markdown_sha256": "96c30f9e71390f6b051e395e907f15ca33c5619d6f1544306dec869978bb2e96",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": 39270,
+      "previous_public_revision_id": 39270,
+      "revision_id": 42708,
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z"
+    }
+  ],
+  "site_revision_count": 1
+}

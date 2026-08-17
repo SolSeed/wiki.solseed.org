@@ -1,0 +1,63 @@
+{
+  "canonical_path": "/July_1,_2018:_Business_Call",
+  "current_revision_id": "43330",
+  "database_title": "July_1,_2018:_Business_Call",
+  "display_title": "July 1, 2018: Business Call",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 2,
+  "page_id": "27732",
+  "published_revision_count": 2,
+  "revisions": [
+    {
+      "author": "BenSibelman",
+      "comment": "Created page from the Google doc",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": "41450",
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": "41449",
+      "same_as_previous_public": false,
+      "timestamp": "2018-07-22T16:16:50Z",
+      "wikitext_bytes": 9178,
+      "wikitext_sha256": "ff817057c04e644cb491ef3d9a8fc18ba8f13ac2ececc7199d9fbf5e259a9681",
+      "source_format": "wikitext",
+      "source_extension": "wiki"
+    },
+    {
+      "author": "BenSibelman",
+      "comment": "Removed extra notes and fixed formatting",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": "43330",
+      "original_parent_revision_id": "41449",
+      "previous_public_revision_id": "41449",
+      "revision_id": "41450",
+      "same_as_previous_public": false,
+      "timestamp": "2018-07-22T16:59:18Z",
+      "wikitext_bytes": 4573,
+      "wikitext_sha256": "da98c58bc4c5da6bab17aea47fa698ec8adb16f8222873f98c2b165744ae9fc1",
+      "source_format": "wikitext",
+      "source_extension": "wiki"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 41450,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 4561,
+      "markdown_sha256": "c7cba4dea11cabbbae9361896f40e8a02f9d73ea3818bc86d5cef01729c560e6",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": "41450",
+      "previous_public_revision_id": "41450",
+      "revision_id": "43330",
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z",
+      "wikitext_bytes": 4561,
+      "wikitext_sha256": "c7cba4dea11cabbbae9361896f40e8a02f9d73ea3818bc86d5cef01729c560e6",
+      "source_extension": "md"
+    }
+  ],
+  "site_revision_count": 1
+}

@@ -1,0 +1,15 @@
+[[Image:Solseed_Focus.png]]
+
+[[Image:SolSeed_root_and_flower.png]]
+
+{|
+| '''Root''' || '''Flower'''
+|-
+| Inward focus || Outward focus
+|-
+| Sustainability || Progress
+|-
+| Humanities || Sciences
+|-
+| Communitarian || Individualist
+|}

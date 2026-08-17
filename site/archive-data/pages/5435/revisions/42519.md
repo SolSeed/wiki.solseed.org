@@ -1,0 +1,112 @@
+### Agenda
+- Check In
+- Review WWWs
+- Review Agenda
+- Next Service Logistics
+- Major Events: Equinox
+- http://thesanders.us/SolSeedProtocol
+- [OnePagePlan](/OnePagePlan)
+- Evaluation
+- [Book](/SolSeed_book)
+
+### Check In
+- Shelley ... in Dallas, pool is closed :-( ... one of the other participants just adopted a baby 19 days ago (so I don't feel too bad about having to be here)
+- Ben ... feeling overwhelmed by many responsibilities, depressed by politics and economics, excited about finishing my first test pages of my web comics, and excited about my space elevator conference talk that I'm working on :-)
+- Brandon ... feeling solid ... a lot of work to do, and I'm ready to do it
+- Sequoia ... had fun at OMSI, fun with Bobo, and enjoying Gabi too (she is putting him to sleep) ... loves the jungle room
+
+### WWWs from last time
+- Shelley ... follow your topical community protocol for this week ... ongoing
+- <s>Shelley ... meditate and keep track of which days ... ongoing
+- Shelley ... mail the last of the invitations ... by tomorrow
+- Shelley ... email Meg and Heather about the services ... by tomorrow
+- Shelley ... ask Kristianne to help with cutting up fruit ... by tomorrow
+- Shelley ... make a shopping list for Brandon ... by next call</s>
+- Ben ... follow your topical community protocol for this week ... ongoing
+- <s>Ben ... meditate and keep track of which days ... ongoing
+- Ben ... practice my Earth seasons demo ... by next call
+- Ben ... make a sign for each activity station, and one listing all the stations and their locations ... by next call</s>
+- <s>Brandon ... follow your topical community protocol for this week ... ongoing
+- Brandon ... meditate and keep track of which days ... ongoing
+- Brandon ... make my opening for the equinox ... by next call</s>
+- Brandon ... nutrient cycle mural planned ... by next call
+- Brandon ... look into a sun light ... by next call
+- Brandon ... ping Molly about the nutrient cycle ... by next call
+- Brandon ... buy a canvas for the mural ... by next call
+
+### WWWs
+- Brandon ... follow your topical community protocol for this week ... ongoing
+- Brandon ... meditate and keep track of which days ... ongoing
+- Brandon ... look into getting a Skype subscription for group video ... by next service
+- Brandon ... email Eric the info for the service ... by Tuesday
+- Brandon ... nutrient cycle mural planned ... by Saturday
+- Brandon ... look into a sun light ... by Saturday
+- Brandon ... ping Molly about the nutrient cycle ... by Saturday
+- Brandon ... buy a canvas for the mural ... by Saturday
+- Shelley ... follow your topical community protocol for this week ... ongoing
+- Shelley... meditate and keep track of which days ... ongoing
+- Shelley ... upgrade Skype on her laptop ... by next call
+- Ben ... follow your topical community protocol for this week ... ongoing
+- Ben ... meditate and keep track of which days ... ongoing
+- Ben ... print out signs for Equinox ... by Tuesday
+**See also Equinox Prep Work**
+
+### Next Service Logistics
+Regular Service Saturday March 17, 10am (Jerry or Ben) ... Shelley can't make it but Eric will be joining us
+Rotation: Brandon, Jerry?, Shelley, Ben
+In-person service March 17, 3pm
+
+### Equinox
+Prep Work
+- Solicit chairs from Ben's parents
+- Solicit chairs from Shelley's parents
+- Solicit chairs from Brandon's parents
+- (Tuesday) Brandon check on paper plates
+- (Wednesday) Brandon shop for groceries for the equinox
+- (Thursday) Shelley make a demo craft
+- (Thursday) Shelley set up the ribbon craft on dining table (Kristianne). Scissor, ribbon, pipe cleaners and demo
+- (Thursday) Shelley to clean downstairs bathroom; Roomba the floor and Mint the floor including play room
+- (Thursday night) Sequoia and Shelley to set up the mat for the floor (leave a path from the front door to the back door)
+- (Friday) Brandon to make John Wayne Potatoes and freeze
+- (Friday) Brandon cleans up the cat's poop in the back yard
+- (Friday) Brandon cleans up the back porch
+- (Friday) Brandon brings up the red bench and chairs; Brandon cleans red stuff -- move to pavers area; take the trailer back down to basement
+- (Friday) Brandon assembles the mural frame
+- (Friday) Brandon move cat house to side of gravel area
+- (Friday) Brandon finish any cleaning items
+- (Saturday) Shelley and Brandon practice the dance
+- (Saturday night) Brandon stretches the canvas and outlines the mural and sets up paints
+- (Saturday night) Brandon to bring up wheelbarrow and load with dirt, 3 small shovels, clear plastic cups, marigold seeds, Sequoia's blue watering can and Shelley's green watering can from inside bay window -- on the red table
+- (Saturday night or Sunday morning) Shelley to make bran muffins
+- (Sunday at 6 am) Shelley to make french toast
+- (Sunday at 7 am) Brandon set out butter and John Wayne Potatoes to defrost
+- (Sunday at 8 am) Ben and Kristianne help cut up fruit
+- (Sunday at 8:30 am) Ben and Kristianne set out plates, silverware, cups, water
+- (Sunday at 9 am) Brandon put John Wayne Potatoes into the oven to warm
+- (Sunday at 9 am) Ben sets up his demo
+- (Sunday at 9 am) Ben sets up the signs
+- (Sunday at 9 am) Brandon squirts paint, and gets water/rags for washing up
+- (Sunday at 10 am) Brandon move piano
+- (Sunday at 11 am) Food comes out
+
+Menu
+- [Equinox Shopping List](http://thesanders.us/Equinox-Shopping-List)
+- Coffee -- Heather agreed to bring
+
+Attending 
+- Us (4)
+- Kristianne and Family (helping) (4)
+- Heather and Family (helping) (4)
+- Jeff & boys (4)
+- Emily (3 or 4)
+- Lori (3)
+- School (8?)
+- Steve and Judy (2)
+- Usher-Milligans (4)
+- Bob and Boni (2)
+- Shirley and Jerry (2)
+
+### Evaluation
+- Ben ... glad that Shelley could be on the call and glad that we're prepared for the Equinox
+- Shelley ... Feel really good that we got our Equinox stuff figured out
+- Brandon ... Feel like we need to stop doing some things and really focus on a few things

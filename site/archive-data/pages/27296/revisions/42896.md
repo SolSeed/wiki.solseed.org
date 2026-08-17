@@ -1,0 +1,89 @@
+### Agenda
+- Check in
+- Review WWWs
+- Weekly event logistics
+- Review Agenda
+- Equinox report
+- Support for Multifaith Housing Initiative?
+- Project work
+  - Brandon: Work on Holacracy proposals
+  - Eric: Write a cheque to MHI for “The SolSeed Movement”
+  - Eric: Rotate the Duck Weed and Record its progress
+- Evaluation
+
+### Parking lot
+- Newsletter check-in
+
+### Check-in (gratinews)
+- Brandon … I have a lot of energy right now.
+- Eric … I’m feeling pretty energized too because I just got off a skype call with a uufo committee where I’m doing a fundraiser for uufo and it’s fun
+
+### Daily Practice
+- https://tdp.me/person/brandon-cs-sanders
+- https://tdp.me/person/EricOfSolseed
+
+tips:
+- Make things green … lots of green lights feel nice!
+
+### WW(W)s from last time
+- <s>Eric ... follow your topical community protocol for this week ... ongoing</s>
+- <s>Eric ... meditate and keep track of which days ... ongoing</s>
+- <s>Brandon … materials for the signs … by Saturday the 20th</s>
+- <s>Brandon … supplies for the climate presentation … by Thursday the 18th.</s>
+
+### WWWs
+- Ben ... follow your topical community protocol for this week ... ongoing
+- Ben ... meditate and keep track of which days ... ongoing
+- Ben … finish the climate presentation … by Thursday
+- Eric ... follow your topical community protocol for this week ... ongoing
+- Eric ... meditate and keep track of which days ... ongoing
+- Brandon ... follow your topical community protocol for this week ... ongoing
+- Brandon ... meditate and keep track of which days ... ongoing
+- Brandon … get metric numbers together for last week so that we understand what the number looks like … Sunday after next
+- Brandon … kindred 2015 proposal … by Sunday after next
+- Brandon … write a “stewards circle outside of glassfrog” policy proposal … by Thursday
+
+### Weekly Events Logistics
+Weekend
+Service rotation: Eric, Shelley, Brandon, Ben
+- September 27 Service: 8 AM PDT, 11:00 EDT  (Brandon)
+- September 28 Work-Bee: 5:30 PM PDT, 20:30 EDT (Brandon is out ... camping)
+
+Midweek
+- October 2 Work-Bee: 6:30 PM PDT, 21:30 EDT  
+
+### Equinox Report
+- It was fantastic, besides our usual suspects, we had 3 or 4 people at the make signs event.  
+- Ben’s presentation was fantastic!
+- The march was super duper!  Fantastic even :-)
+
+### Support for Multifaith Housing Initiative?
+This is the charity that Michelle now works for.  She suggested that we could become a supporting member of the Multifaith Housing initiative http://www.multifaithhousing.ca/ we would be listed here: http://www.multifaithhousing.ca/our-membership.html 
+
+Unanimous approval for up to $100.  Eric will cut the check from his node of the virtual SolSeed account and the donation will be credited to “The SolSeed Movement” with a link to our landing page http://solseed.org
+
+### Project Work
+Steward Circle:
+- Tensions: 
+  - Of the people who are actually working on SolSeed, we’ve identified three increasingly deep levels of commitment and accountability
+    - active members: those who are occasionally active
+    - contributing members: those who are deeply committed (they’ve contributed meaningfully for each of twelve consecutive months)
+    - stewards: contributing members responsible for maintaining the integrity of the founders’ vision
+  - We get 2 free circles, the third circle costs $35/month … so representing this three tiered structure in GlassFrog circles is expensive
+  - There isn’t any operational difference between active and contributing members, so representing this three tiered structure in GlassFrog circles is cumbesome.
+- Proposal: Alter the contributing member policy to rename “contributing member” to “sustaining member” to avoid confusing those in the contributor circle with those who are “sustaining”.
+- Proposal: Make no GlassFrog distinction between contributors … call everyone who works on SolSeed a contributor (regardless of duration and depth of commitment).  Add “restricted to sustaining members” as a policy requirement to roles as needed.
+
+Steward Circle:
+- Tension: Once we officially organize we’ll become susceptible to organizational capture by other interests that don’t share the founding vision.  We should be conservative now and open it up later.
+  - Proposal: 
+    - The following domains are reserved for the Stewards Circle (not to be devolved)
+      - The SolSeedCreed and other core expressions of values and beliefs including our Highest Aspirations
+    - The following accountabilities are reserved for the Stewards Circle (not to be devolved)
+      - Appointing the Lead Link for the Contributors Circle
+      - Appointing new Stewards
+      - Determining the basic structure of the organization (i.e. how Stewards are selected, what sub-circles to create under Stewards, and even whether or not to keep using Holacracy)
+
+### Evaluation
+- Brandon … I always enjoy the project work...
+- Eric … I’m really happy about the IMHI thing, and I’m excited about what Brandon is working on too.  I feel a little bit stressed when I think about the holacracy experiment we are doing … it feels pretty bureaucratic at times.  But there are times when we do need to do some bureaucracy and it’s better than just spinning in circles, so I’m happy that you are working on that.

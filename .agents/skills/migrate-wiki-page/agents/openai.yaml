@@ -1,0 +1,4 @@
+interface:
+  display_name: "Convert Wiki Page"
+  short_description: "Convert one archived wiki page to tested Markdown"
+  default_prompt: "Use $migrate-wiki-page to convert one assigned archived page to maintainable Markdown and validate its static rendering."

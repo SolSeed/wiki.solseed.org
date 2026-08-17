@@ -1,0 +1,56 @@
+{
+  "canonical_path": "/August_30,_2015:_Business_Call",
+  "current_revision_id": 43087,
+  "database_title": "August_30,_2015:_Business_Call",
+  "display_title": "August 30, 2015: Business Call",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 2,
+  "page_id": 27489,
+  "published_revision_count": 2,
+  "revisions": [
+    {
+      "author": "BenSibelman",
+      "comment": "Created page from the Google doc",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 40645,
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": 40611,
+      "same_as_previous_public": false,
+      "timestamp": "2015-08-31T02:25:19Z",
+      "wikitext_bytes": 9108,
+      "wikitext_sha256": "f200954f86dfb7949fe23d65a1c25755405237504919158486ad4da1df376821"
+    },
+    {
+      "author": "Brandon CS Sanders",
+      "comment": "/* Gaia Kickstarter */",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 43087,
+      "original_parent_revision_id": 40611,
+      "previous_public_revision_id": 40611,
+      "revision_id": 40645,
+      "same_as_previous_public": false,
+      "timestamp": "2015-09-25T02:26:07Z",
+      "wikitext_bytes": 9112,
+      "wikitext_sha256": "c276002ef500c6aae7fd5fdb07f4ded688d9887e8922927714bd4d05d4ec4bb1"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 40645,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 9102,
+      "markdown_sha256": "ed63a2796f754ba60c82871e74af0e62ae405d765438b3ad68492ef85ac10c79",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": 40645,
+      "previous_public_revision_id": 40645,
+      "revision_id": 43087,
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z"
+    }
+  ],
+  "site_revision_count": 1
+}

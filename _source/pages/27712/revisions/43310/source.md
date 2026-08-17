@@ -1,0 +1,1 @@
+Europa is one of the Galilean Moons of Jupiter.  It is a moon renown for having a sub ice crust ocean of massive proportions.  Also the [World Mother](/World_Mother) who symbolizes the hypothetical biosphere which may someday or may already live in that ocean.

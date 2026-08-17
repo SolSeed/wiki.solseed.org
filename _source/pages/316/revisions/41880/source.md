@@ -1,0 +1,188 @@
+[Sol 2009](/Sol_2009) Food provided.
+### Yummy Food!
+This menu is subject to change at the whim of the group.  If you are vegan or gluten intolerant or have any sort of dietary restrictions, please let us know ASAP.  We'll be splitting up into teams of 4 to prep and cleanup after each meal. 
+- There are a few restaurants and a small grocery store about 10 minutes by car from the campground. 
+- Bring your own snacks. We'll have fruit and veggies available all day every day.
+- Simple vegetarian meals will be provided. 
+- Bring your own dishes/utensils if you can. We will provide paper service for those traveling from afar.
+
+#### Friday 6/26 Supper
+- Soup
+- Salad
+- Rolls and butter
+
+#### Saturday 6/27 Breakfast
+- Cold cereal with soy milk, fruit, yogurt, muffins, make-your-own eggs, oat meal, bagels with cream cheese
+
+#### Saturday 6/27 Lunch
+- Sandwiches (PB & J, lettuce, lunch meats, cheese)
+- Carrots
+- Brownies
+
+#### Saturday 6/27 Supper
+- Hot dogs
+- Chips
+- Salad
+- Smores
+
+#### Sunday 6/28 Breakfast
+- Pancakes, cold cereal with soy milk, fruit, yogurt, muffins, make-your-own eggs, oat meal, bagels with cream cheese
+
+#### Sunday 6/28 Lunch
+- Haystacks (American Tacos)
+
+#### Sunday 6/28 Supper
+- Mac and Cheese
+- Peas
+
+#### Monday 6/29 Breakfast
+- Cold cereal with soy milk, fruit, yogurt, muffins, make-your-own eggs, oat meal, bagels with cream cheese
+
+#### Snacks
+- Cut veggies
+- Fruit (strawberries, bananas, grapes, oranges, apples)
+- Crackers and cheese
+- Trail mix
+
+#### Shopping List
+On the order of 30 people. Shelley and Brandon will shop on Thursday, June 25
+
+##### Fridge or Frozen
+- Cookie dough
+- 2 gallons milk
+- Yogurt
+- Eggs 18 x 2
+- Slices of cheese for sandwiches
+- Pre-sliced sandwich meats
+- Pre-sliced vegetarian meats
+- Veggie hot dogs
+- Beef hot dogs
+- Shredded cheese
+- Butter for rolls, bagels, cooking eggs, pancakes, and making mac n cheese
+- Softspread in a tub
+- Frozen peas
+- Feta
+- Cheese tray x 1-2
+
+##### Fresh Fruits and Vegies
+- Salad for 2 meals
+- Salad dressing: Ranch, Italian
+- Tomatoes for salad x 2 and for sandwiches x 1, haystacks, include some cherry tomatoes
+- Cucumbers
+- Bananas
+- Strawberries
+- Oranges
+- Apples
+- Grapes
+- Melon
+- Lettuce leaves
+- Onions
+- Carrots
+- Shredded lettuce
+- Celery
+- Peppers
+- Broccoli crowns
+- Dip for veggies
+- Hummus
+
+##### Dry Goods
+- Wood
+- Popcorn
+- Roasted red pepper soup
+- Butternut squash soup
+- Wheat Thins
+- Croutons
+- Walnuts
+- 15 boxes cold cereal: Go Lean Crunch, Life, Wheaties, Kix
+- 3 soy milk cases
+- Oatmeal
+- Brown sugar
+- Salt
+- Dried apricots, cranberries, and raisins
+- Cream cheese
+- Peanut butter
+- Jam
+- Mayonnaise
+- Brownie mix
+- Ketchup
+- Mustard
+- Dill relish
+- Sweet relish
+- Sunchips
+- Salsa
+- Trail mix
+- Marshmallows
+- Graham crackers
+- Chocolate bars
+- Pancake mix
+- Oil
+- Syrup
+- Tortilla chips
+- Refried Beans -- about 15 cans
+- Honey
+- Olives
+- Mac N Cheese 12 boxes
+- Crackers gourmet
+- Crystal light iced tea
+- Hot cocoa
+- Tea
+- OJ
+- ?coffee
+- Creamer
+- Sugar
+- Sweet 'n' Low (pink packet)
+- Coffee filters
+- Paper plates, napkins, bowls, cups
+- Long extension cords
+- Lights
+- Insect repellent
+
+##### Bakery
+- Rolls
+- Muffins -- 3 trays
+- Bagels - 24
+- Bread, 2 kinds: 6 loaves
+- Hot dog buns = 60 to 80 buns
+- Pita
+
+##### Errands
+- Paint
+- Costco
+- Strawberries
+
+#### Try Good Will
+- 2 big pots for soup and for mixing drinks (try Good Will)
+- Coffee maker
+- Silverware, utensils, cutting knives and boards
+
+#### Supplies
+- Boni's giant cooler 
+- Cooking pans and pots and pancake turner
+- Coffee maker
+- Previously purchased paper service items
+- Our own pots and pans
+- Knives and scissors
+- Hot tea pot with tea
+- Wood
+- Newspaper
+- Hatchet
+- Matches
+- Paper towels
+- Rags and dishcloths
+- Dish soap
+- Ropes for tarps
+
+#### Make Ahead
+- Wash all vegies
+- Make brownies
+
+#### Not at Costco?
+- Veggie meat slices: chicken
+- Veggie hot dogs
+
+#### Purchase on a daily basis
+- Milk
+- Eggs
+- Whipped cream if desired
+- Sour cream for haystacks
+- Ice

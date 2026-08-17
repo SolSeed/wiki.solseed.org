@@ -1,0 +1,48 @@
+{
+  "canonical_path": "/Kinship2010",
+  "current_revision_id": "42208",
+  "database_title": "Kinship2010",
+  "display_title": "Kinship2010",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 1,
+  "page_id": "652",
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "Brandon CS Sanders",
+      "comment": "[[Kinship2010]] moved to [[Kindred2010]] over redirect",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": "42208",
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": "1656",
+      "same_as_previous_public": false,
+      "timestamp": "2010-06-09T03:13:02Z",
+      "wikitext_bytes": 25,
+      "wikitext_sha256": "99d9e3282564c1dbe4563c444883ca6b715c463c0fb1aa85d78c86bb70878eea",
+      "source_format": "wikitext",
+      "source_extension": "wiki"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 1656,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 61,
+      "markdown_sha256": "624b8e80dc26ea08784df602e674f75d3c0e775663b69c96a502ca9ffe8b0901",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": "1656",
+      "previous_public_revision_id": "1656",
+      "revision_id": "42208",
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z",
+      "wikitext_bytes": 61,
+      "wikitext_sha256": "624b8e80dc26ea08784df602e674f75d3c0e775663b69c96a502ca9ffe8b0901",
+      "source_extension": "md"
+    }
+  ],
+  "site_revision_count": 1
+}

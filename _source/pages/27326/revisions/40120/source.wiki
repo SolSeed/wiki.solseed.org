@@ -1,0 +1,3 @@
+<blockquote class="templatequote">{{{text}}}
+  <div class="templatequotecite">&nbsp;&nbsp;&nbsp;&nbsp;&mdash;{{{sign}}},&nbsp;<i>{{{source}}}</i></div>
+</blockquote>

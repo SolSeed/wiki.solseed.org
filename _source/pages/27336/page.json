@@ -1,0 +1,69 @@
+{
+  "canonical_path": "/October_26,_2014:_Online_Work_Bee",
+  "current_revision_id": 42935,
+  "database_title": "October_26,_2014:_Online_Work_Bee",
+  "display_title": "October 26, 2014: Online Work Bee",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 3,
+  "page_id": 27336,
+  "published_revision_count": 3,
+  "revisions": [
+    {
+      "author": "BenSibelman",
+      "comment": "Created page from the Google doc, with adjustments",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 40143,
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": 40142,
+      "same_as_previous_public": false,
+      "timestamp": "2014-10-27T01:47:17Z",
+      "wikitext_bytes": 10410,
+      "wikitext_sha256": "a5adbc4c09594b59c5e6529687ab99ac5191e25611c3845d0de83318c4131b6a"
+    },
+    {
+      "author": "BenSibelman",
+      "comment": "/* Viventibus Galaxia */",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 40144,
+      "original_parent_revision_id": 40142,
+      "previous_public_revision_id": 40142,
+      "revision_id": 40143,
+      "same_as_previous_public": false,
+      "timestamp": "2014-10-27T01:48:30Z",
+      "wikitext_bytes": 10409,
+      "wikitext_sha256": "df5b5b49cca38fe69aa053e73bee2d64dbf76af1b12eba48e4f27ef7a3aa1ff8"
+    },
+    {
+      "author": "BenSibelman",
+      "comment": "/* Viventibus Galaxia */",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 42935,
+      "original_parent_revision_id": 40143,
+      "previous_public_revision_id": 40143,
+      "revision_id": 40144,
+      "same_as_previous_public": false,
+      "timestamp": "2014-10-27T01:49:20Z",
+      "wikitext_bytes": 10418,
+      "wikitext_sha256": "daddb976f6fc02588f55ebd9fde4f8d5392f38c581bfcf86cec0bd5553b62a24"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 40144,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 10403,
+      "markdown_sha256": "5b108053eef0abe449fe70b31583a120cda8fad7d3aa3f33c8fe0a3be6b29e4c",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": 40144,
+      "previous_public_revision_id": 40144,
+      "revision_id": 42935,
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z"
+    }
+  ],
+  "site_revision_count": 1
+}

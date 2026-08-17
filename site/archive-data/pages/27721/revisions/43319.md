@@ -1,0 +1,74 @@
+This is one page of the [SolSeed Book of Days](/SolSeed_Book_of_Days)
+
+#### Quotes of the Day
+Our stories begin with warm blood
+― SolSeed Sabbath Ritual for the [Sophos](/Sophos) season
+
+"The [information loss] paradox has been argued for thirty years without much progress until I found what I think was its resolution.  Information is not lost, but it is not returned in a use-ful way.  It is like burning an encyclopedia.  Information is not lost, but it is very hard to read.  I gave John Preskill a baseball encyclopedia.  Maybe I should have just given him the ashes."
+― Stephen Hawking, Lecture Given at Caltech, January 2005
+
+#### Thoughts for the Day
+I clearly remember being taught about the genome size of crayfish in university.  Apparently, I was told that they have something like 300 times as much DNA in each cell as we do.  This tidbit of information got linked to an idea that crayfish are the last creatures to die out when a lake is polluted with acid rain because they have a version of every gene optimized for every condition, even acid conditions.  So I wrote this prayer and at the end the customer ahead was buying a copy of the Crayfish Daily Chronicle.  I even presented the prayer at a service and, as I did, I remembered a little, insistent internal voice which had said, these memories are old, you should check your facts.  Too late, and, of course, the other dedicants of SolSeed were happy to pull out their phones and do some quick checks *for* me.
+
+Turns out that the crayfish genome is not much larger than ours.  Doing more research, I can find nothing specifically on versions of genes optimized for different temperatures.  But the things I did find I added in.  The whole genome reducing spiral is well documented in several papers that I read.  It is still just conjecture but supported by evidence in many ways.  Logically, if there are versions of genes optimized for different temperatures, then that would be something that homeotherms could get rid of to reduce genome size.   And I did read that variant copies of genes were dropped.  They  If it turns out there never were such genes, well, we can change that part of the story too.
+
+Two lessons to learn here.  One we will never know everything.  Our memories lose information.  Information is hopelessly scrambled by the growth of entropy.  Quantum theory may say that all information is conserved, but this doesn't mean that it is conserved in a way that we can get at it.  At a macroscopic scale in particular, entropy overpowers Quantum Information Conservation and fossils dissolve as the rock around them erodes and the process of fossilization sometimes leaves only a macroscopic impression not details like cell size and certainly not genome size.  So we conjecture and we guess and we tell stories and still through all of this we inch closer to the truth.
+
+The second lesson is that when you live Religious Naturalism and your dogma is the consensus of science then you have to get used to your dogma changing.  Maybe, the scientific consensus was that the crayfish genome was large when I was in University.  That was 20 years before the Human Genome Project.  Sequencing DNA was in its infancy.  Who knows what mistakes were made.  Maybe it wasn't my memory that failed me but that early genetic technology.  It wouldn't be the first time science consensed on a falsehood.  Nor will it be the last.  Being a Religious Naturalist means being ready to abandon your dogma as soon as a new scientific consensus is reached.
+
+#### Contemplation for the Day
+[Let us imagine](/Suspension_of_Skyfall)
+
+[You](/You) are sitting at a desk.  On your right are trays of little lead blocks with one letter molded onto the surface of each.  There are trays of large A's and small backwards capital G's and so on.  In front of you is a big tray in which you have carefully arranged letters into lines and headlines.   To  your left is a handwritten article that you have been building in typeface. 
+
+You read CAT and know to arrange GTA in the tray.   You read TAG and arrange ATC.   You read TAC and instead arrange ATG.   And so on.   It is automatic.   You can transcribe all day. 
+
+You look up.   Above your desk a monkey hangs from a fixture on the ceiling by its tail.  Each of it's four hands are marked with a letter,  A,  C,  G,  T.   It grabs lead blocks that are flying through the air like bullets preventing any from hitting you and places them in the trays to your right.   Because of this monkey,  your trays never get empty no matter how long you transcribe.   
+
+You glance around the room.   It is vast and throughout it stretch long tables on which raccoons are tearing completed trays apart and throwing the blocks across the room.   All across the room other monkeys are hanging from the ceiling and catching the thrown letters and passing them down to humans who are, like you,  sitting at desks filling trays. A young girl at the desk next to you is transcribing an entire page filled with A's.  The room seems to stretch almost to the horizon.
+
+A goat passes by pulling a cart full of empty trays.  A squirrel riding the cart places a few empty trays in a rack under your desk.  
+
+Through a window at the front of the room you can see a huge printing press churning out hard copies of the trays you have completed. 
+
+From an office off to the left a woman strides towards you.  She is covered from head to toe in fur and has eight breasts arranged in pairs down to her abdomen.   Her abdominal fur is braided to look like the continents but their positions and shapes are all off; they appear to be close to Pangea. Her fur is decorated with little Gold animals throughout: shrews and rats and badgers.   Her eyes have the green glow of a demigoddess.
+
+She is [Mammalia](/Mammalia),  the Personification of all Mammals and she is going from desk to desk crumpling up the articles people have been working on and throwing them on the floor.  She replaces each one with a new article. 
+
+When she does this to you, you are more than a little shocked,  especially when you notice that the article she has given you is mostly crossed out. 
+
+'Don't look at me that way, your kind haven't even evolved yet,  ' Mammalia scoffs at you,  'You are lucky to even be included in this metaphor.  Get to work.  This is the biggest scoop yet for the Mammal.   News of the eon.   Break out the Jesus script,  coons! '
+
+The raccoons start pulling trays full of really large letters off of shelves behind their desks and throwing the letters across the room.  The monkeys do their best to catch them but one large G gets by your monkey and clocks you on the head. 
+
+It smarts but doesn't knock you out.   Still it changes something; now, when you look at the written article,  you can see that it is still written with just the four characters,  ACGT,  but you can understand it. 
+
+The headline says,  "Mammals Discover Homeothermy." The subtitle reads,  "Variant Genes Optimized for Different Temperatures Deleted. "  You begin typesetting the title with the giant letters that your monkey is now organizing for you. 
+
+But as you typeset you read ahead.   The first subsection was titled "Genes used to metabolize hydrogen peroxide."   but the "s" in "genes" has been crossed out.   Below it every copy of the gene has also been crossed out except the one optimized for 37 degrees Celsius.
+
+You are finished in a few minutes as are the other people typesetting other articles.
+
+Mammalia looks at you all in disbelief,  "What you're all done?  That's unbelievable.   This is one of the most sophisticated papers on the planet and it can be typeset in a few minutes by a bunch of apes like you.   Well go home then.   There is nothing left to do. "
+
+You leave the building and walk out onto the street.   The street looks pretty normal but the names of the businesses are strange,  "the Mammalian Gazette", "the Mollusk Free Press", "the Formic Amino Acid Engraver".
+
+A mobile newsagent is hawking papers at the corner.  You notice the Mammalian Gazette with your typesetting on the front page.   But instead of being written in the letters ACGT it is written in the names of amino acids.  Still you recognize it as your own work. 
+
+You decide to buy a copy just for sentimental reasons.   The customer ahead of you orders a copy of "the Salamander Daily Chronicle ".  It takes a while for him to put it in his suitcase because it comes as 300 hard bound volumes. 
+
+When you take your copy of the Mammalian Gazette, you are embarassed to see is one of the smallest papers available.  You look up at the news agent and see that she is [Gaia](/Gaia).   You wave the Gazette vaguely and say,  "So short."
+
+She laughs and says,  "Yes isn't it wonderful.   So succinct and to the point.  Mammals and Birds save so much energy transcribing their genome from cell to cell compared to some of my other parts."
+
+Your embarrassment lessens; why did you think that the value of an organism would be proportional to its genome size?  "So genome size is a trait on which natural selection can exert pressure."
+
+Gaia smiles and sorts some virus pamphlets, "Yes, some creatures must keep their genome very short indeed in order to survive.  Others have the luxury to create genes for every eventuality."
+
+You look at the tiny virus pamphlets, "Viruses I can understand but why was the pressure so intense on Mammals and Birds?"
+
+Gaia pulls a dusty T-rex Tribune out from under a pile; it is about the same size as the Mammalian Gazette, "I still have one of these!"  She laughs, "Pressure is most intense when effect is also cause.  When Natural Selection arranges itself in a spiral it can be pretty draconian.  Losing genes for various internal temperatures other than 37 C, meant that you needed to keep your bodies at that temperature to function well.  Which meant you needed to have smaller cells in order to maximize gas exchange.  Which meant you had less room for nuclei in your cells.  But smaller nuclei meant less room for DNA transcription.  Less room for DNA transcription meant you needed to reduce your genome size."
+
+You are shocked, "So Mammalia lied when she wrote that developing endothermy allowed us to get rid of useless genes.  Instead it was losing some genes that forced us to develop endothermy?"
+
+Gaia laughs, "I wouldn't go accusing Goddesses of being liars if I were you!  Besides the truth is lost in time.  You can start anywhere on the spiral and it will still go around.  Maybe some mutation caused you to have smaller nuclei and that started the whole thing off.  It doesn't matter."  She wipes some dust off the T rex Tribune, "From two instances of this spiral, three classes of wondrous animals resulted.  For that we can be thankful."

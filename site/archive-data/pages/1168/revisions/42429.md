@@ -1,0 +1,1 @@
+The "before" picture of the mural canvas at [Earth Day 2011](/Earth_Day_2011), with only the "help paint" sign and a few early additions.

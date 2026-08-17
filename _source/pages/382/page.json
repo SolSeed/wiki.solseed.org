@@ -1,0 +1,43 @@
+{
+  "canonical_path": "/The_SolSeed_Intentional_Society",
+  "current_revision_id": 41946,
+  "database_title": "The_SolSeed_Intentional_Society",
+  "display_title": "The SolSeed Intentional Society",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 1,
+  "page_id": 382,
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "BenSibelman",
+      "comment": "[[The SolSeed Intentional Society]] moved to [[The SolSeed Society]]: We chose this shorter name during a conference call.",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 41946,
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": 1100,
+      "same_as_previous_public": false,
+      "timestamp": "2009-11-13T05:05:36Z",
+      "wikitext_bytes": 33,
+      "wikitext_sha256": "c0824c3d263fc61ff73c5b6211b50f9606780075e02f5a920007928c083ad162"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 1100,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 77,
+      "markdown_sha256": "53f390b842bbcd917e24862ef78f985cf919b8a937eda111d05c7d8e66f2e829",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": 1100,
+      "previous_public_revision_id": 1100,
+      "revision_id": 41946,
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z"
+    }
+  ],
+  "site_revision_count": 1
+}

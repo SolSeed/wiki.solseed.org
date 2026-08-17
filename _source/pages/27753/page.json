@@ -1,0 +1,43 @@
+{
+  "canonical_path": "/File:ShiningPentagramPR.jpg",
+  "current_revision_id": 43351,
+  "database_title": "ShiningPentagramPR.jpg",
+  "display_title": "File:ShiningPentagramPR.jpg",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 6,
+  "original_revision_count": 1,
+  "page_id": 27753,
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "EricSaumur",
+      "comment": "A shinning 5 + 15 pointed star symbolizing the 5 and 15 principles of the Pagan Renewal movement",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 43351,
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": 41528,
+      "same_as_previous_public": false,
+      "timestamp": "2018-09-11T00:47:54Z",
+      "wikitext_bytes": 96,
+      "wikitext_sha256": "375e807b448d9d82c11af4633b57d8db8c8fccd0ab1c4aa7b8428091d2d1960e"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 41528,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 97,
+      "markdown_sha256": "70cb86f23399d19bff5116b6a8e88b6708acc7ed4ef2b78f9116569a50f6d220",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": 41528,
+      "previous_public_revision_id": 41528,
+      "revision_id": 43351,
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z"
+    }
+  ],
+  "site_revision_count": 1
+}

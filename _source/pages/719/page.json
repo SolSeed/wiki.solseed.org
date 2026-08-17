@@ -1,0 +1,56 @@
+{
+  "canonical_path": "/Lauren",
+  "current_revision_id": 42275,
+  "database_title": "Lauren",
+  "display_title": "Lauren",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 2,
+  "page_id": 719,
+  "published_revision_count": 2,
+  "revisions": [
+    {
+      "author": "Brandon CS Sanders",
+      "comment": "Redirecting to [[Lauren Olamina]]",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 1843,
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": 1838,
+      "same_as_previous_public": false,
+      "timestamp": "2010-08-31T23:41:46Z",
+      "wikitext_bytes": 28,
+      "wikitext_sha256": "ec9785d0f435b9e358c07c1d69c946b0acb865de0b7f68f1e6296117311fa829"
+    },
+    {
+      "author": "Redirect fixer",
+      "comment": "[[Lauren Olamina]] has been moved, it is now a redirect to [[Lauren Oya Olamina]]",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 42275,
+      "original_parent_revision_id": 1838,
+      "previous_public_revision_id": 1838,
+      "revision_id": 1843,
+      "same_as_previous_public": false,
+      "timestamp": "2010-08-31T23:42:58Z",
+      "wikitext_bytes": 32,
+      "wikitext_sha256": "87d9705caff4b2c6eaf9b92b541b3cd07d544f517de9b4d268522b8e17e6dceb"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 1843,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 75,
+      "markdown_sha256": "a4fb1c03368a7ca6df3ffd0780e3a3ce28514be3a06782afb3514c137e216b2f",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": 1843,
+      "previous_public_revision_id": 1843,
+      "revision_id": 42275,
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z"
+    }
+  ],
+  "site_revision_count": 1
+}

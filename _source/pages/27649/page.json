@@ -1,0 +1,82 @@
+{
+  "canonical_path": "/Gaia_and_the_Frozen_World",
+  "current_revision_id": 43247,
+  "database_title": "Gaia_and_the_Frozen_World",
+  "display_title": "Gaia and the Frozen World",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 4,
+  "page_id": 27649,
+  "published_revision_count": 4,
+  "revisions": [
+    {
+      "author": "EricSaumur",
+      "comment": "Created page with \"Imagine with me  You are walking across a vast blue-white frozen landscape.  Strange stars form unfamiliar constellations in the sky above you.  You are warm because you are clad...\"",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 41075,
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": 41073,
+      "same_as_previous_public": false,
+      "timestamp": "2017-06-25T02:39:36Z",
+      "wikitext_bytes": 5426,
+      "wikitext_sha256": "b53ad2a7a1e63215eaf1786383485f294abfc2f7ff806cdeebfae7a4c3d988b0"
+    },
+    {
+      "author": "EricSaumur",
+      "comment": "",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 41283,
+      "original_parent_revision_id": 41073,
+      "previous_public_revision_id": 41073,
+      "revision_id": 41075,
+      "same_as_previous_public": false,
+      "timestamp": "2017-06-25T02:51:05Z",
+      "wikitext_bytes": 5476,
+      "wikitext_sha256": "ccfa0cb8b218c514039d0eb5c7e81567cda451726f8fa85094769635ff3225b1"
+    },
+    {
+      "author": "EricSaumur",
+      "comment": "",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 41356,
+      "original_parent_revision_id": 41075,
+      "previous_public_revision_id": 41075,
+      "revision_id": 41283,
+      "same_as_previous_public": false,
+      "timestamp": "2018-04-13T00:52:53Z",
+      "wikitext_bytes": 5522,
+      "wikitext_sha256": "e3093b493b9b82c2181b2cd2d2b03db3c1fb4e28deca36421ddeb77ba9c18e90"
+    },
+    {
+      "author": "EricSaumur",
+      "comment": "",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 43247,
+      "original_parent_revision_id": 41283,
+      "previous_public_revision_id": 41283,
+      "revision_id": 41356,
+      "same_as_previous_public": false,
+      "timestamp": "2018-04-19T23:44:53Z",
+      "wikitext_bytes": 5547,
+      "wikitext_sha256": "05f7de0c10789af91e8f360e94afd85692efef34ab76cc0163b39a8b05776c76"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 41356,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 5610,
+      "markdown_sha256": "a6dd4ff757a53f1b17e9f68b687f55c6692a7e29caeaea9e59b0a25cbfad3878",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": 41356,
+      "previous_public_revision_id": 41356,
+      "revision_id": 43247,
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z"
+    }
+  ],
+  "site_revision_count": 1
+}

@@ -1,0 +1,43 @@
+{
+  "canonical_path": "/File:Sol_2009_logo.gif",
+  "current_revision_id": 41897,
+  "database_title": "Sol_2009_logo.gif",
+  "display_title": "File:Sol 2009 logo.gif",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 6,
+  "original_revision_count": 1,
+  "page_id": 333,
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "BenSibelman",
+      "comment": "Logo as requested by Brandon and Shelley.",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 41897,
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": 914,
+      "same_as_previous_public": false,
+      "timestamp": "2009-06-10T04:50:11Z",
+      "wikitext_bytes": 41,
+      "wikitext_sha256": "0e7e427ce20da82120be81f292a731079d2d66f2716c338e78dd03d0f0adc37f"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 914,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 42,
+      "markdown_sha256": "e055b11f022d8436e0d3c9aabc781de16f383891f8b2b2b78eaeab6f6b2b60ef",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": 914,
+      "previous_public_revision_id": 914,
+      "revision_id": 41897,
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z"
+    }
+  ],
+  "site_revision_count": 1
+}

@@ -1,0 +1,56 @@
+{
+  "canonical_path": "/NonProfit/ByLaws",
+  "current_revision_id": 41870,
+  "database_title": "NonProfit/ByLaws",
+  "display_title": "NonProfit/ByLaws",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 2,
+  "page_id": 305,
+  "published_revision_count": 2,
+  "revisions": [
+    {
+      "author": "Brandon CS Sanders",
+      "comment": "[[NonProfit/ByLaws]] moved to [[The SolSeed Intentional Society/ByLaws]]",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 824,
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": 811,
+      "same_as_previous_public": false,
+      "timestamp": "2009-05-16T19:16:24Z",
+      "wikitext_bytes": 52,
+      "wikitext_sha256": "b84b6a36abf23b4dd24096da6d0686973f5f45ba61233e300d6d81af7d2d2ef0"
+    },
+    {
+      "author": "Redirect fixer",
+      "comment": "[[The SolSeed Intentional Society/ByLaws]] has been moved, it is now a redirect to [[ByLaws]]",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 41870,
+      "original_parent_revision_id": 811,
+      "previous_public_revision_id": 811,
+      "revision_id": 824,
+      "same_as_previous_public": false,
+      "timestamp": "2009-05-16T19:21:00Z",
+      "wikitext_bytes": 20,
+      "wikitext_sha256": "4008d4e4e15f8c62e5452aa5c900f0853bfc47f570840a55630b15781d9e50a6"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 824,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 51,
+      "markdown_sha256": "28a31c1aadcf7822f7360ed7e867b5b05a0f1d2771b22211fe8ae1218fc0be87",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": 824,
+      "previous_public_revision_id": 824,
+      "revision_id": 41870,
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z"
+    }
+  ],
+  "site_revision_count": 1
+}

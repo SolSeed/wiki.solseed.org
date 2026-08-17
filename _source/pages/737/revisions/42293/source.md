@@ -1,0 +1,137 @@
+#### Finish Line
+We're done with our legal organization plans once we have 100% yes from at least 3 [Contributing Member](/Contributing_Member)s and 90% yes from at least 10 [Members by Declaration](/JoiningTheMovement).  [FriendsOfSolSeed](/FriendsOfSolSeed) are of course welcome to contribute as well!
+
+#### Participants
+- [Brandon CS Sanders](/Brandon_CS_Sanders), **NotYet** ... ([Contributing Member](/Contributing_Member),[Member by Declaration](/Member_by_Declaration))
+- [Ben Sibelman](/Ben_Sibelman), **NotYet** ... ([Contributing Member](/Contributing_Member),[Member by Declaration](/Member_by_Declaration))
+- [Shelley Schoepflin Sanders](/Shelley_Schoepflin_Sanders), **NotYet** ... ([Contributing Member](/Contributing_Member),[Member by Declaration](/Member_by_Declaration))
+- [Ted Ernst](/Ted_Ernst), **NotYet** ... ([Member by Declaration](/Member_by_Declaration))
+- [Eric Saumur](/User:EricSaumur), **NotYet** ... ([Member by Declaration](/Member_by_Declaration))
+- Your Name, **NotYet**
+
+#### Requirements
+My training as a Business Analyst may be of some help here.  In determining the best Legal Organization Solution it is best to start by defining business requirements that might be fulfilled by some kind of Legal Organization.  The job of a Business Analyst is to structure requirements expressed by their clients and then show that structured version back to the client for validation.  So the following are the requirements that I have been able to read-between-the-lines in the rest of this document.  Please feel free to critique them until they truly present some kind of concensus view of what is needed by the group.
+- Openess - need to be able to attract members of all sorts providing they share our purpose to fulfill [TheDestiny](/TheDestiny).
+- Inspiring Intensity of Committment - need to be able to get intense committment from our members so that resources and time can be focussed on achieving the purpose.  Think though about whether this is really needed.  Something like the planetary society can raise significant funds toward achieving its goals and gets significant person-hours devoted to its purposes by having a large but less intense membership.
+- Transmition of Purpose through many Generations
+- Filling a human need for ritual
+- Filling a human need for community
+- Filling a human need to commit to something larger than oneself
+- An organization which makes its members feel they are protected and nutured by the group
+- An organization which makes its members feel they are identifibly part of the group; creates a feeling of acceptance
+- An organization which can preserve a body of literture centered around [TheDestiny](/TheDestiny)
+- An organization which can have established meeting places around which members can congregate
+- An organization which members can join
+- An organization which meets regularly in order to stay present in members lives
+- An organization in which anyone can participate so that we can attract members who may not have anything they can directly contribute toward fulfilling [TheDestiny](/TheDestiny) but who can contribute by spreading the 'word'
+- An organization that has specific mechanisms for teaching the next generation its beliefs
+- An organization that can publicly recognize those among its members who have the deepest understanding of [TheDestiny](/TheDestiny)
+- An organization which has the ability to train members to reach that deep understanding.
+- An organization that is not likely to get stuck on dogma but will keep questioning its purpose in the face of scientific evidence
+- An organization which does not use any form of coersion to force its members to stay
+- An organization with a creed of naturalism; acceptance of the Epic of Evolution as revealed by science and therefore acceptance of revisions of the Epic of Evolution as revealed by science.
+- An organization which is capable of inspiring viceral reactions to the Epic of Evolution and [TheDestiny](/TheDestiny) not just rational explanations of them.
+
+#### Our Legal Organization(s)
+- Educational Nonprofit
+- Church ... could just be part of the World Pantheism Movement?
+- [Seed Village](/Seed_Village) Nonprofit/Land Trust/Condo Association
+- Nonprofit which calls itself a tribe
+
+#### Nonprofit
+The main reason to be a nonprofit is to attract participants who are weirded out by religion and churches.  This includes freethinkers, secularists, atheists, and "recovering" religionists of various stripes.
+
+#### Church
+If we did choose to be a church instead of a nonprofit the explanation might be like the following [video](http://www.youtube.com/watch?v=Z3vmFqHThXA):
+[Archived YouTube video](https://www.youtube.com/watch?v=Z3vmFqHThXA)
+- I don't think this video presents the argument for a church very well for three reasons:
+  - The computer voices are kind of creepy.  If you are worried about people being creeped out by a religion, this video will definitely do the job.
+  - The female character's dialog is really forced.  Reminds me of copy for 1950's advertising.
+  - Most importantly, it makes it sound like the reason to choose a church as our organization is in order to sap more of our 'followers' time and money.  I don't think that is the best reason to focus on.  Instead I would focus on the fact that religion can carry a purpose forward through many generations.  Membership organizations have more trouble doing that than religions.  Our purpose cannot be attained in just one generation or even, probably, just a few generations.  It will take a religion just to keep us on course for as long as it will take to achieve the launching of life into space. --[Eric Saumur](/User:EricSaumur) 02:49, 10 March 2012 (UTC)
+
+- http://www.irs.gov/charities/churches/index.html
+
+Certain characteristics are generally attributed to churches. These attributes of a church have been developed by the IRS and by court decisions . They include: distinct legal existence; recognized creed and form of worship; definite and distinct ecclesiastical government; formal code of doctrine and discipline; distinct religious history; membership not associated with any other church or denomination; organization of ordained ministers; ordained ministers selected after completing prescribed courses of study; literature of its own; established places of worship; regular congregations; regular religious services; Sunday schools for the religious instruction of the young; schools for the preparation of its ministers. The IRS generally uses a combination of these characteristics, together with other facts and circumstances, to determine whether an organization is considered a church for federal tax purposes.
+
+The IRS makes no attempt to evaluate the content of whatever doctrine a particular organization claims is religious, provided the particular beliefs of the organization are truly and sincerely held by those professing them and the practices and rites associated with the organization’s belief or creed are not illegal or contrary to clearly defined public policy.
+
+Here's a rough breakdown of what we do so far:
+
+##### Current
+- recognized creed and form of worship
+- formal code of doctrine and discipline
+- distinct religious history (even though we weren't religious at the time...)
+- membership not associated with any other church or denomination (unless this means "our members shall have no other church memberships" -- that is what it sounds like to me, members should not be members of any other churches, though I am not a lawyer)
+- literature of its own
+- established places of worship
+- regular congregations
+- regular religious services
+
+##### Future Yes/Maybe
+- distinct legal existence; 
+- definite and distinct ecclesiastical government
+- Sunday schools for the religious instruction of the young
+
+##### Future No/Maybe
+- organization of ordained ministers
+- ordained ministers selected after completing prescribed courses of study
+- schools for the preparation of its ministers
+
+#### Discussion
+##### What option (including ones not here) is your favorite and why?
+- Church owns everything
+- Independent non-profit and Church
+  - I see a lot of advantages to this. Both a non-profit and a church. We are both. --[Shelley Schoepflin Sanders](/User:Shelley_Schoepflin_Sanders) 06:08, 13 December 2010 (UTC)
+- Just a non-profit ... no Church (we are not a religion)
+- We're a tribe
+  - I like the tribe idea.  It really is something between religion and non-profit.  A third option.
+    - Tribes have their 'ways'.  To be a member of a tribe you need to understand and follow its ways.
+    - But the word tribe doesn't have the theistic undertones that religion has.
+    - Traditionally tribes filled the same slot in terms of commitment that religions did.
+    - When I created Biospheric Communionism, I called it a religion for the same reasons that are given here for calling SolSeed a religion.
+      - But I didn't have the option of calling it a tribe because a tribe has members and I was alone.
+      - The concept, religion, is abstract enough that you can imagine a religion having existence without members.
+      - The concept, tribe, is connotatively more focused on people.  It is hard to imagine a tribe without members.
+      - But you seem to have enough people to call yourself a tribe and tribe also has roots in Octavia Butler.
+- Makes me think about Catholic Charities or other organizations like that where the non-profit is affiliated with the church in some way, but they are distinct.  What is the (spiritual/religious) purpose of the SolSeed church?  What is the (charitable) purpose of the SolSeed non-profit?
+- Perhaps it isn't important to be recognized as a Church by the IRS.  We can recognize ourselves as a church without officially being a Church.
+  - Then we can be a Non-profit Corporation and a religion at the same time.
+  - The advantage is that we can grow into being a religion naturally rather than forcing it.
+  - When the membership decides as a group that it is time to seek official recognition as a religion we can make that jump.
+  - In the meantime we present ourselves as a new and very different religion, incorporated as a non-profit, in order to embody the purpose of fulfilling [TheDestiny](/TheDestiny) over the many generations that it will take to achieve it.
+
+##### Check in at the start of 2015
+We've been experimenting with being a religion rather than a non-profit for more than a year and I'm curious how folks feel about this decision now?
+- SolSeed is our family's religion, so it makes sense to me. - [Brandon](/User:Brandon_CS_Sanders) 14:12, 22 January 2015 (UTC)
+
+#### Discussion at [Seed 2011](/Seed_2011)
+- Brandon wants to know [Gus](/Gus)'s visceral reaction to the question
+  - As a free thinker, Gus is "not really hot about" the general concept of churches, and would have problems joining any religion
+    - "Thought Exchange" on Sunday evenings, organized by Liberal University of Oregon, was effectively a secular Sunday school
+      - People familiar with a church setting will not be as comfortable in an intellectual discussion
+    - Brandon: The church thing would be about visceral, not cerebral, experiences
+    - Gus: My spiritual belief systems aren't organized and I don't see any point in organizing them
+    - Shelley: Did you have any problem with our opening ceremony?
+      - Gus: No, it's similar to what the Grange does: "Give thanks to Mother Gaia, give thanks to Father Sun, give thanks to the plants in the garden where the Mother and Father become one"
+      - Shelley: Is there a disconnect between telling people you're a nonprofit and having spiritual ceremonies?
+    - Ben: SolSeed is more about meaning-making than commitment to specific projects--what kind of institution besides religion does that?
+      - Gus: The Masons? Fellowship of Reconciliation (started out religious, became secular)?
+      - Brandon: Family is the closest equivalent--depth of participation rather than breadth
+        - Gus: The next ring out from family for me is my community
+        - Brandon: But that's unusual
+    - Gus: If the religion is defined as naturalistic/Pagan, I'm fine with it
+      - Brandon: Except most Pagans are into magical thinking
+      - Gus: Yeah, that's why I say I'm "astro-pagan" instead
+      - Brandon: But that term is used by many people who are just into astrology
+
+- Brandon has been thinking about a media piece that's meant to be visceral and talk about the privileged place that family and religion hold in people's lives
+  - Where "religion" means people getting together to discuss the meaning of life and act in accordance with their values
+    - Requires ceremony and story that connects at a visceral level--goes together with the cerebral discussion part
+  - Start with the history of family and how its definition has changed in the United States
+    - The broadened definition, including same-sex marriage (etc?) "brings more life"
+  - Then look at how religion, as traditionally defined, has been unavailable to the cerebral scientific-worldview types
+    - But can its definition be changed as well?
+      - Gus: Go to the Northwest Free Thought Alliance meeting in Portland in March and ask them that question
+  - Ben: Make this part of the [longer video](/longer_video)?
+
+__NOTOC__

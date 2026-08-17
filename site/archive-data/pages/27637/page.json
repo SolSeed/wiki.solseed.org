@@ -1,0 +1,63 @@
+{
+  "canonical_path": "/April_30,_2017:_Business_Call",
+  "current_revision_id": "43235",
+  "database_title": "April_30,_2017:_Business_Call",
+  "display_title": "April 30, 2017: Business Call",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 2,
+  "page_id": "27637",
+  "published_revision_count": 2,
+  "revisions": [
+    {
+      "author": "BenSibelman",
+      "comment": "Created page from the Google doc",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": "41067",
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": "41016",
+      "same_as_previous_public": false,
+      "timestamp": "2017-04-30T16:36:22Z",
+      "wikitext_bytes": 6701,
+      "wikitext_sha256": "6ff637db2acd925218ba82cdfbb21ebbcde2d831444ab76f91d4da0a37d81d11",
+      "source_format": "wikitext",
+      "source_extension": "wiki"
+    },
+    {
+      "author": "EricSaumur",
+      "comment": "/* Time-specific */",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": "43235",
+      "original_parent_revision_id": "41016",
+      "previous_public_revision_id": "41016",
+      "revision_id": "41067",
+      "same_as_previous_public": false,
+      "timestamp": "2017-06-09T02:24:45Z",
+      "wikitext_bytes": 6705,
+      "wikitext_sha256": "2090f1e846e8c34cd10158527ec702a4a2eb2b28c638ced28b9c3d24172bc5b8",
+      "source_format": "wikitext",
+      "source_extension": "wiki"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 41067,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 6715,
+      "markdown_sha256": "83b1c7a922c29443d946d9f7802e7afc72344cf4feda02092cd394cfe9e78a87",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": "41067",
+      "previous_public_revision_id": "41067",
+      "revision_id": "43235",
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z",
+      "wikitext_bytes": 6715,
+      "wikitext_sha256": "83b1c7a922c29443d946d9f7802e7afc72344cf4feda02092cd394cfe9e78a87",
+      "source_extension": "md"
+    }
+  ],
+  "site_revision_count": 1
+}

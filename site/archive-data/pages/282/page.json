@@ -1,0 +1,63 @@
+{
+  "canonical_path": "/April_12,_2009:_Trash_Pickup",
+  "current_revision_id": "41847",
+  "database_title": "April_12,_2009:_Trash_Pickup",
+  "display_title": "April 12, 2009: Trash Pickup",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 2,
+  "page_id": "282",
+  "published_revision_count": 2,
+  "revisions": [
+    {
+      "author": "Shelley Schoepflin Sanders",
+      "comment": "Trash pickup",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": "751",
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": "746",
+      "same_as_previous_public": false,
+      "timestamp": "2009-04-15T03:31:35Z",
+      "wikitext_bytes": 587,
+      "wikitext_sha256": "c70d3da3f1533054da48d353e298ef1fe490c8728c6bbe8099c1b83191887d6c",
+      "source_format": "wikitext",
+      "source_extension": "wiki"
+    },
+    {
+      "author": "Shelley Schoepflin Sanders",
+      "comment": "",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": "41847",
+      "original_parent_revision_id": "746",
+      "previous_public_revision_id": "746",
+      "revision_id": "751",
+      "same_as_previous_public": false,
+      "timestamp": "2009-04-15T04:08:43Z",
+      "wikitext_bytes": 666,
+      "wikitext_sha256": "38258a7bea7f94152c98e19350778b155e956ff7d1a1fb85073367550823af01",
+      "source_format": "wikitext",
+      "source_extension": "wiki"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 751,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 621,
+      "markdown_sha256": "3d77442590ee6369882159b7d42e304d9faff1ac64afa8b8f73fef84e8c02b2a",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": "751",
+      "previous_public_revision_id": "751",
+      "revision_id": "41847",
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z",
+      "wikitext_bytes": 621,
+      "wikitext_sha256": "3d77442590ee6369882159b7d42e304d9faff1ac64afa8b8f73fef84e8c02b2a",
+      "source_extension": "md"
+    }
+  ],
+  "site_revision_count": 1
+}

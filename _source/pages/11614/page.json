@@ -1,0 +1,69 @@
+{
+  "canonical_path": "/Fun_with_dualism",
+  "current_revision_id": 42600,
+  "database_title": "Fun_with_dualism",
+  "display_title": "Fun with dualism",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 3,
+  "page_id": 11614,
+  "published_revision_count": 3,
+  "revisions": [
+    {
+      "author": "BenSibelman",
+      "comment": "Created page from my notes",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 15025,
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": 15023,
+      "same_as_previous_public": false,
+      "timestamp": "2012-06-25T20:45:00Z",
+      "wikitext_bytes": 769,
+      "wikitext_sha256": "d04f38bf275bddd4bce2089079af48ce69655cbb738e352e598241ef37ebd59e"
+    },
+    {
+      "author": "BenSibelman",
+      "comment": "Added links",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 16903,
+      "original_parent_revision_id": 15023,
+      "previous_public_revision_id": 15023,
+      "revision_id": 15025,
+      "same_as_previous_public": false,
+      "timestamp": "2012-06-25T20:50:34Z",
+      "wikitext_bytes": 793,
+      "wikitext_sha256": "5c500f3a19a900c77c8331f630132671ae34100a00db5e2e86a89be881c94838"
+    },
+    {
+      "author": "BenSibelman",
+      "comment": "Added a detail",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 42600,
+      "original_parent_revision_id": 15025,
+      "previous_public_revision_id": 15025,
+      "revision_id": 16903,
+      "same_as_previous_public": false,
+      "timestamp": "2012-07-15T19:08:08Z",
+      "wikitext_bytes": 894,
+      "wikitext_sha256": "47b5bfa98e5744e298da73887407d4879969ddaca002c55803cf408e8e17de8d"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 16903,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 950,
+      "markdown_sha256": "3d71d000293536c3d1f5d47ba1d1f1257ad0d2aebd23dec56e940c14b62ace22",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": 16903,
+      "previous_public_revision_id": 16903,
+      "revision_id": 42600,
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z"
+    }
+  ],
+  "site_revision_count": 1
+}

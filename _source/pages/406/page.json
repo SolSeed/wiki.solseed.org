@@ -1,0 +1,43 @@
+{
+  "canonical_path": "/Book_9",
+  "current_revision_id": 41970,
+  "database_title": "Book_9",
+  "display_title": "Book 9",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 1,
+  "page_id": 406,
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "Brandon CS Sanders",
+      "comment": "New page: Given away as part of the [[SolSeed Book Program]].  Did you get Book 9?  We'd love to see all of the places Book 9 has been and meet all the people who have read it.  If you've encountere...",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 41970,
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": 1167,
+      "same_as_previous_public": false,
+      "timestamp": "2009-11-28T23:33:49Z",
+      "wikitext_bytes": 431,
+      "wikitext_sha256": "a86870c2b21d7d9fbfa00ce2fe8b47d1179e258fdf11ea3e8e44a30b43c0c3bc"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 1167,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 491,
+      "markdown_sha256": "c98969c06a4be26ef0238e25802b92c06947910a109000b4aedbc6eee76ad07e",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": 1167,
+      "previous_public_revision_id": 1167,
+      "revision_id": 41970,
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z"
+    }
+  ],
+  "site_revision_count": 1
+}

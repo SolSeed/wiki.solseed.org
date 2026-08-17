@@ -1,0 +1,45 @@
+This was a session at [Seed 2011](/Seed_2011).
+
+### Participants
+- [Gus](/Gus) (convener)
+- [Ben](/Ben) (note-taker)
+- [Lyric](/Lyric)
+- [Brandon](/Brandon)
+- [Jesus](/Jesus)
+- [Molly](/Molly)
+- [Mathew](/Mathew)
+
+### Notes
+- Neil deGrasse Tyson article in Parade, "Why America's future depends on space"
+  - Survey on Parade.com asked if we should spend more or less money on space, most respondents said more
+- History of Earth
+  - Methanogens are still here and essential, though the oxygen-producing algae nearly wiped them out 2 billion years ago
+  - Microbes make up most of the biomass even today
+- Mars's day and axial tilt are nearly identical to Earth's
+  - Though Mars's axis wobbles much more due to lack of a massive moon
+- Lovelock and Margulis
+  - "Scientific tribalism": biologists don't study the physical or chemical environment, while geochemists/geophysicists ignore life
+  - Cyberneticists look at the big picture
+  - "Daisyworld" thought experiment shows how life can affect climate
+- What is the human role in Gaia?
+  - Kurt Vonnegut: "We are a parasite on the planet. A virus..."
+  - But at least we're now aware of our detrimental role
+  - Gus sees cities as just as natural as coral, beehives, and birds' nests (inorganic structures built by living creatures)
+    - Mathew: All great apes build nests
+  - Fred Hoyle predicted images of Earth from space would have profound impact, which they have
+    - Earthrise photo was taken on Christmas Eve of 1968, a very turbulent year politically
+    - Any environmentalists opposed to the space program need to remember the impact of these photos in establishing the modern environmental movement!
+  - Peter Russell (and Howard Bloom), "The Global Brain" (central nervous system of Gaia)
+    - "Senses of Gaia" noe include Earth-focused satellites
+  - Extinction events
+    - Tunguska meteor detonation in 1908 was equal in force to 250 Hiroshima bombs
+      - If it had fallen on Oslo, Norway instead, we could have focused on that threat and avoided the World Wars
+    - Humans could be the antibodies of Gaia if we figure out how to deflect killer asteroids
+  - Are we an adolescent planet?
+    - If we can get through our adolescence without blowing ourselves up, we could become "the gonads of Gaia"
+- Back to the "Is it worth the cost?" question
+  - One week of the Iraq war cost as much as 5 Phoenix Mars landers
+  - "Social tribalism": ties between military industrial complex and space make social progressives reject space program
+  - Space warfare could make orbital junk an unsolvable problem, trapping us on Earth?
+    - Ben: probably not, since we don't have to send humans into a super-dangerous orbital environment to solve the problem
+    - Mathew: but of course we still don't want satellites getting blown up and making potential space travelers' lives miserable

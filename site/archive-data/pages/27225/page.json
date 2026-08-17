@@ -1,0 +1,48 @@
+{
+  "canonical_path": "/Sol2014",
+  "current_revision_id": "42826",
+  "database_title": "Sol2014",
+  "display_title": "Sol2014",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 1,
+  "page_id": "27225",
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "Brandon CS Sanders",
+      "comment": "Redirected page to [[Sol 2014]]",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": "42826",
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": "39693",
+      "same_as_previous_public": false,
+      "timestamp": "2014-05-05T17:05:15Z",
+      "wikitext_bytes": 22,
+      "wikitext_sha256": "dc580884d97196d4104256f1f206c705d9d4c15c13fe68a7bb8bc98ef087b9a5",
+      "source_format": "wikitext",
+      "source_extension": "wiki"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 39693,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 55,
+      "markdown_sha256": "cc219a75b1ea54e2c2b258beb8e3d1618d59bd60872c740085ae2b6f584de64e",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": "39693",
+      "previous_public_revision_id": "39693",
+      "revision_id": "42826",
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z",
+      "wikitext_bytes": 55,
+      "wikitext_sha256": "cc219a75b1ea54e2c2b258beb8e3d1618d59bd60872c740085ae2b6f584de64e",
+      "source_extension": "md"
+    }
+  ],
+  "site_revision_count": 1
+}

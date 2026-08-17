@@ -1,0 +1,43 @@
+{
+  "canonical_path": "/File:Japanese_maple_with_Christmas_lights.JPG",
+  "current_revision_id": 42364,
+  "database_title": "Japanese_maple_with_Christmas_lights.JPG",
+  "display_title": "File:Japanese maple with Christmas lights.JPG",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 6,
+  "original_revision_count": 1,
+  "page_id": 809,
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "BenSibelman",
+      "comment": "The [[Seed Village]] Japanese maple lit up for [[Solstice 2010]].",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 42364,
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": 2122,
+      "same_as_previous_public": false,
+      "timestamp": "2011-01-01T05:38:13Z",
+      "wikitext_bytes": 65,
+      "wikitext_sha256": "ef29e14015e4a3b91a7717bebbb0ac7da6d7689284322bdcc58ad99565deb5ae"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 2122,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 93,
+      "markdown_sha256": "2ac0623f76ef85a14e5701ddaad1c798d50d79372b55ae620c1e10827f913585",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": 2122,
+      "previous_public_revision_id": 2122,
+      "revision_id": 42364,
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z"
+    }
+  ],
+  "site_revision_count": 1
+}

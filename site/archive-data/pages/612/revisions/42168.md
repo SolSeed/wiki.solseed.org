@@ -1,0 +1,9 @@
+We attended [NewSpace 2010](http://newspace2010.spacefrontier.org/registration.php)
+
+- July 23, 24, 25 (Friday-Sunday)
+- Starts at 8:30 am F and ends Sunday at 5:15 pm
+- Without meals, 3 day reg is $349/person through June 1
+- Staying at the conf Domain Hotel would cost about $99 per night for 2 queen beds and includes free internet
+- Plane fare is about $250 round trip
+
+The closest major airport is San Jose Muni--Midpoint (SJC). This airport is in San Jose, California and is 9 miles from the hotel (which is in Sunnyvale, CA).

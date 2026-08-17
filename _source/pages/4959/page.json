@@ -1,0 +1,43 @@
+{
+  "canonical_path": "/Forest",
+  "current_revision_id": 42509,
+  "database_title": "Forest",
+  "display_title": "Forest",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 1,
+  "page_id": 4959,
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "EricSaumur",
+      "comment": "New article on forests",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 42509,
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": 7017,
+      "same_as_previous_public": false,
+      "timestamp": "2012-03-03T14:13:58Z",
+      "wikitext_bytes": 1191,
+      "wikitext_sha256": "4c71c9297e972a7eab3491904581f1efebbb17f21653ecf656c1beb094e04965"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 7017,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 1216,
+      "markdown_sha256": "55bf70540d44fddb26519374fbc50176e2c47491583da4e80ab6283613bb66f1",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": 7017,
+      "previous_public_revision_id": 7017,
+      "revision_id": 42509,
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z"
+    }
+  ],
+  "site_revision_count": 1
+}

@@ -1,0 +1,1 @@
+Collage of photos from our first five Solstice and Equinox celebrations.

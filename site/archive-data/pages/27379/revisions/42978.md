@@ -1,0 +1,1 @@
+[ASL Sign](http://www.handspeak.com/word/index.php?dict=bo&signID=5946)

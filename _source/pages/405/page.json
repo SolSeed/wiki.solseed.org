@@ -1,0 +1,43 @@
+{
+  "canonical_path": "/Book_8",
+  "current_revision_id": 41969,
+  "database_title": "Book_8",
+  "display_title": "Book 8",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 1,
+  "page_id": 405,
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "Brandon CS Sanders",
+      "comment": "Starting the [[Book 8]] page.",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 41969,
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": 1166,
+      "same_as_previous_public": false,
+      "timestamp": "2009-11-28T23:33:31Z",
+      "wikitext_bytes": 431,
+      "wikitext_sha256": "9afec80d112a39474ed0e14aac273bd019fb04d96fb89d4bf60472aa4f3d78fa"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 1166,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 491,
+      "markdown_sha256": "f029d5db95ad3ddd678dfebfc5f85e6554c67de9f68a262c087299179b87aeda",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": 1166,
+      "previous_public_revision_id": 1166,
+      "revision_id": 41969,
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z"
+    }
+  ],
+  "site_revision_count": 1
+}

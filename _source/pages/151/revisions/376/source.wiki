@@ -1,0 +1,8 @@
+* navigation
+** mainpage|mainpage-description
+** [[JoinUs!]]
+** recentchanges-url|recentchanges
+** helppage|help
+* SEARCH
+* TOOLBOX
+* LANGUAGES

@@ -1,0 +1,15 @@
+Book club is one of our [Group Experiences](/Group_Experiences).
+
+We're reading [Evening is the Whole Day](/Evening_is_the_Whole_Day) by Preeta Samarasan, Chs 1-7, pages 1 to 135.
+
+### Questions for Discussion
+- Plot summary so far . . . and what happened to Paati?
+- With which characters do you sympathize? 
+- Are there any characters that you can't stand, even though you know why they are the way they are? 
+Are there any people in your own life who fit this category? 
+How does this speak to our ethics as members of SolSeed -- do we have to "like" people who have an "excuse" for how they are? Do we have to try to understand them? What is our ethical obligation?
+- Any favorite "lines" from the book?
+- What do you make of Aasha and her ghosts? Do you "believe" in ghosts? In the book somehow they seem entirely mundane and "of course they exist". How does the author accomplish this?
+- Comments on the political background of the novel?
+- Appa, page 66: "Bloody Chinaman can't understand a word anyway" then defending Vasanthi against Paati's classism: "Actually, it's my house . . . and you will treat her with the same respect you owe any human being." 
+Don't we all have similar "blind spots?" Can you sometimes catch glimpses of your own blind spots?

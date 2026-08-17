@@ -1,0 +1,43 @@
+{
+  "canonical_path": "/File:Ribbons_at_2012_Spring_Festival_1.JPG",
+  "current_revision_id": 42524,
+  "database_title": "Ribbons_at_2012_Spring_Festival_1.JPG",
+  "display_title": "File:Ribbons at 2012 Spring Festival 1.JPG",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 6,
+  "original_revision_count": 1,
+  "page_id": 6104,
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "BenSibelman",
+      "comment": "Making ribbon streamers at [[Spring Equinox 2012]].",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 42524,
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": 8763,
+      "same_as_previous_public": false,
+      "timestamp": "2012-03-25T05:26:05Z",
+      "wikitext_bytes": 51,
+      "wikitext_sha256": "27ee5e4cb1daea223591a5328fb13a869149a5ca58bb041f288fccba390a1dd5"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 8763,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 72,
+      "markdown_sha256": "06210f543acf8ed547d1bb09bcd7a6645b35391e2273c135451d08e0bdc49721",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": 8763,
+      "previous_public_revision_id": 8763,
+      "revision_id": 42524,
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z"
+    }
+  ],
+  "site_revision_count": 1
+}

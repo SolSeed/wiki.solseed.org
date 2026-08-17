@@ -1,0 +1,48 @@
+{
+  "canonical_path": "/Bonnie",
+  "current_revision_id": "41815",
+  "database_title": "Bonnie",
+  "display_title": "Bonnie",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 1,
+  "page_id": "249",
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "Shelley Schoepflin Sanders",
+      "comment": "Redirecting to [[User:Bfsanders]]",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": "41815",
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": "670",
+      "same_as_previous_public": false,
+      "timestamp": "2009-03-18T15:26:42Z",
+      "wikitext_bytes": 28,
+      "wikitext_sha256": "5ef382c1fbd9e1e50e0eb56389ddaf11ad80c7ab3290d67582877e9bffcaffc6",
+      "source_format": "wikitext",
+      "source_extension": "wiki"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 670,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 67,
+      "markdown_sha256": "86c4782c268745fec2f654593933f3e90c2931f4328ad4773b91192848b0c23b",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": "670",
+      "previous_public_revision_id": "670",
+      "revision_id": "41815",
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z",
+      "wikitext_bytes": 67,
+      "wikitext_sha256": "86c4782c268745fec2f654593933f3e90c2931f4328ad4773b91192848b0c23b",
+      "source_extension": "md"
+    }
+  ],
+  "site_revision_count": 1
+}

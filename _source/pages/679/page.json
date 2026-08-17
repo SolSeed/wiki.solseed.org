@@ -1,0 +1,43 @@
+{
+  "canonical_path": "/File:Space_hippie_draft.png",
+  "current_revision_id": 42235,
+  "database_title": "Space_hippie_draft.png",
+  "display_title": "File:Space hippie draft.png",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 6,
+  "original_revision_count": 1,
+  "page_id": 679,
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "BenSibelman",
+      "comment": "Rough draft of a character for comics that will appear on the [[Space Hippies]] page.",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 42235,
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": 1734,
+      "same_as_previous_public": false,
+      "timestamp": "2010-07-19T04:34:34Z",
+      "wikitext_bytes": 85,
+      "wikitext_sha256": "9a395f5951286e25f94ebb7292adc0eefa9e25a83c0ea4f7ad873a13ae20064c"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 1734,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 100,
+      "markdown_sha256": "23dfd46049eea1d1739144864992d4df1d15224e3ddfae40cd11e76d6e532967",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": 1734,
+      "previous_public_revision_id": 1734,
+      "revision_id": 42235,
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z"
+    }
+  ],
+  "site_revision_count": 1
+}

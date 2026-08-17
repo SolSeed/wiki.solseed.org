@@ -1,0 +1,123 @@
+== Sunday Agenda ==
+* Check in
+* Opening Blessing
+* Review WWWs
+* Weekly event logistics
+* Review Agenda
+* Flight in a Cage update
+* Practices maintenance
+* Work bee: Flight in a Cage blog post
+* Responses to sickness and election
+* Evaluations
+* Closing Blessing
+
+
+== NEXT BUSINESS MEETING ==
+* Finances
+* Strategy/Tactics Talk … something like the one page plan
+
+
+== Check-in ==
+* Brandon … I'm having a sip of coffee and focusing on that little bit of joy
+* Ben … I found it very difficult to lever myself out of bed and think I’m probably getting sick and am not sure I should be trying to do this.
+* Eric … I just shaved, so my face might be bleeding
+
+
+== Opening Blessing ==
+The experience of life is delightful, sometimes. The experience of life is wondrous, sometimes. For those other times, something more than just appreciation is needed. We come here today to find comfort and strength in our shared community. May we be here for each other. --Blessed Be
+
+
+== WW(W)s from last time ==
+* Brandon … get a new server started for the wikis … by next business call
+* <s>Brandon … start asyncroservice on github … by next business call</s>
+* Brandon … spend 15 minutes every day on Machine Learning … ongoing
+* Brandon … make a daily 1 minute video check-in for Ben and Eric … ongoing
+* <s>Brandon … Meditate regularly with Eric … ongoing</s>
+* <s>Ben … meditate regularly with Eric ... ongoing</s>
+* Ben … spend at least 15 minutes a day on ''[[Flight in a Cage]]'' … ongoing
+* Ben … Send Brandon/Eric a video message each day about what I did … ongoing
+* <s>Eric … Send Brandon/Ben a video message each day about what I did … ongoing
+* Eric … Work on Buckleberry or Auberge Paradis at least 15 minutes a day… ongoing
+* Eric … Meditate regularly with Ben … ongoing
+* Eric … Meditate regularly with Brandon … ongoing</s>
+
+
+== WWW(s) ===
+* Brandon … get a new server started for the wikis … by next business call
+* Brandon … spend 15 minutes every day on Machine Learning … ongoing
+* Brandon … make a daily 1 minute video check-in for Ben and Eric … ongoing
+* Brandon … Meditate regularly with Eric … ongoing
+* Ben … meditate regularly with Eric ... ongoing
+* Ben … spend at least 15 minutes a day on ''[[Flight in a Cage]]'' … ongoing
+* Ben … Send Brandon/Eric a video message each day about what I did … ongoing
+* Eric … Send Brandon/Ben a video message each day about what I did … ongoing
+* Eric … Work on Buckleberry at least 15 minutes a day… ongoing
+* Eric … Meditate regularly with Ben … ongoing
+* Eric … Meditate regularly with Brandon … ongoing
+
+
+== Weekly Events Logistics ==
+
+:Service rotation: Eric, Ben, Shelley, Brandon
+* Nov 19 Service: 8:00 AM PDT / 11:00 EDT … Shelley
+* Nov 20 Business Call: 8:00 AM PDT / 11:00 EDT 
+
+
+== Flight in a Cage Update ==
+I described in a video message how PTeros is now under attack.  I’m trying to figure out how to use my experiences from the election to understand how Erin feels about trying to give and receive comfort in a seemingly hopeless situation.
+
+Yesterday I didn’t work on the novel, I decided instead to start a new short story set in the same universe but very near future, describing the origin of the green goo catastrophe.  And the originator is now going to be a guy who was trying to undo damage from the election that just happened.
+
+
+== Practices Maintenance ==
+* Ben: We should pick practices to work on … I'm especially interested in the new practice we're trying to start of blogging about each other's projects
+** Brandon: We could use a chunk of the business calls for that?
+* Brandon: I feel like I'm on the upswing on the practices, and looking forward to getting better … I like all of our practices, the services and celebrations, business calls, meditations, recorded messages, and blogging
+* Eric: I published this blog last night on Gaia's People Ottawa, which is a place I can publish things without polishing them a lot for readers: https://gaiaspeopleottawa.wordpress.com/2016/11/13/germ-theory-an-irish-sweater-and-trump/
+** Ben: Related to our blogging practice?
+
+
+== Flight in a Cage blog post ==
+
+Brandon's title suggestion: Into a new Cage … adversity and the upward spiral in “Flight in a Cage”
+
+
+My friend Ben is writing a novel.  He is seven chapters in (although considering shortening it) and it pains me that I can't share them with anyone.  It is also painful to have to wait for an author to write each chapter as I want so much to follow the adventure.  The novel is about the adventure I yearn for.  The adventure of setting out with Life toward other suns.  The novel is about the adventure with the motivation that I find so inspiring.  Not a desperate search for a place to survive but for the beauty of the fruit of such a journey; the spreading of Life to a trillion barren worlds.  
+
+Yet the story is more complicated than that.  There are characters with all different motivations.  Those who seek survival in the face of persecution.  Those who care more about human history and myth than the Great Story of Life in the Universe.  Those who fear difference and diversity.  Those who worship technology.  Those who desire money and power.  Those who desire only safety and freedom from fear.  Through all of these differently motivated and conflicting characters and their interactions, the story pushes forth Life toward the stars.  I love the way that the story uses common enemies as a catalyst for alliance, repurposing adversity toward the emergence of allies.  Without enemies there is no motivation for alliance and no possibility for the greater accomplishment that alliance brings.
+
+It reminds me of trees, able to grow taller because of buttress roots that grow in reaction to the adversity of wind.  It reminds me of fire which destroys diversity and then opens small patches of forests to new growth, increasing overall diversity.  It reminds me of predators which push prey into developing defences, maybe armour, which also becomes structure and allow for bigger, more powerful animals.  It reminds me of creatures falling from trees to their deaths, pushing the adaptation of gliding membranes, and then wings emerging and resulting in true flight.  The cycle is adversity, adaptation, repurposing of adaptation to new abilities, creating new adversities for other species.  This cycle repeats and drives Life continuously out of one cage and into another. But each cage is different and each new cage provides the opportunity to escape into yet more cages in an upward spiral of ever growing possibilities.
+
+
+*Flying squirrel pics:
+**https://goo.gl/images/91ciL0
+**https://goo.gl/images/zaklb7
+
+
+== Responses to the Election ==
+
+How’s your courage now compared to the start of the call?
+* Eric … I feel better … 90 minutes ago I felt like I was just going to mope around today, but the fact that the call was coming made me feel like spending some effort marking 2x4s, and now that I have this blog post ready to publish, I feel pumped!
+* Ben … I’m feeling slightly less likely to just go back to bed
+* Brandon … I feel defiantly optimistic
+
+* Ben: As far as more concrete responses to the election, Lion was wondering whether SolSeed feels it can thrive at all, partially embedded in Trump’s America, or whether we are planning to flee the country. 
+** Shelley kind of mentioned the idea of moving to Canada.
+** Ben: I feel that the people who really need to flee the country are the people who are in real danger if they stay, so I kind of don’t want to take up slots.
+** Eric: Our immigration website went down because it couldn't handle 100,000 hits at the same time
+
+* Eric: So many people get their news from social media that Trump supporters just didn't have the same data about the world that we did
+** Vlog Brothers video: https://www.youtube.com/watch?v=eVD7yWe-LrE 
+* Brandon:I feel like I have been hearing both the Trump stories (the anti-establishment revolutionary and the hate-monger, reality-show poser) so I think there are going to be some things that I really dislike about this presidency but I wonder what it will be like as Trump wakes up to the reality of being president and not just playing the game of running for president … he might never have believed he could win
+* Eric … He might not yet have the chance to process it, when you’re throwing yourself into a reality-show game
+* Ben … I think Trump never had any self doubt whatsoever, at least not consciously, because he has such a high opinion of himself, and in terms of persuasive ability, that is probably somewhat justified.
+
+
+== Evaluation ==
+* Brandon … I needed it, thanks!
+* Ben … Thank you for writing a blog post about my novel!
+* Eric … This call is like a breath of fresh air.
+
+
+== Closing Blessing ==
+Blessed be, blessed be … those are words of wisdom blessed be. --Blessed Be

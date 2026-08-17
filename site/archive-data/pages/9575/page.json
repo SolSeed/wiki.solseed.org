@@ -1,0 +1,48 @@
+{
+  "canonical_path": "/File:Bracelet.png",
+  "current_revision_id": "42576",
+  "database_title": "Bracelet.png",
+  "display_title": "File:Bracelet.png",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 6,
+  "original_revision_count": 1,
+  "page_id": "9575",
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "Brandon CS Sanders",
+      "comment": "Concepts for the SolSeed bracelet ... includes the new version of the SolSeed emblem.",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": "42576",
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": "12801",
+      "same_as_previous_public": false,
+      "timestamp": "2012-05-24T04:07:57Z",
+      "wikitext_bytes": 85,
+      "wikitext_sha256": "0bf622b0c438e6585cdd1c67758642bd40e15eda7a31e7caea21dc3e3f64ef6f",
+      "source_format": "wikitext",
+      "source_extension": "wiki"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 12801,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 86,
+      "markdown_sha256": "d43dc5f68b6d68fef81e6bd3aba5e2a952da2328661fadc3aec8dac18ebb16bd",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": "12801",
+      "previous_public_revision_id": "12801",
+      "revision_id": "42576",
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z",
+      "wikitext_bytes": 86,
+      "wikitext_sha256": "d43dc5f68b6d68fef81e6bd3aba5e2a952da2328661fadc3aec8dac18ebb16bd",
+      "source_extension": "md"
+    }
+  ],
+  "site_revision_count": 1
+}

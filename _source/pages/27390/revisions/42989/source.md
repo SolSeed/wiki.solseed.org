@@ -1,0 +1,22 @@
+This is a song by Phillip Palmer, UU Hymn 1063. We found it in John Halstead's description of his [Family Winter Solstice Ritual](http://www.patheos.com/blogs/allergicpagan/2011/12/29/winter-solstice-ritual/) and sang it at the [Longest Night Masquerade](/Longest_Night_Masquerade).
+
+### Lyrics
+Child – ren of the Earth,
+we have come to sing to each oth – er,
+Sist – er to Broth – er,
+songs of our Moth – er Earth.
+
+Children of the Earth,
+Autumn soon will breathe her last breath and
+quick will hear death bear
+witness to Winter’s Birth.
+
+Children of the Earth,
+can you feel the air getting cold as
+darkness takes hold and
+sleep covers Mother Earth?
+
+Children of the Earth,
+we have come to sit in the darkness,
+breathe in the silence,
+think of our Mother Earth.

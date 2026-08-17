@@ -1,0 +1,48 @@
+{
+  "canonical_path": "/Regula",
+  "current_revision_id": "42056",
+  "database_title": "Regula",
+  "display_title": "Regula",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 1,
+  "page_id": "494",
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "BenSibelman",
+      "comment": "Redirecting to [[Regula Frey]]",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": "42056",
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": "1327",
+      "same_as_previous_public": false,
+      "timestamp": "2010-01-03T23:28:25Z",
+      "wikitext_bytes": 26,
+      "wikitext_sha256": "9ae10c4277b7ae7599f76c41663b0eb96bcc043757cc444803f77b51706590a4",
+      "source_format": "wikitext",
+      "source_extension": "wiki"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 1327,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 41,
+      "markdown_sha256": "8c1d12313fd61fffc75d42b1b5ad23a2c5d2289b589f39299ba3396e0ef22201",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": "1327",
+      "previous_public_revision_id": "1327",
+      "revision_id": "42056",
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z",
+      "wikitext_bytes": 41,
+      "wikitext_sha256": "8c1d12313fd61fffc75d42b1b5ad23a2c5d2289b589f39299ba3396e0ef22201",
+      "source_extension": "md"
+    }
+  ],
+  "site_revision_count": 1
+}

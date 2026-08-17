@@ -1,0 +1,56 @@
+{
+  "canonical_path": "/Abstract_vs._practical",
+  "current_revision_id": 42598,
+  "database_title": "Abstract_vs._practical",
+  "display_title": "Abstract vs. practical",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 2,
+  "page_id": 11612,
+  "published_revision_count": 2,
+  "revisions": [
+    {
+      "author": "BenSibelman",
+      "comment": "Created page from my notes",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 15027,
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": 15021,
+      "same_as_previous_public": false,
+      "timestamp": "2012-06-25T20:36:07Z",
+      "wikitext_bytes": 1901,
+      "wikitext_sha256": "95a8d5c56c7933f0808d2cdc035aff9f5492ed0c548c6cd1f86eb19a8b42c1f1"
+    },
+    {
+      "author": "BenSibelman",
+      "comment": "Added red links",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 42598,
+      "original_parent_revision_id": 15021,
+      "previous_public_revision_id": 15021,
+      "revision_id": 15027,
+      "same_as_previous_public": false,
+      "timestamp": "2012-06-25T20:51:54Z",
+      "wikitext_bytes": 1909,
+      "wikitext_sha256": "9956a03efcf1c4b2d1439296b20e8e7a8340c645c15cf0602b0c21eb5ad6deee"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 15027,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 1952,
+      "markdown_sha256": "507fa5579e68fd35a0c1bd751b27ac48f04052793592eeb1ddc6a6b0259da831",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": 15027,
+      "previous_public_revision_id": 15027,
+      "revision_id": 42598,
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z"
+    }
+  ],
+  "site_revision_count": 1
+}

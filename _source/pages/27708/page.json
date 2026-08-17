@@ -1,0 +1,43 @@
+{
+  "canonical_path": "/Ares",
+  "current_revision_id": 43306,
+  "database_title": "Ares",
+  "display_title": "Ares",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 1,
+  "page_id": 27708,
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "EricSaumur",
+      "comment": "Created page with \"Ares is the [[World Mother]] of Mars.  In Greek Mythology, Ares was a male god of war but in SolSeed mythology this doesn't make sense.  Our understanding of Mars has evolved fro...\"",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 43306,
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": 41279,
+      "same_as_previous_public": false,
+      "timestamp": "2018-04-12T23:20:43Z",
+      "wikitext_bytes": 1009,
+      "wikitext_sha256": "b8690c2d039a8036db3516d150767b9747e0c5fdd83224fce7d3cc2daeb3e47a"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 41279,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 1023,
+      "markdown_sha256": "33cbcbae5b71fb2e6cb69b1549edfde71b1f2c7b9d88f4a568a516c553205bfc",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": 41279,
+      "previous_public_revision_id": 41279,
+      "revision_id": 43306,
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z"
+    }
+  ],
+  "site_revision_count": 1
+}

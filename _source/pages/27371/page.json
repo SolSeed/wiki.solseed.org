@@ -1,0 +1,69 @@
+{
+  "canonical_path": "/Sol_Formed_Like_a_Broken_Cup_Jumping_Together",
+  "current_revision_id": 42970,
+  "database_title": "Sol_Formed_Like_a_Broken_Cup_Jumping_Together",
+  "display_title": "Sol Formed Like a Broken Cup Jumping Together",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 3,
+  "page_id": 27371,
+  "published_revision_count": 3,
+  "revisions": [
+    {
+      "author": "EricSaumur",
+      "comment": "Created page with \"This is one page of the [[SolSeed Book of Days]]  == January 9th: Sol Formed Like a Broken Cup Jumping Together ==  === Quote of the Day ===  Sol, the sun, the fire that sparks l...\"",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 40945,
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": 40261,
+      "same_as_previous_public": false,
+      "timestamp": "2015-01-09T02:28:50Z",
+      "wikitext_bytes": 5447,
+      "wikitext_sha256": "5bbead6e0f7b4fd5b8e2ad10f6f0596d83b9bd603ffcbda69076f82408df20e0"
+    },
+    {
+      "author": "EricSaumur",
+      "comment": "moved [[January 9th: Sol Formed Like a Broken Cup Jumping Together]] to [[Sol Formed Like a Broken Cup Jumping Together]]: bod date should not be part of title",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 41335,
+      "original_parent_revision_id": 40261,
+      "previous_public_revision_id": 40261,
+      "revision_id": 40945,
+      "same_as_previous_public": true,
+      "timestamp": "2017-01-15T15:37:57Z",
+      "wikitext_bytes": 5447,
+      "wikitext_sha256": "5bbead6e0f7b4fd5b8e2ad10f6f0596d83b9bd603ffcbda69076f82408df20e0"
+    },
+    {
+      "author": "EricSaumur",
+      "comment": "/* Contemplation for the Day */",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 42970,
+      "original_parent_revision_id": 40945,
+      "previous_public_revision_id": 40945,
+      "revision_id": 41335,
+      "same_as_previous_public": false,
+      "timestamp": "2018-04-19T23:30:32Z",
+      "wikitext_bytes": 5490,
+      "wikitext_sha256": "6a28035dd5591ab4d7abc96af806b14d77a505cefe4b8ec318d156db77adb520"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 41335,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 5498,
+      "markdown_sha256": "9e589e5937b99ae9d63f6316bc8c7540a17c78219c3bc73fc2b7d53663436345",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": 41335,
+      "previous_public_revision_id": 41335,
+      "revision_id": 42970,
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z"
+    }
+  ],
+  "site_revision_count": 1
+}

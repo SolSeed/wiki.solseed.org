@@ -1,0 +1,82 @@
+{
+  "canonical_path": "/Worthy_of_The_Destiny",
+  "current_revision_id": 42142,
+  "database_title": "Worthy_of_The_Destiny",
+  "display_title": "Worthy of The Destiny",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 4,
+  "page_id": 585,
+  "published_revision_count": 4,
+  "revisions": [
+    {
+      "author": "Brandon CS Sanders",
+      "comment": "New page: Is [[Life]] worthy of [[TheDestiny]]?  Are we worthy of [[TheDestiny]]?  If we start seeding life on other worlds, wouldn't we take the same problems we have here on Earth with us?  I once...",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 1507,
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": 1506,
+      "same_as_previous_public": false,
+      "timestamp": "2010-04-17T03:43:24Z",
+      "wikitext_bytes": 1236,
+      "wikitext_sha256": "bfb949183111267531d3d82cb257c116ad844caee3850c0daeaa086c424aef07"
+    },
+    {
+      "author": "Brandon CS Sanders",
+      "comment": "",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 1649,
+      "original_parent_revision_id": 1506,
+      "previous_public_revision_id": 1506,
+      "revision_id": 1507,
+      "same_as_previous_public": false,
+      "timestamp": "2010-04-17T03:49:33Z",
+      "wikitext_bytes": 1236,
+      "wikitext_sha256": "56642eb997f736194a842f803be1c405b3aa80757d445f1619d671674cc035b5"
+    },
+    {
+      "author": "BenSibelman",
+      "comment": "Added section",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 39477,
+      "original_parent_revision_id": 1507,
+      "previous_public_revision_id": 1507,
+      "revision_id": 1649,
+      "same_as_previous_public": false,
+      "timestamp": "2010-06-05T06:07:27Z",
+      "wikitext_bytes": 2527,
+      "wikitext_sha256": "02699bb3ef84a20b8ccec6ddf09135d087a7cfe70750364b91df599813a31afa"
+    },
+    {
+      "author": "BenSibelman",
+      "comment": "/* Brandon's perspective */",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 42142,
+      "original_parent_revision_id": 1649,
+      "previous_public_revision_id": 1649,
+      "revision_id": 39477,
+      "same_as_previous_public": false,
+      "timestamp": "2013-11-24T04:57:09Z",
+      "wikitext_bytes": 2550,
+      "wikitext_sha256": "469efd55fa93221cb09e120b2d3f9610f128aaba4cda743adbf0601ac58c27d9"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 39477,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 2681,
+      "markdown_sha256": "fb6b5bd973e9c973807e6d62224126fa2b928fab299ca13a8be8099cc1593d9f",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": 39477,
+      "previous_public_revision_id": 39477,
+      "revision_id": 42142,
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z"
+    }
+  ],
+  "site_revision_count": 1
+}

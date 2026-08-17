@@ -1,0 +1,56 @@
+{
+  "canonical_path": "/7",
+  "current_revision_id": 42001,
+  "database_title": "7",
+  "display_title": "7",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 2,
+  "page_id": 437,
+  "published_revision_count": 2,
+  "revisions": [
+    {
+      "author": "Brandon CS Sanders",
+      "comment": "Redirecting to [[Book 8]]",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 1204,
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": 1200,
+      "same_as_previous_public": false,
+      "timestamp": "2009-11-28T23:56:27Z",
+      "wikitext_bytes": 20,
+      "wikitext_sha256": "e7b31e94f44727d857136c76b40ff465707b26a186b41fa372d05634561a5746"
+    },
+    {
+      "author": "Brandon CS Sanders",
+      "comment": "Redirecting to [[Book 7]]",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 42001,
+      "original_parent_revision_id": 1200,
+      "previous_public_revision_id": 1200,
+      "revision_id": 1204,
+      "same_as_previous_public": false,
+      "timestamp": "2009-11-28T23:56:56Z",
+      "wikitext_bytes": 20,
+      "wikitext_sha256": "e2f6516a1f49b982f6b46ee21ffb0d1c7932eb042f25ecda2e56b9c66d4c0920"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 1204,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 51,
+      "markdown_sha256": "6a92e962d2262be82ed4572b44ee4f1575685dc8412d8c142865e4a5665c032b",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": 1204,
+      "previous_public_revision_id": 1204,
+      "revision_id": 42001,
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z"
+    }
+  ],
+  "site_revision_count": 1
+}

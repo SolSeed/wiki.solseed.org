@@ -1,0 +1,43 @@
+{
+  "canonical_path": "/User:Bob_Sanders",
+  "current_revision_id": 41818,
+  "database_title": "Bob_Sanders",
+  "display_title": "User:Bob Sanders",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 2,
+  "original_revision_count": 1,
+  "page_id": 252,
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "Shelley Schoepflin Sanders",
+      "comment": "New page: [[Image:BobAtBeach.png]]",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 41818,
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": 673,
+      "same_as_previous_public": false,
+      "timestamp": "2009-03-18T15:31:41Z",
+      "wikitext_bytes": 24,
+      "wikitext_sha256": "69ce985f69b254b73ab3d9657c49d03aacb9f2573815a0f4f78d9fc387115754"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 673,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 50,
+      "markdown_sha256": "8ae3bf1d945a4b143505b1bb84629a75265379f3151c5bf6cec5b2c360037824",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": 673,
+      "previous_public_revision_id": 673,
+      "revision_id": 41818,
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z"
+    }
+  ],
+  "site_revision_count": 1
+}

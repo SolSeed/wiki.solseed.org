@@ -1,0 +1,63 @@
+{
+  "canonical_path": "/Server_Sky_and_Launch_Loop_Discussion",
+  "current_revision_id": "42033",
+  "database_title": "Server_Sky_and_Launch_Loop_Discussion",
+  "display_title": "Server Sky and Launch Loop Discussion",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 2,
+  "page_id": "471",
+  "published_revision_count": 2,
+  "revisions": [
+    {
+      "author": "BenSibelman",
+      "comment": "Created page",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": "1279",
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": "1275",
+      "same_as_previous_public": false,
+      "timestamp": "2009-12-20T00:23:37Z",
+      "wikitext_bytes": 972,
+      "wikitext_sha256": "789b55e0a005c5364b080e58661c87f3359f9770a6961beb61d2fae759ecbe0f",
+      "source_format": "wikitext",
+      "source_extension": "wiki"
+    },
+    {
+      "author": "BenSibelman",
+      "comment": "Added sections, detail on helping each other",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": "42033",
+      "original_parent_revision_id": "1275",
+      "previous_public_revision_id": "1275",
+      "revision_id": "1279",
+      "same_as_previous_public": false,
+      "timestamp": "2009-12-20T00:43:36Z",
+      "wikitext_bytes": 1220,
+      "wikitext_sha256": "dea7dea981ecf561ae855544e2dbf7ea7a8b78be035c6a02b6813e5e03e34d5d",
+      "source_format": "wikitext",
+      "source_extension": "wiki"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 1279,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 1272,
+      "markdown_sha256": "7e2f043c1a218d6459376aaa8afb1214709c3e990f592feedbee2fc3dff4f3a5",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": "1279",
+      "previous_public_revision_id": "1279",
+      "revision_id": "42033",
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z",
+      "wikitext_bytes": 1272,
+      "wikitext_sha256": "7e2f043c1a218d6459376aaa8afb1214709c3e990f592feedbee2fc3dff4f3a5",
+      "source_extension": "md"
+    }
+  ],
+  "site_revision_count": 1
+}

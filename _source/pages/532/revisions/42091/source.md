@@ -1,0 +1,94 @@
+Special thanks to [Steve](/Steve) and [Judy](/Judy) for hosting and contributing to this in-person meeting, and providing brunch beforehand!
+
+### Agenda
+- Review WWWs
+- Norwescon
+  - Criteria for Success
+  - Trifold
+- Global strategy planning
+- March newsletter
+- Vision statement on main page
+- Next time consider fundraising conversation
+- Next time do some role playing
+
+### WWWs from last time
+- [Shelley](/Shelley)
+  - Call Powells re "Parable of the Sower" books ... Brandon did it
+  - Service  preparation ... done
+    - Make the soup
+    - Make the Salad
+    - Make the juice
+- [Brandon](/Brandon)
+  - Make new signs ... not yet
+  - Clean the house ... done
+- [Ben](/Ben)
+  - Update main page with  vision statement ... not yet
+
+### NorWesCon
+#### Defining success
+- What is the purpose of outreach?
+  - Finding people who share our values and interests
+  - So they can join and help us out
+  - Allow us to pursue more foci, look after different events better, plan farther ahead, etc.
+- Performance indicators
+  - Number of people on the business calls
+  - Number of people pledging financial support
+  - Number of people who are active in a working group
+    - Active in a working group = Participating in weekly meetings (of some kind) and taking WWWs between them
+- Goals for NorWesCon
+  - Double our attendance on business calls (3 more ppl)
+  - 10 ppl signed up who *claim* they'll be on the calls
+
+#### Experiments
+- Free Tee Shirt ... first 20 tee shirts free
+- Perplexing signs that will motivate people to talk with us
+  - In contrast to entertainment we are interested in concrete action
+  - Would you like to help make science fiction real?  Communicator/flip phone
+- Hovering RC helicopter
+- What do you do that is on purpose?
+- Showing the video, possibly on a larger screen
+
+#### The engagement funnel
+- I know your name; Anyone we talk to gets counted on the post-it
+  - I know your mission & values; Gets the trifold and has a conversation about mission and values
+    - I like your mission & values; Name & email on a list
+      - I'll give a donation in exchange for the book/tee shirt; We write their name on our list of $$
+        - I might get involved with your organization; Name & email on a list with checkbox for tryout call
+          - I will test drive involvement with your organization; Count them being on a call
+            - I will be regularly involved with your organization; Count them on 4 calls
+
+Strategies for moving from one level to another
+- From 0 to 1: "I know your name"
+  - signs w/ our name on it
+  - trifold & tee shirt giveaways
+- From 1 to 2: "I know your mission & values"
+  - talking w/ other tablers
+  - stickers!
+  - tee shirt giveaways w/ req that you have to wear it
+  - neat stuff going on at our booth to draw ppl in
+- From 2 to 3: "I like your mission and values"
+  - talk about why ppl are doing what they're currently doing in life
+  - ask what part of this they resonate with
+  - Get them to talk about their values, then say, "we're kindred."
+- From 3 to 4: "I'll give a donation in exchange for the book/tee shirt"
+  - Have a statement of what 3-4 projects the money will go toward:
+    - Ecovillage promotion at the Earth Day event
+    - SolSeed promotion at the next science fiction convention
+    - SpaceWiki.org & space industry outreach
+    - Incubator for space start-up companies
+- From 4 to 5: "I might get involved with your organization"
+- From 5 to 6: "I will test drive involvement with your organization"
+- From 6 to 7: "I will be regularly involved with your organization"
+
+Index of seriousness:
+- We can take money and donations
+
+#### Trifold language
+- removed some unneeded phrases
+
+### WWWs
+- Shelley will assess cost and amount of work required to set up a PayPal donation system; will set up if <1 hour and <$100
+- Ben will complete Trifold and print 150 of them by next weekend
+- Brandon will create signs for review at next meeting
+- Brandon will get us an Earth Day booth by next weekend
+- Ben will get some ideas together for March newsletter by next weekend

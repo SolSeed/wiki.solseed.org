@@ -1,0 +1,26 @@
+Hi [Eric](/Eric),
+
+Welcome to the SolSeed Movement!  I sent you a couple emails welcoming you as well.  The events you've described on your personal page sound really fun :-)  I look forward to working more closely with you as we get to know each other better.
+
+Warm Regards,  
+
+[Brandon](/Brandon)
+
+Hi Eric,
+
+We're working toward the outline from the work bee.  The outline for the book is in considerable flux right now.  We're trying to reorganize the book into two parts.
+
+1. Connects with people who resonate with the [Greater Movement](/Greater_Movement) values (embrace science, cherish the earth), inspires, evokes an identity as "someone who brings life for myself, my community, and the body of all life"
+1. Describes the particular goals, language, and practice of the SolSeed Movement ... frames the SolSeed Movement as one particular "tribe" of the [Kindred](/Kindred)
+
+It isn't clear where the "seed the galaxy with life" part will end up.  I'm currently thinking that it is briefly introduced in part one using simple non-religious sounding language and then fully developed in part two.
+
+Does this help?
+
+Warm Regards,  
+
+Brandon
+
+ps.  Did you get my email about the doodle for scheduling the orientation call?  Here's the link in case you missed it in your inbox: http://www.doodle.com/ehf3akzdvnchv22p
+
+pps. Have you considered sharing your thoughts on [Legal Organization](/Legal_Organization)?

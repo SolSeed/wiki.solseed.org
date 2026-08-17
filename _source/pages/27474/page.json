@@ -1,0 +1,69 @@
+{
+  "canonical_path": "/July_5,_2015:_Business_Call",
+  "current_revision_id": 43072,
+  "database_title": "July_5,_2015:_Business_Call",
+  "display_title": "July 5, 2015: Business Call",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 3,
+  "page_id": 27474,
+  "published_revision_count": 3,
+  "revisions": [
+    {
+      "author": "BenSibelman",
+      "comment": "Created page from the Google doc",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 40572,
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": 40571,
+      "same_as_previous_public": false,
+      "timestamp": "2015-07-06T04:13:13Z",
+      "wikitext_bytes": 7439,
+      "wikitext_sha256": "5985359180d50f3c943f182545a279457aeb88eb5b7179dbbcb7dbaf5fc747fc"
+    },
+    {
+      "author": "BenSibelman",
+      "comment": "Removed Thursday agenda",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 40573,
+      "original_parent_revision_id": 40571,
+      "previous_public_revision_id": 40571,
+      "revision_id": 40572,
+      "same_as_previous_public": false,
+      "timestamp": "2015-07-06T04:13:34Z",
+      "wikitext_bytes": 6781,
+      "wikitext_sha256": "b70cdd77d8c8121d0fabb12288beb17c40bc74803d0bb7a613973290f1cd44a3"
+    },
+    {
+      "author": "BenSibelman",
+      "comment": "/* Opening Blessing */",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 43072,
+      "original_parent_revision_id": 40572,
+      "previous_public_revision_id": 40572,
+      "revision_id": 40573,
+      "same_as_previous_public": false,
+      "timestamp": "2015-07-06T04:13:49Z",
+      "wikitext_bytes": 6780,
+      "wikitext_sha256": "a257f390b82c66619e3ba4a043f92b2dabc566231c0f5aa100ae364616808a8f"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 40573,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 6750,
+      "markdown_sha256": "25e32ea679ae15fe1822e4d110e19e35f35eb467d2672fc23a1be3584a060662",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": 40573,
+      "previous_public_revision_id": 40573,
+      "revision_id": 43072,
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z"
+    }
+  ],
+  "site_revision_count": 1
+}

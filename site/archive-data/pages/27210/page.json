@@ -1,0 +1,48 @@
+{
+  "canonical_path": "/3rd_Season",
+  "current_revision_id": "42811",
+  "database_title": "3rd_Season",
+  "display_title": "3rd Season",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 1,
+  "page_id": "27210",
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "EricSaumur",
+      "comment": "moved [[3rd Season]] to [[Viriditas de Terra]]: Named the season, Greening of Earth in Latin",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": "42811",
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": "39636",
+      "same_as_previous_public": false,
+      "timestamp": "2014-03-15T20:02:06Z",
+      "wikitext_bytes": 32,
+      "wikitext_sha256": "834426e886d7ded9ed9e9d0498fe17b94a1c4acdfc9cd428ae7d7ee12b2d5cdd",
+      "source_format": "wikitext",
+      "source_extension": "wiki"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 39636,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 75,
+      "markdown_sha256": "316c3acb4d568b9d76fce9793a1314e2b0443004d4e1a70b016f4d4cb65e9068",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": "39636",
+      "previous_public_revision_id": "39636",
+      "revision_id": "42811",
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z",
+      "wikitext_bytes": 75,
+      "wikitext_sha256": "316c3acb4d568b9d76fce9793a1314e2b0443004d4e1a70b016f4d4cb65e9068",
+      "source_extension": "md"
+    }
+  ],
+  "site_revision_count": 1
+}

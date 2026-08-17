@@ -1,0 +1,14 @@
+<div class="plainlinks" style="float:left">[[Image:Brandon_CS_Sanders_Standing.jpg]]</div>
+
+=== Contact Info ===
+:[[User talk:Brandon CS Sanders|talk]]: leave me a public message (preferred)
+:<span class="plainlinks">[http://solseed.org/Special:Emailuser/Brandon_CS_Sanders email]</span>: myname (at) aboutus.org
+:phone: 503.729.9269
+:skype: BrandonCsSanders
+:address: 1824 SE Oak Street, Portland OR 97214, United States
+
+=== A bit about me ===
+
+Hello, I'm with [[Shelley]] and we're going to have a baby boy in late November 2008 :-)  I'm Chief Architect for an Internet startup called AboutUs, Inc.  We build and maintain the [http://www.aboutus.org aboutus.org] website.  I like to windsurf with Shelley whenever we can.
+
+<br style="clear:left" /> <!-- This tag makes sure that the Brandon_CS_Sanders_Standing.jpg image above stops floating left -->

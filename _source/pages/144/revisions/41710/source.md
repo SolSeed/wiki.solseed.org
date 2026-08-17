@@ -1,0 +1,28 @@
+[Seed2009](/Seed2009) > [Agenda](/Seed2009/Agenda) > [Quality Online Classes](/Quality_Online_Classes)
+
+This session also included the [Mary Mary Quite Contrary](/Mary_Mary_Quite_Contrary) discussion.
+
+Kim and online classes
+- Non-face-to-face teaching is not as high-quality
+  - Body language and spontaneous interaction are lost
+  - Higher attrition and failure rate
+    - People who do these often do it because they lack the [motivation](/motivation) to go to school
+- Goal: make students feel that they're involved in their education
+- Currently:
+  - Students are only looking at a "blackboard"
+    - Might start doing audio, but Kim isn't comfortable having video of herself
+  - Students aren't required to be online at the same time; they can go to "class" anytime
+    - One student is a soldier in Afghanistan
+  - Students can ask each other questions or send anonymous questions to Kim
+  - Students have to peer-review each other's papers
+- Debbie: There's always a dropout rate
+  - Kim: Higher-level (community college) classes have higher dropout rates
+  - "Working-class people often sabotage each other" because they don't want friends and coworkers to move ahead and leave, or "take more than their share"
+    - Misattributed "Mandela" quote: "Our greatest fear is our own [power](/power)"
+      - Don't "play small" because you're afraid of making people uncomfortable
+      - "Letting your light shine" encourages others to do the same
+- Preventing negative remarks about a group, another person, or yourself builds community in regular real-world classes
+- Thinking of each other *as people*:
+  - Virtual students writing about themselves and responding to each others' writings helps
+  - Even video of Kim talking that only shows a stuffed animal or puppet could help
+    - Debbie did a lesson for "Plato" TV learning that had fun stuff in between segments

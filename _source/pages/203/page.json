@@ -1,0 +1,69 @@
+{
+  "canonical_path": "/2009.02.05",
+  "current_revision_id": 41769,
+  "database_title": "2009.02.05",
+  "display_title": "2009.02.05",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 3,
+  "page_id": 203,
+  "published_revision_count": 3,
+  "revisions": [
+    {
+      "author": "Brandon CS Sanders",
+      "comment": "Notes and Agenda from the call",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 517,
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": 516,
+      "same_as_previous_public": false,
+      "timestamp": "2009-02-07T03:06:09Z",
+      "wikitext_bytes": 4573,
+      "wikitext_sha256": "5a72b3245fcb04afb57872235acffc3d28d699c26a2a0606e61a6a144128f29d"
+    },
+    {
+      "author": "Brandon CS Sanders",
+      "comment": "[[February 05, 2009]] moved to [[2009.02.05]]: Better urls",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 519,
+      "original_parent_revision_id": 516,
+      "previous_public_revision_id": 516,
+      "revision_id": 517,
+      "same_as_previous_public": true,
+      "timestamp": "2009-02-07T03:06:44Z",
+      "wikitext_bytes": 4573,
+      "wikitext_sha256": "5a72b3245fcb04afb57872235acffc3d28d699c26a2a0606e61a6a144128f29d"
+    },
+    {
+      "author": "Brandon CS Sanders",
+      "comment": "",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 41769,
+      "original_parent_revision_id": 517,
+      "previous_public_revision_id": 517,
+      "revision_id": 519,
+      "same_as_previous_public": false,
+      "timestamp": "2009-02-07T03:07:40Z",
+      "wikitext_bytes": 4611,
+      "wikitext_sha256": "aa8d7e2041143c785a092bfe93b88a9a2f5a5706c2b9f510aacd7152b94aace8"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 519,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 4620,
+      "markdown_sha256": "2ac7711626a2c7165624e75794069188d7fc7c1cd23f31545626c8e4ba093c41",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": 519,
+      "previous_public_revision_id": 519,
+      "revision_id": 41769,
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z"
+    }
+  ],
+  "site_revision_count": 1
+}

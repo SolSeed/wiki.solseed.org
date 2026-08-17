@@ -1,0 +1,89 @@
+### Agenda
+- Check in
+- Opening Blessing
+- Review WWWs
+- Weekly event logistics
+- Year Plan
+  - Spring Equinox
+  - Unconference
+- Evaluations
+- Closing Blessing
+
+### Next business call
+- Foundation
+- Year Plan
+  - Unconference
+    - Create Meetup invitation
+- Gaia's People
+- SolSeed Creed
+- New Videos
+
+### Check-in
+- Brandon … I think I'm going to have a fairly easy Sunday, and I'm really looking forward to that
+- Ben … I’m looking forward to this unconference and hosting a session about the Foundation concept (more or less).
+
+### Opening Blessing
+May we be hardheaded (see things as they actually are). May we be soft-hearted (feel love when we feel scared). May we be grateful (enjoy that which is good). May we be happy.
+--Blessed Be
+
+### WW(W)s from last time
+- <s>Ben … finish a draft of the newsletter … by next call
+- Ben … ask if Windward is holding a Village Helix event this year … by today</s>
+- Shawn … check with L about March 25 Seattle trip … by next call
+- Brandon … discuss going to Windward for the village convergence in May (memorial day weekend) … by today
+- <s>Brandon … ask Shelley for Winter Solstice and Imbolc photos for the newsletter</s>
+
+### WW(W)s
+- Brandon … discuss going to Windward for the village convergence in May (memorial day weekend) … by today
+- Ben … get Shawn to send me a photo of himself for the newsletter … soon!
+- Ben … look into venues for Spring Equinox … by next call
+- Ben … send invites for Spring Equinox … by next call
+
+### Weekly Events Logistics
+Service rotation: Eric, Ben, Shawn, Brandon, Shelley
+- March 3rd Service: 8:30 AM PST / 11:30 EST … Shelley
+- March 4th Business Call: 8:30 AM PST / 11:30 EST
+
+### Year Plan
+#### Spring Equinox
+Sunday March 25th in Seattle … sushi lunch followed by storytelling
+- We should try to invite others
+  - Post on the SolSeed Facebook
+  - Post to Star Community Slack
+- Venue other than Ben's apartment
+  - Meeting space in Ben's complex?
+  - A Star Community house?
+  - Libraries?
+
+##### Story Telling Ideas
+- Brandon … in the world of unexpected belligerence (foundationy)
+- Ben … also foundationy (very early stages) 
+
+#### Unconference
+Venue
+- Next question for Walt: Is the Village Helix at the usual time (Memorial Day weekend)?
+- Ben: Concerned about being able to Skype Eric in
+- Everyone can pay their own camping fee
+- We may want to provide food for everyone
+
+Who:
+- Brandon wants to invite the Earthseed people, which may not be possible for May
+- Ben wants to invite Star Community
+- People from Cascadia Now and the Transition Towns movement
+- Maybe Mathew and/or Molly
+- Consider Tryon Life folks and that ecovillage we're on the Meetup for
+- PDX Trackers Earth, Rewilding, Permaculture, Aquaponics
+- Gus and Hank!
+
+##### Invitation
+We all want to be part of close-knit communities of people who care for each other.  In a world facing extraordinary challenges, what should we do to help our communities thrive no matter what may come? And how can we build our resilient communities into something more--seeds of hope for growing a better world, should the world we currently know fall apart?
+
+If these questions resonate with you, we invite you to explore them with us this Memorial Day weekend at the Windward Education and Research Center, a living example of resilient community that has been thriving in south-central Washington since 1987. We'll create the agenda when we arrive, Open Space style, and get the opportunity to learn about Windward through their Village Helix program. We'll live the experience of community through shared potluck meals, camp out under the stars, and imagine our way into the possible futures we want to plan for and create.
+
+### Evaluation
+- Ben … I guess I missed this, the process of imagining an unconference into existence.  It’s been too long!
+- Brandon … Likewise. Fun!
+
+### Closing Blessing
+With a balance of the head and the heart may we create space for many people to dream a better future and make it real.
+--Blessed Be

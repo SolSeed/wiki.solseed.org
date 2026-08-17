@@ -1,0 +1,101 @@
+### Agenda
+- [SolSeedSong](/SolSeedSong) Meeting
+- Check In
+- Review WWWs
+- Review Agenda
+- Weekly Events Logistics
+- Mid-Spring Event
+- Earth Day
+- Evaluation
+
+### Meeting with John and Will
+#### Intro to SolSeed
+- Brandon:
+  - Life is precious
+  - Individual and group more-or-less-aliveness
+  - Life bursting through boundaries, ex. emergence onto land and now into space
+  - Life has invested in us
+- Ben
+  - Started out as a kid who loved space exploration
+  - Became an environmentalist and wondered how humans can be beneficial rather than harmful to nature
+    - My answer was in both traditional restoration work and bringing life to other worlds
+  - Discovered a group that shares this ideal
+- Eric
+  - Also environmentalist and sci-fi fan
+  - Disappointed in environmental battles being always defensive, preventing harm
+  - Only way to create benefit instead is to bring life to space?
+  - Deep time story isn't over, and the most important part of it is about autotrophs (plants)
+    - How can plants be better?
+  - Bringing life to deserts or Antarctica as well as to space
+
+#### What should the next Terra Lumina album include?
+- Brandon: Something to help people understand deep time
+  - Eric: Including the future (Freeman Dyson)
+- Brandon: Structure of the human brain/mind (Jonathan Haidt)
+  - Also systematic flaws in human thinking
+- Ben: Energy sources humans use and their consequences
+- Brandon: Sequoias and other giant trees
+- Ben: Science done by space probes, maybe a Mars song
+
+#### Style for the SolSeed song
+- Style leaning toward "From Old Creating New"
+  - Dramatic instrumentals inspiring sense of wonder
+- Also include more "down to earth" sections? more like "Shifting Light"
+- Brandon: Soaring, inspirational, building toward a climax
+
+### Check In
+- Eric ... sorry I was late again ... got distracted with a post someone put on my Facebook account
+- Brandon ... I am sharing the latest SolSeed post
+- Ben ... stomache at the beginning of the call that has now gone away
+
+### WWWs from last time
+- <s>Brandon ... follow your topical community protocol for this week ... ongoing
+- Brandon ... meditate and keep track of which days ... ongoing
+- Brandon ... watch Allan Savory's TED talk ... by next call
+- Brandon ... talk with Shelley about Earth Day and stuff (http://ecowiki.pdx.edu/opportunities/view/get-involved-psu-earth-day-festival) ... by next call
+- Brandon ... add two more images for the SolSeedCreed v2.2 ... by next call</s>
+- Ben ... follow your topical community protocol for this week ... ongoing
+- <s>Ben ... meditate and keep track of which days ... ongoing</s>
+- Eric ... follow your topical community protocol for this week ... ongoing
+- Eric ... meditate and keep track of which days ... ongoing
+- Eric ... check out Les Brasseurs du Temps... by next call 
+- Eric... watch Allan Savory's TED talk ... by next call
+- Shelley ... put together photos from recent events (ice skating, story telling, etc) for the newsletter ... by next call
+
+### WWWs
+- Eric ... follow your topical community protocol for this week ... ongoing
+- Eric ... meditate and keep track of which days ... ongoing
+- Brandon ... follow your topical community protocol for this week ... ongoing
+- Brandon ... meditate and keep track of which days ... ongoing
+- Brandon ... add the May 11 tree-planting event to meetup ... by today
+- Ben ... follow your topical community protocol for this week ... ongoing
+- Ben ... meditate and keep track of which days ... ongoing
+- Ben ... read some of the [SolSeed Book of Days](/SolSeed_Book_of_Days) ... by next call
+- Ben ... finally create a page for the [2012 Space Elevator Conference](/2012_Space_Elevator_Conference)
+- Ben ... write the newsletter ... by next call
+- Shelley ... look up some ice-skating photos and send them to Ben ... by next call
+
+### Weekly Events Logistics
+Service Saturday April 13, 9:00am PDT  12:00 EDT (Ben)
+Rotation: Brandon, Eric, Shelley, Ben
+
+Work-Bee Sunday April 14, 1:30 pm PDST 16:30 EDT
+
+Seeing Nature Readings and Practices: next is 2013-04-21 13:00 EST 
+
+### Mid-Spring event
+- Brandon suggests the May 11 sunnyside tree planting event http://www.friendsoftrees.org/calendar/calendar-portland-vancouver
+  - Eric will have a Meetup on the same day
+  - The Dalai Lama will be in town for an Environmental Summit the next day, May 12: http://www.dalailamaportland2013.net/
+
+### Earth Day
+- Brandon has contacted Jessica about having a table at PSU Earth day on Monday April 22 from 11am-4pm
+  - The sign-up period is about to end, and we're not sure whether they'll have spaces left
+  - Include the planter and the mural painting
+  - Hoping to have 6-foot-tall sequoia pictures to display
+  - Goal is to get people to sign up on our email list
+
+### Evaluation
+- Brandon ... I can't wait for the song ... looking forward with anticipation.
+- Ben ... my stomache ache came back, and now I am wondering whether the dalai lama or the tree planting WITH MY FRIENDS event is more important 
+- Eric ... I was really distracted during this call and I want to apologize ... but it is supposed to be a work bee and I did get Brandon's cat story reedited (and the meetup adjusted) during the call

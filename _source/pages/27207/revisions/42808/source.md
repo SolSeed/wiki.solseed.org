@@ -1,0 +1,174 @@
+### Agenda
+- Good News/Check In
+- Review WWWs
+- Weekly Events Logistics
+- Review Agenda
+- Equinox
+- 2nd liturgical season
+- Website and Orientation Emails (review and next steps)
+- Evaluation
+
+#### Next time
+- 3rd liturgical season
+- Holacracy experiment?
+
+### Good News
+- Brandon: Sequoia lighted the chalice at church today.  He did a great job.  I got the responsive layout working and deployed ... the menu isn't working on the iPhone :-(
+- Ben: I finally sent off my letter in Spanish to my sponsored child.  I am nervous about it but I think it went OK  
+- Eric: I had an enjoyable day writing about SolSeed.  I haven't finished anything, but it was refreshing.
+
+### WWWs from last time
+- Brandon ... follow your  topical community protocol for this week ... ongoing
+- Brandon ... meditate and keep  track of which days ... ongoing
+- <s>Brandon ... get Eric his picture ... by today</s>
+- Brandon ... get Ben his picture ... by next week
+- <s>Brandon ... post Gaia's HB to SolSeed YouTube account (private for now) ... by today
+- Brandon ... set up cell-phone styling for http://join.solseed.org ... by next week</s>
+- Brandon ... write Week 3: The Divided Mind (Elephant and Rider) orientation email ... by next week
+- Brandon ... document Camp trackers venue ... by next week
+- Brandon ... document WestWind venue ... by week after next
+- <s>Brandon ... bounce Lake O'Hara in August off of Shelley ... by next week</s>
+- Brandon ... thank Tony for the chat ... by next week
+- Ben ... follow your  topical community protocol for this week ... ongoing
+- <s>Ben ... meditate and keep  track of which days ... ongoing
+- Ben ... update my orientation email and pick a photo to use ... by next call</s>
+- Ben ... investigate and document Silver Falls Conference Center ... by next call
+- <s>Ben ... look at Holacracy, esp. Glass Frog, for at least 20 minutes ... by next call
+- Eric ... follow your  topical community protocol for this week ... ongoing
+- Eric ... meditate and keep  track of which days ... ongoing
+- Eric ... write the description for the Gaia's Heartbeat video for YouTube ... by next week
+- Eric ... set up the Upward Spiral Orientation Email as a MailChimp autoresponder, adding more links as we go ... by next week
+- Eric ... look at Holacracy, esp. Glass Frog, for at least 20 minutes ... by next call</s>
+
+### WWWs
+- Brandon ... follow your  topical community protocol for this week ... ongoing
+- Brandon ... meditate and keep  track of which days ... ongoing
+- Brandon ... get Ben his picture ... by next week
+- Brandon ... write Week 3: The Divided Mind (Elephant and Rider) orientation email ... by next week
+- Brandon ... document Camp trackers venue ... by next week
+- Brandon ... document WestWind venue ... by week after next
+- Brandon ... thank Tony for the chat ... by next week
+- Brandon ... discuss story telling event to celebrate the equinox on Sat night March 22 ... by Monday night
+- Brandon ... start writing his story for the equinox (start his families story) ... by next week
+- Brandon ... call Ben and Eric for check ins ... by next week
+- Ben ... follow your  topical community protocol for this week ... ongoing
+- Ben ... meditate and keep  track of which days ... ongoing
+- Ben ... investigate and document Silver Falls Conference Center ... by next call
+- Ben ... think about what story to tell on the Equinox ... by next call
+- Ben ... convert the Passion email into an autoresponder ... by next call
+- Eric ... follow your  topical community protocol for this week ... ongoing
+- Eric ... meditate and keep  track of which days ... ongoing
+- Eric ... write a draft story for equinox ... by next week
+- Eric ... decide where to do the Equinox and how many to invite ... by next week
+- Eric ... write Week 5: Life has invested in us Orientation email ... by next week
+
+### Weekly Events Logistics
+Service rotation: Eric, Shelley, Brandon, Ben
+- March 1 Service: 9:00 am PDT (12:00 EDT) (Ben) (Fourth Week of [Conflatorium](/Conflatorium))
+
+- March 2 Work-Bee: 1:30 pm PDT (16:30 EDT)
+
+### Equinox
+Thursday March 20, 11:57 EDT / 8:57 AM PDT
+- Should we celebrate it at the right time, or wait for the weekend?
+  - Brandon doesn't think he can do it on Thursday
+  - Eric agrees that the weekend would be better
+- So let's aim for Saturday night, March 22
+
+Storytelling and sushi feast
+- Eric hasn't started writing his story yet, which is unusual
+- Brandon needs to check with Shelley before going ahead
+- Ritual?
+  - Brandon suggests tipping our bodies to represent the Earth's tilt
+
+Plan: Send the invitation (including a Meetup) after next week's call
+- Brandon wants to get Shelley as involved as possible, so she may write an initial version of the invitation before the call
+- Brandon also wants to invite people from UU and suggests Eric do the same
+
+### 2nd liturgical season
+The season of [Conflatorium](/Conflatorium) is the second liturgical season in the SolSeed Movement's Liturgical Calendar.  It symbolises the emergence of complex life from Iceball Earth 590 million years ago.  During this season the [Weekly Service Calls](/Weekly_Service_Calls) may use the following draft Opening ceremony:
+
+*We gather to mark the passing of a week*  
+
+*To align our hearts as one.*
+
+(Light the Sol candle)
+
+(take an ice cube from bowl and hold it in your hand)
+
+*Ice ... just ... ice ...*  
+
+*and then ... [gasp] ... Melting*
+
+(Drop the ice cube into warm/hot water)
+
+*Warm Sun! Open Water! Dry Land! Scented Breeze!*  
+
+*The sea teems with new lifeforms ...*  
+
+*As the ice melts, they emerge to tell their story!*
+
+(pour the ice cubes (or big block of ice) that have things (e.g., trilobites) frozen in them, into the bowl of warm water)
+
+*Cells transcend themselves*  
+
+*Uniting with multitudes of sisters to become something more;*  
+
+*Complex life explodes into a dazzling diversity of forms!*
+
+(Participants clasp hands, or join two hands clasped if you are alone)
+
+*Next opens the mouth, the first structure,*  
+
+*Both the feeder of animals,*  
+
+*and the singularity that *  
+
+*gave animals direction.*
+
+("Chase" and then eat some food, e.g. seaweed, suishi, shrimp, or goldfish crackers ... participant's choice)
+
+*Then come the senses!*  
+
+*Taste, smell, sight, touch, hearing*  
+
+((Put fingers on mouth, nose, eye, temple, and ear, thus touching all five senses))  
+
+*The sensing which gave the first animals reason to swim.*  
+
+*The sensing which still directs us today!*
+
+*Finally, Animals secrete calcium,*  
+
+*Armour, Shells, Teeth, Bones, *
+
+(Shake the fossil shakers)
+
+*Massive, piling, surfaces fold through open water,*  
+
+*A billion allies emerge,*  
+
+*Life learns to make new reefs, new worlds,*
+
+(building motions of one hand on top of another going up up up?)
+
+*Cells Join to Cells. "  
+
+"Mouths. Senses. Shells.*
+
+*From silent ice ... teeming reefs!*
+
+(schooling fish motion where each finger is a fish)
+
+### Website and Orientation Emails (review and next steps)
+#### Passion email
+- Ben revised one sentence:
+However, we must acknowledge the existence of other passions that make this road difficult to follow, such as the drive for safety, the desire for comfort, **the fear of failure and ridicule,** and the demand to maintain our habitual patterns of action. 
+- Ben chose an image: 182008843
+#### Website
+- Ben verified that it works in Firefox and IE
+
+### Evaluation
+- Ben: I'm always sad when we say something is going to be short and it ends up being long ... I guess kind of the same deal as with work-item time cost estimates at work
+- Brandon: I always love talking to you guys and working on stuff ... I love it.
+- Eric: I actually kind of like it when we end up focusing on one thing for most of the call ... there's anxiety about the stuff we're not getting done, but it feels more productive

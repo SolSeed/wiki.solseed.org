@@ -1,0 +1,63 @@
+{
+  "canonical_path": "/Relgious_Questions",
+  "current_revision_id": "42618",
+  "database_title": "Relgious_Questions",
+  "display_title": "Relgious Questions",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 2,
+  "page_id": "13135",
+  "published_revision_count": 2,
+  "revisions": [
+    {
+      "author": "EricSaumur",
+      "comment": "Created page with \"This page is a [[Religious Method]] stub; please help by expanding it   At [[Sol 2012]], we asked ourselves what a Religious Method, equivalent to the Scientific Method, would lo...\"",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": "16785",
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": "16784",
+      "same_as_previous_public": false,
+      "timestamp": "2012-07-15T02:19:40Z",
+      "wikitext_bytes": 1278,
+      "wikitext_sha256": "de76a5eb4b8516d0516d6bdc44575417342912e93e6b3ef3b62b0f5e8d9396c2",
+      "source_format": "wikitext",
+      "source_extension": "wiki"
+    },
+    {
+      "author": "EricSaumur",
+      "comment": "",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": "42618",
+      "original_parent_revision_id": "16784",
+      "previous_public_revision_id": "16784",
+      "revision_id": "16785",
+      "same_as_previous_public": false,
+      "timestamp": "2012-07-15T02:20:21Z",
+      "wikitext_bytes": 1317,
+      "wikitext_sha256": "0936271194fe65a4a769cffdf42e558943e20018de5f643ad8051ec426283af6",
+      "source_format": "wikitext",
+      "source_extension": "wiki"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 16785,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 1344,
+      "markdown_sha256": "bd488ba55e7bb2082314a27ddd9e89db1f51c6089544162e348586ec8fed306c",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": "16785",
+      "previous_public_revision_id": "16785",
+      "revision_id": "42618",
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z",
+      "wikitext_bytes": 1344,
+      "wikitext_sha256": "bd488ba55e7bb2082314a27ddd9e89db1f51c6089544162e348586ec8fed306c",
+      "source_extension": "md"
+    }
+  ],
+  "site_revision_count": 1
+}

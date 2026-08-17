@@ -1,0 +1,63 @@
+{
+  "canonical_path": "/PeoplePowerTalk",
+  "current_revision_id": "42589",
+  "database_title": "PeoplePowerTalk",
+  "display_title": "PeoplePowerTalk",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 2,
+  "page_id": "10762",
+  "published_revision_count": 2,
+  "revisions": [
+    {
+      "author": "BenSibelman",
+      "comment": "Created page",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": "14065",
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": "14064",
+      "same_as_previous_public": false,
+      "timestamp": "2012-06-16T05:43:27Z",
+      "wikitext_bytes": 6724,
+      "wikitext_sha256": "fb4ee782fe33ee9e91e7a5b0647b327e7bb8cd302a61d0034e16e34f4cddcd85",
+      "source_format": "wikitext",
+      "source_extension": "wiki"
+    },
+    {
+      "author": "BenSibelman",
+      "comment": "More detailed intro",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": "42589",
+      "original_parent_revision_id": "14064",
+      "previous_public_revision_id": "14064",
+      "revision_id": "14065",
+      "same_as_previous_public": false,
+      "timestamp": "2012-06-16T05:44:25Z",
+      "wikitext_bytes": 6880,
+      "wikitext_sha256": "25d5dd034cf9eb89c8779aaa507f4b3c22c82d63a004acc51358b2948a2748af",
+      "source_format": "wikitext",
+      "source_extension": "wiki"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 14065,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 6927,
+      "markdown_sha256": "4ca01efdf9d231ba49ca565f576e1aadd3de13dfbb88b4f51a70ac8ee587bc5d",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": "14065",
+      "previous_public_revision_id": "14065",
+      "revision_id": "42589",
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z",
+      "wikitext_bytes": 6927,
+      "wikitext_sha256": "4ca01efdf9d231ba49ca565f576e1aadd3de13dfbb88b4f51a70ac8ee587bc5d",
+      "source_extension": "md"
+    }
+  ],
+  "site_revision_count": 1
+}

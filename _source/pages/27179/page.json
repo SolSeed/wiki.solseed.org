@@ -1,0 +1,56 @@
+{
+  "canonical_path": "/File:HubbleDeepField.jpg",
+  "current_revision_id": 42781,
+  "database_title": "HubbleDeepField.jpg",
+  "display_title": "File:HubbleDeepField.jpg",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 6,
+  "original_revision_count": 2,
+  "page_id": 27179,
+  "published_revision_count": 2,
+  "revisions": [
+    {
+      "author": "EricSaumur",
+      "comment": "Created page with \"grab this: http://www.nasa.gov/images/content/56538main_HUDF_330.jpg\"",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 39518,
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": 39517,
+      "same_as_previous_public": false,
+      "timestamp": "2013-12-28T19:17:39Z",
+      "wikitext_bytes": 68,
+      "wikitext_sha256": "ab6dee3190cae8c8ac5c91939dce4430aff934fcfc3bb31c24cd6bb47379d4a2"
+    },
+    {
+      "author": "EricSaumur",
+      "comment": "uploaded &quot;[[File:HubbleDeepField.jpg]]&quot;: A relatively low resolution version of the Hubble Deep Field image direct from the NASA site.",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 42781,
+      "original_parent_revision_id": 39517,
+      "previous_public_revision_id": 39517,
+      "revision_id": 39518,
+      "same_as_previous_public": true,
+      "timestamp": "2013-12-28T19:19:43Z",
+      "wikitext_bytes": 68,
+      "wikitext_sha256": "ab6dee3190cae8c8ac5c91939dce4430aff934fcfc3bb31c24cd6bb47379d4a2"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 39518,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 69,
+      "markdown_sha256": "f1b1b133d73ed91f07211076ec1e2bdfa0867474341896a9d0b2ca733341660b",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": 39518,
+      "previous_public_revision_id": 39518,
+      "revision_id": 42781,
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z"
+    }
+  ],
+  "site_revision_count": 1
+}

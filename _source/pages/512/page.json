@@ -1,0 +1,43 @@
+{
+  "canonical_path": "/Mark_Hansen",
+  "current_revision_id": 42073,
+  "database_title": "Mark_Hansen",
+  "display_title": "Mark Hansen",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 1,
+  "page_id": 512,
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "BenSibelman",
+      "comment": "redirect",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 42073,
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": 1377,
+      "same_as_previous_public": false,
+      "timestamp": "2010-02-13T23:21:32Z",
+      "wikitext_bytes": 18,
+      "wikitext_sha256": "5c72fa5bd24b88b52cdfab69c038ed9775a946403657d2dbf287c59d2d704ace"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 1377,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 47,
+      "markdown_sha256": "d3e5e24541bf050b416deb3ffa551afdaa65dea0e93d4a5abd371a253b82e1ab",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": 1377,
+      "previous_public_revision_id": 1377,
+      "revision_id": 42073,
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z"
+    }
+  ],
+  "site_revision_count": 1
+}

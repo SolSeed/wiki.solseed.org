@@ -1,0 +1,123 @@
+### Sunday Agenda
+- Check in
+- Review WWWs
+- Daily Practice/Metrics
+- Weekly event logistics
+- Review Agenda
+- SpaceX Redmond
+- 10-year celebration?
+- Atheopagans, Pantheists, Idols
+- Opportunity profiles
+
+### Check-in (gratinews)
+- Brandon … I thought the Atheopagan meeting was interesting and fun
+- Ben … During that meeting I looked out the window and saw 4 river otters playing on a log in the wetland across the road
+
+### WW(W)s from last time
+Organize the WWWs by person and then due date.  We’ll start checking in on topical community protocol and meditation for each mini-period between workbees.
+
+Holacracy founder Brian Robertson says these are bad: http://holacracy.org/blog/the-insanity-of-the-what-by-when 
+
+- <s>Brandon … meditate and keep track of which days ... ongoing</s>
+- <s>Brandon … follow your topical community protocol for this period ... ongoing</s>
+- <s>Brandon … check the links in the newsletter … by Monday</s>
+- <s>Ben … meditate and keep track of which days ... ongoing</s>
+- Ben … follow your topical community protocol for this period ... ongoing
+- <s>Ben … send out the newsletter … by Thursday</s>
+- Eric … meditate and keep track of which days ... ongoing
+- Eric … follow your topical community protocol for this period ... ongoing
+- Eric … review Ben's draft newsletter … by tonight
+- Eric … Post the Utopia blog post on the blog… by next call
+- Eric … talk to Tim Blais about Indiegogo .. by next call
+- Eric … buy air pump and air sterilizer … by Spring Equinox
+- Eric … write a Sabbath School lesson plan … by next week
+
+### WW(W)s
+- Brandon … meditate and keep track of which days ... ongoing
+- Brandon … follow your topical community protocol for this period ... ongoing
+- Brandon … talk to Shelley about celebrating 10 years in February (gifts, singing, sos, etc) … Monday night
+- Brandon … order the Gaia statues … by tonight
+- Ben … meditate and keep track of which days ... ongoing
+- Ben … follow your topical community protocol for this period ... ongoing
+- Ben … send Paul another invitation to join Gaia Wiki … by next call
+- Eric … meditate and keep track of which days ... ongoing
+- Eric … follow your topical community protocol for this period ... ongoing
+
+### Daily Practice (from Sunday to Sunday)
+- https://tdp.me/person/brandon-cs-sanders
+- https://tdp.me/person/EricOfSolseed
+- https://tdp.me/person/SciFiBen 
+
+2014-01-18 to 2014-01-24: 69+21+0=90 checkmarks
+
+### Metrics (from Sunday to Sunday)
+0 … articles published (blog, etc)
+0 … net signups to the newsletter for the week (100 total)
+0 … conversants from signup (people we are talking or emailing with) 
+0 … bios added to the wiki by conversants
+4 … articles added to Gaia.wiki
+20 … sessions on Gaia.wiki other than us
+82 … sessions on Spacewiki.com
+96 … sessions on SolSeed.org (including Portland meetup)
+2+0=2 … topical community touches
+90 … daily practice checkmarks for the week
+
+### Weekly Events Logistics
+Weekend
+Service rotation: Eric, Shelley, Brandon, Ben
+- January 31 Service: 9:00 AM PDT, 12:00 EST  (Shelley) 
+- February 1 Work-Bee: 5:30 PM PST, 20:30 EST
+
+Midweek
+- January 29 Work-Bee: 6:30 PM PST, 21:30 EST (Brandon may be awol)
+
+### SpaceX Redmond
+- http://www.spacex.com/careers has Mars terraforming graphics at the top!
+- http://www.spacex.com/careers/position/6526 is an example of a software position at their new Redmond office (it says Seattle, but [it means Redmond](http://www.geekwire.com/2015/spacexs-new-seattle-area-office-redmond-elon-musk-visit-region-week/))
+
+### 10-year celebration?
+- Brandon started the SolSeed Movement by declaring himself to be its first [member](/member) on February 16, 2005
+  - Ben will be in SoCal and Brandon will be at Pantheacon, so we can't hold a celebration that day
+    - Ben isn't really available until the weekend of the 28th; let's tentatively look at that date for a party
+  - Just make the whole month of February an "anniversary month?"
+    - Shelley and Eric also joined in February (2005 and 2012, respectively)
+
+- Ideas for the party
+  - A cake with 10 candles and presents? (e.g. Millennial Gaia statues, see below)
+  - Watching videos, e.g. [Gaia's Heartbeat](/Gaia's_Heartbeat) and Symphony of Science?
+  - Singing?
+
+### Atheopagans, Pantheists, Idols, Churches
+- Pantheists prefer to get out in nature rather than going to church
+  - Brandon wants to build a church/cathedral someday; Ben observes that it could have a really nice view of some natural environment through really big windows
+  - Paul Krafel is another who is sympathetic to the pantheist viewpoint of getting out and “being in nature” (seeing nature)
+  - [Ted](/Ted)'s kids are going to an outdoor-only school
+  - Ben: another instance of shiny vs. green … lets use synthesis to build our temple (indoor shiny, outdoor green)
+
+- The Millennial Gaia statue
+  - Brandon is thinking about getting one on Amazon (7 inch tall), and would kind of like to have ones for the Sun and some children of Gaia too (O’Neil Cylinder, Hollowed Asteroid, Selene and Ares)
+  - Ben: Eric would certainly support this, even though we know the personification is just a metaphor
+  - Brandon: I think my kids would connect with it really well
+
+### Opportunity profiles
+- quick-and-dirty-videos-introducing-SolSeed
+- SolSeed re-branding
+  - Would calling ourselves Earthseed, or something with Gaia in it, be helpful?
+  - Church of Gaia … brandon registered http://gaia.church
+- SolSeed kindergarten quarterlies
+- Father Sun (to go with Millennial Gaia) statue
+- Children of Gaia altar pieces
+- Research other religions (Buddhism, UU, SDA, Pagan, mega-church, etc.)
+- Kindred mapping application
+- iPhone app for checklist
+- More sophisticated video conferencing (can we get to unison?)
+- Science fiction novels as primary outreach
+- Duckweed and other maker projects as primary outreach
+- Booth at mini-maker fair in Portland, September 12-13 (to coincide with summer in-person Open Space event?)
+- Yuri's Night celebration at OMSI in Portland (April 12)
+- International UUA General Assembly is in Portland in June 24-28 ... schedule our summer in-person event close to it?
+- Sasquan (Worldcon 73), Spokane, August 19-23
+
+### Evaluation
+- Brandon … head is spinning, the 10 year anniversary is looming large
+- Ben … I think there are a lot of exciting options and we have to be careful about how many of them we try to pursue at once

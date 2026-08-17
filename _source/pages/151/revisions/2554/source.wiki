@@ -1,0 +1,10 @@
+* navigation
+** mainpage|mainpage-description
+** JoiningTheMovement|Join Us?
+** One Page Plan|One Page Plan
+** Events and Calls|Events and Calls
+** recentchanges-url|recentchanges
+** helppage|help
+* SEARCH
+* TOOLBOX
+* LANGUAGES

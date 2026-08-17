@@ -1,0 +1,46 @@
+Civilization has no plan for failure. The general assumption is that if the world as we know it comes to an end, either everyone will die or the few survivors will have to fend for themselves in a Hobbesian war of all against all, with no hope of restoring anything close to our present level of technology or First World standards of health and comfort. With only minor exceptions, everyone who worries about doomsday scenarios such as runaway climate disruption or an artificial-intelligence explosion is focused solely on prevention, not on limiting the damage, surviving through a dark age, or recovering and building a new, wiser civilization.
+
+What would it take to fill this gap? What can be done to plan for a collapse of civilization, and who is already doing relevant work along these lines? Could their efforts be brought together to form a coherent plan and an organization to implement it?
+
+My working title for such an organization is [[the ReSuRRECT Project]], for Resilience, Survival, and Rebuilding after a Runaway Excursion in Climate and Technology. Needless to say, the name needs work.
+
+Here are some preliminary thoughts on what can be done in each of the three categories:
+
+== Resilience: making systems collapse-proof ==
+* '''Food and agriculture:''' Convert as much of the world as possible to high-yield organic farming that doesn't require motorized farm equipment or industrially produced inputs.
+** Possible partners:
+*** The UN Conference on Trade and Development, which published the 2013 report [http://unctad.org/en/pages/PublicationWebflyer.aspx?publicationid=666 "Wake Up Before It Is Too Late"] on the necessity to move to organic farming on a global scale
+*** [http://www.growbiointensive.org/index.html Ecology Action], a group that promotes and disseminates biointensive farming techniques, known for their Executive Director's book ''How to Grow More Vegetables Than You Ever Thought Possible on Less Land Than You Can Imagine''
+*** [http://greenwave.org/ GreenWave], which has developed a simple and ecologically beneficial method of producing large amounts of edible kelp and shellfish
+** Reason why it won't work: Organic food will never scale up much more than it already has, because it can't compete with industrial agriculture on price; it's just too labor-intensive. It would require massive government subsidies, which is politically impossible, or widespread use of slave labor, which would be too horrific to contemplate.
+
+* '''Politics and war:''' Get serious about rapidly and completely phasing out nuclear weapons, so that wars over dwindling resources during civilization's decline can't literally wipe out humanity.
+** Possible partners:
+*** Advocacy groups such as the [https://www.armscontrol.org/ Arms Control Association] and [http://www.wand.org Women's Action for New Directions] that work on this issue
+*** [http://thebulletin.org The Bulletin of the Atomic Scientists], keeper of the famous Nuclear Doomsday Clock
+** Reason why it won't work: The nuclear powers will never disarm because they're too afraid of each other. We're also about to embark on a new nuclear arms race as the United States and Russia "modernize" their missile fleets.
+
+== Survival: learning to live through a dark age ==
+* '''Reskilling:''' Teach as many people as possible how to live a medieval lifestyle, perhaps gamifying the process to attract more participants.
+** Possible partners:
+*** [https://transitionnetwork.org/ The Transition Network], which [http://transitionus.org/knowledge-hub/themes/reskilling promotes reskilling] as a major aspect of their work
+*** [http://ecovillage.org The Global Ecovillage Network], which connects communities around the world that are living sustainably, often with limited technology
+*** [http://sca.org The Society for Creative Anachronism], which is dedicated to restoring the arts and skills of pre-17th-century Europe and could help make things more fun
+** Reason why it won't work: SCA is a bunch of weirdos, and the number of other people who aren't already living a primitive lifestyle but would be willing to spend significant time and effort learning how is miniscule. The survivors will all be people who live in grinding poverty today and already have these skills.
+
+* '''Climate Adaptation:''' Find ways to weather the conditions of a radically warmer and more volatile climate and still maintain some form of stability.
+** Possible partners: I have no idea. I'm a climate activist, but no one I've worked with or read emails from talks about this stuff because the climate movement has no real interest in a plan for failure.
+** Reason why it won't work: Civilization required a stable climate to develop and maintain itself. The only form of existence that will work in a really bad climate scenario is some form of nomadism, which we won't train people for because we're obsessed with the idea of home as a fixed point.
+
+== Rebuilding: providing future generations with the tools to make a new, better civilization ==
+* '''Saving knowledge:''' Build and distribute many collapse-proof archives that store as much of what humanity currently knows about the world as possible.
+** Possible partners:
+*** [http://longnow.org The Long Now Foundation], which intends to build a "library for the deep future" to go with its underground 10,000 year Clock of the Long Now
+*** [https://archive.org/ The Internet Archive] and its partner, the [http://www.bibalex.org/en/project/details?documentid=283 New Library of Alexandria]
+** Reason why it won't work: Books burn, even if the pages are made of plastic. Even words carved in stone can be smashed into illegibility. All it takes is one angry person who finds something in the words blasphemous, immoral, or contrary to that person's interests.
+
+* '''The technology tree:''' Research and write a textbook for how to recover modern technology from a variety of starting points, with a built-in ethic of sustainability and prudence that guides people away from repeating the mistakes that lead to a collapse.
+** Possible partners:
+*** Open Source Ecology, creator of the [http://opensourceecology.org/wiki/Global_Village_Construction_Set Global Village Construction Set], a DIY system for building "the 50 different Industrial Machines that it takes to build a small, sustainable civilization with modern comforts"
+*** [http://www.firaxis.com/ Firaxis Games], creator of the ''Civilization'' series of computer games (which all include simplified technology trees), which could help make things fun
+** Reason why it won't work: Again, civilization requires a stable climate, and we won't have one. Also, the textbook will get destroyed.

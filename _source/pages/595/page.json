@@ -1,0 +1,43 @@
+{
+  "canonical_path": "/File:100505_Wed_1349_45.jpg",
+  "current_revision_id": 42151,
+  "database_title": "100505_Wed_1349_45.jpg",
+  "display_title": "File:100505 Wed 1349 45.jpg",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 6,
+  "original_revision_count": 1,
+  "page_id": 595,
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "Shelley Schoepflin Sanders",
+      "comment": "",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 42151,
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": 1534,
+      "same_as_previous_public": false,
+      "timestamp": "2010-05-05T21:55:04Z",
+      "wikitext_bytes": 0,
+      "wikitext_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 1534,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 45,
+      "markdown_sha256": "252140068a92a43adc08c92c83b7dcebf93357b7e39a6a517958df64a49b38ca",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": 1534,
+      "previous_public_revision_id": 1534,
+      "revision_id": 42151,
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z"
+    }
+  ],
+  "site_revision_count": 1
+}

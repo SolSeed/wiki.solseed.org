@@ -1,0 +1,63 @@
+{
+  "canonical_path": "/Talk:Gaia_shapes_God",
+  "current_revision_id": "43129",
+  "database_title": "Gaia_shapes_God",
+  "display_title": "Talk:Gaia shapes God",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 1,
+  "original_revision_count": 2,
+  "page_id": "27531",
+  "published_revision_count": 2,
+  "revisions": [
+    {
+      "author": "EricSaumur",
+      "comment": "Created page with \"[Ben] pointed out that it seems simplistic that I would use an old man in a white robe as a symbol for God.  my reply is that, yes it is.  So is the use of a pregnant woman to sy...\"",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": "40724",
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": "40723",
+      "same_as_previous_public": false,
+      "timestamp": "2016-01-30T17:48:18Z",
+      "wikitext_bytes": 2700,
+      "wikitext_sha256": "08adf04174b2b25e4e478650af566db505d8cae3f108b2914bb5cdebb61518e9",
+      "source_format": "wikitext",
+      "source_extension": "wiki"
+    },
+    {
+      "author": "EricSaumur",
+      "comment": "",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": "43129",
+      "original_parent_revision_id": "40723",
+      "previous_public_revision_id": "40723",
+      "revision_id": "40724",
+      "same_as_previous_public": false,
+      "timestamp": "2016-01-30T17:50:14Z",
+      "wikitext_bytes": 2699,
+      "wikitext_sha256": "a7c92126d8842f4cd638ef780e6b24cb841f9f0d3c0993003abf26447b6e5388",
+      "source_format": "wikitext",
+      "source_extension": "wiki"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 40724,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 2700,
+      "markdown_sha256": "7bea2095cf5b3227cf8ca09847e3bccd4d38e1ea8ffa489bce3e94701dc44eea",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": "40724",
+      "previous_public_revision_id": "40724",
+      "revision_id": "43129",
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z",
+      "wikitext_bytes": 2700,
+      "wikitext_sha256": "7bea2095cf5b3227cf8ca09847e3bccd4d38e1ea8ffa489bce3e94701dc44eea",
+      "source_extension": "md"
+    }
+  ],
+  "site_revision_count": 1
+}

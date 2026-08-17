@@ -1,0 +1,43 @@
+{
+  "canonical_path": "/Book_Club",
+  "current_revision_id": 41834,
+  "database_title": "Book_Club",
+  "display_title": "Book Club",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 1,
+  "page_id": 268,
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "Brandon CS Sanders",
+      "comment": "New page: Back to [[Calendar of Events]]  Sunday April 12th @6PM at [[Brandon]] and [[Shelley]]'s house (1824 SE Oak St in Portland).  Currently reading ''The Untethered Soul'' and will be selecting...",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 41834,
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": 723,
+      "same_as_previous_public": false,
+      "timestamp": "2009-04-09T05:24:37Z",
+      "wikitext_bytes": 301,
+      "wikitext_sha256": "bbae61718c6fd3770a85d83ff184587e2b6f55466388198014c8cae4ad60ed50"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 723,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 343,
+      "markdown_sha256": "5cd265de6427750b315f3758cdc7c90a115dfbed5e84bebab2f4c547c1f697a1",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": 723,
+      "previous_public_revision_id": 723,
+      "revision_id": 41834,
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z"
+    }
+  ],
+  "site_revision_count": 1
+}

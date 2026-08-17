@@ -1,0 +1,94 @@
+### Agenda
+- Check in
+- Opening Blessing
+- Review WWWs
+- Weekly event logistics
+- Year Plan
+- Review Agenda
+- Calendar
+- Evaluations
+- Closing Blessing
+
+### Check-in
+- Eric … I took another step on my video, recording it while walking in the forest with my dogs
+- Ben … I had a weirdly wonderful day yesterday (not all of it was wonderful, but the date with my non-girlfriend was wonderful) ... And right now I am exhausted from my 10 minute rowing machine exercise.
+
+### Opening Blessing
+We live in a world that inspires us to both great praise at its wonder and great grief at the pain that suffuses it.  May we find the best lives we can live in this duality of beauty and suffering.  May we [Bring Life](/Bring_Life). --Blessed Be
+
+### WW(W)s from last time
+#### Ongoing
+- Brandon … Try for a streak of 3 days in a row with bedtime at 9:30 every night, wake up with alarm at 5:30
+- Brandon … Meditate regularly (at least 3) with Eric
+- Brandon … Coach regularly (at least 3) with Ted
+- Ben … Send Brandon/Eric a video message each day about what I did and watch theirs
+- <s>Ben … meditate regularly with Eric</s>
+- Ben … spend at least 15 minutes a day on my story
+- <s>Eric … Send Brandon/Ben a video message each day about what I did and watch theirs
+- Eric … Work on Buckleberry or Auberge Paradis at least 15 minutes a day
+- Eric … Meditate regularly with Ben</s>
+- Eric … Meditate regularly with Brandon
+- <s>Eric … Practice viscerally connecting with Gaia at least once a week.</s>
+
+#### Time-specific
+- Ben … draft the Winter Newsletter … by next call
+- Ben … update the News section … by next call
+
+### WW(W)s
+#### Ongoing
+- Brandon … Try for a streak of 3 days in a row with bedtime at 9:30 every night, wake up with alarm at 5:30
+- Brandon … Meditate regularly (at least 3) with Eric
+- Brandon … Coach regularly (at least 3) with Ted
+- Ben … Send Brandon/Eric a video message each day about what I did and watch theirs
+- Ben … meditate regularly with Eric
+- Ben … spend at least 15 minutes a day on my story
+- Eric … Send Brandon/Ben a video message each day about what I did and watch theirs
+- Eric … Work on Buckleberry or Auberge Paradis at least 15 minutes a day
+- Eric … Meditate regularly with Ben</s>
+- Eric … Meditate regularly with Brandon
+- Eric … Practice viscerally connecting with Gaia at least once a week.
+
+#### Time-specific
+- Ben … draft the Winter Newsletter … by next call
+- Ben … update the News section … by next call
+
+### Weekly Events Logistics
+Service rotation: Eric, Ben, Brandon, Rico, Shelley
+- April 8 Service: 8:00 AM PST / 11:00 EST … Brandon
+- April 9  Business Call: 8:00 AM PST / 11:00 EST
+
+### Year Plan
+#### May Day
+- The Sanders can't celebrate it on the weekend of May 6 and 7 in Portland, because it's Shelley's birthday weekend.
+- Eric heard about a tree planting opportunity on the radio: Forests Ontario's 50-Million-Tree Program (http://www.forestsontario.ca/community/get-involved/volunteer/) 
+  - Ecology Ottawa (https://treeottawa.org/) doesn't have anything advertised, although they are talking about experimenting with injecting garlic into trees to ward off an invasive species
+
+#### Summer Solstice
+- Ben thinks we should do an outdoor [Drumming the Eons](/Drumming_the_Eons) event simultaneously on both sides of the continent and connect them via Skype (Eric: ||||,)
+
+#### September trip
+- Ben would be happy to go back to the Museum of Nature
+- The Aviation and Space Museum is a good idea … they have simulators and biplane rides
+- Playing Martian Rails!
+- Bike ride in Gatineau Park and along the Ottawa River
+  - See the fall colors in Gatineau, probably
+  - Stop by Parliament and museums
+- Bike from Buckleberry to Grey Cliff and back (60 km each way!)  (lots of fall colours)
+
+### Calendar
+- Ben: I would still like one for this year ... better late than never.
+- Eric: I have the dates largely prepared … you could choose the 8 images
+- Eric: This time we could each print our own
+
+#### Image ideas
+- Genesis:
+  - https://apod.nasa.gov/apod/ap141216.html
+  - http://www.universoracionalista.org/a-hipotese-de-oparin-e-o-nascimento-da-quimica-prebiotica-experimental/
+- Conflatorium: http://www.space.com/images/i/000/018/278/original/nasa-icescape-sea-ice-sunset.jpg?1339101937
+
+### Evaluation
+- Ben … I like cool images and I am really looking forward to finally seeing Gatineau and Buckleberry.
+- Eric … I'm looking forward to showing you Buckleberry and Gatineau, and looking forward to making cool things with you like videos and calendars.
+
+### Closing Blessing
+We came together in part to praise the wonder of this beautiful world. Through our work on documents that awaken within ourselves and others awe for the beauty of the world, we are doing that work. May we Bring Life.  -- Blessed Be

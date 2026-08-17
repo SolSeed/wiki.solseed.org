@@ -1,0 +1,43 @@
+{
+  "canonical_path": "/File:Brandon_and_Shelley's_Solstice_2011_photos.jpg",
+  "current_revision_id": 42442,
+  "database_title": "Brandon_and_Shelley's_Solstice_2011_photos.jpg",
+  "display_title": "File:Brandon and Shelley's Solstice 2011 photos.jpg",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 6,
+  "original_revision_count": 1,
+  "page_id": 1444,
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "BenSibelman",
+      "comment": "Thumbnails for the photos [[Brandon]] and [[Shelley]] took during the [[Summer Solstice 2011]] hike.",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 42442,
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": 2881,
+      "same_as_previous_public": false,
+      "timestamp": "2011-07-24T04:21:45Z",
+      "wikitext_bytes": 100,
+      "wikitext_sha256": "9730386a1e22578ef433e753130f330363b4ee46ac01c4de03f441bf7016da21"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 2881,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 138,
+      "markdown_sha256": "19aaf0bb3977e107a2f4a040e7fd7bc0ada44d320076574a62ddbf52676a7bec",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": 2881,
+      "previous_public_revision_id": 2881,
+      "revision_id": 42442,
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z"
+    }
+  ],
+  "site_revision_count": 1
+}

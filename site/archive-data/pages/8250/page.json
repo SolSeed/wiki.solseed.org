@@ -1,0 +1,48 @@
+{
+  "canonical_path": "/File:Great_horned_owl.JPG",
+  "current_revision_id": "42553",
+  "database_title": "Great_horned_owl.JPG",
+  "display_title": "File:Great horned owl.JPG",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 6,
+  "original_revision_count": 1,
+  "page_id": "8250",
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "BenSibelman",
+      "comment": "A presenter from the Oregon Raptor Center shows us a great horned owl at [[Earth Day 2012]] in Silverton.",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": "42553",
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": "11421",
+      "same_as_previous_public": false,
+      "timestamp": "2012-04-28T19:52:18Z",
+      "wikitext_bytes": 105,
+      "wikitext_sha256": "e3e93f7aa43336d117d9a84b8e30758e42a83d5106156e8ba0ca1ed38a4c5c45",
+      "source_format": "wikitext",
+      "source_extension": "wiki"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 11421,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 121,
+      "markdown_sha256": "7c7921b00c8386aa4726022aa1ed1824222c5d64ca518aedf9827f3ccfff02ce",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": "11421",
+      "previous_public_revision_id": "11421",
+      "revision_id": "42553",
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z",
+      "wikitext_bytes": 121,
+      "wikitext_sha256": "7c7921b00c8386aa4726022aa1ed1824222c5d64ca518aedf9827f3ccfff02ce",
+      "source_extension": "md"
+    }
+  ],
+  "site_revision_count": 1
+}

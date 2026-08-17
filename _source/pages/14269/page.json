@@ -1,0 +1,56 @@
+{
+  "canonical_path": "/Geodesic_dome_building",
+  "current_revision_id": 42621,
+  "database_title": "Geodesic_dome_building",
+  "display_title": "Geodesic dome building",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 2,
+  "page_id": 14269,
+  "published_revision_count": 2,
+  "revisions": [
+    {
+      "author": "BenSibelman",
+      "comment": "Created page",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 17942,
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": 17940,
+      "same_as_previous_public": false,
+      "timestamp": "2012-07-22T23:11:13Z",
+      "wikitext_bytes": 334,
+      "wikitext_sha256": "c549f44f728766a774491aa16352e8d2bd472adf85736193b40c41f73d009b72"
+    },
+    {
+      "author": "BenSibelman",
+      "comment": "Smaller images",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 42621,
+      "original_parent_revision_id": 17940,
+      "previous_public_revision_id": 17940,
+      "revision_id": 17942,
+      "same_as_previous_public": false,
+      "timestamp": "2012-07-22T23:13:20Z",
+      "wikitext_bytes": 346,
+      "wikitext_sha256": "39c371900059596630c491b164e9eefd0a7e784681f4ede48acf9b0648f23c72"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 17942,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 381,
+      "markdown_sha256": "0664685cda83c0667cc13d1052d3fb69433ad643501a04b0794904f588670775",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": 17942,
+      "previous_public_revision_id": 17942,
+      "revision_id": 42621,
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z"
+    }
+  ],
+  "site_revision_count": 1
+}

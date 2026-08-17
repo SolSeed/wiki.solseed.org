@@ -1,0 +1,43 @@
+{
+  "canonical_path": "/File:Reading_a_story_to_the_kids_on_the_back_porch.JPG",
+  "current_revision_id": 42243,
+  "database_title": "Reading_a_story_to_the_kids_on_the_back_porch.JPG",
+  "display_title": "File:Reading a story to the kids on the back porch.JPG",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 6,
+  "original_revision_count": 1,
+  "page_id": 687,
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "BenSibelman",
+      "comment": "A photo from the [[LongestDayParty]].",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 42243,
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": 1753,
+      "same_as_previous_public": false,
+      "timestamp": "2010-07-30T04:28:27Z",
+      "wikitext_bytes": 37,
+      "wikitext_sha256": "20c46207e451527b12997a1f63c296f79fb4e908b1324073c55a96d6b4f4ca5c"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 1753,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 54,
+      "markdown_sha256": "d4844382d0a0a03a90a370ae5621d6ed83373a3dd8ffc6b45c316dc41c52e82e",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": 1753,
+      "previous_public_revision_id": 1753,
+      "revision_id": 42243,
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z"
+    }
+  ],
+  "site_revision_count": 1
+}

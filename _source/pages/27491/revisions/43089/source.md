@@ -1,0 +1,34 @@
+### Thursday Agenda
+- Check in
+
+- Opening Blessing
+
+- Logistics for Saturday
+
+- Project Work
+  - Brandon: start writing a Gaian perspectives blogpost for Humanistic Paganism
+  - Brandon: work on the SolSeed hosting/website
+  - Ben: Try again to send a letter to my sponsored child
+  - Ben: Do more work on the Shiny Green Festival notes
+  - Ben: Work on the "[Gospel According to Ben](/SolSeed:The_Book_of_Life)"
+  - Ben: listen to the Lovolution podcast
+
+- Evaluation
+
+- Closing Blessing
+
+### Check In
+- Brandon … I have a bunch more interviews scheduled … trying to prepare for them better … feeling like I have a lot to do
+
+- Ben … I feel like I have oddly little to do at work … we had lots of bugs that we moved to the next sprint … I have some tasks but they are all on hold … at least I’m done with the standards of business conduct training
+
+### Opening Blessing
+As we work with kindred, may we find comfort and resonance. May our work align with our aspirations.  -- Blessed Be
+
+### Evaluation
+- Brandon … It was fun
+
+- Ben … I guess I’m proud of having worked on four different things, trying to decide how I feel about DN’s notion of collectivizing Facebook and using it to build a world government
+
+### Closing Blessing
+There are many different paths within the great path we seek to walk toward the Great Birthing.  We must choose wisely which paths to walk at what times.  We will continue to do the work that seems best to us.  May this work prove fruitful. -- Blessed Be

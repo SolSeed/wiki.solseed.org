@@ -1,0 +1,82 @@
+{
+  "canonical_path": "/Contributing_Member",
+  "current_revision_id": 42342,
+  "database_title": "Contributing_Member",
+  "display_title": "Contributing Member",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 4,
+  "page_id": 786,
+  "published_revision_count": 4,
+  "revisions": [
+    {
+      "author": "Brandon CS Sanders",
+      "comment": "Created page with \"A contributing member is a [[JoiningTheMovement|Member By Declaration]] who also contributes generously within their means (time and/or money) to the movement every single month ...\"",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 2034,
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": 2033,
+      "same_as_previous_public": false,
+      "timestamp": "2010-12-05T03:26:15Z",
+      "wikitext_bytes": 210,
+      "wikitext_sha256": "8ca20f1a10b2da407022ce638279e2986b2608864ca5a1280c4bbe19e7a09662"
+    },
+    {
+      "author": "Brandon CS Sanders",
+      "comment": "",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 39394,
+      "original_parent_revision_id": 2033,
+      "previous_public_revision_id": 2033,
+      "revision_id": 2034,
+      "same_as_previous_public": false,
+      "timestamp": "2010-12-05T03:29:15Z",
+      "wikitext_bytes": 357,
+      "wikitext_sha256": "0f16350762d9b1b2045dc4b01d765911d42d21676e0e9f2dee504174b93a00d4"
+    },
+    {
+      "author": "Brandon CS Sanders",
+      "comment": "",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 39864,
+      "original_parent_revision_id": 2034,
+      "previous_public_revision_id": 2034,
+      "revision_id": 39394,
+      "same_as_previous_public": false,
+      "timestamp": "2013-08-11T20:45:05Z",
+      "wikitext_bytes": 373,
+      "wikitext_sha256": "e106314a16aeac8d97d961c1c4691ce47d08735a16119f8d666172a922d2b409"
+    },
+    {
+      "author": "Brandon CS Sanders",
+      "comment": "Include the most recent month",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 42342,
+      "original_parent_revision_id": 39394,
+      "previous_public_revision_id": 39394,
+      "revision_id": 39864,
+      "same_as_previous_public": false,
+      "timestamp": "2014-07-06T22:18:52Z",
+      "wikitext_bytes": 383,
+      "wikitext_sha256": "47d19ad63dc6d2d32e984da158a37b5058e53d08cb3f143ebc9d147aa9211b88"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 39864,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 458,
+      "markdown_sha256": "75b16e715bb964130e197d4998b6bad6cf5a502c90a4abf91e346e82435d4d4d",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": 39864,
+      "previous_public_revision_id": 39864,
+      "revision_id": 42342,
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z"
+    }
+  ],
+  "site_revision_count": 1
+}

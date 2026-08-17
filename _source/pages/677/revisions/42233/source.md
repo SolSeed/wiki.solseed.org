@@ -1,0 +1,80 @@
+### Agenda
+- Review WWWs
+- SpaceWiki
+- Book
+- 1 Page Plan
+- Outreach
+- Curious Little Rocket/Happy in the Sun 
+- Kindred 2010
+
+### WWWs from last time
+- <s>Brandon ... suggest a lunch or breakfast with Jair via email ... by Monday
+- Brandon ... create a $40 adwords campaign ... just for practice ... by  Monday
+- Brandon ... replace background with SpaceWiki skin v0.01 from Ben and clear out logo ... by Monday
+- Brandon ... let Ryan know we'd really like to have the logo cartoon ... by Tuesday</s>
+- Ben ... read the help for adwords ... by next call
+- <s>Ben ... compile cartoons into the SpaceWiki skin v0.1 (top edge image) ... by Saturday
+- Shelley ... buy groceries and clean the house for the person doing the adwords :-)</s>
+
+### SpaceWiki
+- AddUser script
+- Signage for booth
+- Print caricatures we have
+- Get materials for printing and cutting caricatures
+- Connect with potential sponsors
+
+### Book
+Started on Chapter 3: [Reconnecting with Mother Earth](/Reconnecting_with_Mother_Earth) and wrote 709 words
+
+### [OnePagePlan](/OnePagePlan)
+#### Goals (1 Year)
+- Income run rate of $100,000/year (~$9000/month) -- Brandon
+- Place: Ownership of a site by Winter Solstice 2010 -- not Mark anymore
+  - Note: We could say we've already met this goal if Brandon and Shelley's house is the initial site
+- Media: Publish 2 SolSeed books, a 15 minute video, and a great website -- Ben
+  - 2nd book hasn't moved in months
+  - Website: front page looks cooler, but need to work on it more
+- Spiritual Community: Regular, impactful ceremonies led by  multiple people -- Shelley
+  - Going very well
+
+#### 3rd Quarter Goals
+- SpaceWiki:
+  - Yellow ... Created sponsor-specific inspiring materials and approached one potential sponsor with those materials
+  - Green ... One thorough sponsorship campaigns
+  - Super Green ... Five thorough sponsorship campaigns
+
+- Place:
+  - Yellow ... firm decision and commitment for pocket cottage timeline
+  - Green ... inspiring concept plans for the pocket cottage
+  - Super Green ... plans you could build from, and a builder
+
+- Media:
+  - Yellow ... work on it every other week, average 250 words/week (500 per sesson)
+  - Green ... average 500 words/week for the big book all quarter
+  - Super Green ... average 1400 words/week for the big book all quarter
+
+### Outreach
+- Brandon met with Gus
+- Molly & Matthew coming over later
+
+### Children's book
+- Kevin is working on the book, Brandon needs to send images
+
+### Kindred 2010
+- We may get Gus as a co-convener with his organizations, Green Grange and a Mars group
+
+### WWWs
+- Brandon ... images to Kevin
+- Brandon ... script to add users to spacewiki.com
+- Brandon ... find and revive script for adding people's names to their caricatures
+- Brandon ... touch base with 1 potential sponsor
+- Brandon ... touch base with conference organizers
+- Brandon ... take a cropped eco-village mural painting photo
+- Brandon ... refresh email to Maggie
+- Brandon ... give Sherry info about how to sign up
+- Shelley ... order ink for caricature printer
+- Shelley ... check airline for carry-on dimensions for printer
+- Shelley  ... upload the mural photo to the wiki
+- Ben ... print out caricatures 4"x6" on glossy photo paper and SpaceWiki sign on plain paper ... by next call
+- Ben ... put together some materials for the cottage (floorplan, maybe a crude 3D visualization) ... by next call
+- Ben ... create [Space Hippies](/Space_Hippies) page on the wiki ... by next call

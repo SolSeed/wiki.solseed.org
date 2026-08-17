@@ -1,0 +1,43 @@
+{
+  "canonical_path": "/November_22,_2015:_Business_Call",
+  "current_revision_id": 43104,
+  "database_title": "November_22,_2015:_Business_Call",
+  "display_title": "November 22, 2015: Business Call",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 1,
+  "page_id": 27506,
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "BenSibelman",
+      "comment": "Created page from the Google doc",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 43104,
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": 40673,
+      "same_as_previous_public": false,
+      "timestamp": "2015-11-23T04:49:37Z",
+      "wikitext_bytes": 8754,
+      "wikitext_sha256": "82e01c0bcc646dcc3f6d4890567d1549021a4ce28d9074d55ac9975d00cab55d"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 40673,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 8720,
+      "markdown_sha256": "349c46223f208aa5f0e62a17e55e27a6c4cb6200ca32ae74e9871ec19bd7784c",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": 40673,
+      "previous_public_revision_id": 40673,
+      "revision_id": 43104,
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z"
+    }
+  ],
+  "site_revision_count": 1
+}

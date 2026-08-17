@@ -1,0 +1,1 @@
+An artists conception of an exoplanet with its red sun in the distance and the following quote on a background of stars, "The More Life Thrives In the Universe The More it Will Thrive."

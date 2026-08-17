@@ -1,0 +1,140 @@
+=== Drumming the Eons ==
+
+This is a ritual we celebrate every year on the Summer Solstice, starting at [[Sol 2012]], to help experience the history of [[life]] on [[Earth]] by compressing the planet's lifespan to date into 18 minutes and 45 seconds. We use drums to represent the passage of millions of years, one million per drumbeat. One fact made clear by this experience is the dramatic acceleration of events as we get closer to the present, although this may be partly an artifact of the difficulty of studying the extremely deep past.
+
+{| border=1
+!Event
+!Approx. date
+!Number of drumbeats
+!Time
+|-
+|Beginning of Late Heavy Bombardment
+|4.1 billion years ago
+|400
+|1 min 40 sec
+|-
+|Origin of life
+|3.8 billion years ago
+|700
+|2 min 55 sec
+|-
+|First photosynthetic organisms
+|3.5 billion years ago
+|1000
+|4 min 10 sec
+|-
+|First cyanobacteria
+|3 billion years ago
+|1500
+|6 min 15 sec
+|-
+|Oxygenation of the air
+|2.4 billion years ago
+|2100
+|8 min 45 sec
+|-
+|First eukaryotes
+|2 billion years ago
+|2500
+|10 min 25 sec
+|-
+|Early proto-fungi
+|1.43 billion years ago
+|3070
+|12 min 47 sec
+|-
+|Origin of sex, first multicellular organisms
+|1.2 billion years ago
+|3300
+|13 min 45 sec
+|-
+|Beginning of Cryogenian period
+|850 million years ago
+|3650
+|15 min 12 sec
+|-
+|End of Cryogenian
+|630 million years ago
+|3870
+|16 min 7 sec
+|-
+|Avalon explosion (Ediacaran biota)
+|575 million years ago
+|3925
+|16 min 21 sec
+|-
+|Cambrian explosion
+|530 million years ago
+|3970
+|16 min 32 sec
+|-
+|First vertebrates
+|485 million years ago
+|4015
+|16 min 44 sec
+|-
+|Arthropods appear on land
+|450 million years ago
+|4050
+|16 min 52 sec
+|-
+|First land plants
+|434 million years ago
+|4066
+|16 min 56 sec
+|-
+|First insects
+|400 million years ago
+|4100
+|17 min 5 sec
+|-
+|First amphibians
+|368 million years ago
+|4132
+|17 min 13 sec
+|-
+|First reptiles
+|320 million years ago
+|4180
+|17 min 25 sec
+|-
+|End-Permian extinction event
+|252 million years ago
+|4248
+|17 min 42 sec
+|-
+|First dinosaurs
+|230 million years ago
+|4270
+|17 min 47 sec
+|-
+|First mammals
+|210 million years ago
+|4290
+|17 min 52 sec
+|-
+|Early birds
+|150 million years ago
+|4350
+|18 min 7 sec
+|-
+|Extinction of the dinosaurs
+|65 million years ago
+|4435
+|18 min 29 sec
+|-
+|Earliest hominids/apes
+|14 million years ago
+|4486
+|18 min 41 sec
+|-
+|Appearance of Australopithecus
+|4 million years ago
+|4496
+|18 min 44 sec
+|-
+|First humans
+|200 thousand years ago
+|4500
+|18 min 45 sec
+|}

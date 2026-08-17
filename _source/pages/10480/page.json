@@ -1,0 +1,56 @@
+{
+  "canonical_path": "/June_10,_2012:_Online_Work_Bee",
+  "current_revision_id": 42587,
+  "database_title": "June_10,_2012:_Online_Work_Bee",
+  "display_title": "June 10, 2012: Online Work Bee",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 2,
+  "page_id": 10480,
+  "published_revision_count": 2,
+  "revisions": [
+    {
+      "author": "BenSibelman",
+      "comment": "Created page from the EtherPad, with adjustments",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 13763,
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": 13762,
+      "same_as_previous_public": false,
+      "timestamp": "2012-06-10T21:54:33Z",
+      "wikitext_bytes": 8311,
+      "wikitext_sha256": "95422275ada17e9b11559142de4027f9fd7ce4280706c92a72e7ff9c262b9e9e"
+    },
+    {
+      "author": "BenSibelman",
+      "comment": "/* WWWs from last time */",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 42587,
+      "original_parent_revision_id": 13762,
+      "previous_public_revision_id": 13762,
+      "revision_id": 13763,
+      "same_as_previous_public": false,
+      "timestamp": "2012-06-10T21:55:40Z",
+      "wikitext_bytes": 8346,
+      "wikitext_sha256": "875eaba6cb9690cd316332c56d849decf924e7649d9b9a44e3ab57bd160deea6"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 13763,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 8383,
+      "markdown_sha256": "dfbe2d9cbbc5d00d8b77cb91e28043f9b5c16f5e0e80a461c48710821ccc761a",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": 13763,
+      "previous_public_revision_id": 13763,
+      "revision_id": 42587,
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z"
+    }
+  ],
+  "site_revision_count": 1
+}

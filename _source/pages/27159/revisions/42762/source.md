@@ -1,0 +1,29 @@
+Religion-shaped hole 
+
+Human beings tend to have a religion-shaped hole, that is, a set of desires that are fulfilled only by participating in a religion, or at least in an institution that resembles a religion. To this date, for most humans, religion of some sort is part of their makeup and a source of meaning in their lives. 
+
+To fill the hole we need something that is the right shape and so the answer to the question, "What is a religion?" becomes, "Anything that is shaped like a religion. "  and the exercise becomes one of describing the shape of a religion.
+
+Religions have several components and attributes that distinguish them from other institutions and systems of thought.  Firstly, they are both a system of thought and an institution or community that brings together people who share the system of thought and organizes their efforts to express it.
+
+This is why people who say "I am spiritual but not religious. " usually also say that they don't like organized religion.  Usually one organized religion traumatized them and they have rejected all organized religion on that basis so they call what they are doing spiritualism because it lacks the institutional aspect necessary for them to consider it  a religion.
+
+This is why I say I am religious but not spiritual, because I am interested in being brought together with others who share my system of thought but I am not interested in the usual supernaturalism associated with spirituality.
+
+Another attribute of religions is that they use shared established rituals to help their members come together and celebrate their system of thought as one.  This aspect of religions provides an important benefit to humans ; we have evolved in tightly bound social groups and we are happier when we are immersed in that ancient habitat.   Religion provides that habitat by binding us together with ritual and group identity.
+
+![SocialChimps.jpg](/assets/uploads/SocialChimps.jpg)
+
+The strength of that binding is highly variable.  Some religions have rules that govern almost every aspect of your life with strict penalties.  Theocracies have powerful priesthoods which use the binding capacity of religion as a means to control whole societies.  At the other end of the spectrum are religions in which rituals are spectatorial and there are no rules to follow: simply knowing the thought system and watching the ritual is enough.  These extremes both miss out on the benefit.  Too much binding and the religion becomes oppressive destroying any happiness it might otherwise create.   Too little binding and it will fail to create the feeling of group unity needed to achieve the psychological benefit, happiness.
+
+The final aspect of religions which I would like to describe (There are undoubtedly many more) is that they choose values.  They answer questions like, "What is important? " .  In my opinion they should not try to answer questions about what is or was or even will be.  Many religions try to answer factual questions of this sort and their failures are embarrassing. Science is so good at answering factual questions that it is best for religion to stay out of that niche.
+
+But science has little to say about values.  Economics might say something about the price of 4 liters of milk but if you ask a question like, "Should we value beauty or truth more highly?" or "Should we value life over liberty?" science will generally say that it doesn't understand the question.
+
+This is the territory of religions.  It is not the territory of religion singular.  These are questions of taste.  Values are governed by aesthetics and morality is a subset of aesthetics.  Each religion must be free to choose its own values and if no religion exists which matches the values of an individual then each individual must be free to invent his own religion.  But for best results that individual will need to attract a community of like-minded people to his religion.
+
+Religions must come up with answers to the big value questions like "What should be the goal of humanity?" and "What is the most valuable thing in the universe?". There are many good answers to such questions but in order to live a meaningful life we each must choose a set of answers.
+
+I believe that parents should not force, bribe nor threaten their children into joining their religion.  Neither should religions accept into their systems of thought, meme-traits which use negative emotions like fear or guilt to discourage apostatism.  It's cheap and demeaning and manipulative.  Apostates are the universe's way of reminding religions that there is no "one true way" and of warning religions that they may have begun to drift into idolatry.
+
+l encourage each and every person to seek through experience and thought and dialogue to find or invent a religion with a wise system of thought and a caring supportive community.  Choose a religion with rituals which are fun, beautiful, and which remind you to live your life according to its system of thought.  Choose a religion which binds you to its community strongly enough that it becomes central to your identity but not so strongly that you feel trapped.  Do not accept within your religion the use of fear or guilt in this binding.  Instead celebrate apostates for what they can teach you.  Ensure that you do not choose a religion which flies in the face of science trying feebily to answer factual questions. Finally choose a religion which lives by and celebrates a deep meaning which speaks to you.  Do all this and you are likely to find happiness and to fill your religion-shaped hole with something good and wholesome.

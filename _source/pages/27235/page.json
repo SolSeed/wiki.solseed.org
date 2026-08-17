@@ -1,0 +1,43 @@
+{
+  "canonical_path": "/Book_of_Days",
+  "current_revision_id": 42836,
+  "database_title": "Book_of_Days",
+  "display_title": "Book of Days",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 1,
+  "page_id": 27235,
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "Brandon CS Sanders",
+      "comment": "Redirected page to [[SolSeed Book of Days]]",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 42836,
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": 39720,
+      "same_as_previous_public": false,
+      "timestamp": "2014-05-18T22:56:19Z",
+      "wikitext_bytes": 34,
+      "wikitext_sha256": "5098cbbd431f3edc37d961c441d2c967b7241777bc932acde04552c62966c74d"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 39720,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 79,
+      "markdown_sha256": "ab545e27605a7c65c0510d78ee6922d99bee1b37b266e8d2f737929195d3eb46",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": 39720,
+      "previous_public_revision_id": 39720,
+      "revision_id": 42836,
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z"
+    }
+  ],
+  "site_revision_count": 1
+}

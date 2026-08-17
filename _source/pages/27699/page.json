@@ -1,0 +1,56 @@
+{
+  "canonical_path": "/Miser_and_the_Phospholipid_Balloons",
+  "current_revision_id": 43297,
+  "database_title": "Miser_and_the_Phospholipid_Balloons",
+  "display_title": "Miser and the Phospholipid Balloons",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 2,
+  "page_id": 27699,
+  "published_revision_count": 2,
+  "revisions": [
+    {
+      "author": "EricSaumur",
+      "comment": "Created page with \"Miser had a mind like none that had come before (at least as far as it knew).  Its mind extended over the entire surface of a world, a network of interconnected sub-minds working...\"",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 41229,
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": 41228,
+      "same_as_previous_public": false,
+      "timestamp": "2018-03-30T16:32:19Z",
+      "wikitext_bytes": 7198,
+      "wikitext_sha256": "e117b565cd6cd88d789a052cf28067b96f080e3f32f4ed497a0ad87246c69488"
+    },
+    {
+      "author": "EricSaumur",
+      "comment": "",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 43297,
+      "original_parent_revision_id": 41228,
+      "previous_public_revision_id": 41228,
+      "revision_id": 41229,
+      "same_as_previous_public": false,
+      "timestamp": "2018-03-30T16:51:57Z",
+      "wikitext_bytes": 7719,
+      "wikitext_sha256": "f3c6e39086385e280229755cb52845e03047050919183ed343e5ab76c191eaf8"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 41229,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 7720,
+      "markdown_sha256": "82942278396b1d1f80f9e044a109604bd486b84f9ade522e67ef2b0867e65101",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": 41229,
+      "previous_public_revision_id": 41229,
+      "revision_id": 43297,
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z"
+    }
+  ],
+  "site_revision_count": 1
+}

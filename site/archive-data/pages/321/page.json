@@ -1,0 +1,63 @@
+{
+  "canonical_path": "/File_talk:SolSeedEmblemThumbnail.jpg",
+  "current_revision_id": "41885",
+  "database_title": "SolSeedEmblemThumbnail.jpg",
+  "display_title": "File talk:SolSeedEmblemThumbnail.jpg",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 7,
+  "original_revision_count": 2,
+  "page_id": "321",
+  "published_revision_count": 2,
+  "revisions": [
+    {
+      "author": "Capthraw",
+      "comment": "New page: Howdy!  Just found this site and organization. I must say that from what I have read, you folks seem to be on the same wave length as I am! I am going to try and pop over to the coast duri...",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": "882",
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": "881",
+      "same_as_previous_public": false,
+      "timestamp": "2009-06-04T14:34:22Z",
+      "wikitext_bytes": 958,
+      "wikitext_sha256": "9565b02b6b9753ba68ea43f85f48726430fe22608ed14b3b942b4f232843c9fd",
+      "source_format": "wikitext",
+      "source_extension": "wiki"
+    },
+    {
+      "author": "Capthraw",
+      "comment": "",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": "41885",
+      "original_parent_revision_id": "881",
+      "previous_public_revision_id": "881",
+      "revision_id": "882",
+      "same_as_previous_public": false,
+      "timestamp": "2009-06-04T14:34:54Z",
+      "wikitext_bytes": 960,
+      "wikitext_sha256": "202cadffc2002cba0ae531fe418c53437d1954ff5b51b4bc7d2109f6dd48568d",
+      "source_format": "wikitext",
+      "source_extension": "wiki"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 882,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 961,
+      "markdown_sha256": "cdda12cc410039979b2ce09ccf01f707c479802f2c4e6a2de3f6d9310f743330",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": "882",
+      "previous_public_revision_id": "882",
+      "revision_id": "41885",
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z",
+      "wikitext_bytes": 961,
+      "wikitext_sha256": "cdda12cc410039979b2ce09ccf01f707c479802f2c4e6a2de3f6d9310f743330",
+      "source_extension": "md"
+    }
+  ],
+  "site_revision_count": 1
+}

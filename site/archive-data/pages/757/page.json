@@ -1,0 +1,48 @@
+{
+  "canonical_path": "/Living_in_Space",
+  "current_revision_id": "42313",
+  "database_title": "Living_in_Space",
+  "display_title": "Living in Space",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 1,
+  "page_id": "757",
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "BenSibelman",
+      "comment": "moved [[Living in Space]] to [[Taking Root Amongst the Stars]]: Consolidating the chapters about [[The Destiny]] into one",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": "42313",
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": "1949",
+      "same_as_previous_public": false,
+      "timestamp": "2010-11-09T06:06:05Z",
+      "wikitext_bytes": 43,
+      "wikitext_sha256": "d4c0e33413cfd93c044d637145f2ea308d8d03670109a682c65dcc1f645282ee",
+      "source_format": "wikitext",
+      "source_extension": "wiki"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 1949,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 97,
+      "markdown_sha256": "bb342a7f6c3247a0e39aecf2a7924e5439e0acf0c2966a68e3c00cfb68fac336",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": "1949",
+      "previous_public_revision_id": "1949",
+      "revision_id": "42313",
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z",
+      "wikitext_bytes": 97,
+      "wikitext_sha256": "bb342a7f6c3247a0e39aecf2a7924e5439e0acf0c2966a68e3c00cfb68fac336",
+      "source_extension": "md"
+    }
+  ],
+  "site_revision_count": 1
+}

@@ -1,0 +1,114 @@
+### Agenda
+- Check In
+- Review WWWs
+- Longest Night Festival
+- OnePagePlan
+- SpaceWiki
+- Newsletter
+- To-Do's for Tuesday
+- Consensus Polls
+
+### Check In
+- Shelley ... Working my ass off all day 
+- Honey Doll ... blows a kiss
+- Sequoia ... walked in the gardent today ... very fun ... teething so needed ibuprofen
+- Ben ... ben sleepy lately ... wonder if mom's melatonin suggestion has had reverse of intended effect
+- Brandon ... working hard ... AboutUs project is very high priority
+
+### WWWs from last time
+- <s>Brandon ... set up a test server for Ben to play around with ... by next call?
+- Brandon ... Get an acct with mailchimp to allow custom emails</s>, then proceed with SpaceWiki emails ... by next call
+- Brandon ... Get search working on SpaceWiki ... by next call
+- <s>Brandon ... Pls invite architect for potluck Thursday Dec. 23, 6 pm, our house ... by Monday</s>
+- Brandon ... email all "members by declaration" and invite them to participate ... by Monday (almost ready to send)
+- <s>Brandon ... email Shelley her WWWs ... by Monday
+- Brandon ... register seedvillage.org and seedvillage.net ... by tonight
+- Shelley ... try to schedule service call for Saturday to accommodate Jerry for next week ... by Thursday
+- Shelley ... call Lori tomorrow</s>
+- Shelley ... send out Music Festival Save the Date ... by Monday
+- Shelley ... invite Ted to the SolSeedBusiness Consensus Poll ... by Monday
+- Ben ... bring some challah from New Seasons ... Dec. 23 (?)
+- Ben ... invite my dad to become a [Member by Declaration](/Member_by_Declaration) and join one or both consensus polls ... by next call
+- <s>Ben ... prepare the service call ... by Friday
+- Ben ... make a version of the SpaceWiki companies page that is better  organized and where the images link to the company ... by next call</s>
+
+### Longest Night Festival
+- Ben can stay at the [Seed Village](/Seed_Village) the night before
+- Shelley is planning to have "very little" left to do on the day of
+  - 2 hours of food prep
+  - Brandon will help
+
+### [OnePagePlan](/OnePagePlan)
+#### 4th Quarter Goals
+- Outreach:
+  - Yellow: 
+    - <s>About page on SpaceWiki includes the guy we got it from and SolSeed ...  also have NewSpace 2010 featured as a sponsor</s>
+    - Choose to be either a nonprofit or a church first (http://solseed.org/Legal_Organization ) ... this will be red because we need to get more [Members by Declaration](/Members_by_Declaration) involved
+    - Put out a newsletter every month ... need one for December
+  - Green:
+    - <s>Go to one conference or convention</s>
+    - Get one more person contributing on the work-bee calls ... have one person trying it out (Gus)
+  - Super Green:
+    - Incorporate the nonprofit or church
+    - Transfer Earthseed.org to the nonprofit or church
+    - Get three more people contributing on the work-bee calls
+
+- <s>Business:
+  - Yellow: Business established (http://solseed.org/SolSeedBusiness )
+  - Green: Business is making actual money
+  - Super Green: Business is making $9000/month</s>
+
+- Spiritual Practice:
+  - Yellow: Solstice celebration ... about to happen
+  - Green: Short service once a week that is for Shelley, Ben, and Brandon ... just one to go
+  - Super Green: Initiate some sort of daily spiritual practice for BBS
+
+- Place:
+  - <s>Yellow: Advertise for the Eco-Village on Craigslist</s>
+  - Green: Have a meeting of people who respond to an ad about living in the eco-village ... no one has responded
+  - Super Green: Have the [SolSeedVillage](/SolSeedVillage) sign made and put up
+
+- Media:
+  - Yellow:
+    - Publish kid's book ... need to fix things based on the rough copy we had printed, which probably won't happen by end of year
+    - <s>Answer what the big book is for</s>
+  - Green: Draft of big book complete
+  - Super Green: Publish big book
+
+### SpaceWiki
+- Ben wants to know if alumni of SEDS chapters can contribute to the contest
+- New Companies page layout?
+  - Brandon: put name underneath picture
+
+### Newsletter
+- SEDS contest
+- OnePagePlan report ... getting a lot done ... proud ... but not hitting our goals in the plan ... need more Members by Declaration to up their involvement to Contributing Members
+- Longest Night Festival
+- If we meet with the architect
+
+### List of things to work on for Tuesday
+- [OnePagePlan](/OnePagePlan) for next year
+- Invitation to [Seed 2011](/Seed_2011)
+- Newsletter?
+
+### Consensus Polls
+Some progress made on [SolSeedBusiness](/SolSeedBusiness)
+
+### WWWs
+- Brandon ... send Ben Gus's contact info ... by tonight
+- Brandon ... email Shelley her WWWs ... by Tonight
+- Brandon ... prepare the service ... by next service
+- Brandon ... Send out SpaceWiki emails ... by next call
+- Brandon ... Get search working on SpaceWiki ... by next call
+- Brandon ... email all "members by declaration" and invite them to participate ... by Monday (almost ready to send)
+- Brandon ... get together with Kevin Fitzpatrick and make book finalization plan ... by end of year
+- Shelley ... send out Music Festival Save the Date ... by Wednesday
+- Shelley ... invite Ted to the SolSeedBusiness Consensus Poll ... by Monday
+- Shelley and Brandon ... finish preparations for the Longest Night Festival ... by Tuesday
+- Ben ... bring some challah from New Seasons ... Dec. 23 (?)
+- Ben ... invite my dad to become a [Member by Declaration](/Member_by_Declaration) and join one or both consensus polls ... by next call
+- Ben ... make sure SSH is set up on my machine ... by Tuesday
+- Ben ... email JM wondering how she found the [Longest Night Festival](/Longest_Night_Festival) ... by tonight
+- Ben ... invite Gus to next work bee call ... by next call
+- Ben ... put JHU and U of I on the SEDS Contest leaderboard, then ask the contributors to confirm ... by next call
+- Ben ... try another layout for SpaceWiki Companies page ... by next call

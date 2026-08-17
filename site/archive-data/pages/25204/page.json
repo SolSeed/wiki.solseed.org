@@ -1,0 +1,48 @@
+{
+  "canonical_path": "/August_26,_2012:_Online_Work_Bee",
+  "current_revision_id": "42632",
+  "database_title": "August_26,_2012:_Online_Work_Bee",
+  "display_title": "August 26, 2012: Online Work Bee",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 1,
+  "page_id": "25204",
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "EricSaumur",
+      "comment": "Created page with \" == Agenda == * Check In * Weekly Events Logistics * Review WWWs * Review Agenda * OnePagePlan * Evaluation   === Items for future meetings === * Children International * Space E...\"",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": "42632",
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": "35683",
+      "same_as_previous_public": false,
+      "timestamp": "2012-09-03T20:33:58Z",
+      "wikitext_bytes": 23903,
+      "wikitext_sha256": "ca44aa605ad7c6bcfaf27c94f645b906be205f56068bac5f5bfb7227bbcd9128",
+      "source_format": "wikitext",
+      "source_extension": "wiki"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 35683,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 24175,
+      "markdown_sha256": "735fc4e6a483c5ae6fa1f2fb5bfa7a8113307e9c079afd4067fbf23e5480c2a9",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": "35683",
+      "previous_public_revision_id": "35683",
+      "revision_id": "42632",
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z",
+      "wikitext_bytes": 24175,
+      "wikitext_sha256": "735fc4e6a483c5ae6fa1f2fb5bfa7a8113307e9c079afd4067fbf23e5480c2a9",
+      "source_extension": "md"
+    }
+  ],
+  "site_revision_count": 1
+}

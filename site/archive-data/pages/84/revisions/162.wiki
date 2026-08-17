@@ -1,0 +1,25 @@
+Hi, I'm Ben Sibelman, a software developer at [http://www.microsoft.com Microsoft] in Redmond, Washington.  This is me with my most recently acquired poster, which nicely sums up my desire for large-scale, long-term perspective, and one of my favorite T-shirts, which represents my belief in the power of grassroots [[SolSeedMovement|movements]] and [[SolSeedCommunity|communities]] to change the world.  (To hear and read Carl Sagan's Pale Blue Dot speech shown illegibly in the photo, [http://www.youtube.com/watch?v=fFpFlKy1Pso go here.])
+
+[[Image:BenSibelman.jpg]]
+
+Currently, I'm working on the [http://get.live.com/photogallery/overview Windows Live Photo Gallery], a free downloadable tool for organizing and sharing your favorite "digital memories" or works of photographic art.
+
+My previous employer was the Environmental Systems Research Institute (ESRI), which is a bit of a misnomer these days: they sell mapmaking and geographic analysis software to corporations, governments, and other organizations.  Some of this software is used for ecology and conservation work, but I ended up on the team that makes nautical charting software.  Such is life.
+
+But ESRI's CEO, Jack Dangermond, is a fervent environmentalist.  As he is fond of saying, the geographic perspective is a global one, ideal for managing and sustaining the planet we call home.  And that's my perspective, too: I think best on the general, large-scale, long-term level.
+
+My goals are very ambitious: I'm hoping to help shape [[SolSeed]] into what Harvey Mudd Professor [http://www.hmc.edu/academicsclinicresearch/academicdepartments/humanitiesandsocialsciences1/faculty1/paulsteinberg.html Paul Steinberg] calls a Thousand-Year Institution, one that could help maintain some of the core principles needed for a truly sustainable civilization.
+
+You can also check out
+
+[http://living-worlds.org my website, Living Worlds Productions]
+
+and
+
+[http://scifiben.livejournal.com my blog, Thoughts on the Environmental Crisis].
+
+--[[User:Scifiben|Scifiben]] 21:37, 8 November 2008 (UTC)
+{{DEFAULTSORT:Scifiben}}
+
+[[Category:SolSeed]]
+[[Category:SolSeedMovement]]

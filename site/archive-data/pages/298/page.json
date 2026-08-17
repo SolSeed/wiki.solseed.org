@@ -1,0 +1,63 @@
+{
+  "canonical_path": "/April_28,_2009:_Sol_2009",
+  "current_revision_id": "41863",
+  "database_title": "April_28,_2009:_Sol_2009",
+  "display_title": "April 28, 2009: Sol 2009",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 2,
+  "page_id": "298",
+  "published_revision_count": 2,
+  "revisions": [
+    {
+      "author": "Brandon CS Sanders",
+      "comment": "New page: == Homework for May Call == # Everyone  #* Invite people to Sol 2009 #* Read through Chapter 4 of The Untethered Soul # Ben prepare Mystery Topic and facilitate call # Brandon send out sum...",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": "790",
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": "787",
+      "same_as_previous_public": false,
+      "timestamp": "2009-04-29T04:07:36Z",
+      "wikitext_bytes": 8525,
+      "wikitext_sha256": "8d7ff921d92a25cce16a484813d17e8915e39134ab0d35dd4c3ec2a86063c1ba",
+      "source_format": "wikitext",
+      "source_extension": "wiki"
+    },
+    {
+      "author": "Brandon CS Sanders",
+      "comment": "",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": "41863",
+      "original_parent_revision_id": "787",
+      "previous_public_revision_id": "787",
+      "revision_id": "790",
+      "same_as_previous_public": false,
+      "timestamp": "2009-05-01T05:49:16Z",
+      "wikitext_bytes": 9317,
+      "wikitext_sha256": "488c983e6be3df716755ddf59a1aeaa7dff9b38fb7860582a51a45c1b1916f47",
+      "source_format": "wikitext",
+      "source_extension": "wiki"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 790,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 9441,
+      "markdown_sha256": "528b02409d09352157bd6f2afb13da38badbcec899f8c5157bcd0af5bc4121d4",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": "790",
+      "previous_public_revision_id": "790",
+      "revision_id": "41863",
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z",
+      "wikitext_bytes": 9441,
+      "wikitext_sha256": "528b02409d09352157bd6f2afb13da38badbcec899f8c5157bcd0af5bc4121d4",
+      "source_extension": "md"
+    }
+  ],
+  "site_revision_count": 1
+}

@@ -1,0 +1,69 @@
+{
+  "canonical_path": "/Imagining_a_Future_in_which_the_Rights_of_Nature_are_a_Given",
+  "current_revision_id": 42859,
+  "database_title": "Imagining_a_Future_in_which_the_Rights_of_Nature_are_a_Given",
+  "display_title": "Imagining a Future in which the Rights of Nature are a Given",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 3,
+  "page_id": 27258,
+  "published_revision_count": 3,
+  "revisions": [
+    {
+      "author": "BenSibelman",
+      "comment": "Created page from my notes",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 39848,
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": 39847,
+      "same_as_previous_public": false,
+      "timestamp": "2014-06-28T17:25:51Z",
+      "wikitext_bytes": 2756,
+      "wikitext_sha256": "15eb9cf7daad23dea87160077f261199392f2b399b0747913fa5fff4ee0a17e8"
+    },
+    {
+      "author": "BenSibelman",
+      "comment": "Added a participant",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 39849,
+      "original_parent_revision_id": 39847,
+      "previous_public_revision_id": 39847,
+      "revision_id": 39848,
+      "same_as_previous_public": false,
+      "timestamp": "2014-06-28T17:26:26Z",
+      "wikitext_bytes": 2770,
+      "wikitext_sha256": "cd29e82ea1cbd47e81491f0c292155595d10577909dabc105bf149b3449f230e"
+    },
+    {
+      "author": "BenSibelman",
+      "comment": "Added a back link.",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 42859,
+      "original_parent_revision_id": 39848,
+      "previous_public_revision_id": 39848,
+      "revision_id": 39849,
+      "same_as_previous_public": false,
+      "timestamp": "2014-06-28T17:27:02Z",
+      "wikitext_bytes": 2811,
+      "wikitext_sha256": "1de60c594ce6ed79fe1827b51f7a51f02efa1f345d003fba5136bd15f208f1be"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 39849,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 2901,
+      "markdown_sha256": "cfea3132ba75953ff38200fcd786d19b0eac8fbb58d675374c6f9d199120a98b",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": 39849,
+      "previous_public_revision_id": 39849,
+      "revision_id": 42859,
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z"
+    }
+  ],
+  "site_revision_count": 1
+}

@@ -1,0 +1,48 @@
+{
+  "canonical_path": "/2012_Winter_Solstice_Events",
+  "current_revision_id": "42694",
+  "database_title": "2012_Winter_Solstice_Events",
+  "display_title": "2012 Winter Solstice Events",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 1,
+  "page_id": "27089",
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "EricSaumur",
+      "comment": "Created page with \"On the weekend of December 22nd and 23rd 2012, SolSeed had two rockets launching events.  The Portland event went off without a hitch on Friday the 21st and Saturday the 22nd but...\"",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": "42694",
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": "39220",
+      "same_as_previous_public": false,
+      "timestamp": "2013-03-11T11:39:10Z",
+      "wikitext_bytes": 308,
+      "wikitext_sha256": "ae5c783631a221ba78ad8a6d6ca7ba4103c234ebec4b9afd35f7a527045a1dbb",
+      "source_format": "wikitext",
+      "source_extension": "wiki"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 39220,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 310,
+      "markdown_sha256": "855fa596c2ba5229d7384230224a302c842cce23062441e11a642d35eb716e15",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": "39220",
+      "previous_public_revision_id": "39220",
+      "revision_id": "42694",
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z",
+      "wikitext_bytes": 310,
+      "wikitext_sha256": "855fa596c2ba5229d7384230224a302c842cce23062441e11a642d35eb716e15",
+      "source_extension": "md"
+    }
+  ],
+  "site_revision_count": 1
+}

@@ -1,0 +1,56 @@
+{
+  "canonical_path": "/April_2010_Newsletter",
+  "current_revision_id": 42153,
+  "database_title": "April_2010_Newsletter",
+  "display_title": "April 2010 Newsletter",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 2,
+  "page_id": 597,
+  "published_revision_count": 2,
+  "revisions": [
+    {
+      "author": "BenSibelman",
+      "comment": "Added the newsletter text",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 1544,
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": 1541,
+      "same_as_previous_public": false,
+      "timestamp": "2010-05-06T05:16:15Z",
+      "wikitext_bytes": 2524,
+      "wikitext_sha256": "4f9f679b76b870cc895742e66f68db951edcfa80942516e93134d4261b4c9c4e"
+    },
+    {
+      "author": "BenSibelman",
+      "comment": "Added images",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 42153,
+      "original_parent_revision_id": 1541,
+      "previous_public_revision_id": 1541,
+      "revision_id": 1544,
+      "same_as_previous_public": false,
+      "timestamp": "2010-05-06T05:25:38Z",
+      "wikitext_bytes": 2652,
+      "wikitext_sha256": "5c9e84284df468a0ac6f8e05e3af016c26ec621bd43eb3f21109a4e956ecd669"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 1544,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 2730,
+      "markdown_sha256": "de4cdb1b14e0dfcaff308c04518c6626a106167e921c14bf140afa7401aabfc5",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": 1544,
+      "previous_public_revision_id": 1544,
+      "revision_id": 42153,
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z"
+    }
+  ],
+  "site_revision_count": 1
+}

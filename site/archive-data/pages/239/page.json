@@ -1,0 +1,48 @@
+{
+  "canonical_path": "/ClosingWords",
+  "current_revision_id": "41805",
+  "database_title": "ClosingWords",
+  "display_title": "ClosingWords",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 1,
+  "page_id": "239",
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "Brandon CS Sanders",
+      "comment": "New page: < [[Group Experiences]]  The [[ClosingWords]] are often short poems or songs that provide a nice endcap for the call and send the group out with the theme of the call ringing in their ears...",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": "41805",
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": "639",
+      "same_as_previous_public": false,
+      "timestamp": "2009-03-11T15:01:41Z",
+      "wikitext_bytes": 189,
+      "wikitext_sha256": "8edd32af94966e6051d0b46f1298e8972916ced35265618ffa3dfe9d3101bba2",
+      "source_format": "wikitext",
+      "source_extension": "wiki"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 639,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 221,
+      "markdown_sha256": "4d5ece2ddbb5c96531f632e5f34439a0d1b38f2104e267c38e9ab10c36beba2a",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": "639",
+      "previous_public_revision_id": "639",
+      "revision_id": "41805",
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z",
+      "wikitext_bytes": 221,
+      "wikitext_sha256": "4d5ece2ddbb5c96531f632e5f34439a0d1b38f2104e267c38e9ab10c36beba2a",
+      "source_extension": "md"
+    }
+  ],
+  "site_revision_count": 1
+}

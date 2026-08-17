@@ -1,0 +1,63 @@
+{
+  "canonical_path": "/Three-Level_Identity",
+  "current_revision_id": "41706",
+  "database_title": "Three-Level_Identity",
+  "display_title": "Three-Level Identity",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 2,
+  "page_id": "140",
+  "published_revision_count": 2,
+  "revisions": [
+    {
+      "author": "LionKimbro",
+      "comment": "Added notes from discussion at Seed 2009",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": "435",
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": "336",
+      "same_as_previous_public": false,
+      "timestamp": "2009-01-10T22:11:30Z",
+      "wikitext_bytes": 3208,
+      "wikitext_sha256": "6f64d6a69942818d267107f969c2c04332b135783cc769fd497f3dfb39ddf2a3",
+      "source_format": "wikitext",
+      "source_extension": "wiki"
+    },
+    {
+      "author": "TedErnst",
+      "comment": "breadcrumbs",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": "41706",
+      "original_parent_revision_id": "336",
+      "previous_public_revision_id": "336",
+      "revision_id": "435",
+      "same_as_previous_public": false,
+      "timestamp": "2009-01-17T21:33:00Z",
+      "wikitext_bytes": 3278,
+      "wikitext_sha256": "e9e87f521f12d4f7aab2d9c6002016c4e90514e425e5f5f67f365789a760b229",
+      "source_format": "wikitext",
+      "source_extension": "wiki"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 435,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 3467,
+      "markdown_sha256": "71f80e3e128ab83d7ef80179323d5387732c47ddaad6ee5aca3fd4cec309df9c",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": "435",
+      "previous_public_revision_id": "435",
+      "revision_id": "41706",
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z",
+      "wikitext_bytes": 3467,
+      "wikitext_sha256": "71f80e3e128ab83d7ef80179323d5387732c47ddaad6ee5aca3fd4cec309df9c",
+      "source_extension": "md"
+    }
+  ],
+  "site_revision_count": 1
+}

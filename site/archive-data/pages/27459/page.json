@@ -1,0 +1,63 @@
+{
+  "canonical_path": "/Blog/What_is_the_New_Story?",
+  "current_revision_id": "43057",
+  "database_title": "Blog/What_is_the_New_Story?",
+  "display_title": "Blog/What is the New Story?",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 2,
+  "page_id": "27459",
+  "published_revision_count": 2,
+  "revisions": [
+    {
+      "author": "EricSaumur",
+      "comment": "Created page with \"There are so many calls for a new story to live by.  I seem to be encountering novel calls at least once a month.  Each call points out the same thing; that the story we are curr...\"",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": "40528",
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": "40527",
+      "same_as_previous_public": false,
+      "timestamp": "2015-05-29T02:49:13Z",
+      "wikitext_bytes": 20683,
+      "wikitext_sha256": "244e89ad047aa353e8cb8d8a87348bd4d0828f6d65886d19acb0bab730ed3042",
+      "source_format": "wikitext",
+      "source_extension": "wiki"
+    },
+    {
+      "author": "EricSaumur",
+      "comment": "moved [[Blog/What is the New Story]] to [[Blog/What is the New Story?]]: It's a question!",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": "43057",
+      "original_parent_revision_id": "40527",
+      "previous_public_revision_id": "40527",
+      "revision_id": "40528",
+      "same_as_previous_public": true,
+      "timestamp": "2015-05-29T02:51:41Z",
+      "wikitext_bytes": 20683,
+      "wikitext_sha256": "244e89ad047aa353e8cb8d8a87348bd4d0828f6d65886d19acb0bab730ed3042",
+      "source_format": "wikitext",
+      "source_extension": "wiki"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 40528,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 20684,
+      "markdown_sha256": "7935287683b63ed7217327026825317b6140776185b5068862ed866d466e1b5e",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": "40528",
+      "previous_public_revision_id": "40528",
+      "revision_id": "43057",
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z",
+      "wikitext_bytes": 20684,
+      "wikitext_sha256": "7935287683b63ed7217327026825317b6140776185b5068862ed866d466e1b5e",
+      "source_extension": "md"
+    }
+  ],
+  "site_revision_count": 1
+}

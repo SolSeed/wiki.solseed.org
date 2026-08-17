@@ -1,0 +1,48 @@
+{
+  "canonical_path": "/Soup_Night",
+  "current_revision_id": "43184",
+  "database_title": "Soup_Night",
+  "display_title": "Soup Night",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 1,
+  "page_id": "27586",
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "BenSibelman",
+      "comment": "Created page from written notes",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": "43184",
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": "40877",
+      "same_as_previous_public": false,
+      "timestamp": "2016-09-18T04:31:10Z",
+      "wikitext_bytes": 2319,
+      "wikitext_sha256": "3915bdc89b5aaa8ecd63c4be8e06b0d13517fcc60e55d2d77ce29dc91d6b6f7c",
+      "source_format": "wikitext",
+      "source_extension": "wiki"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 40877,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 2402,
+      "markdown_sha256": "83c9622408faa994063bc3d26cafefd249711871bad873147fd39f7cea6ba5ab",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": "40877",
+      "previous_public_revision_id": "40877",
+      "revision_id": "43184",
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z",
+      "wikitext_bytes": 2402,
+      "wikitext_sha256": "83c9622408faa994063bc3d26cafefd249711871bad873147fd39f7cea6ba5ab",
+      "source_extension": "md"
+    }
+  ],
+  "site_revision_count": 1
+}

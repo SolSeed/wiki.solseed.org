@@ -1,0 +1,13 @@
+{
+  "author": "Kimisu",
+  "comment": "don't need a section number when there's only one section",
+  "excluded_revision_count_since_previous_public": 0,
+  "next_public_revision_id": 952,
+  "original_parent_revision_id": 950,
+  "previous_public_revision_id": 950,
+  "revision_id": 951,
+  "same_as_previous_public": false,
+  "timestamp": "2009-06-18T22:20:50Z",
+  "wikitext_bytes": 12152,
+  "wikitext_sha256": "d4b4c02d0de614c03c3e9b4dd82138f47f5496cecce9a1630ba145a52f63567b"
+}

@@ -1,9 +1,0 @@
-{
-  "name": "solseed-wiki-archive",
-  "private": true,
-  "type": "module",
-  "scripts": {
-    "build:archive": "node scripts/build-archive.mjs",
-    "test": "node --test tests/build-archive.test.mjs tests/wikitext-diff.test.mjs"
-  }
-}

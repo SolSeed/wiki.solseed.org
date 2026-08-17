@@ -1,0 +1,6 @@
+[[Image:02_LetsReadAPoem.jpg]]
+
+Curious little rocket, come here.  Let's read a poem!
+
+[[HappyInTheSun]]<br/>
+[[HappyInTheSun/Page01|p1]] ... [[HappyInTheSun/Page03|p3]]

@@ -1,0 +1,48 @@
+{
+  "canonical_path": "/File:SolSeed_Village_rough_visualization_2.png",
+  "current_revision_id": "41927",
+  "database_title": "SolSeed_Village_rough_visualization_2.png",
+  "display_title": "File:SolSeed Village rough visualization 2.png",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 6,
+  "original_revision_count": 1,
+  "page_id": "363",
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "BenSibelman",
+      "comment": "Rough draft of an image to be used in the video [[Pick a Future]].",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": "41927",
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": "1053",
+      "same_as_previous_public": false,
+      "timestamp": "2009-11-03T06:46:38Z",
+      "wikitext_bytes": 66,
+      "wikitext_sha256": "7d7ae658f053fbefdbd2e5c88017fc6dfc75534cc0259145db957befb7f3788a",
+      "source_format": "wikitext",
+      "source_extension": "wiki"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 1053,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 81,
+      "markdown_sha256": "0f5a1a50429e05efb1483eb8c195eb45ff1104ea934a5a361ff0dc7690e98429",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": "1053",
+      "previous_public_revision_id": "1053",
+      "revision_id": "41927",
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z",
+      "wikitext_bytes": 81,
+      "wikitext_sha256": "0f5a1a50429e05efb1483eb8c195eb45ff1104ea934a5a361ff0dc7690e98429",
+      "source_extension": "md"
+    }
+  ],
+  "site_revision_count": 1
+}

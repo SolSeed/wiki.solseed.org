@@ -1,0 +1,1 @@
+Trash pickup with SolSeed and friends.

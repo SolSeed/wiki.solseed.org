@@ -1,0 +1,43 @@
+{
+  "canonical_path": "/Guided_Meditations",
+  "current_revision_id": 43285,
+  "database_title": "Guided_Meditations",
+  "display_title": "Guided Meditations",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 1,
+  "page_id": 27687,
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "EricSaumur",
+      "comment": "moved [[Guided Meditations]] to [[Gaia Prayers]]: It is just a better name for them.",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 43285,
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": 41193,
+      "same_as_previous_public": false,
+      "timestamp": "2018-02-19T02:50:46Z",
+      "wikitext_bytes": 26,
+      "wikitext_sha256": "ae08e80f627efee30b02905ce648d5d7c3e800ddbb82f9fb4395b31f8f938e43"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 41193,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 63,
+      "markdown_sha256": "1e5902c5ab4ed75191891d2e7096067d507eea30aa1f27513477a57a29d0e3ad",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": 41193,
+      "previous_public_revision_id": 41193,
+      "revision_id": 43285,
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z"
+    }
+  ],
+  "site_revision_count": 1
+}

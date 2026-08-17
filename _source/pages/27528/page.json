@@ -1,0 +1,43 @@
+{
+  "canonical_path": "/File:SESolsticeGalaxyPlate.jpg",
+  "current_revision_id": 43126,
+  "database_title": "SESolsticeGalaxyPlate.jpg",
+  "display_title": "File:SESolsticeGalaxyPlate.jpg",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 6,
+  "original_revision_count": 1,
+  "page_id": 27528,
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "BenSibelman",
+      "comment": "The [[Viventibus Galaxia]] galaxy-plate ritual at [[A Space Elevator Solstice]].",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 43126,
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": 40714,
+      "same_as_previous_public": false,
+      "timestamp": "2016-01-22T06:02:55Z",
+      "wikitext_bytes": 80,
+      "wikitext_sha256": "0a94267f7db1399225abda1d7a1cc71015d0af680dcf5343687c22a12260a334"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 40714,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 126,
+      "markdown_sha256": "3c3fb9f6057217089f631d12e8346631dbae85e131a3dff503b43bce12176430",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": 40714,
+      "previous_public_revision_id": 40714,
+      "revision_id": 43126,
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z"
+    }
+  ],
+  "site_revision_count": 1
+}

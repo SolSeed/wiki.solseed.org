@@ -1,0 +1,48 @@
+{
+  "canonical_path": "/Sign_for_Sun",
+  "current_revision_id": "42883",
+  "database_title": "Sign_for_Sun",
+  "display_title": "Sign for Sun",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 1,
+  "page_id": "27282",
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "Brandon CS Sanders",
+      "comment": "Created page with \"[http://www.signingsavvy.com/sign/SUN/2677/2 The index finger begins by making a twisting motion, then changes to an open 5-hand that faces towards the head.]  Our variant is to ...\"",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": "42883",
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": "39952",
+      "same_as_previous_public": false,
+      "timestamp": "2014-08-24T21:35:35Z",
+      "wikitext_bytes": 289,
+      "wikitext_sha256": "d771a42cfc6b1927537d589275d8f77b1ee9738654e9da4e2e6b01d2351cdc0e",
+      "source_format": "wikitext",
+      "source_extension": "wiki"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 39952,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 302,
+      "markdown_sha256": "829b0f6a5c9dfddfc0266f1937af771ef12ca7e02ddea86e2dbeb477885e0591",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": "39952",
+      "previous_public_revision_id": "39952",
+      "revision_id": "42883",
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z",
+      "wikitext_bytes": 302,
+      "wikitext_sha256": "829b0f6a5c9dfddfc0266f1937af771ef12ca7e02ddea86e2dbeb477885e0591",
+      "source_extension": "md"
+    }
+  ],
+  "site_revision_count": 1
+}

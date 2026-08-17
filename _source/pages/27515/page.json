@@ -1,0 +1,56 @@
+{
+  "canonical_path": "/January_7,_2016:_Online_Work_Bee",
+  "current_revision_id": 43113,
+  "database_title": "January_7,_2016:_Online_Work_Bee",
+  "display_title": "January 7, 2016: Online Work Bee",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 2,
+  "page_id": 27515,
+  "published_revision_count": 2,
+  "revisions": [
+    {
+      "author": "BenSibelman",
+      "comment": "Created page from the Google doc",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 40694,
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": 40693,
+      "same_as_previous_public": false,
+      "timestamp": "2016-01-08T03:45:00Z",
+      "wikitext_bytes": 6012,
+      "wikitext_sha256": "6e3ea9af60e7a583888d45674204231654cfb40a37a85a3777811b7987ad03f1"
+    },
+    {
+      "author": "BenSibelman",
+      "comment": "/* Newsletter with links */",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 43113,
+      "original_parent_revision_id": 40693,
+      "previous_public_revision_id": 40693,
+      "revision_id": 40694,
+      "same_as_previous_public": false,
+      "timestamp": "2016-01-08T03:45:26Z",
+      "wikitext_bytes": 6011,
+      "wikitext_sha256": "c53edd024aea148a283212dff69a81b4573bffb5db331f8dc488abfa2be61c21"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 40694,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 6033,
+      "markdown_sha256": "9ab0430f695843386a3ee1c24376cc4c50d5306ace1299989512c20f8719fba5",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": 40694,
+      "previous_public_revision_id": 40694,
+      "revision_id": 43113,
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z"
+    }
+  ],
+  "site_revision_count": 1
+}

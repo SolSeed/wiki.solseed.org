@@ -1,0 +1,48 @@
+{
+  "canonical_path": "/SolSeed_Literalists",
+  "current_revision_id": "43240",
+  "database_title": "SolSeed_Literalists",
+  "display_title": "SolSeed Literalists",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 1,
+  "page_id": "27642",
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "EricSaumur",
+      "comment": "Created page with \"The term SolSeed Literalist refers to someone who places achieving [[The Destiny]] at the center of their lives.  This term is little used anymore because we recognize that there...\"",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": "43240",
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": "41040",
+      "same_as_previous_public": false,
+      "timestamp": "2017-05-06T13:11:31Z",
+      "wikitext_bytes": 283,
+      "wikitext_sha256": "8330aae1a09b52524e49ee6b1118ab0f9bc5034c59cadf071c7823ddbe3f8f5a",
+      "source_format": "wikitext",
+      "source_extension": "wiki"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 41040,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 307,
+      "markdown_sha256": "a37cf7200019b74dfed3ab9da31050f5f0cf76148b0fb740b76ccdf5a2a82831",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": "41040",
+      "previous_public_revision_id": "41040",
+      "revision_id": "43240",
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z",
+      "wikitext_bytes": 307,
+      "wikitext_sha256": "a37cf7200019b74dfed3ab9da31050f5f0cf76148b0fb740b76ccdf5a2a82831",
+      "source_extension": "md"
+    }
+  ],
+  "site_revision_count": 1
+}

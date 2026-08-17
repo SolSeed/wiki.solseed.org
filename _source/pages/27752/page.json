@@ -1,0 +1,43 @@
+{
+  "canonical_path": "/Pagan_Renewal",
+  "current_revision_id": 43350,
+  "database_title": "Pagan_Renewal",
+  "display_title": "Pagan Renewal",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 1,
+  "page_id": 27752,
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "EricSaumur",
+      "comment": "Created page with \"Check out their website: [http://paganrenewal.org]\"",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 43350,
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": 41526,
+      "same_as_previous_public": false,
+      "timestamp": "2018-09-11T00:42:17Z",
+      "wikitext_bytes": 50,
+      "wikitext_sha256": "b1e41d6f25fc05cb07de69e6815d58aa9313cc358182a9bc456b282900f53ff6"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 41526,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 76,
+      "markdown_sha256": "26752ba51af27555fa089926c2e2d8cf6f02101de3e2926c166cc7673de8499e",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": 41526,
+      "previous_public_revision_id": 41526,
+      "revision_id": 43350,
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z"
+    }
+  ],
+  "site_revision_count": 1
+}

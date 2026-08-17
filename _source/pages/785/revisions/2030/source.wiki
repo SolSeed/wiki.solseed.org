@@ -1,0 +1,21 @@
+__NOTOC__
+
+=== Finish Line ===
+
+We're done with the definition of a [[SolSeedBusiness]] once we have 100% yes from at least 3 [[Contributing Member]]s and 80% yes from at least 6 [[JoiningTheMovement|Members by Declaration]].
+
+=== Participants ===
+* [[Brandon CS Sanders]], <b>NotYet</b>
+* Your Name, <b>NotYet</b>
+* Your Name, <b>NotYet</b>
+
+
+=== Definition of a SolSeedBusiness ===
+A SolSeedBusiness is a business that ...
+
+=== Discussion ===
+What are the dimensions we need to consider?
+* Alignment with [[Values]]? Not aligned ... to ... fully aligned
+* Ownership? 100% by the [[ChurchOrNonProfit]] ... fully owned by a member ... no part owned by [[ChurchOrNonProfit]] nor by any members
+* Control? 100% by the [[ChurchOrNonProfit]] ... 100% by an independent body
+* Pledged revenue? 100% of net to the [[ChurchOrNonProfit]] ... 0% of net to the [[ChurchOrNonProfit]]

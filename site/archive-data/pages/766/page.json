@@ -1,0 +1,63 @@
+{
+  "canonical_path": "/File:Ueno,_Tokyo.jpg",
+  "current_revision_id": "42322",
+  "database_title": "Ueno,_Tokyo.jpg",
+  "display_title": "File:Ueno, Tokyo.jpg",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 6,
+  "original_revision_count": 2,
+  "page_id": "766",
+  "published_revision_count": 2,
+  "revisions": [
+    {
+      "author": "BenSibelman",
+      "comment": "Free stock photo of a lake, temple, and skyscrapers in Tokyo, from http://www.sxc.hu/photo/865978",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": "1972",
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": "1970",
+      "same_as_previous_public": false,
+      "timestamp": "2010-11-14T22:23:52Z",
+      "wikitext_bytes": 97,
+      "wikitext_sha256": "cb5847a395828688d995f56b2de0f02006f7e39b0196b04feebd87394072d9cf",
+      "source_format": "wikitext",
+      "source_extension": "wiki"
+    },
+    {
+      "author": "BenSibelman",
+      "comment": "Added note about scaling",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": "42322",
+      "original_parent_revision_id": "1970",
+      "previous_public_revision_id": "1970",
+      "revision_id": "1972",
+      "same_as_previous_public": false,
+      "timestamp": "2010-11-14T22:26:25Z",
+      "wikitext_bytes": 144,
+      "wikitext_sha256": "5d3586cbb81858db88ed0ff6c78db740b9ad8c407671e7db7dae5f7c127a9ee4",
+      "source_format": "wikitext",
+      "source_extension": "wiki"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 1972,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 145,
+      "markdown_sha256": "7541432acff3e94c81cde2c1e7cd1fd18d6545dfacb0b4d21dd6354b4d020e43",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": "1972",
+      "previous_public_revision_id": "1972",
+      "revision_id": "42322",
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z",
+      "wikitext_bytes": 145,
+      "wikitext_sha256": "7541432acff3e94c81cde2c1e7cd1fd18d6545dfacb0b4d21dd6354b4d020e43",
+      "source_extension": "md"
+    }
+  ],
+  "site_revision_count": 1
+}

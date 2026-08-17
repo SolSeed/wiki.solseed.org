@@ -1,0 +1,43 @@
+{
+  "canonical_path": "/BHAGs_and_project_ideas",
+  "current_revision_id": 41751,
+  "database_title": "BHAGs_and_project_ideas",
+  "display_title": "BHAGs and project ideas",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 1,
+  "page_id": 185,
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "BenSibelman",
+      "comment": "Added notes from discussion at Seed 2009",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 41751,
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": 475,
+      "same_as_previous_public": false,
+      "timestamp": "2009-01-23T05:40:15Z",
+      "wikitext_bytes": 1792,
+      "wikitext_sha256": "cecc5caf2e4c4dbd4790b122f94465f65f33cdf77623d8eaecf3c29c2fd80456"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 475,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 1953,
+      "markdown_sha256": "a40b41f3fd54a51e73f22fb664d653241e4fab6840333600c2cc72559d89a233",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": 475,
+      "previous_public_revision_id": 475,
+      "revision_id": 41751,
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z"
+    }
+  ],
+  "site_revision_count": 1
+}

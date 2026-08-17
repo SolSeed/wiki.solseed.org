@@ -1,0 +1,101 @@
+### Agenda
+- Good News/Check In
+- Review WWWs
+- Weekly Events Logistics
+- Review Agenda
+- Discussion of [GaiasHeartbeat](/GaiasHeartbeat)
+- Sunday Assembly
+- Newsletter
+- Website next steps (including advertising experiments)
+- SolSeed Soundbite
+- Evaluation
+
+### Good News
+- Brandon ... I've had a lousy day, but ... we got my nephews some board games for Christmas and played them a bunch, which was a lot of fun
+- Ben ... I'm going to be playing board games with my friend Louis ... and Eric is calling me :-)
+- Eric ... feeling well rested :-)
+
+### WWWs from last time
+- Ben ... follow your  topical community protocol for this week ... ongoing
+- <s>Ben ... meditate and keep  track of which days ... ongoing
+- Ben ... create a list of all the projects we've funded and how much money we've committed to each one ... by next call
+- Ben ... create a piece of imagery for The Seed video ... by next call
+- Ben ... start drafting the Fall 2013 newsletter ... by next call</s>
+- Brandon ... follow your  topical community protocol for this week ... ongoing
+- Brandon ... meditate and keep  track of which days ... ongoing
+- Brandon ... make extra CDs to give out at the Solstice
+- Brandon ... write up a vision and do some preliminary research for the venue for Kindred ... by next call
+- <s>Eric ... follow your  topical community protocol for this week ... ongoing
+- Eric ... meditate and keep  track of which days ... ongoing
+- Eric ... revise draft Kindred invite ... by next call.
+- Eric ... analyse words and actions for second season in response to critical input and new ideas ... by next call</s>
+- Eric ... draft some Drip Emails ... by next call
+- <s>Eric ... try to write another day for the SolSeed Book of Days ... by next call</s>
+
+### WWWs
+- Ben ... follow your  topical community protocol for this week ... ongoing
+- Ben ... meditate and keep  track of which days ... ongoing
+- Brandon ... follow your  topical community protocol for this week ... ongoing
+- Brandon ... meditate and keep  track of which days ... ongoing
+- Brandon ... check in with Keith about next business call ... by today
+- Brandon ... go over wwws from past calls and ensure they are up to date ... by next call
+- Brandon ... email Bernie ... by next week
+- Brandon ... send photos to Ben ... by today
+- Eric ... follow your  topical community protocol for this week ... ongoing
+- Eric ... meditate and keep  track of which days ... ongoing
+
+### Weekly Events Logistics
+Service rotation: Eric, Shelley, Brandon, Ben
+- January 4 Service: 9:30 am PDT (12:30 EDT) (Eric)
+- January 11 Service: 9:00 am PDT (12:00 EDT) (Shelley)
+
+- January 5 Work-Bee: 1:30 pm PDT (16:30 EDT) (Tricky for Brandon ... he'll have both boys without help)
+
+### [GaiasHeartbeat](/GaiasHeartbeat)
+Ben has a quote that we might want to use (show onscreen or in YouTube video description):
+
+"Viewed from the distance of the moon, the astonishing thing about the earth, catching the breath, is that it is alive."
+
+— Lewis Thomas, *The Lives of a Cell: Notes of a Biology Watcher,* 1974.
+
+### Sunday Assembly
+- 5 leaders: http://www.meetup.com/Portland-Sunday-Assembly/members/?op=leaders
+- They've had one Assembly so far, now just doing weekly planning meetings
+- Brandon is joining their Meetup
+
+### Newsletter
+Brandon thinks we should try to tweak things like the email subject in order to get more people to open it.
+- Eric: Put something from inside the newsletter in the subject line
+  - Gaia's Heartbeat takes us into the new year
+  - SolSeed Sponsors Children
+  - Gaia's Heartbeat Set to Music and other delights of Autumn 2013
+  - Green fire spreads across the "galaxy"
+
+#### Content
+Something about the headline lower ... but first.
+
+Brandon: "Begin with expression of gratitude" ... As we reflect on the end of 2013, we are filled with gratitude for the many wonderful people who are part of our lives.  You know who you are ... thanks for what you do.
+
+Despite not having incorporated as a legal organization such as a nonprofit or church, this season the SolSeed Movement has established a formal system for managing our finances. Using a "virtual SolSeed account" made up of money each of the four active members has set aside, we're now able to propose budgets for specific projects and track how that spending affects the "total SolSeed budget." Here are two such projects:
+ 
+Months ago, I discovered a charity called Children International that offers something we had sought and failed to find during the first SolSeed venture into charitable giving: a pen-pal system that would let us actually get to know the people receiving our aid. In November, we finally got around to sponsoring three impoverished children through their program, in Ecuador, India, and Colombia. As a Canadian, Eric was unable to sign up for this program, but he found a similar one offered by Plan Canada and sponsored a child in Niger. We look forward to years of exciting intercultural exchange as we help these four children along their journey to adulthood.
+ 
+I'm finally getting started on a new music video for "The Seed."  While I work on that, Brandon has launched another music video project in collaboration with John Boswell, called "Gaia's Heartbeat."   This time, having finished composing the music based on our lyrics as he did for "The Seed," he will also produce the video itself.  We did some research on video clips he can use, mainly time lapses of the motions of clouds, tides, growing and falling leaves, and global snow cover.  These videos speed up Gaia's slow rhythms to human scale in order to evoke breathing and heartbeats.  Our goal is to tap into our natural ability to anthropomorphize in order to create visceral, overwhelming, transformative empathy for Mother Earth as a living being.  We believe people's actions will only fully honor the needs of Mother Earth when she is as real and immediate to us as our friends and loved ones.
+ 
+Although we didn't do a formal funding proposal for it, the latest SolSeed Winter Solstice celebration did have an exciting new twist: we invited two teachers from a company called Music Together to lead us in a series of sing-alongs, including dancing and instruments such as drums and "jingle bells" that everyone could play. In the middle of this, we added a ritual in which we turned out the lights, blew out some candles held by the participants, and then "ignited the new year" using one of the brand-new clay galaxy plates we made for our last liturgical season, Viventibus Galaxia. The galactic arms are sprinkled with boric acid and can be filled with alcohol, which burns green to represent life spreading across the galaxy.
+
+Brandon: "End with a wish for the new year" ... As we launch into the new year, we wish for you a year of life and love.  May your 2014 be truly blessed.
+
+### Website =
+see: [Website Optimization](/Website_Optimization)
+
+### Evaluation
+- Ben ... I feel guilty about leaving early and playing boardgames with my friend (not actually leaving early :-)  ... not sure what I think about all the revision work on the newsletter, but I'll try it and see 
+- Brandon ...
+- Eric ... 
+
+### SolSeed Soundbite
+- Brandon: "SolSeed means the body of all life.  Our Wisdom Tradition asserts that Life, in all its messiness, is worthy of veneration. We express Life's vitality through our practice, both individual and collective."
+  - Brandon: formal sounding language
+- Brandon: "SolSeed means the body of all life.  We're growing a community of practice around the idea that Life, in all its messiness, is worthy of veneration."
+- Eric: "The SolSeed Wisdom Tradition is an agnostic religion.  We believe that all Life is precious.  We believe in nurturing lives, helping Life thrive on Earth, and spreading Life to the stars."

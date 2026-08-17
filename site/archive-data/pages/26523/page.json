@@ -1,0 +1,63 @@
+{
+  "canonical_path": "/Upward_Spiral_Audio",
+  "current_revision_id": "42634",
+  "database_title": "Upward_Spiral_Audio",
+  "display_title": "Upward Spiral Audio",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 2,
+  "page_id": "26523",
+  "published_revision_count": 2,
+  "revisions": [
+    {
+      "author": "Brandon CS Sanders",
+      "comment": "Upgrade [[The Upward Spiral]] audio and re-release",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": "38531",
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": "38530",
+      "same_as_previous_public": false,
+      "timestamp": "2012-09-16T20:39:00Z",
+      "wikitext_bytes": 883,
+      "wikitext_sha256": "20740a335308afd8a9c5d8488912ac5cf7ced664519259fdc49c2e6645f966ba",
+      "source_format": "wikitext",
+      "source_extension": "wiki"
+    },
+    {
+      "author": "Brandon CS Sanders",
+      "comment": "",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": "42634",
+      "original_parent_revision_id": "38530",
+      "previous_public_revision_id": "38530",
+      "revision_id": "38531",
+      "same_as_previous_public": false,
+      "timestamp": "2012-09-16T20:39:15Z",
+      "wikitext_bytes": 894,
+      "wikitext_sha256": "8ea95e11b0aaaa4925d59fc5813d960b3f34bfcddbb7342db870f79871b64f31",
+      "source_format": "wikitext",
+      "source_extension": "wiki"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 38531,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 971,
+      "markdown_sha256": "be1cead84f72a1c0ac2c7961e1925da4c542b739e7d946baeb63004f56430635",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": "38531",
+      "previous_public_revision_id": "38531",
+      "revision_id": "42634",
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z",
+      "wikitext_bytes": 971,
+      "wikitext_sha256": "be1cead84f72a1c0ac2c7961e1925da4c542b739e7d946baeb63004f56430635",
+      "source_extension": "md"
+    }
+  ],
+  "site_revision_count": 1
+}

@@ -1,0 +1,1 @@
+On the morning after I met Eddie (2015-03-21), I returned to where I found him.  The puddle had frozen solid and the first snow of spring had covered it.

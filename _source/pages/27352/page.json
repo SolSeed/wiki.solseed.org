@@ -1,0 +1,69 @@
+{
+  "canonical_path": "/December_11,_2014:_Online_Work_Bee",
+  "current_revision_id": 42951,
+  "database_title": "December_11,_2014:_Online_Work_Bee",
+  "display_title": "December 11, 2014: Online Work Bee",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 3,
+  "page_id": 27352,
+  "published_revision_count": 3,
+  "revisions": [
+    {
+      "author": "BenSibelman",
+      "comment": "Created page from the Google doc",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 40208,
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": 40207,
+      "same_as_previous_public": false,
+      "timestamp": "2014-12-12T04:30:05Z",
+      "wikitext_bytes": 14987,
+      "wikitext_sha256": "07f71482d591ee3dd0f00c2a53028854aaac952baeabe109043ab8b54b8f4901"
+    },
+    {
+      "author": "BenSibelman",
+      "comment": "/* Green Hat (Generating Ideas) */",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 40209,
+      "original_parent_revision_id": 40207,
+      "previous_public_revision_id": 40207,
+      "revision_id": 40208,
+      "same_as_previous_public": false,
+      "timestamp": "2014-12-12T04:31:11Z",
+      "wikitext_bytes": 14986,
+      "wikitext_sha256": "4f262d4f1f9ee1e5a9c89f9d87b681d79f2a1b03e014819715afb069eb012834"
+    },
+    {
+      "author": "BenSibelman",
+      "comment": "/* Green Hat (Generating Ideas) */",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 42951,
+      "original_parent_revision_id": 40208,
+      "previous_public_revision_id": 40208,
+      "revision_id": 40209,
+      "same_as_previous_public": false,
+      "timestamp": "2014-12-12T04:32:14Z",
+      "wikitext_bytes": 14985,
+      "wikitext_sha256": "15d6c43fbd0d68f1b2dbca8ef912fdf9d071a50564ebb50a3303b3ce4c17c724"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 40209,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 15085,
+      "markdown_sha256": "5eb7d8df6c465ace6511009863c4482007459624e6908c289fa936b84854a095",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": 40209,
+      "previous_public_revision_id": 40209,
+      "revision_id": 42951,
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z"
+    }
+  ],
+  "site_revision_count": 1
+}

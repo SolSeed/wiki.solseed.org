@@ -1,0 +1,63 @@
+{
+  "canonical_path": "/December_3,_2015:_Online_Work_Bee",
+  "current_revision_id": "43106",
+  "database_title": "December_3,_2015:_Online_Work_Bee",
+  "display_title": "December 3, 2015: Online Work Bee",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 2,
+  "page_id": "27508",
+  "published_revision_count": 2,
+  "revisions": [
+    {
+      "author": "BenSibelman",
+      "comment": "Created page from the Google doc",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": "40678",
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": "40677",
+      "same_as_previous_public": false,
+      "timestamp": "2015-12-04T03:42:34Z",
+      "wikitext_bytes": 1766,
+      "wikitext_sha256": "1bc28eca3ea30a67fc37b61ea958787fc958b0a2da88c105d2f773601330d738",
+      "source_format": "wikitext",
+      "source_extension": "wiki"
+    },
+    {
+      "author": "BenSibelman",
+      "comment": "/* Thursday Agenda */",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": "43106",
+      "original_parent_revision_id": "40677",
+      "previous_public_revision_id": "40677",
+      "revision_id": "40678",
+      "same_as_previous_public": false,
+      "timestamp": "2015-12-04T03:42:51Z",
+      "wikitext_bytes": 1728,
+      "wikitext_sha256": "0bdfee0a20fa2ddd71346d4dd3ff4ac0fad12502c3d209efea02812caec086eb",
+      "source_format": "wikitext",
+      "source_extension": "wiki"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 40678,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 1715,
+      "markdown_sha256": "5d3c0762d7dbfe5300d2037704a588dfbb02981b88e54239ef42017a0c2e8861",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": "40678",
+      "previous_public_revision_id": "40678",
+      "revision_id": "43106",
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z",
+      "wikitext_bytes": 1715,
+      "wikitext_sha256": "5d3c0762d7dbfe5300d2037704a588dfbb02981b88e54239ef42017a0c2e8861",
+      "source_extension": "md"
+    }
+  ],
+  "site_revision_count": 1
+}

@@ -1,0 +1,29 @@
+### Thursday Agenda
+- Check in
+- Project Work
+  - Brandon: Declare Day Ritual
+  - Brandon: 10yr anniversary Ritual
+  - Ben: Get one more small thing done for my job
+  - Ben: Move Biosphere 2 photos to their own folder so I can link to them on their own
+  - Ben: Edit Gaia Wiki
+  - Eric: Story for Spring Sushi Feast and Storytelling
+- Evaluation
+
+### Check In
+- Eric … I got a presy
+- Brandon … I am excited about the Hands of Gaia as a name
+- Ben … I’m excited about our canoe trip, at least as long as the weather report stays as positive as it is
+
+### Declaration Day Ritual
+For this ritual I am going to “try on” calling us The Hands of Gaia Church.
+
+<hands on heart> Mother Gaia calls. I, ___NAME___, answer her call
+
+<hands outward> and dedicate myself to her work.  I am a Hand of Gaia.
+
+<Bring Life hands> I Bring Life!
+
+### Evaluation
+- Brandon … I still like the Hands of Gaia … Gaia's Midwife also works
+- Ben … Gaia’s Midwife was something I thought of as well but male members might find it weird … as far as the call, I guess it is both fun and a little disconcerting to use my work machine that way … it has two monitors 
+- Eric … I got a presy … I really enjoyed writing my story … I think I might have to scope it down a bit, sometimes the idea for a short story turns out to be the idea for a novel … Oh how about Gaia’s midspouses?

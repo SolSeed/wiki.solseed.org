@@ -1,0 +1,4 @@
+- Wed April 8 @7pm [Building the Spectacle](/Building_the_Spectacle)
+- Sun April 12 @2pm [Hike and Trail Cleaning](/Hike_and_Trail_Cleaning)
+- Sun April 12 @6pm [Book Club](/Book_Club)
+- Sat May 23 @1pm [Beach Outing and Cleanup](/Beach_Outing_and_Cleanup)

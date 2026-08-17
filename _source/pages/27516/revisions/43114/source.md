@@ -1,0 +1,28 @@
+### Thursday Agenda
+- Check in
+
+- Opening Blessing
+
+- Project Work
+  - Ben: Work on the Fall Newsletter
+  - Eric … Robot power supply kit and soldering iron
+
+- Evaluation
+
+- Closing Blessing
+
+### Check In
+- Eric … my hair is cut, which means I'm ready to get my passport photos so I can continue traveling to Portland and maybe Ireland and maybe Redmond
+
+- Ben … I was really frustrated the first half of today because I was trying to get familiar with this huge area of code that I had no previous experience with and then I realized that I don’t actually need to do the whole feature; I was trying to do more than I was assigned (to do).
+
+### Opening Blessing
+We come together to connect, to comfort, and to commit, but most of all, to do the work. We concentrate on the direction, not the magnitude, of our work. And so, step by step, we gather allies and move toward our higher aspirations. Let us work together.  -- Blessed Be
+
+### Evaluation
+- Ben … I got about as much done as I expected too.  I just have to take the web cam home this weekend and get a picture of it taking a picture of Gaia.
+
+- Eric … I got very little done today because it's been a long time since I've soldered electronic components, so I spent a bunch of time practicing on old boards.
+
+### Closing Blessing
+We came together tonight and took the steps we were able to take in this limited time along the path toward our highest aspirations.  May we take heart from our progress and let it encourage us to persist -- Blessed Be

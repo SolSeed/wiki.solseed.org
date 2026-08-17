@@ -1,0 +1,1 @@
+Unitarian Universalist Fellowship of Ottawa Logo; a Unitarian chalice inside the letter O.

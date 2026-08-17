@@ -1,0 +1,48 @@
+{
+  "canonical_path": "/Unintended_consequences",
+  "current_revision_id": "42604",
+  "database_title": "Unintended_consequences",
+  "display_title": "Unintended consequences",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 1,
+  "page_id": "11620",
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "BenSibelman",
+      "comment": "Created page from my notes",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": "42604",
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": "15036",
+      "same_as_previous_public": false,
+      "timestamp": "2012-06-25T21:18:16Z",
+      "wikitext_bytes": 2835,
+      "wikitext_sha256": "eb927586c60716240c09156de185f2e72726c3a3c78cdcca09d902a850fbf1dd",
+      "source_format": "wikitext",
+      "source_extension": "wiki"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 15036,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 2855,
+      "markdown_sha256": "61958c03ce77e125ab1171d313a0974e839405e1a0948b60bff6e94f4a51a686",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": "15036",
+      "previous_public_revision_id": "15036",
+      "revision_id": "42604",
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z",
+      "wikitext_bytes": 2855,
+      "wikitext_sha256": "61958c03ce77e125ab1171d313a0974e839405e1a0948b60bff6e94f4a51a686",
+      "source_extension": "md"
+    }
+  ],
+  "site_revision_count": 1
+}

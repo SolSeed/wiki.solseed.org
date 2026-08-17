@@ -1,0 +1,48 @@
+{
+  "canonical_path": "/File:Serving_lunch_at_the_second_service.jpg",
+  "current_revision_id": "42282",
+  "database_title": "Serving_lunch_at_the_second_service.jpg",
+  "display_title": "File:Serving lunch at the second service.jpg",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 6,
+  "original_revision_count": 1,
+  "page_id": "726",
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "BenSibelman",
+      "comment": "Photo from the [[Service March 20, 2010|second SolSeed service]].",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": "42282",
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": "1855",
+      "same_as_previous_public": false,
+      "timestamp": "2010-09-06T22:34:41Z",
+      "wikitext_bytes": 65,
+      "wikitext_sha256": "e32356882907ef4debdd741b7220c03eacf1e23b9a3046e935c1944f3fefd4dc",
+      "source_format": "wikitext",
+      "source_extension": "wiki"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 1855,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 66,
+      "markdown_sha256": "4a5c9042a4d54c6c530f7f797de19a856ca978fa9684b9a97088d521c3da0b03",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": "1855",
+      "previous_public_revision_id": "1855",
+      "revision_id": "42282",
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z",
+      "wikitext_bytes": 66,
+      "wikitext_sha256": "4a5c9042a4d54c6c530f7f797de19a856ca978fa9684b9a97088d521c3da0b03",
+      "source_extension": "md"
+    }
+  ],
+  "site_revision_count": 1
+}

@@ -1,0 +1,63 @@
+{
+  "canonical_path": "/File:IndoorClimberTest.jpg",
+  "current_revision_id": "43123",
+  "database_title": "IndoorClimberTest.jpg",
+  "display_title": "File:IndoorClimberTest.jpg",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 6,
+  "original_revision_count": 2,
+  "page_id": "27525",
+  "published_revision_count": 2,
+  "revisions": [
+    {
+      "author": "BenSibelman",
+      "comment": "Augusto and Dozie preparing the first test of our climber at [[A Space Elevator Solstice]].",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": "40709",
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": "40707",
+      "same_as_previous_public": false,
+      "timestamp": "2016-01-22T05:47:31Z",
+      "wikitext_bytes": 91,
+      "wikitext_sha256": "9825d2a49679b0526ed2154ae09a11fef856365a218b06e1dcec20c93204d9e0",
+      "source_format": "wikitext",
+      "source_extension": "wiki"
+    },
+    {
+      "author": "BenSibelman",
+      "comment": "uploaded a new version of &quot;[[File:IndoorClimberTest.jpg]]&quot;: smaller",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": "43123",
+      "original_parent_revision_id": "40707",
+      "previous_public_revision_id": "40707",
+      "revision_id": "40709",
+      "same_as_previous_public": true,
+      "timestamp": "2016-01-22T05:52:14Z",
+      "wikitext_bytes": 91,
+      "wikitext_sha256": "9825d2a49679b0526ed2154ae09a11fef856365a218b06e1dcec20c93204d9e0",
+      "source_format": "wikitext",
+      "source_extension": "wiki"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 40709,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 118,
+      "markdown_sha256": "3416bcff83d165acbfc603b0187472ef3e066d4191a1aba4882ec4462e0c1858",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": "40709",
+      "previous_public_revision_id": "40709",
+      "revision_id": "43123",
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z",
+      "wikitext_bytes": 118,
+      "wikitext_sha256": "3416bcff83d165acbfc603b0187472ef3e066d4191a1aba4882ec4462e0c1858",
+      "source_extension": "md"
+    }
+  ],
+  "site_revision_count": 1
+}

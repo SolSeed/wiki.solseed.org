@@ -1,0 +1,99 @@
+== Agenda ==
+* Good News/Check In
+* Review WWWs
+* Weekly Events Logistics
+* Review Agenda
+* Kindred Venues (8 minutes)
+* Finances
+** Temporary change in Sanders tithing status
+* Holacracy experiment?
+* Website report and next steps
+* Evaluation
+
+== Good News ==
+* Brandon: I'm good.  I have a new co-founder for my start up and we have a first customer.  Head down on that work (it's camping ... that is intents).
+* Eric: I got a new toy ... battery pack recharger for my phone for when it runs low ... I enjoying it
+* Ben: I was spacing out on my piano and before that I was out playing in the snow: this is the first Seattle-area snow fall that is significant in a few years.
+
+== WWWs from last time ==
+* <s>Brandon ... follow your  topical community protocol for this week ... ongoing
+* Brandon ... meditate and keep  track of which days ... ongoing
+* Brandon ... get together and check supplies for Conflatorium ... by next week
+* Brandon ... verify and update the maturity of World Pantheism Network ... by next week
+* Brandon ... follow up with Keith this week ... by next week
+* Brandon ... add Eric to the MailChimp account ... by next week</s>
+* Ben ... follow your  topical community protocol for this week ... ongoing
+* <s>Ben ... meditate and keep  track of which days ... ongoing
+* Ben ... get together and check supplies for Conflatorium ... by next week
+* Ben ... Take a look at sites at http://solseed.org/Website ... optionally comment on them and add aditional ones if any come to mind ... by next call
+* Eric ... follow your  topical community protocol for this week ... ongoing
+* Eric ... meditate and keep  track of which days ... ongoing
+* Eric ... get together and check supplies for Conflatorium ... by next week</s>
+* Eric ... add tribes to http://solseed.org/Kindred_2015_Potential_Tribes ... by next week
+* <s>Eric ... create a mailchimp account and send the account name to Brandon ... by tonight</s>
+* Eric ... Write a drip email or two ... by next week
+* Eric ... Take a look at sites at http://solseed.org/Website ... optionally comment on them and add aditional ones if any come to mind ... by next call
+
+== WWWs ==
+* Brandon ... follow your  topical community protocol for this week ... ongoing
+* Brandon ... meditate and keep  track of which days ... ongoing
+* Brandon ... determine logistics of Camp Trackers for Kindred 2015 ... by next week
+* Brandon ... set up cell-phone styling for http://join.solseed.org ... by next week
+* Brandon ... write Week 3: The Divided Mind (Elephant and Rider) orientation email ... by next week
+* Brandon ... stop the adwords until we have at least the first four orientation emails ... by today
+* <s>Brandon ... create the table for [[Kindred 2015 Venue Scorecard]] ... by today</s>
+* Ben ... follow your  topical community protocol for this week ... ongoing
+* Ben ... meditate and keep  track of which days ... ongoing
+* Ben ... finish setting up the table for the venue scorecard ... by next week
+* Ben ... look at Holacracy, esp. Glass Frog, for at least 20 minutes ... by next call
+* Eric ... follow your  topical community protocol for this week ... ongoing
+* Eric ... meditate and keep  track of which days ... ongoing
+* Eric ... look at Holacracy, esp. Glass Frog, for at least 20 minutes ... by next call
+* Eric ... write Orientation email  (Upward Spiral) .. by next call
+
+== Weekly Events Logistics ==
+Service rotation: Eric, Shelley, Brandon, Ben
+* February 15 Service: 9:00 am PDT (12:00 EDT) (Shelley) (Second Week of [[Conflatorium]])
+
+* February 16 Work-Bee: 1:30 pm PDT (16:30 EDT)
+
+== Kindred Venues ==
+* Windward is still a possibility, but tricky, because they have two major events that bracket the 2015 Summer Solstice
+* Camp Westwind has a summer camp (first week of) during Solstice
+
+[[Kindred 2015 Venue Scorecard]]
+
+== Finances ==
+https://docs.google.com/a/solseed.org/spreadsheet/ccc?key=0AsnA2rVvzTBidDdtbkhjdjVUclJNU09nYkdNekZ4VEE&usp=drive_web#gid=0
+Because Brandon is working on a startup and not earning money, the Sanders need to stop their tithe to SolSeed for a while
+* The runway for the startup is about 6 months
+* Eric: You're not stopping the payments to Children International though, and there are other ongoing expenses
+
+== Website report and next steps ==
+Brandon is pausing the campaign until we get more orientation emails in the can
+
+Potential Next Optimizations:
+* Write more orientation emails!
+** Week 2: The Upward Spiral (Eric)
+** Week 3: The Divided Mind (Elephant and Rider) (Brandon)
+** Week 4: Passion ... Happy in the Sun (Elephant + Rider) (Ben)
+* Fix the landing page to work on cell phones (Brandon)
+
+* Improve the appearance of the landing page (increase conversion of those who visit)
+* Revise the text of the landing page (increase conversion of those who visit)
+* Try a different AdWord campaign (achieve better fit for prospects, increase clicks/$)
+* Add a link from the wiki back to the join us page
+* Improve the appearance of http://join.solseed.org/subscriptions/new
+* Add the join us widget to the wiki sidebar
+
+=== [[Website]] list ===
+* Ben: These all have menus of several subpages and most have image carousels
+** Do we want subpage links to parts of the wiki that would be interesting to prospective members?
+** If we had an image carousel, what would we put in it?
+*** Eric finds carousels annoying because he has to figure out how to stop the carousel in order to read something
+*** Text with the image should probably be 8 words or less
+
+== Evaluation ==
+* Eric: I feel bad about not having done my WWWs ... it's getting harder to do them because of all the other things I've put on my plate (including cleaning up my basement, which will enable working on the greenhouse project)
+* Brandon: I like actually working on things ... at the moment I'm working on that table
+* Ben : I felt like this meeting felt a little scattered and it was probably partly my fault because I arrived late ... sorry about that

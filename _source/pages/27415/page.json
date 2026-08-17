@@ -1,0 +1,56 @@
+{
+  "canonical_path": "/File:Biosphere_2_Technosphere.JPG",
+  "current_revision_id": 43014,
+  "database_title": "Biosphere_2_Technosphere.JPG",
+  "display_title": "File:Biosphere 2 Technosphere.JPG",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 6,
+  "original_revision_count": 2,
+  "page_id": 27415,
+  "published_revision_count": 2,
+  "revisions": [
+    {
+      "author": "BenSibelman",
+      "comment": "A view down a hallway in the machinery-filled basement of [[Biosphere 2]].",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 40366,
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": 40365,
+      "same_as_previous_public": false,
+      "timestamp": "2015-03-09T04:02:28Z",
+      "wikitext_bytes": 74,
+      "wikitext_sha256": "e3dc7b74faac3d5978adb5f5991d210a810bbcb41e45ef7f28b094c121b8cfeb"
+    },
+    {
+      "author": "BenSibelman",
+      "comment": "uploaded a new version of &quot;[[File:Biosphere 2 Technosphere.JPG]]&quot;: Cropped a bit and improved contrast",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 43014,
+      "original_parent_revision_id": 40365,
+      "previous_public_revision_id": 40365,
+      "revision_id": 40366,
+      "same_as_previous_public": true,
+      "timestamp": "2015-03-09T04:05:38Z",
+      "wikitext_bytes": 74,
+      "wikitext_sha256": "e3dc7b74faac3d5978adb5f5991d210a810bbcb41e45ef7f28b094c121b8cfeb"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 40366,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 87,
+      "markdown_sha256": "ed9617fc158fdb1d6e7595d1c45b88d738f01ea0c5fc952eb41568b9cc153311",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": 40366,
+      "previous_public_revision_id": 40366,
+      "revision_id": 43014,
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z"
+    }
+  ],
+  "site_revision_count": 1
+}

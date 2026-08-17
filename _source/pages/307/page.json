@@ -1,0 +1,69 @@
+{
+  "canonical_path": "/NonProfit",
+  "current_revision_id": 41872,
+  "database_title": "NonProfit",
+  "display_title": "NonProfit",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 3,
+  "page_id": 307,
+  "published_revision_count": 3,
+  "revisions": [
+    {
+      "author": "Brandon CS Sanders",
+      "comment": "[[NonProfit]] moved to [[The SolSeed Intentional Society/Articles of Incorporation]]",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 816,
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": 815,
+      "same_as_previous_public": false,
+      "timestamp": "2009-05-16T19:17:53Z",
+      "wikitext_bytes": 71,
+      "wikitext_sha256": "fcb95bd57cdf04e3196d4934ca57569d27a591d6530063f0aa81267a7b3bf159"
+    },
+    {
+      "author": "Brandon CS Sanders",
+      "comment": "Redirecting to [[The SolSeed Intentional Society]]",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 1101,
+      "original_parent_revision_id": 815,
+      "previous_public_revision_id": 815,
+      "revision_id": 816,
+      "same_as_previous_public": false,
+      "timestamp": "2009-05-16T19:18:17Z",
+      "wikitext_bytes": 45,
+      "wikitext_sha256": "70f58e33d2537897e4b945f828715ccedff3488009d20510f319d5dc1502ddbe"
+    },
+    {
+      "author": "Redirect fixer",
+      "comment": "[[The SolSeed Intentional Society]] has been moved, it is now a redirect to [[The SolSeed Society]]",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 41872,
+      "original_parent_revision_id": 816,
+      "previous_public_revision_id": 816,
+      "revision_id": 1101,
+      "same_as_previous_public": false,
+      "timestamp": "2009-11-13T05:05:36Z",
+      "wikitext_bytes": 33,
+      "wikitext_sha256": "c0824c3d263fc61ff73c5b6211b50f9606780075e02f5a920007928c083ad162"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 1101,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 77,
+      "markdown_sha256": "53f390b842bbcd917e24862ef78f985cf919b8a937eda111d05c7d8e66f2e829",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": 1101,
+      "previous_public_revision_id": 1101,
+      "revision_id": 41872,
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z"
+    }
+  ],
+  "site_revision_count": 1
+}

@@ -1,0 +1,63 @@
+{
+  "canonical_path": "/Diversity",
+  "current_revision_id": "42597",
+  "database_title": "Diversity",
+  "display_title": "Diversity",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 2,
+  "page_id": "11611",
+  "published_revision_count": 2,
+  "revisions": [
+    {
+      "author": "BenSibelman",
+      "comment": "Created page from my notes",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": "15028",
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": "15020",
+      "same_as_previous_public": false,
+      "timestamp": "2012-06-25T20:34:49Z",
+      "wikitext_bytes": 1706,
+      "wikitext_sha256": "e15f9c9c20edb5c3d6eeb1a31445f74a07db36a964ee45d87be7049d5cb0f26c",
+      "source_format": "wikitext",
+      "source_extension": "wiki"
+    },
+    {
+      "author": "BenSibelman",
+      "comment": "/* Discussion at Sol 2012 */",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": "42597",
+      "original_parent_revision_id": "15020",
+      "previous_public_revision_id": "15020",
+      "revision_id": "15028",
+      "same_as_previous_public": false,
+      "timestamp": "2012-06-25T20:53:33Z",
+      "wikitext_bytes": 1824,
+      "wikitext_sha256": "64af7fdb591107416f5f6299ef1d2fd31256eb679e3a13f4e6d0164b2489a91e",
+      "source_format": "wikitext",
+      "source_extension": "wiki"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 15028,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 1908,
+      "markdown_sha256": "23683b1f4b64ab3c30352b309d58870bc314166f9236ac1a68bc45944632173e",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": "15028",
+      "previous_public_revision_id": "15028",
+      "revision_id": "42597",
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z",
+      "wikitext_bytes": 1908,
+      "wikitext_sha256": "23683b1f4b64ab3c30352b309d58870bc314166f9236ac1a68bc45944632173e",
+      "source_extension": "md"
+    }
+  ],
+  "site_revision_count": 1
+}

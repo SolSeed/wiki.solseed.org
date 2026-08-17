@@ -1,0 +1,1 @@
+The Blue and Green of Life Thriving is a literary device used to remind readers that [Life is Precious](/Life_is_Precious).  Anything marked with the Blue and Green of Life Thriving is meant to be understood as alive and therefore precious.  By marking machines with the colours within stories the metaphor reminds us that machines have a living aspect which can be very intense.

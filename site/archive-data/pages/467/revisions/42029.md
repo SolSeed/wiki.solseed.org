@@ -1,0 +1,39 @@
+### Agenda
+- [Longest Night Festival](/Longest_Night_Festival)
+  - Expected Number of Participants
+  - [WikiVanning](/WikiVanning) Style
+  - Food
+    - Simple Breakfasts Sat, Sun, Mon
+    - Snacks
+    - Out to eat for Lunch and Dinner
+    - Solstice Party
+  - Ritual ... Shelley
+  - Opening and Closing Circle Facilitation ... Brandon
+  - Work Bee Items
+    - Children's Book
+    - [SolSeed book](/SolSeed_book) ... 1st 3 chapters
+    - SBIR and founding of first business
+  - Goodies to give out
+    - Pencils? Probably not
+    - Extra jackets from Seed 2009 (XXL)
+    - Blankets? ... Brandon
+- Lewis' Dad the [Architect](http://tjp.us/) (Larry Johnson)
+  - Too often people looking into building something don't get "site control" before going to architects with the concept
+  - Architectural Program ... some kind of description of the concept and buildings
+  - If we don't have funds ... can host an architecture competition (entrants usually don't think they'll get contract even if they win)
+  - A lot of architects are out of work
+  - Get hotshots for the jury
+  - Architects fees are likely to be 5-10% of the construction costs
+  - Watch out for overhead of 30-50%
+  - Have prize be about $5000
+  - Include Honorable Mentions
+  - On average for new construction we'll probably be paying about $200/sq ft
+- Review [OnePagePlan](/OnePagePlan)
+
+#### WWWs for next time
+- Brandon: order blankets by tomorrow
+- Brandon: Invite Kevin Fitzpatrick by tonight
+- Brandon: Invite Logan by tonight
+- Brandon: Invite Lyric and Meg by tonight
+- Brandon: Send cancel email about book club (postpone until new year)
+- Ben: Finish the [Pick a Future](/Pick_a_Future) video

@@ -1,0 +1,10 @@
+This was a sesson at [Sol 2013](/Sol_2013).
+
+- Ben: I have a friend who shares an interest in utopian sci-fi futurism, but doesn't join organizations
+  - It occurred to me that he might be interested if the organization were a Star Trek fan club
+- Starfleet International is a fan organization that does community service in the name of Gene Roddenberry's idealistic vision
+  - I could possibly start a chapter (the first in the Seattle area) called "Star Trek fans for a brighter future" and/or "USS Archaeopteryx"
+  - The choice of Archaeopteryx represents evolution toward a better humanity, as in Captain Picard's quote in *Star Trek First Contact*: "The acquisition of wealth is no longer the driving force in our lives. We work to better ourselves, and the rest of humanity."
+    - By contrast, in the movie *Serenity,* protagonist Captain Reynolds disagrees sharply with the Alliance's "belief that you can make people better"
+    - If my fan club were partly a sideways means of introducing people to SolSeed, what would be our position in this debate?
+      - Eric: As long as it doesn't get into the excesses of eugenics...

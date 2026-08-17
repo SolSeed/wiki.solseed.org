@@ -1,0 +1,43 @@
+{
+  "canonical_path": "/File:Earth_Day_2010_booth.jpg",
+  "current_revision_id": 42216,
+  "database_title": "Earth_Day_2010_booth.jpg",
+  "display_title": "File:Earth Day 2010 booth.jpg",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 6,
+  "original_revision_count": 1,
+  "page_id": 660,
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "BenSibelman",
+      "comment": "A photo showing both the [[\"Lettuce\" Bring Life]] project and the [[SolSeedVillage]] mural at our Earth Day 2010 booth.",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 42216,
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": 1673,
+      "same_as_previous_public": false,
+      "timestamp": "2010-06-11T04:27:08Z",
+      "wikitext_bytes": 119,
+      "wikitext_sha256": "77c10f0ec40b8f0a29c28128775fa0ef993477becb09d91eec4af15a6958d9a7"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 1673,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 156,
+      "markdown_sha256": "cc1e99237969fadb920876688940ce4670c97757b4371ae75ecbcf8e15342bc3",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": 1673,
+      "previous_public_revision_id": 1673,
+      "revision_id": 42216,
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z"
+    }
+  ],
+  "site_revision_count": 1
+}

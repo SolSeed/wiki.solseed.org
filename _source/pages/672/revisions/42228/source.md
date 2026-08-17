@@ -1,0 +1,26 @@
+A short little blurb about the Windward Community. We are a lot of things, to a lot of people, so it is hard to pin down the summa of what who we are and what we are about. But, here it goes.
+
+We have been an Intentional community for over thirty years, and have undergone several incarnations. For the past 28 years we have been situated on an ever expanding acreage in south central Washington's Klickitat Valley. At the edge of the Cascade range wilderness, where the moister forested regions of the West transition into the dryland range of the east. 
+
+**The Windward Transitional Center** 
+
+As a community we help to guide people in the transition to a new way of life within the context of helping to envision and create an ever expanding sustainable culture. We feel that what is most important when intentionally uprooting yourself from old habitual ways of living, it
+
+- We provide people with the space to quiet themselves and reflect in order that they may asses their values;
+- We Offer hard work and an opportunity to build and practice merchantable trade skills;
+- Our way of life confronts the basic teachings the basic lessons of life that you reap what you sow, and keep alive what you feed.  while simultaneously 
+- We host internships and apprenticeships for folks of all ages who have an earnest and honest drive to make improve themselves and/or move our community purpose forward
+Our evolving mission is the lead by example in 
+
+If you would like to learn more about who we are visit our website [Windward.org](http://www.windward.org). (sorry for any dust, we are currently renovating the decades old website.)
+For our continuously updating blog check out the [Notes from Windward](http://www.windward.org/notes/notes70/index70.htm).
+
+The People and Purpose of Windward Community**
+
+Outside of our organization, Windward is people and a relationship to nature. Windward is a community, village, tribe, and a kindred people devoted to the well being of each other and the natural world. The people of windward are driven by a common purpose; to lead by example in the transition into a sustainable culture. Where-ever Nature decides to take us, we surely must go because it is the way to balance.  
+
+We of Windward are doing the ground work in physical and social systems to practically manifest a new way of life centered around village scale highly-integrated and interconnected life support systems. Finding ways to thrive in the context of community.
+
+We hope to act as a model for others wishing to do a similar thing in other regions.
+
+If you are still interested after reading this stuff, I encourage you to check out our website [Windward.org](http://www.winward.org) for more info.

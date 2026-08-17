@@ -1,0 +1,48 @@
+{
+  "canonical_path": "/File:SolSeed-Balanced-Emblem-Thickened-Rocket-BigSun.png",
+  "current_revision_id": "42583",
+  "database_title": "SolSeed-Balanced-Emblem-Thickened-Rocket-BigSun.png",
+  "display_title": "File:SolSeed-Balanced-Emblem-Thickened-Rocket-BigSun.png",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 6,
+  "original_revision_count": 1,
+  "page_id": "10110",
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "EricSaumur",
+      "comment": "Logo with slightly bigger sun.",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": "42583",
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": "13358",
+      "same_as_previous_public": false,
+      "timestamp": "2012-06-03T22:28:41Z",
+      "wikitext_bytes": 30,
+      "wikitext_sha256": "b24f218542e363d0c922095229a7e2b858f439a5e0f27352ee3d52fb64a355fa",
+      "source_format": "wikitext",
+      "source_extension": "wiki"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 13358,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 31,
+      "markdown_sha256": "ca09cad2dca8273d11e0ccbf7a1b792ba8453c80245978bd6f6b67c0247e1758",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": "13358",
+      "previous_public_revision_id": "13358",
+      "revision_id": "42583",
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z",
+      "wikitext_bytes": 31,
+      "wikitext_sha256": "ca09cad2dca8273d11e0ccbf7a1b792ba8453c80245978bd6f6b67c0247e1758",
+      "source_extension": "md"
+    }
+  ],
+  "site_revision_count": 1
+}

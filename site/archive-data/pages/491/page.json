@@ -1,0 +1,48 @@
+{
+  "canonical_path": "/Detachment",
+  "current_revision_id": "42053",
+  "database_title": "Detachment",
+  "display_title": "Detachment",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 1,
+  "page_id": "491",
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "BenSibelman",
+      "comment": "Created page.",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": "42053",
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": "1324",
+      "same_as_previous_public": false,
+      "timestamp": "2010-01-03T23:23:21Z",
+      "wikitext_bytes": 789,
+      "wikitext_sha256": "882756533cbfcb10c05e866ef3e87457054cd363bfb469a72083d27d658cdcd6",
+      "source_format": "wikitext",
+      "source_extension": "wiki"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 1324,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 831,
+      "markdown_sha256": "c9c1374127a876f2790a308964d19a85425496aa77414e517b07bd30f3fbad5d",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": "1324",
+      "previous_public_revision_id": "1324",
+      "revision_id": "42053",
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z",
+      "wikitext_bytes": 831,
+      "wikitext_sha256": "c9c1374127a876f2790a308964d19a85425496aa77414e517b07bd30f3fbad5d",
+      "source_extension": "md"
+    }
+  ],
+  "site_revision_count": 1
+}

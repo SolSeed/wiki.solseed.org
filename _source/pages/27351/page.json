@@ -1,0 +1,43 @@
+{
+  "canonical_path": "/Gaia's_Heartbeat_experiement",
+  "current_revision_id": 42950,
+  "database_title": "Gaia's_Heartbeat_experiement",
+  "display_title": "Gaia's Heartbeat experiement",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 1,
+  "page_id": 27351,
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "Brandon CS Sanders",
+      "comment": "moved [[Gaia's Heartbeat experiement]] to [[Gaia's Heartbeat experiment]]: speling",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 42950,
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": 40204,
+      "same_as_previous_public": false,
+      "timestamp": "2014-12-08T06:27:01Z",
+      "wikitext_bytes": 41,
+      "wikitext_sha256": "5653dd4c47fe72b773ce34bc0f45de9ed1cb6f8fb9602c9792bc918ad8af68dd"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 40204,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 93,
+      "markdown_sha256": "e44fe4a1d029b2ae11562e8468b7aee5bf03a50eaa1a6bd95296a4f11956e8c1",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": 40204,
+      "previous_public_revision_id": 40204,
+      "revision_id": 42950,
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z"
+    }
+  ],
+  "site_revision_count": 1
+}

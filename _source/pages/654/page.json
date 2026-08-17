@@ -1,0 +1,43 @@
+{
+  "canonical_path": "/Sharing",
+  "current_revision_id": 42210,
+  "database_title": "Sharing",
+  "display_title": "Sharing",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 1,
+  "page_id": 654,
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "Brandon CS Sanders",
+      "comment": "New page: For a good discussion of sharing vs. equality as a core value for a community see the analysis at the bottom of http://www.windward.org/notes/notes68/allen6801.htm",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 42210,
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": 1665,
+      "same_as_previous_public": false,
+      "timestamp": "2010-06-09T07:35:47Z",
+      "wikitext_bytes": 163,
+      "wikitext_sha256": "2915ecbe3352416232ffb3996b00f995be91b086ad924e1201f8c763d0239b73"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 1665,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 164,
+      "markdown_sha256": "a8903dc9deab585d93af9a449ab525b0357970d550f553786344c53d2e8717ae",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": 1665,
+      "previous_public_revision_id": 1665,
+      "revision_id": 42210,
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z"
+    }
+  ],
+  "site_revision_count": 1
+}

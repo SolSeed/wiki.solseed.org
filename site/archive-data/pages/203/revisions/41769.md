@@ -1,0 +1,94 @@
+#### Back to [Group Experiences](/Group_Experiences)
+#### 2/5/09 [SolSeed](/SolSeed)/[UpwardSpiral](/UpwardSpiral) Call Agenda
+Here's what we said last time: 
+
+- Talk about the practice and paths of ministry.
+- Homework for the next call = look at the SolSeed Creed and Church Creed, examine overlap
+
+#### opening
+http://leb.net/~mira/works/prophet/prophet18.html 
+
+#### gaining clarity about our work together
+Mickki: wants to work on creating the organization that supports what's going on with SolSeed, etc - the church - the unifying supportive thing - not necessarily just the physical building, but the legal entity - AND the community in Denver
+
+Shelley: Connect to community, provide support. (not very interested right now in building structure)
+
+Brandon:
+- Work on Church in Denver
+- Work on Church in Portland (SolSeedMovement)
+- Work on WaterProject (SolSeedMovement)
+- Work on Kindred 2010 (GreaterMovement)
+
+Ted: 
+- Primary ... building my own community
+- Working together in this community more than in details
+- Not sure where the future takes me
+- Secondary ... Translating UpwardSpiral into other symbol sets
+
+Arthur:
+- Is most interested in the unifying thread... the core principles of flow being translated to, and embodied different symbol sets, projects and communities
+
+Brandon's eloquent summary: There are a set of principles that we are all orbiting around: Mickki wants to create the structured organization, Arthur wants to elucidate the core principles further, Shelley, Brandon & Ted want to create communities practicing these principles together. 
+ 
+So the calls could be / include: 
+- Broad check in about everyone's progress 
+- Deeper check in around one specific person/project
+- Conversations about principles
+  
+A possible structure:
+- Opening words - 5 mins
+- Check in with everyone - 10 mins
+- Deeper topic conversation - 30 mins
+- What's next / homework / assign next call - 10 mins
+- Closing words - 5 mins
+
+Upcoming schedule:
+- Saturday at 8am PST, 9am MST, 10am CST  
+- Arthur February 7th
+- Mickki February 14th
+- Canceled February 21st
+- Shelley February 28th
+
+#### homework check in
+who did it? What did you see? what can we create? 
+
+#### Beginning conversations in our own communities
+what practices have you formed for starting the conversation? How do we begin inviting people?
+- how do the gatherings nurture and not burden?
+- begin practicing various expressions / symbols / and then share together the insights, experiences, etc.
+
+We are SolSeed;  Children of the sun,  Awakened by starlight,  Growing, nurturing, protecting,  We bring life! 
+
+#### Last week we said we'd talk about ministerial tracks and practices... The "work" of the "church."
+We are SolSeed;  Children of the sun,  Awakened by starlight,  Growing, nurturing, protecting,  We bring life! 
+
+Topic for our first Saturday call: Circles of Participation.
+
+Circles of Participation
+------------------------
+ - Visitors: open to all who wish to participate or be exposed to activites of church    
+ - Participants: engage in ministry projects while not yet members    
+ - Members: become members when they self-identify with the organization as members    
+ (?? membership has a low recurring fee & badge of member (I belong / membership card))
+ - Practitioners: actively enaged in projects / services / have taken on some responsibilities. Serve on committees, etc.     
+ - Mastery: have chosen a ministry path to pursue    
+ - Devotee: have devoted life to path / staff of church    
+ - Elder: embodiment of church; holder of vision; entrusted with leadership from congregation    
+
+Becoming a member: Starts with acknowledging that you can't do this alone; choosing to join a community and to co-create in community
+
+Pledge: in symbolizing my interdependence with the community of life, I submit my welfare to this community, and promise to be a partner in the creating our shared wellfullness
+
+Ministerial Tracks: 
+---------------------
+ - Environment / nature (natural systems, biodiversity, study of ecosystems)
+ - Individuals (interpersonal communication, counseling)
+ - Community (group process, mediation, governance, facilitation, group dynamic stuff)
+ - Business (flows of cross-fertilization, ideas, value, etc. resource management)
+ - Youth (everything related to young people, including youth leadership programs)
+ - Food system (planting, preserving, nutrition, serving)
+ - Health & wellness
+ - Energy
+ - Ecovillages (as ministerial training grounds / immersive internships)
+ - Education / culture / learning / stories / history / language 
+ - Building the purpose-driven social critter

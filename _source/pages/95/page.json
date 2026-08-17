@@ -1,0 +1,43 @@
+{
+  "canonical_path": "/SolSeedTeeShirt",
+  "current_revision_id": 41665,
+  "database_title": "SolSeedTeeShirt",
+  "display_title": "SolSeedTeeShirt",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 1,
+  "page_id": 95,
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "Brandon CS Sanders",
+      "comment": "New page: This is the logo for SEED 2009 and will be embroidered on a zip up sweatshirt  [[Image:Seed09 badge.png]]",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 41665,
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": 188,
+      "same_as_previous_public": false,
+      "timestamp": "2008-12-16T22:04:40Z",
+      "wikitext_bytes": 105,
+      "wikitext_sha256": "44d6fb1f2da7ed84ca0594d9f042bc1b5951658858f97b636bbbef48b5949e06"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 188,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 133,
+      "markdown_sha256": "6d0af07d2f2258871ff8238335b58bd67abd64d1a6d19746693503d8ca2bfbe9",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": 188,
+      "previous_public_revision_id": 188,
+      "revision_id": 41665,
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z"
+    }
+  ],
+  "site_revision_count": 1
+}

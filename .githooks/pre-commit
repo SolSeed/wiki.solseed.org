@@ -5,6 +5,8 @@ set -eu
 repository_root=$(git rev-parse --show-toplevel)
 cd "$repository_root"
 
+node scripts/check-supply-chain.mjs
+
 if ! index_version=$(git show :VERSION 2>/dev/null); then
   echo "pre-commit: VERSION must be tracked and staged" >&2
   exit 1

@@ -1,0 +1,43 @@
+{
+  "canonical_path": "/User:Kevin_James_Daniels",
+  "current_revision_id": 41929,
+  "database_title": "Kevin_James_Daniels",
+  "display_title": "User:Kevin James Daniels",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 2,
+  "original_revision_count": 1,
+  "page_id": 365,
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "BenSibelman",
+      "comment": "Redirected to Kevin's new user account.",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 41929,
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": 1055,
+      "same_as_previous_public": false,
+      "timestamp": "2009-11-09T01:11:11Z",
+      "wikitext_bytes": 24,
+      "wikitext_sha256": "01152b8c49a9ddcbec75ec6225055c42c6a374980f8c2307ec540c5e38ee543a"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 1055,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 59,
+      "markdown_sha256": "8c0c1810a900261458c7f88b6ac6c994b3ce7edbfac6ae56cc307fb5b7c08df4",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": 1055,
+      "previous_public_revision_id": 1055,
+      "revision_id": 41929,
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z"
+    }
+  ],
+  "site_revision_count": 1
+}

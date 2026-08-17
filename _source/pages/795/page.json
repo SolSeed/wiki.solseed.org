@@ -1,0 +1,43 @@
+{
+  "canonical_path": "/Seed_2011/Carpooling",
+  "current_revision_id": 42350,
+  "database_title": "Seed_2011/Carpooling",
+  "display_title": "Seed 2011/Carpooling",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 1,
+  "page_id": 795,
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "Shelley Schoepflin Sanders",
+      "comment": "Created page with \"Please arrange your carpool for [[Seed 2011]] here!  Remember *There are 6 and only 6 parking spaces at Serenity, and no street parking available! *Must carry chains or snow tire...\"",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 42350,
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": 2065,
+      "same_as_previous_public": false,
+      "timestamp": "2010-12-08T19:51:49Z",
+      "wikitext_bytes": 540,
+      "wikitext_sha256": "695a7c9f8cf8191747b0b22cb543e5e415184e3ea19ebcfb8a8df42f7973e434"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 2065,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 554,
+      "markdown_sha256": "008b9c55377d18dfefc5ff5f9aa11d362e5575ad3bd05bb8d4e3f54fdd2f46de",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": 2065,
+      "previous_public_revision_id": 2065,
+      "revision_id": 42350,
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z"
+    }
+  ],
+  "site_revision_count": 1
+}

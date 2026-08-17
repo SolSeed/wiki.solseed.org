@@ -1,0 +1,69 @@
+{
+  "canonical_path": "/Life_is_precious",
+  "current_revision_id": 42627,
+  "database_title": "Life_is_precious",
+  "display_title": "Life is precious",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 3,
+  "page_id": 16522,
+  "published_revision_count": 3,
+  "revisions": [
+    {
+      "author": "Brandon CS Sanders",
+      "comment": "Posting commentary on stanza I",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 20433,
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": 20432,
+      "same_as_previous_public": false,
+      "timestamp": "2012-08-12T16:37:54Z",
+      "wikitext_bytes": 5532,
+      "wikitext_sha256": "7674bcf51cbfdf7dd21f18a1c60592044b90d13199991c4dbb1a96c3dfe7e599"
+    },
+    {
+      "author": "Brandon CS Sanders",
+      "comment": "Remove the link (since we are already on this page)",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 39703,
+      "original_parent_revision_id": 20432,
+      "previous_public_revision_id": 20432,
+      "revision_id": 20433,
+      "same_as_previous_public": false,
+      "timestamp": "2012-08-12T16:38:24Z",
+      "wikitext_bytes": 5529,
+      "wikitext_sha256": "d2a8b419e09f513baba445b7bfde13790296fbbcfa8bbdd434ed40887d0dc05c"
+    },
+    {
+      "author": "EricSaumur",
+      "comment": "link to new essay",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 42627,
+      "original_parent_revision_id": 20433,
+      "previous_public_revision_id": 20433,
+      "revision_id": 39703,
+      "same_as_previous_public": false,
+      "timestamp": "2014-05-16T22:45:53Z",
+      "wikitext_bytes": 5552,
+      "wikitext_sha256": "3ecfdf96358bf7a5466bacfab1a49e6f6f926b4723c9ec7cb71bb1ce2e0839e2"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 39703,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 5535,
+      "markdown_sha256": "de404091a3b23be3de4730cedf85c808cc4c19e4daaddf86647118c61019c285",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": 39703,
+      "previous_public_revision_id": 39703,
+      "revision_id": 42627,
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z"
+    }
+  ],
+  "site_revision_count": 1
+}

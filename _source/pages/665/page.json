@@ -1,0 +1,43 @@
+{
+  "canonical_path": "/Body_of_All_Life",
+  "current_revision_id": 42221,
+  "database_title": "Body_of_All_Life",
+  "display_title": "Body of All Life",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 1,
+  "page_id": 665,
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "Brandon CS Sanders",
+      "comment": "Redirecting to [[The Body of All Life]]",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 42221,
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": 1695,
+      "same_as_previous_public": false,
+      "timestamp": "2010-06-17T06:12:25Z",
+      "wikitext_bytes": 34,
+      "wikitext_sha256": "09d143accf1e8b55fcf6a7a303c061aec8d17c1b66774b082620805ae3c69d98"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 1695,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 79,
+      "markdown_sha256": "a71fda0b6e5953bb8a93dc5c67c6775cbef1ab1e9a56b675c8dd063d75311cf3",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": 1695,
+      "previous_public_revision_id": 1695,
+      "revision_id": 42221,
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z"
+    }
+  ],
+  "site_revision_count": 1
+}

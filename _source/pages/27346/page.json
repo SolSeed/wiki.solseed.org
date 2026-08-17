@@ -1,0 +1,43 @@
+{
+  "canonical_path": "/November_30,_2014:_Online_Work_Bee",
+  "current_revision_id": 42945,
+  "database_title": "November_30,_2014:_Online_Work_Bee",
+  "display_title": "November 30, 2014: Online Work Bee",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 1,
+  "page_id": 27346,
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "EricSaumur",
+      "comment": "Created page with \"== Agenda == * Check in * Review WWWs * Daily Practice/Metrics * Weekly event logistics * Review Agenda * SolSeed Village * Project work ** Brandon: Revisions to Invitation for S...\"",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 42945,
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": 40185,
+      "same_as_previous_public": false,
+      "timestamp": "2014-12-05T02:28:25Z",
+      "wikitext_bytes": 6210,
+      "wikitext_sha256": "fa5818a968dff0f2bcc229c11a4e3239978157b616a15ff72efa2e43d20228c0"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 40185,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 6281,
+      "markdown_sha256": "6754f86dc6b19807506915b53868debf0a1ae3e4f0b198886b464ea0b562b3de",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": 40185,
+      "previous_public_revision_id": 40185,
+      "revision_id": 42945,
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z"
+    }
+  ],
+  "site_revision_count": 1
+}

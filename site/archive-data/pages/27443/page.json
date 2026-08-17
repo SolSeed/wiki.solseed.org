@@ -1,0 +1,48 @@
+{
+  "canonical_path": "/Gaia_hold_you_in_the_Palm_of_Her_Hand",
+  "current_revision_id": "43041",
+  "database_title": "Gaia_hold_you_in_the_Palm_of_Her_Hand",
+  "display_title": "Gaia hold you in the Palm of Her Hand",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 1,
+  "page_id": "27443",
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "EricSaumur",
+      "comment": "moved [[Gaia hold you in the Palm of Her Hand]] to [[Gaia holds you in the Palm of Her Hand]]: grammar",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": "43041",
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": "40468",
+      "same_as_previous_public": false,
+      "timestamp": "2015-04-25T17:12:01Z",
+      "wikitext_bytes": 52,
+      "wikitext_sha256": "6268eca31481b738e2e8a7e58cb3a4ba03ffaed55bca0efc8b46414f8295a864",
+      "source_format": "wikitext",
+      "source_extension": "wiki"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 40468,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 115,
+      "markdown_sha256": "031eaeeb20ec3ea7bb8c660e54bf7a4459ccebbf25568048791a1e1a3e384d80",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": "40468",
+      "previous_public_revision_id": "40468",
+      "revision_id": "43041",
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z",
+      "wikitext_bytes": 115,
+      "wikitext_sha256": "031eaeeb20ec3ea7bb8c660e54bf7a4459ccebbf25568048791a1e1a3e384d80",
+      "source_extension": "md"
+    }
+  ],
+  "site_revision_count": 1
+}

@@ -1,0 +1,3 @@
+''This is chapter 3 of the [[SolSeed book]].''
+
+Currently editing this at http://typewith.me/SolSeedBook

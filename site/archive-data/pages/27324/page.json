@@ -1,0 +1,48 @@
+{
+  "canonical_path": "/SolSeed_Emblem",
+  "current_revision_id": "42923",
+  "database_title": "SolSeed_Emblem",
+  "display_title": "SolSeed Emblem",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 1,
+  "page_id": "27324",
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "Brandon CS Sanders",
+      "comment": "moved [[SolSeed Emblem]] to [[Emblem]]",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": "42923",
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": "40111",
+      "same_as_previous_public": false,
+      "timestamp": "2014-10-16T15:52:36Z",
+      "wikitext_bytes": 20,
+      "wikitext_sha256": "a5cc09038f6ebba2e0a567587e8b13db1307e9c4967e483eb8746fc759bafce0",
+      "source_format": "wikitext",
+      "source_extension": "wiki"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 40111,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 51,
+      "markdown_sha256": "79b9899c7a6614b8e643e7bcbd98c73b9c1241ad7eee529cd778235bbfe690c6",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": "40111",
+      "previous_public_revision_id": "40111",
+      "revision_id": "42923",
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z",
+      "wikitext_bytes": 51,
+      "wikitext_sha256": "79b9899c7a6614b8e643e7bcbd98c73b9c1241ad7eee529cd778235bbfe690c6",
+      "source_extension": "md"
+    }
+  ],
+  "site_revision_count": 1
+}

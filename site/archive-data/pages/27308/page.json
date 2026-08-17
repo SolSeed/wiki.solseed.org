@@ -1,0 +1,48 @@
+{
+  "canonical_path": "/Suspension_of_skyfall",
+  "current_revision_id": "42908",
+  "database_title": "Suspension_of_skyfall",
+  "display_title": "Suspension of skyfall",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 1,
+  "page_id": "27308",
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "EricSaumur",
+      "comment": "moved [[Suspension of skyfall]] to [[Suspension of Skyfall]]: capitalization of a title",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": "42908",
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": "40028",
+      "same_as_previous_public": false,
+      "timestamp": "2014-09-29T01:01:07Z",
+      "wikitext_bytes": 35,
+      "wikitext_sha256": "2b251574ac5cdbfd57633a1c1c6045ae87e0d3fbdbae8ff4ec43fa5aa709fe76",
+      "source_format": "wikitext",
+      "source_extension": "wiki"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 40028,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 81,
+      "markdown_sha256": "1ef8c367219a5e85ab411c58c661b18ec53fd283c6f37527b456e8de10004b21",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": "40028",
+      "previous_public_revision_id": "40028",
+      "revision_id": "42908",
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z",
+      "wikitext_bytes": 81,
+      "wikitext_sha256": "1ef8c367219a5e85ab411c58c661b18ec53fd283c6f37527b456e8de10004b21",
+      "source_extension": "md"
+    }
+  ],
+  "site_revision_count": 1
+}

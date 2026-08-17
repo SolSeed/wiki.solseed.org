@@ -1,0 +1,48 @@
+{
+  "canonical_path": "/Talk:In_it_for_the_long_haul",
+  "current_revision_id": "41766",
+  "database_title": "In_it_for_the_long_haul",
+  "display_title": "Talk:In it for the long haul",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 1,
+  "original_revision_count": 1,
+  "page_id": "200",
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "Brandon CS Sanders",
+      "comment": "New page: This was a great session and the notes are superb!  I keep coming back to creating on a small scale what we want to happen on a large scale.  I think if we do that, the large scale will ha...",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": "41766",
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": "508",
+      "same_as_previous_public": false,
+      "timestamp": "2009-01-30T15:11:39Z",
+      "wikitext_bytes": 512,
+      "wikitext_sha256": "8075ff7795fa21ac84d69b01636688477f507857d72eb9f55c1abd1c33a41cac",
+      "source_format": "wikitext",
+      "source_extension": "wiki"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 508,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 513,
+      "markdown_sha256": "4d3fe4b6c83a3877c63aac824e81dfbef58c897aef4a78f5f4979196b9aa107b",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": "508",
+      "previous_public_revision_id": "508",
+      "revision_id": "41766",
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z",
+      "wikitext_bytes": 513,
+      "wikitext_sha256": "4d3fe4b6c83a3877c63aac824e81dfbef58c897aef4a78f5f4979196b9aa107b",
+      "source_extension": "md"
+    }
+  ],
+  "site_revision_count": 1
+}

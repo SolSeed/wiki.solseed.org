@@ -1,0 +1,43 @@
+{
+  "canonical_path": "/Thriving_on_Earth",
+  "current_revision_id": 42516,
+  "database_title": "Thriving_on_Earth",
+  "display_title": "Thriving on Earth",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 1,
+  "page_id": 5432,
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "BenSibelman",
+      "comment": "Created page by merging two existing chapters",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 42516,
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": 7700,
+      "same_as_previous_public": false,
+      "timestamp": "2012-03-12T04:53:37Z",
+      "wikitext_bytes": 10559,
+      "wikitext_sha256": "46bf2e49d50517e2574e0a64bbc3148f1d8e32cde4caf47d94448a0badbf14d7"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 7700,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 10576,
+      "markdown_sha256": "56bde95eb415d4fc1fffb1c83ff64a9dc70c342828861efa7383b08baf5a9e93",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": 7700,
+      "previous_public_revision_id": 7700,
+      "revision_id": 42516,
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z"
+    }
+  ],
+  "site_revision_count": 1
+}

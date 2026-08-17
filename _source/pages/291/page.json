@@ -1,0 +1,43 @@
+{
+  "canonical_path": "/SteeringCommittee",
+  "current_revision_id": 41856,
+  "database_title": "SteeringCommittee",
+  "display_title": "SteeringCommittee",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 1,
+  "page_id": 291,
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "Brandon CS Sanders",
+      "comment": "New page: The steering committee is currently [[Boni]] and [[Brandon]].  If you'd like to be a part of the steering committee, email brandon at thesanders dot us.  April 25 Meeting * Decided to form...",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 41856,
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": 766,
+      "same_as_previous_public": false,
+      "timestamp": "2009-04-28T15:20:32Z",
+      "wikitext_bytes": 359,
+      "wikitext_sha256": "6a30fb997556884765489cf2f5cbad4de2e4d5aaefcfe0689a68b1afed9cafd4"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 766,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 373,
+      "markdown_sha256": "35a87df8050bddc2a296427543641c524b9ecc99dd36ea8d4ad6547c83d294d6",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": 766,
+      "previous_public_revision_id": 766,
+      "revision_id": 41856,
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z"
+    }
+  ],
+  "site_revision_count": 1
+}

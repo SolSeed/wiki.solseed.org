@@ -1,0 +1,48 @@
+{
+  "canonical_path": "/File:Earth_Day_2010_eco-village_mural.jpg",
+  "current_revision_id": "42264",
+  "database_title": "Earth_Day_2010_eco-village_mural.jpg",
+  "display_title": "File:Earth Day 2010 eco-village mural.jpg",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 6,
+  "original_revision_count": 1,
+  "page_id": "708",
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "BenSibelman",
+      "comment": "Photo of the final product of our participatory mural-painting activity from [[Earth Day 2010]].",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": "42264",
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": "1792",
+      "same_as_previous_public": false,
+      "timestamp": "2010-08-08T19:03:02Z",
+      "wikitext_bytes": 96,
+      "wikitext_sha256": "3fcb6a5b645cd0506ff662872d724b9c3946ea47eec61fa0d38b9f6b0b7df141",
+      "source_format": "wikitext",
+      "source_extension": "wiki"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 1792,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 112,
+      "markdown_sha256": "97d2565e3d3b54994c18661767a4b367f5e57874f36c90108613fd482998933a",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": "1792",
+      "previous_public_revision_id": "1792",
+      "revision_id": "42264",
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z",
+      "wikitext_bytes": 112,
+      "wikitext_sha256": "97d2565e3d3b54994c18661767a4b367f5e57874f36c90108613fd482998933a",
+      "source_extension": "md"
+    }
+  ],
+  "site_revision_count": 1
+}

@@ -1,0 +1,69 @@
+{
+  "canonical_path": "/Orientation_Emails",
+  "current_revision_id": 42822,
+  "database_title": "Orientation_Emails",
+  "display_title": "Orientation Emails",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 3,
+  "page_id": 27221,
+  "published_revision_count": 3,
+  "revisions": [
+    {
+      "author": "Brandon CS Sanders",
+      "comment": "Created page with \"=== Orientation Emails === Once a week for 12 weeks send a picture and very short email with a few links if people want to go deeper  Week 1:  Definition of SolSeed (What does So...\"",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 39685,
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": 39682,
+      "same_as_previous_public": false,
+      "timestamp": "2014-05-04T21:03:35Z",
+      "wikitext_bytes": 693,
+      "wikitext_sha256": "c8eb342dcf5dea8d557c172b8479648d009addd1d2de7bb108e939b517eff513"
+    },
+    {
+      "author": "Brandon CS Sanders",
+      "comment": "",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 39686,
+      "original_parent_revision_id": 39682,
+      "previous_public_revision_id": 39682,
+      "revision_id": 39685,
+      "same_as_previous_public": false,
+      "timestamp": "2014-05-04T21:05:05Z",
+      "wikitext_bytes": 744,
+      "wikitext_sha256": "760e658c7b7c556511da1d4c036fa2539e8fb4cd07e2d0a055be12b4aa8f1b0a"
+    },
+    {
+      "author": "Brandon CS Sanders",
+      "comment": "",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 42822,
+      "original_parent_revision_id": 39685,
+      "previous_public_revision_id": 39685,
+      "revision_id": 39686,
+      "same_as_previous_public": false,
+      "timestamp": "2014-05-04T21:06:13Z",
+      "wikitext_bytes": 754,
+      "wikitext_sha256": "9a1c40a978c1740d2f1e29e516233d8e97fd09f6a0224426f6d7fe811f698346"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 39686,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 760,
+      "markdown_sha256": "3d9d17e441fc98837a138efd8a4232cd5981d55c4dad90c3e20c94e39a216f7d",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": 39686,
+      "previous_public_revision_id": 39686,
+      "revision_id": 42822,
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z"
+    }
+  ],
+  "site_revision_count": 1
+}

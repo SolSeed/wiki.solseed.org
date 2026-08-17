@@ -1,0 +1,48 @@
+{
+  "canonical_path": "/The_Rebirth_of_the_Sun",
+  "current_revision_id": "42991",
+  "database_title": "The_Rebirth_of_the_Sun",
+  "display_title": "The Rebirth of the Sun",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 1,
+  "page_id": "27392",
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "BenSibelman",
+      "comment": "Created page from John's blog entry",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": "42991",
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": "40292",
+      "same_as_previous_public": false,
+      "timestamp": "2015-01-12T00:16:28Z",
+      "wikitext_bytes": 4134,
+      "wikitext_sha256": "ad3aad4e0850024973745e549b15a5f349b33c36e27852995ec614d3a6b995df",
+      "source_format": "wikitext",
+      "source_extension": "wiki"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 40292,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 4167,
+      "markdown_sha256": "4ea83f9c56d5e631a546da37f26d5cae8fef3d09d7601f8934d1d9b823f57713",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": "40292",
+      "previous_public_revision_id": "40292",
+      "revision_id": "42991",
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z",
+      "wikitext_bytes": 4167,
+      "wikitext_sha256": "4ea83f9c56d5e631a546da37f26d5cae8fef3d09d7601f8934d1d9b823f57713",
+      "source_extension": "md"
+    }
+  ],
+  "site_revision_count": 1
+}

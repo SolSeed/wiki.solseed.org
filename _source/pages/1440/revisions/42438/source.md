@@ -1,0 +1,89 @@
+### Agenda
+- Check In
+- Review WWWs
+- Review Agenda
+- Next Service Logistics
+- Space Elevator Conference
+- One Page Plan
+- Evaluation
+
+### Check In
+- Shelley ... had such a good day ... strawberry picking with Sequoia
+- Brandon ... was sick today ... foot is almost healed
+- Ben ... kind of stressed at work ... juggling lots of tasks ... had nice feedback
+- Sequoia ... also had a good day ... picked strawberries and blueberries ... played in garden ... kept repeating "Dexter fell ... funny hahaha!" because he saw Dexter fall off the fence
+ 
+### WWWs from last time
+- <s>Brandon ... give Jason a status update ... by next call
+- Shelley ... find camera and upload hike photos ... by Monday
+- Shelley ... let Jerry know about the next service ... by Tonight</s>
+ 
+### WWWs
+- Brandon ... get ticket to space elevator conference ... by July 10 (website was broken today)
+- Brandon ... invite John to meet us during the Space Elevator Conference ... by tomorrow
+- Shelley ... invite Jerry to next service ... by tonight
+- Ben ... contact Bryan and David about Shelley watching Brandon's talk ... by tonight
+- Ben ... look up mass of Edwards elevator design ... by next call
+ 
+### Next Service Logistics
+10am Saturday July 9, 2011 ... Brandon
+Rotation: Brandon, Jerry?, Shelley, Ben
+Shelley will invite Jerry right now
+ 
+### Space Elevator Conference
+- Updates to the website?
+  - A page on the Space Elevator, at a minimum
+  - Caricatures (and articles) of all the speakers?
+  - Still considering solutions to the spam problem
+- Shelley will come up with Sequoia on Saturday, to avoid missing work
+  - But won't attend the conference
+  - Brandon can take the train so Shelley can have the car
+ 
+#### Brandon's talk: Bootstrap the Space Elevator via Solar Driven Railroad
+- Give a partial practice talk on July 16
+  - Probably just for Shelley, Jerry, and Ben
+- Give a complete practice talk on July 24
+  - Keith L because he's looked into the tech details
+  - Someone with good presentation skills
+- PowerPoint due by July 29
+- Presentation on August 14
+- Full supporting paper isn't due until August 29
+  
+### [OnePagePlan](/OnePagePlan)
+#### 2011 1 Year Goals
+- Village: Start construction on either a backyard cottage or a renovated basement living space
+- Outreach: Two more contributing members
+- Media: Finish the two books and maintain SpaceWiki
+- Spiritual practice: Maintain the spiritual practice (weekly service calls, in-person solstice and equinox events)
+- Service: $10,000 or 200 hour contribution (or some combination) to a service project that brings life
+- Industry: Apply for an SBIR grant related to launching life to another world (possibly a space catapult)
+ 
+#### 2011 3rd Quarter Goals, due 9/30/2011
+Seed Village
+- Yellow: Get a good sense for the cost of the basement option (practically a bid)
+- Green: Either decide not to do the basement option, or create concept plans for the basement
+- Super Green: Get at least two bids for construction of the basement option
+ 
+Outreach
+- Yellow: Identify one likely Meetup Group in Portland to participate in
+- Green: Identify at least 4 prospective SolSeed members by declaration by attending meetups for that group
+- Super Green: Hold a meetup for that group that introduces SolSeed
+ 
+Media
+- Yellow: 
+  - Attend the Space Elevator Conference with our SpaceWiki table
+  - Put out a 2nd-Quarter Report newsletter
+- Green: Brandon gives a talk at the Space Elevator Conference that he's really proud of
+- Super Green: Publish a draft of SolSeed: Helping Life Thrive, On Earth And Beyond (sans pictures)
+ 
+Spiritual practice
+- Yellow: Have an equinox celebration
+- Green:
+  - Maintain the weekly calls
+  - Experiment with some sort of daily practice that lasts at least two weeks
+- Super Green: Interview at least three people in great detail about their reactions to the church concept
+ 
+### Evaluation
+- Shelley ... thought we did good (start, all the way through, end)
+- Ben ... productive, made progress on an actual project, a little sad that we missed an agenda item
+- Brandon ... I like actually working on things during the call ... more rewarding than discussing future work ... on the other hand, we didn't get WWWs figured out very well as a result

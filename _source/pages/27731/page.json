@@ -1,0 +1,69 @@
+{
+  "canonical_path": "/July_22,_2018:_Business_Call",
+  "current_revision_id": 43329,
+  "database_title": "July_22,_2018:_Business_Call",
+  "display_title": "July 22, 2018: Business Call",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 3,
+  "page_id": 27731,
+  "published_revision_count": 3,
+  "revisions": [
+    {
+      "author": "BenSibelman",
+      "comment": "Created page from the Google doc",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 41447,
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": 41446,
+      "same_as_previous_public": false,
+      "timestamp": "2018-07-22T16:13:06Z",
+      "wikitext_bytes": 1111,
+      "wikitext_sha256": "e17ebf7ca37c293565eaa30ad9119494d4672f314e131b948a671885807864de"
+    },
+    {
+      "author": "BenSibelman",
+      "comment": "/* WW(W)s */",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 41448,
+      "original_parent_revision_id": 41446,
+      "previous_public_revision_id": 41446,
+      "revision_id": 41447,
+      "same_as_previous_public": false,
+      "timestamp": "2018-07-22T16:15:29Z",
+      "wikitext_bytes": 1110,
+      "wikitext_sha256": "44ed20846b8cf767d48fd2d33a0c498067a09365e4acbdc3e19a9ecff3dd3948"
+    },
+    {
+      "author": "BenSibelman",
+      "comment": "/* WW(W)s */",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 43329,
+      "original_parent_revision_id": 41447,
+      "previous_public_revision_id": 41447,
+      "revision_id": 41448,
+      "same_as_previous_public": false,
+      "timestamp": "2018-07-22T16:15:44Z",
+      "wikitext_bytes": 1111,
+      "wikitext_sha256": "739f21be2ac85b92210b53b516447cdb4cf42f61d8f8a8eeabe32c6d5679821c"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 41448,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 1120,
+      "markdown_sha256": "4731a94efddfc47c23d20b35db5838d8fdb12f56d7574c686dd44c09c8fdfd91",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": 41448,
+      "previous_public_revision_id": 41448,
+      "revision_id": 43329,
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z"
+    }
+  ],
+  "site_revision_count": 1
+}

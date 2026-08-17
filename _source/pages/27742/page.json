@@ -1,0 +1,43 @@
+{
+  "canonical_path": "/The_state_of_the_wider_American_\"community\"_under_Trump",
+  "current_revision_id": 43340,
+  "database_title": "The_state_of_the_wider_American_\"community\"_under_Trump",
+  "display_title": "The state of the wider American \"community\" under Trump",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 1,
+  "page_id": 27742,
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "BenSibelman",
+      "comment": "Created page",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 43340,
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": 41479,
+      "same_as_previous_public": false,
+      "timestamp": "2018-08-07T01:01:12Z",
+      "wikitext_bytes": 2581,
+      "wikitext_sha256": "5f0f12485837ee5cc1e7014442486e6017ad8134855ac3428e5459cbbac2040d"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 41479,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 2678,
+      "markdown_sha256": "6f393c8c44c9e37b743aaf006913697bb8621d4549788a9f3907de50abe03882",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": 41479,
+      "previous_public_revision_id": 41479,
+      "revision_id": 43340,
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z"
+    }
+  ],
+  "site_revision_count": 1
+}

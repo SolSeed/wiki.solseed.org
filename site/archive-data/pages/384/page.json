@@ -1,0 +1,63 @@
+{
+  "canonical_path": "/File:SolSeed_Village_visualization_1.jpg",
+  "current_revision_id": "41948",
+  "database_title": "SolSeed_Village_visualization_1.jpg",
+  "display_title": "File:SolSeed Village visualization 1.jpg",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 6,
+  "original_revision_count": 2,
+  "page_id": "384",
+  "published_revision_count": 2,
+  "revisions": [
+    {
+      "author": "BenSibelman",
+      "comment": "Finished version of [[Ben]]'s PhotoShop visualization of the [[SolSeedVillage]] for his video [[Pick a Future]].",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": "1109",
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": "1106",
+      "same_as_previous_public": false,
+      "timestamp": "2009-11-14T07:08:38Z",
+      "wikitext_bytes": 112,
+      "wikitext_sha256": "f662f1cedbdf220ffb9a24b1765a350104af0f75c4a41de124c340b8309d6438",
+      "source_format": "wikitext",
+      "source_extension": "wiki"
+    },
+    {
+      "author": "BenSibelman",
+      "comment": "",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": "41948",
+      "original_parent_revision_id": "1106",
+      "previous_public_revision_id": "1106",
+      "revision_id": "1109",
+      "same_as_previous_public": false,
+      "timestamp": "2009-11-14T07:39:23Z",
+      "wikitext_bytes": 193,
+      "wikitext_sha256": "f24ffb72e0659ebc54c066c7129a68f9df6ab3e7e35db2335fd7e8cbfeca8d45",
+      "source_format": "wikitext",
+      "source_extension": "wiki"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 1109,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 227,
+      "markdown_sha256": "ee0f6e425dde4249d4660763ed49a6b66c6791633e8e9d80ae2ebeb6a1bb8431",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": "1109",
+      "previous_public_revision_id": "1109",
+      "revision_id": "41948",
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z",
+      "wikitext_bytes": 227,
+      "wikitext_sha256": "ee0f6e425dde4249d4660763ed49a6b66c6791633e8e9d80ae2ebeb6a1bb8431",
+      "source_extension": "md"
+    }
+  ],
+  "site_revision_count": 1
+}

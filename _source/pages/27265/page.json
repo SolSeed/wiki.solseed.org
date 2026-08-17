@@ -1,0 +1,56 @@
+{
+  "canonical_path": "/Talk:Sophos",
+  "current_revision_id": 42866,
+  "database_title": "Sophos",
+  "display_title": "Talk:Sophos",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 1,
+  "original_revision_count": 2,
+  "page_id": 27265,
+  "published_revision_count": 2,
+  "revisions": [
+    {
+      "author": "EricSaumur",
+      "comment": "Created page with \"[[Ben]]: Just a few small suggestions for the fifth season: Can we vary the word choice of “In the lush green forests, species are born,” which you’ve now used three times?...\"",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 39873,
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": 39870,
+      "same_as_previous_public": false,
+      "timestamp": "2014-07-26T15:43:50Z",
+      "wikitext_bytes": 500,
+      "wikitext_sha256": "c7b428f6ae7fb300afcf22b2b25a981c67803d6bb5f5cdc245cb2399db8be244"
+    },
+    {
+      "author": "EricSaumur",
+      "comment": "moved [[Talk:5th Season]] to [[Talk:Sophos]]",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 42866,
+      "original_parent_revision_id": 39870,
+      "previous_public_revision_id": 39870,
+      "revision_id": 39873,
+      "same_as_previous_public": true,
+      "timestamp": "2014-07-26T15:44:39Z",
+      "wikitext_bytes": 500,
+      "wikitext_sha256": "c7b428f6ae7fb300afcf22b2b25a981c67803d6bb5f5cdc245cb2399db8be244"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 39873,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 505,
+      "markdown_sha256": "de4dd6947a59083eb5908702e7f305fffb7a7f6e29e556ce7a2a744a9b807c1c",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": 39873,
+      "previous_public_revision_id": 39873,
+      "revision_id": 42866,
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z"
+    }
+  ],
+  "site_revision_count": 1
+}

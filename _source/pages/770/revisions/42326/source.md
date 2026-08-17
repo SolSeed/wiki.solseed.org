@@ -1,0 +1,1 @@
+Public-domain image of a torus-shaped space colony, painted by Don Davis, from http://www.donaldedavis.com/BIGPUB/STANTRUS.jpg. [Space colony by Don Davis.jpg](/Media:Space_colony_by_Don_Davis.jpg) is a cropped version of this.

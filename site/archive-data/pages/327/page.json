@@ -1,0 +1,48 @@
+{
+  "canonical_path": "/File:Harry2.jpg",
+  "current_revision_id": "41891",
+  "database_title": "Harry2.jpg",
+  "display_title": "File:Harry2.jpg",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 6,
+  "original_revision_count": 1,
+  "page_id": "327",
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "Clnlsandrs",
+      "comment": "The Spectacle of the Master",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": "41891",
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": "894",
+      "same_as_previous_public": false,
+      "timestamp": "2009-06-05T03:46:02Z",
+      "wikitext_bytes": 27,
+      "wikitext_sha256": "abbc98c2965fb344616dca9763f11d2c69a010279fabbf78964c15c94c50a194",
+      "source_format": "wikitext",
+      "source_extension": "wiki"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 894,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 28,
+      "markdown_sha256": "27d75a657c2bde617f31ca763906ea3622df0d804f09ddb6405a553264b6964f",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": "894",
+      "previous_public_revision_id": "894",
+      "revision_id": "41891",
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z",
+      "wikitext_bytes": 28,
+      "wikitext_sha256": "27d75a657c2bde617f31ca763906ea3622df0d804f09ddb6405a553264b6964f",
+      "source_extension": "md"
+    }
+  ],
+  "site_revision_count": 1
+}

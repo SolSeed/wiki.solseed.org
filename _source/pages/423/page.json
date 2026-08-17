@@ -1,0 +1,43 @@
+{
+  "canonical_path": "/Book_27",
+  "current_revision_id": 41987,
+  "database_title": "Book_27",
+  "display_title": "Book 27",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 1,
+  "page_id": 423,
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "Brandon CS Sanders",
+      "comment": "Starting the [[Book 27]] page.",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 41987,
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": 1184,
+      "same_as_previous_public": false,
+      "timestamp": "2009-11-28T23:40:49Z",
+      "wikitext_bytes": 436,
+      "wikitext_sha256": "274a008d37600a44052262c74a20e7799b86bf8b61009baa04ba309dddec4341"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 1184,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 496,
+      "markdown_sha256": "49de66e38df5396d4e3f55676acb4940439f2047a09e552f01bd29ec5550e878",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": 1184,
+      "previous_public_revision_id": 1184,
+      "revision_id": 41987,
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z"
+    }
+  ],
+  "site_revision_count": 1
+}

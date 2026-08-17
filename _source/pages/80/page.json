@@ -1,0 +1,56 @@
+{
+  "canonical_path": "/File:Dragonfly_from_Wikipedia.jpg",
+  "current_revision_id": 41650,
+  "database_title": "Dragonfly_from_Wikipedia.jpg",
+  "display_title": "File:Dragonfly from Wikipedia.jpg",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 6,
+  "original_revision_count": 2,
+  "page_id": 80,
+  "published_revision_count": 2,
+  "revisions": [
+    {
+      "author": "Shelley Schoepflin Sanders",
+      "comment": "I believe wikipedia images are in the public domain, so I am placing this dragonfly here to illustrate how all living things bring life with the \"Being indoors each one dwells\".",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 150,
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": 149,
+      "same_as_previous_public": false,
+      "timestamp": "2008-10-22T06:14:06Z",
+      "wikitext_bytes": 177,
+      "wikitext_sha256": "169f3d3d3480d9ed38d8c700849b804cfaa299c39b1619efe68e0ab629f3bfc5"
+    },
+    {
+      "author": "Shelley Schoepflin Sanders",
+      "comment": "",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 41650,
+      "original_parent_revision_id": 149,
+      "previous_public_revision_id": 149,
+      "revision_id": 150,
+      "same_as_previous_public": false,
+      "timestamp": "2008-10-22T06:15:44Z",
+      "wikitext_bytes": 309,
+      "wikitext_sha256": "0ad42d8af038a349683e50dcb75e3fa2ae8f9f03b795632a0979c2b552f5c4bd"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 150,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 311,
+      "markdown_sha256": "bcc283638e230fbcfee9d16f74fac226018144bc0328fc37dc9178f39ff85173",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": 150,
+      "previous_public_revision_id": 150,
+      "revision_id": 41650,
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z"
+    }
+  ],
+  "site_revision_count": 1
+}

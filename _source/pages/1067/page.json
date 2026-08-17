@@ -1,0 +1,43 @@
+{
+  "canonical_path": "/Michelle_Alford",
+  "current_revision_id": 42411,
+  "database_title": "Michelle_Alford",
+  "display_title": "Michelle Alford",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 1,
+  "page_id": 1067,
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "Bluedragonlotus",
+      "comment": "Created page with \"I first read The Parable of the Sower about 2 years ago.  It connected very deeply with me; my personal beliefs and my own concerns for our future.  Since that first reading, the...\"",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 42411,
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": 2450,
+      "same_as_previous_public": false,
+      "timestamp": "2011-04-03T00:35:26Z",
+      "wikitext_bytes": 579,
+      "wikitext_sha256": "089a5c6d65a745666402fdf2e0802bde06117526e93c8b8f53f870bbbfa64d46"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 2450,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 580,
+      "markdown_sha256": "d0d445bfb60c0183bb9cc35bbacc6a0a9769f35b26508896b18c4bec134f1615",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": 2450,
+      "previous_public_revision_id": 2450,
+      "revision_id": 42411,
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z"
+    }
+  ],
+  "site_revision_count": 1
+}

@@ -1,0 +1,96 @@
+### Agenda
+- Check In
+- Review WWWs
+- Seed 2011
+- SpaceWiki ... SEDS Contest
+
+### Check In
+- Ben ... sinus headache today ... coming back now ... great time at SF&F Fillm Festival yesterday
+- Shelley ... had a practically perfect day ... sad to see Brandon sad
+- Brandon ... "sad" is my checkin
+- Sequoia ... asleep, his cold is way better ... teething (cakewalk compared to cold)
+
+### WWWs from last time
+- <s>Shelley ... order moccasins for kids from Hannah Anderson ... by tomorrow
+- Shelley ... order 15 Teko socks ... by tomorrow (they've already arrived)
+- Shelley ... order fabric paint to put names on socks ... by tomorrow
+- Shelley ... contact Heather about the food ... by tomorrow
+- Shelley ... send update on Seed 2011 to participants w/ driving directions, basic event schedule, etc ... by next call
+- Ben ... contact Gus about Seed 2011 travel plans ... by tomorrow</s>
+
+### [Seed 2011](/Seed_2011)
+- Armen: Try to see that there is an overlap between ritual and play
+  - Useful for people who aren't that serious about the rituals if they are playful
+  - HV not sure about repeating the creed, but willing to be flexible
+  - Ben not sure about using the Hello song, HV really likes it
+
+#### Ideas
+- Reader's theater to express how different people feel
+  - HV questions the space thing?
+
+- Planting seeds ... it is Seed 2011 after all
+  - Make it lighthearted
+  - Some seeds that actually grow
+    - Marigold: germinates in 3 days
+    - Morning glory: can germinate within 48 hours if prepared properly
+  - And some that are just silly, e.g. popcorn
+  - Who takes them home?
+    - Some might not want to do the work to maintain them
+    - Let the group decide
+
+- Charades like we did at end of [Sol 2009](/Sol_2009)
+
+- [SolSeedCreed](/SolSeedCreed)
+  - Brandon doesn't like the line "We must fulfill [the Destiny](/the_Destiny)"
+  - Also, descriptions of [SelfLove](/SelfLove), [Empathy](/Empathy), [Wisdom](/Wisdom) go by pretty fast
+
+#### Opening Service
+- 8:30 AM Enlist kids to prepare the dirt and seeds
+- 9 AM: Bells summon people to the Opening Circle - Ben
+- Hello song - Shelley
+- [Open Space](/Open_Space) facilitator walks around the circle in silence, handing people seeds - Brandon
+- Opening words from the [Weekly Service Calls](/Weekly_Service_Calls) - alternating
+  - Includes lighting the chalice
+- We're planting the seeds of the future here and we're not sure what we're planting and what will grow. If you haven't already planted your seeds, now is a good time - Ben
+  - Have people say "I'm planting X" (joy, openness, insecurity, etc)
+- Mechanics of Open Space - Brandon
+  - Both intellectual/blue-sky and grounded/here-and-now topics
+  - If you are wondering about putting up a session ... if it's important to you ... it's important to us
+  - Mention the meal preparation and cleanup sign-up sheets
+
+### SpaceWiki ... SEDS Contest
+- http://spacewiki.com/SEDS_Contest_Leaderboard
+- Do the final judging at a session at Seed 2011
+- What happens if we have a tie?
+  - Give 2 second-place prizes
+
+### WWWs
+- Shelley ... assign lines for the opening words, rewrite intro and conclusion, and email to Ben ... by Monday
+- Shelley ... send email checking on availabily of the other lodge ... by tonight
+- Shelley ... make up menus so that people can understand how to make stuff ... by Friday
+- Brandon ... sign up sheet for meal prep and cleanup ... by Friday
+- Ben ... assemble photos for opening words ... by tonight
+- Ben ... mark the SEDS contest as over and email all participants ... by tomorrow
+  - Results will be announced this weekend and checks will be mailed during the following week
+- Everyone ... meet on Tuesday at 8:30 PM to practice the opening words
+
+### To Bring
+- Chalice
+- Matches
+- Candles
+- Bells
+- 2 Clothes ... for chalice and for trays
+- Seeds (marigold and popcorn)
+- Dirt
+- Cups
+- Crystal trays
+- Guitar
+- Vessel for the water
+- Markers
+- Copy Paper
+- Masking Tape
+- Large Papers
+- *The Sound of Music*
+- Popcorn
+- Butter
+- Salt

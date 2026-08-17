@@ -1,0 +1,48 @@
+{
+  "canonical_path": "/Art",
+  "current_revision_id": "42051",
+  "database_title": "Art",
+  "display_title": "Art",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 1,
+  "page_id": "489",
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "BenSibelman",
+      "comment": "Redirecting to [[Arthur Brock]]",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": "42051",
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": "1322",
+      "same_as_previous_public": false,
+      "timestamp": "2010-01-03T23:14:59Z",
+      "wikitext_bytes": 26,
+      "wikitext_sha256": "1f5b352a93810a5deee3286782c9324f4d3acd7aee77ca21b27efd9940be25e8",
+      "source_format": "wikitext",
+      "source_extension": "wiki"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 1322,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 63,
+      "markdown_sha256": "7226919387e2d112bb2fe3b8383d9e6121b881de25cc270878f132e8dddce047",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": "1322",
+      "previous_public_revision_id": "1322",
+      "revision_id": "42051",
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z",
+      "wikitext_bytes": 63,
+      "wikitext_sha256": "7226919387e2d112bb2fe3b8383d9e6121b881de25cc270878f132e8dddce047",
+      "source_extension": "md"
+    }
+  ],
+  "site_revision_count": 1
+}

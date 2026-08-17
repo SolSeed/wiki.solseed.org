@@ -1,0 +1,63 @@
+{
+  "canonical_path": "/CoConveners",
+  "current_revision_id": "41632",
+  "database_title": "CoConveners",
+  "display_title": "CoConveners",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 2,
+  "page_id": "62",
+  "published_revision_count": 2,
+  "revisions": [
+    {
+      "author": "Shelley Schoepflin Sanders",
+      "comment": "New page: We're working together to plan [[Seed2009]].  *[[Brandon]] *[[User:Shelley Schoepflin Sanders|Shelley]] *[[Ted]] *[[Boni]] *[[Ben]] *Add your name here!",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": "166",
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": "88",
+      "same_as_previous_public": false,
+      "timestamp": "2008-09-16T03:56:07Z",
+      "wikitext_bytes": 152,
+      "wikitext_sha256": "0faf6b9f68f5f8728270904aaf9f44b456d61843b60216d7a3e8cf3ebb587220",
+      "source_format": "wikitext",
+      "source_extension": "wiki"
+    },
+    {
+      "author": "Scifiben",
+      "comment": "",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": "41632",
+      "original_parent_revision_id": "88",
+      "previous_public_revision_id": "88",
+      "revision_id": "166",
+      "same_as_previous_public": false,
+      "timestamp": "2008-11-08T21:57:31Z",
+      "wikitext_bytes": 166,
+      "wikitext_sha256": "abfa967335907414dde3926696e5ecb11a1f8db9390b6419682d1c15059073a7",
+      "source_format": "wikitext",
+      "source_extension": "wiki"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 166,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 199,
+      "markdown_sha256": "6fc79d6d6debb9c5d9d214e0e9e85938b6928cf9735738db9beb3b3d98e63244",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": "166",
+      "previous_public_revision_id": "166",
+      "revision_id": "41632",
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z",
+      "wikitext_bytes": 199,
+      "wikitext_sha256": "6fc79d6d6debb9c5d9d214e0e9e85938b6928cf9735738db9beb3b3d98e63244",
+      "source_extension": "md"
+    }
+  ],
+  "site_revision_count": 1
+}

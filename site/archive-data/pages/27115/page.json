@@ -1,0 +1,63 @@
+{
+  "canonical_path": "/Arguments_about_morality",
+  "current_revision_id": "42720",
+  "database_title": "Arguments_about_morality",
+  "display_title": "Arguments about morality",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 2,
+  "page_id": "27115",
+  "published_revision_count": 2,
+  "revisions": [
+    {
+      "author": "BenSibelman",
+      "comment": "Created page from notes",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": "39325",
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": "39323",
+      "same_as_previous_public": false,
+      "timestamp": "2013-06-26T04:44:55Z",
+      "wikitext_bytes": 2486,
+      "wikitext_sha256": "bb9977fc0d4ee16ef408898e2a69f559c405d747a8cd8ee70f5c16b59ece11f6",
+      "source_format": "wikitext",
+      "source_extension": "wiki"
+    },
+    {
+      "author": "BenSibelman",
+      "comment": "/* Participants */",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": "42720",
+      "original_parent_revision_id": "39323",
+      "previous_public_revision_id": "39323",
+      "revision_id": "39325",
+      "same_as_previous_public": false,
+      "timestamp": "2013-06-26T04:48:21Z",
+      "wikitext_bytes": 2497,
+      "wikitext_sha256": "1e440244a0fc7d51c3d3b73ddee76dfe4f62caf685280ec0f5d25ca36f120149",
+      "source_format": "wikitext",
+      "source_extension": "wiki"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 39325,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 2564,
+      "markdown_sha256": "bfd6734e25641532a765f34f713669f51023bf5b53fedf6894d850686c81569a",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": "39325",
+      "previous_public_revision_id": "39325",
+      "revision_id": "42720",
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z",
+      "wikitext_bytes": 2564,
+      "wikitext_sha256": "bfd6734e25641532a765f34f713669f51023bf5b53fedf6894d850686c81569a",
+      "source_extension": "md"
+    }
+  ],
+  "site_revision_count": 1
+}

@@ -1,0 +1,56 @@
+{
+  "canonical_path": "/January_18,_2012:_Online_Work_Bee",
+  "current_revision_id": 42489,
+  "database_title": "January_18,_2012:_Online_Work_Bee",
+  "display_title": "January 18, 2012: Online Work Bee",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 2,
+  "page_id": 2608,
+  "published_revision_count": 2,
+  "revisions": [
+    {
+      "author": "BenSibelman",
+      "comment": "Created page from the EtherPad, with adjustments",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 5228,
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": 4590,
+      "same_as_previous_public": false,
+      "timestamp": "2012-01-19T05:50:12Z",
+      "wikitext_bytes": 7548,
+      "wikitext_sha256": "5657e5ab258e85c50ab181061f2a1dbc728814bb1e5f742abe607e584d82b809"
+    },
+    {
+      "author": "BenSibelman",
+      "comment": "moved [[January 18, 2011: Online Work Bee]] to [[January 18, 2012: Online Work Bee]]: Corrected year",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 42489,
+      "original_parent_revision_id": 4590,
+      "previous_public_revision_id": 4590,
+      "revision_id": 5228,
+      "same_as_previous_public": true,
+      "timestamp": "2012-02-06T05:10:14Z",
+      "wikitext_bytes": 7548,
+      "wikitext_sha256": "5657e5ab258e85c50ab181061f2a1dbc728814bb1e5f742abe607e584d82b809"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 5228,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 7642,
+      "markdown_sha256": "ceccd02add74452400ed522da9f3ca7776d32d4bb22dab875c90d7fcef8efcdd",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": 5228,
+      "previous_public_revision_id": 5228,
+      "revision_id": 42489,
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z"
+    }
+  ],
+  "site_revision_count": 1
+}

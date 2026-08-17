@@ -1,0 +1,43 @@
+{
+  "canonical_path": "/File:PaleBlueDot.jpg",
+  "current_revision_id": 42996,
+  "database_title": "PaleBlueDot.jpg",
+  "display_title": "File:PaleBlueDot.jpg",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 6,
+  "original_revision_count": 1,
+  "page_id": 27397,
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "EricSaumur",
+      "comment": "Image of Earth taken from deep space.\n\"PaleBlueDot\" by NASA - NASA. Licensed under Public Domain via Wikimedia Commons - http://commons.wikimedia.org/wiki/File:PaleBlueDot.jpg#mediaviewer/File:PaleBlueDot.jpg",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 42996,
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": 40306,
+      "same_as_previous_public": false,
+      "timestamp": "2015-01-17T11:22:42Z",
+      "wikitext_bytes": 208,
+      "wikitext_sha256": "50f6a7b001cca0565427e24a52855e1653676cae30d01bd66c563f6a6dcb511d"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 40306,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 209,
+      "markdown_sha256": "47cf9eaeab3cf18779f1698fde105030d7d5138f90df3d58d4b3a450e38cd570",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": 40306,
+      "previous_public_revision_id": 40306,
+      "revision_id": 42996,
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z"
+    }
+  ],
+  "site_revision_count": 1
+}

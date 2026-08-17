@@ -1,0 +1,63 @@
+{
+  "canonical_path": "/File:ViventibusMundosBowl.jpg",
+  "current_revision_id": "42756",
+  "database_title": "ViventibusMundosBowl.jpg",
+  "display_title": "File:ViventibusMundosBowl.jpg",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 6,
+  "original_revision_count": 2,
+  "page_id": "27153",
+  "published_revision_count": 2,
+  "revisions": [
+    {
+      "author": "EricSaumur",
+      "comment": "A bowl.",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": "39442",
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": "39441",
+      "same_as_previous_public": false,
+      "timestamp": "2013-10-17T23:44:01Z",
+      "wikitext_bytes": 7,
+      "wikitext_sha256": "a8a4affb022cd050d91f46a2ee5ede272003345f4543fe96d59176db448d1805",
+      "source_format": "wikitext",
+      "source_extension": "wiki"
+    },
+    {
+      "author": "EricSaumur",
+      "comment": "moved [[File:Bowl.jpg]] to [[File:ViventibusMundosBowl.jpg]]: More precise name",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": "42756",
+      "original_parent_revision_id": "39441",
+      "previous_public_revision_id": "39441",
+      "revision_id": "39442",
+      "same_as_previous_public": true,
+      "timestamp": "2013-10-17T23:48:23Z",
+      "wikitext_bytes": 7,
+      "wikitext_sha256": "a8a4affb022cd050d91f46a2ee5ede272003345f4543fe96d59176db448d1805",
+      "source_format": "wikitext",
+      "source_extension": "wiki"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 39442,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 8,
+      "markdown_sha256": "12154b22e8fa7d519684bce8a98a2c103b7c679ee5e2d4c47711beaa6d7e996a",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": "39442",
+      "previous_public_revision_id": "39442",
+      "revision_id": "42756",
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z",
+      "wikitext_bytes": 8,
+      "wikitext_sha256": "12154b22e8fa7d519684bce8a98a2c103b7c679ee5e2d4c47711beaa6d7e996a",
+      "source_extension": "md"
+    }
+  ],
+  "site_revision_count": 1
+}

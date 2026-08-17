@@ -1,0 +1,69 @@
+{
+  "canonical_path": "/February_2010_Newsletter",
+  "current_revision_id": 42075,
+  "database_title": "February_2010_Newsletter",
+  "display_title": "February 2010 Newsletter",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 3,
+  "page_id": 514,
+  "published_revision_count": 3,
+  "revisions": [
+    {
+      "author": "BenSibelman",
+      "comment": "Posted preliminary version",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 1389,
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": 1380,
+      "same_as_previous_public": false,
+      "timestamp": "2010-02-15T04:22:18Z",
+      "wikitext_bytes": 1268,
+      "wikitext_sha256": "0edfc3d2df1feba73985ccc56c7cd2d08f681123d2c3995db176c46c4c859814"
+    },
+    {
+      "author": "BenSibelman",
+      "comment": "Revised based on the EtherPad",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 1392,
+      "original_parent_revision_id": 1380,
+      "previous_public_revision_id": 1380,
+      "revision_id": 1389,
+      "same_as_previous_public": false,
+      "timestamp": "2010-02-22T04:37:19Z",
+      "wikitext_bytes": 2103,
+      "wikitext_sha256": "d7e14ae4c535d7feeeccfcdbe0f05b8734ee51ca594fe94edd429c41c5e1c0c2"
+    },
+    {
+      "author": "BenSibelman",
+      "comment": "Added images",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 42075,
+      "original_parent_revision_id": 1389,
+      "previous_public_revision_id": 1389,
+      "revision_id": 1392,
+      "same_as_previous_public": false,
+      "timestamp": "2010-02-22T05:09:51Z",
+      "wikitext_bytes": 2200,
+      "wikitext_sha256": "d8a208ff4244b5b3c202c799826e7bea0f3e83f6d03d973bb220df6c75addc00"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 1392,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 2269,
+      "markdown_sha256": "efbe39eac30fd721e68defb010e192e99eaa29aa9bcc74168b56f67172162bd9",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": 1392,
+      "previous_public_revision_id": 1392,
+      "revision_id": 42075,
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z"
+    }
+  ],
+  "site_revision_count": 1
+}

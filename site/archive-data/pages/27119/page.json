@@ -1,0 +1,63 @@
+{
+  "canonical_path": "/Eric's_essay_on_suffering",
+  "current_revision_id": "42724",
+  "database_title": "Eric's_essay_on_suffering",
+  "display_title": "Eric's essay on suffering",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 2,
+  "page_id": "27119",
+  "published_revision_count": 2,
+  "revisions": [
+    {
+      "author": "EricSaumur",
+      "comment": "Created page with \"The utopian ideal of eliminating all suffering in the world is tantamount to shooting the messenger.  Suffering is a message within our bodies and/or minds which tells us about d...\"",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": "39378",
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": "39332",
+      "same_as_previous_public": false,
+      "timestamp": "2013-07-17T22:35:18Z",
+      "wikitext_bytes": 3827,
+      "wikitext_sha256": "1cb15ce4c9dd4f9d61253b4960a388b7bd4b0fcdce55736e7677269b2f90bb62",
+      "source_format": "wikitext",
+      "source_extension": "wiki"
+    },
+    {
+      "author": "BenSibelman",
+      "comment": "Added links and minor grammar fixes",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": "42724",
+      "original_parent_revision_id": "39332",
+      "previous_public_revision_id": "39332",
+      "revision_id": "39378",
+      "same_as_previous_public": false,
+      "timestamp": "2013-07-20T17:41:30Z",
+      "wikitext_bytes": 3967,
+      "wikitext_sha256": "2483ddb9e8bed093a4b79d073aca516d20773189d6d2b3c4acc93b0e5f1bf7b4",
+      "source_format": "wikitext",
+      "source_extension": "wiki"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 39378,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 4048,
+      "markdown_sha256": "c2d46f8b6b795099176beb4efe7b5a576d5aad1ce4fe45832c357888e2bc4c0a",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": "39378",
+      "previous_public_revision_id": "39378",
+      "revision_id": "42724",
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z",
+      "wikitext_bytes": 4048,
+      "wikitext_sha256": "c2d46f8b6b795099176beb4efe7b5a576d5aad1ce4fe45832c357888e2bc4c0a",
+      "source_extension": "md"
+    }
+  ],
+  "site_revision_count": 1
+}

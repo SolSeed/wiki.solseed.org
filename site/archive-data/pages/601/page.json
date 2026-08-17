@@ -1,0 +1,48 @@
+{
+  "canonical_path": "/File:Week_2.jpg",
+  "current_revision_id": "42157",
+  "database_title": "Week_2.jpg",
+  "display_title": "File:Week 2.jpg",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 6,
+  "original_revision_count": 1,
+  "page_id": "601",
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "Shelley Schoepflin Sanders",
+      "comment": "May 12, 2010 day 17",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": "42157",
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": "1550",
+      "same_as_previous_public": false,
+      "timestamp": "2010-05-12T23:23:18Z",
+      "wikitext_bytes": 19,
+      "wikitext_sha256": "e26a3ebaa8e3a2b559b778f16036325a3f86f49be022111b271b058f484ca5e7",
+      "source_format": "wikitext",
+      "source_extension": "wiki"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 1550,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 20,
+      "markdown_sha256": "c990108421a58ea8aeb073167fe57ad493ddf23a0d5ea58d03981e1e0b1107ee",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": "1550",
+      "previous_public_revision_id": "1550",
+      "revision_id": "42157",
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z",
+      "wikitext_bytes": 20,
+      "wikitext_sha256": "c990108421a58ea8aeb073167fe57ad493ddf23a0d5ea58d03981e1e0b1107ee",
+      "source_extension": "md"
+    }
+  ],
+  "site_revision_count": 1
+}

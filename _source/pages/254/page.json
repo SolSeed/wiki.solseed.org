@@ -1,0 +1,56 @@
+{
+  "canonical_path": "/Boni",
+  "current_revision_id": 41820,
+  "database_title": "Boni",
+  "display_title": "Boni",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 2,
+  "page_id": 254,
+  "published_revision_count": 2,
+  "revisions": [
+    {
+      "author": "Shelley Schoepflin Sanders",
+      "comment": "Redirecting to [[User:Bfsanders]]",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 3200,
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": 675,
+      "same_as_previous_public": false,
+      "timestamp": "2009-03-18T15:32:15Z",
+      "wikitext_bytes": 28,
+      "wikitext_sha256": "5ef382c1fbd9e1e50e0eb56389ddaf11ad80c7ab3290d67582877e9bffcaffc6"
+    },
+    {
+      "author": "BenSibelman",
+      "comment": "Redirected page to [[User:Bonnie Sanders]]",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 41820,
+      "original_parent_revision_id": 675,
+      "previous_public_revision_id": 675,
+      "revision_id": 3200,
+      "same_as_previous_public": false,
+      "timestamp": "2011-09-03T20:18:13Z",
+      "wikitext_bytes": 33,
+      "wikitext_sha256": "35916ac1e1e4d2ffe98a96314ce63ecb79344615a902487bbf742c2f426fbc5b"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 3200,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 77,
+      "markdown_sha256": "a605ffc010c055ad474ce414258ee36582dbbb87254876901a5cd62aff85050f",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": 3200,
+      "previous_public_revision_id": 3200,
+      "revision_id": 41820,
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z"
+    }
+  ],
+  "site_revision_count": 1
+}

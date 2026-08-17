@@ -1,0 +1,48 @@
+{
+  "canonical_path": "/File:FalconsCrestHottub.gif",
+  "current_revision_id": "41609",
+  "database_title": "FalconsCrestHottub.gif",
+  "display_title": "File:FalconsCrestHottub.gif",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 6,
+  "original_revision_count": 1,
+  "page_id": "39",
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "Brandon CS Sanders",
+      "comment": "",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": "41609",
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": "48",
+      "same_as_previous_public": false,
+      "timestamp": "2008-09-13T20:06:23Z",
+      "wikitext_bytes": 0,
+      "wikitext_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "source_format": "wikitext",
+      "source_extension": "wiki"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 48,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 45,
+      "markdown_sha256": "252140068a92a43adc08c92c83b7dcebf93357b7e39a6a517958df64a49b38ca",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": "48",
+      "previous_public_revision_id": "48",
+      "revision_id": "41609",
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z",
+      "wikitext_bytes": 45,
+      "wikitext_sha256": "252140068a92a43adc08c92c83b7dcebf93357b7e39a6a517958df64a49b38ca",
+      "source_extension": "md"
+    }
+  ],
+  "site_revision_count": 1
+}

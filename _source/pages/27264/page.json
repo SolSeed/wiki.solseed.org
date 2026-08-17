@@ -1,0 +1,56 @@
+{
+  "canonical_path": "/July_24,_2014:_Online_Work_Bee",
+  "current_revision_id": 42865,
+  "database_title": "July_24,_2014:_Online_Work_Bee",
+  "display_title": "July 24, 2014: Online Work Bee",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 2,
+  "page_id": 27264,
+  "published_revision_count": 2,
+  "revisions": [
+    {
+      "author": "BenSibelman",
+      "comment": "Created page from the Google doc, with additions",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 39907,
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": 39868,
+      "same_as_previous_public": false,
+      "timestamp": "2014-07-25T04:06:21Z",
+      "wikitext_bytes": 4633,
+      "wikitext_sha256": "1fb659445521e9b5f35ec10a86803db6059cdc55eabe32dd20b300f1f35f7b0e"
+    },
+    {
+      "author": "BenSibelman",
+      "comment": "/* Weekly Events Logistics */",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 42865,
+      "original_parent_revision_id": 39868,
+      "previous_public_revision_id": 39868,
+      "revision_id": 39907,
+      "same_as_previous_public": false,
+      "timestamp": "2014-08-01T03:47:03Z",
+      "wikitext_bytes": 4550,
+      "wikitext_sha256": "7684653d78cd3a16c1e02b4604ce75cd67e4032b62edd1f3ed6276167fbd8982"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 39907,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 4542,
+      "markdown_sha256": "453a1a0c90312d24969fafee8c1f3b20c061a23bc29609ad85f6e4bf23da38ad",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": 39907,
+      "previous_public_revision_id": 39907,
+      "revision_id": 42865,
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z"
+    }
+  ],
+  "site_revision_count": 1
+}

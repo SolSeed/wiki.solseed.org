@@ -1,0 +1,43 @@
+{
+  "canonical_path": "/January_11,_2010:_Book_Club_Evening_is_the_Whole_Day",
+  "current_revision_id": 42065,
+  "database_title": "January_11,_2010:_Book_Club_Evening_is_the_Whole_Day",
+  "display_title": "January 11, 2010: Book Club Evening is the Whole Day",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 1,
+  "page_id": 504,
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "Shelley Schoepflin Sanders",
+      "comment": "New page: Book club is one of our [[Group Experiences]].  We're reading [[Evening is the Whole Day]] by Preeta Samarasan, Chs 1-7, pages 1 to 135.  ==Questions for Discussion== *Plot summary so far ...",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 42065,
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": 1358,
+      "same_as_previous_public": false,
+      "timestamp": "2010-01-12T03:08:37Z",
+      "wikitext_bytes": 1215,
+      "wikitext_sha256": "97f268b62e640f5a0c93331314945d00a592918f41a7694577e088048b8c6f37"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 1358,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 1263,
+      "markdown_sha256": "e5ca1a238f2a7e12330fc9759bc5b5c428b6187dea11185ddf4ff6fa2292be23",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": 1358,
+      "previous_public_revision_id": 1358,
+      "revision_id": 42065,
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z"
+    }
+  ],
+  "site_revision_count": 1
+}

@@ -1,0 +1,63 @@
+{
+  "canonical_path": "/Talk:Life_..._it's_our_epic_story!",
+  "current_revision_id": "42507",
+  "database_title": "Life_..._it's_our_epic_story!",
+  "display_title": "Talk:Life ... it's our epic story!",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 1,
+  "original_revision_count": 2,
+  "page_id": "4838",
+  "published_revision_count": 2,
+  "revisions": [
+    {
+      "author": "EricSaumur",
+      "comment": "Created page with \"==Babies as worthy or unworthy== I once wrote a story, lost long ago, that went something like this:  The narrator is standing in a greenhouse watching a beautiful woman, dressed...\"",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": "7693",
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": "6887",
+      "same_as_previous_public": false,
+      "timestamp": "2012-03-01T20:14:53Z",
+      "wikitext_bytes": 4538,
+      "wikitext_sha256": "ae06315f0d4e474aa2c0e488deb0edf39d0553cef4bccc4d824ab62cea784111",
+      "source_format": "wikitext",
+      "source_extension": "wiki"
+    },
+    {
+      "author": "Brandon CS Sanders",
+      "comment": "moved [[Talk:SolSeed book introduction]] to [[Talk:Life ... it's our epic story!]]: New chapter 1 for the book",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": "42507",
+      "original_parent_revision_id": "6887",
+      "previous_public_revision_id": "6887",
+      "revision_id": "7693",
+      "same_as_previous_public": true,
+      "timestamp": "2012-03-12T04:45:32Z",
+      "wikitext_bytes": 4538,
+      "wikitext_sha256": "ae06315f0d4e474aa2c0e488deb0edf39d0553cef4bccc4d824ab62cea784111",
+      "source_format": "wikitext",
+      "source_extension": "wiki"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 7693,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 4539,
+      "markdown_sha256": "e4e4a34735d2c64f4b29bfb41a47e6894b3434463c67f1b6d0eec00fb3267bf5",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": "7693",
+      "previous_public_revision_id": "7693",
+      "revision_id": "42507",
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z",
+      "wikitext_bytes": 4539,
+      "wikitext_sha256": "e4e4a34735d2c64f4b29bfb41a47e6894b3434463c67f1b6d0eec00fb3267bf5",
+      "source_extension": "md"
+    }
+  ],
+  "site_revision_count": 1
+}

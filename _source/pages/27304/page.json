@@ -1,0 +1,43 @@
+{
+  "canonical_path": "/Guided_Medittaions",
+  "current_revision_id": 42904,
+  "database_title": "Guided_Medittaions",
+  "display_title": "Guided Medittaions",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 1,
+  "page_id": 27304,
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "EricSaumur",
+      "comment": "moved [[Guided Medittaions]] to [[Guided Meditations]]",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 42904,
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": 40014,
+      "same_as_previous_public": false,
+      "timestamp": "2014-09-29T00:49:42Z",
+      "wikitext_bytes": 32,
+      "wikitext_sha256": "2489072998c931b7e63166853bf4ba7d6e2a31046cd551ea713008951d78e409"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 40014,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 75,
+      "markdown_sha256": "7d5d25971116517561a1ed4403eb70519c15b802e83f580d4301e0b0b5794ea4",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": 40014,
+      "previous_public_revision_id": 40014,
+      "revision_id": 42904,
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z"
+    }
+  ],
+  "site_revision_count": 1
+}

@@ -1,0 +1,56 @@
+{
+  "canonical_path": "/Grow_Dome_at_Hanks",
+  "current_revision_id": 42644,
+  "database_title": "Grow_Dome_at_Hanks",
+  "display_title": "Grow Dome at Hanks",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 2,
+  "page_id": 27039,
+  "published_revision_count": 2,
+  "revisions": [
+    {
+      "author": "Brandon CS Sanders",
+      "comment": "Build a grow-dome",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 39064,
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": 39062,
+      "same_as_previous_public": false,
+      "timestamp": "2012-09-23T21:52:25Z",
+      "wikitext_bytes": 401,
+      "wikitext_sha256": "c4b110230df49b471d362bcd65093ffb53f55ff16832f7cfd4014699c6ad5fde"
+    },
+    {
+      "author": "Brandon CS Sanders",
+      "comment": "",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 42644,
+      "original_parent_revision_id": 39062,
+      "previous_public_revision_id": 39062,
+      "revision_id": 39064,
+      "same_as_previous_public": false,
+      "timestamp": "2012-09-23T21:55:49Z",
+      "wikitext_bytes": 407,
+      "wikitext_sha256": "085f127b79d9d0757ae6ea8f2c5abc110acf8862a728dd886e9e3c26f67a6796"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 39064,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 421,
+      "markdown_sha256": "c06aa5a469b86f590887dd010ff44d763450125baec67e07ce971e21bfb90960",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": 39064,
+      "previous_public_revision_id": 39064,
+      "revision_id": 42644,
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z"
+    }
+  ],
+  "site_revision_count": 1
+}

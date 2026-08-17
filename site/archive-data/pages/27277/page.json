@@ -1,0 +1,63 @@
+{
+  "canonical_path": "/Sign_for_Passion",
+  "current_revision_id": "42878",
+  "database_title": "Sign_for_Passion",
+  "display_title": "Sign for Passion",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 2,
+  "page_id": "27277",
+  "published_revision_count": 2,
+  "revisions": [
+    {
+      "author": "Brandon CS Sanders",
+      "comment": "Created page with \"=== Passionate ===  Passionate: [http://www.signingsavvy.com/sign/PASSIONATE/2053/1 C-hands move down the chest repeatedly]  === Self Love ===  Self: [http://www.signingsavvy.com...\"",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": "39942",
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": "39941",
+      "same_as_previous_public": false,
+      "timestamp": "2014-08-24T21:23:04Z",
+      "wikitext_bytes": 437,
+      "wikitext_sha256": "1da3645c2b6df85aefdef36f6c470d7c559ab50f7b480722b5e03d5cf38b8d5c",
+      "source_format": "wikitext",
+      "source_extension": "wiki"
+    },
+    {
+      "author": "Brandon CS Sanders",
+      "comment": "",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": "42878",
+      "original_parent_revision_id": "39941",
+      "previous_public_revision_id": "39941",
+      "revision_id": "39942",
+      "same_as_previous_public": false,
+      "timestamp": "2014-08-24T21:24:14Z",
+      "wikitext_bytes": 461,
+      "wikitext_sha256": "51a0c174dd7754b0bb44c3f7a12a85959536552894b83aeb15bcf5b8468f53eb",
+      "source_format": "wikitext",
+      "source_extension": "wiki"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 39942,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 467,
+      "markdown_sha256": "c28acbb5b8a5d1e11e77ffdbacfb8eea3dd1c9608551356b2b945c048ee2c391",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": "39942",
+      "previous_public_revision_id": "39942",
+      "revision_id": "42878",
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z",
+      "wikitext_bytes": 467,
+      "wikitext_sha256": "c28acbb5b8a5d1e11e77ffdbacfb8eea3dd1c9608551356b2b945c048ee2c391",
+      "source_extension": "md"
+    }
+  ],
+  "site_revision_count": 1
+}

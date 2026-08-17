@@ -1,0 +1,177 @@
+### Agenda
+- What is this meeting?
+- Check in
+- Review WWWs
+- Weekly event logistics
+- Write up more Roles
+  - 2015 Kindred Lead Convener
+  - Festival King/Queen
+  - Scripture Writer
+  - Web Maintenance
+  - Outreach Coordinator
+  - Practices Documenter (we didn't get to this)
+- Evaluation
+
+### What is this meeting?
+- Brandon has one governance proposal
+- Ben has a few more roles
+  - Brandon thinks we should write them up in a work-bee-style meeting
+- Brandon doesn’t feel like things are set up great for a tactical meeting
+
+Mix between tactical meeting and work bee (traditional business meeting)
+
+### Check-in
+- Ben … grateful that he gets to see Guardians of the Galaxy with my friend Lion tonight, even though it means he’ll probably get less sleep than he’d like.
+- Brandon … grateful for his pristine office … it’s a very nice space to work in
+
+### WWWs from last time
+- Ben ... follow your topical community protocol for this week ... ongoing
+- Ben ... meditate and keep track of which days ... ongoing
+- <s>Ben … actually keep track of newsletter signups … by next call</s>
+- <s>Ben … suggest a process for answering "what would we need to determine whether this is the right way forward or not (e.g., if we have 10 or 50 members)?" and write something up … by next call</s>
+- Eric ... follow your topical community protocol for this week ... ongoing
+- Eric ... meditate and keep track of which days ... ongoing
+- Eric … collect info on Sol 2014 spending and update SolSeed spreadsheet … by next call
+- Eric … finish next mailchimp orientation email
+- Eric ... add the active member role and define what it means
+- Patrick … read [6th Season](/6th_Season) and come back ready to approve or suggest modifications … by next call
+- <s>Brandon ... follow your topical community protocol for this week ... ongoing</s>
+- <s>Brandon ... meditate and keep track of which days ... ongoing</s>
+- <s>Brandon … revise topical community protocol … by next call</s>
+- Brandon … get metrics together so we can do Holacracy tactical meeting … by next call
+- <s>Brandon … bring Sanders' financial information up to date through July</s>
+- <s>Brandon … Writeup how holacracy wants us to tweak our work style (including governance, tactical, and work bees)</s>
+- Brandon … get metric numbers together for last week so that we understand what the number looks like
+- Brandon … start a dashboard for us to collect and visualize our metrics on
+- Brandon … kindred 2015 proposal
+- Brandon … write up the Kindred 2015 lead convener role
+
+Actions were assigned via GlassFrog and sent to us in emails.
+
+### WWWs
+- Ben ... follow your topical community protocol for this week ... ongoing
+- Ben ... meditate and keep track of which days ... ongoing
+- Ben … write up Facebook post about artist in Portland who is collaborating with reef building organisms to create art … by Thursday
+- Ben … make more progress on graphics for the next music video … by Sunday
+- Eric ... follow your topical community protocol for this week ... ongoing
+- Eric ... meditate and keep track of which days ... ongoing
+- Brandon ... follow your topical community protocol for this week ... ongoing
+- Brandon ... meditate and keep track of which days ... ongoing
+- Brandon … create a Doodle to reschedule the Sunday work bees … by Thursday
+- Brandon … get metric numbers together for last week so that we understand what the number looks like
+- Brandon … start a dashboard for us to collect and visualize our metrics on
+- Brandon … kindred 2015 proposal
+- Brandon … schedule a governance meeting to encompass the new proposals.
+- Brandon … write a “stewards circle outside of glassfrog” policy proposal
+
+### Weekly Events Logistics
+Weekend
+Service rotation: Eric, Shelley, Brandon, Ben
+- August 16 Service: 9 AM PDT, 12:00 EDT (Eric)
+
+- August 17 Work-Bee: 13:30 PDT, 16:30 EDT?
+  - Michelle wants us to change this because it goes over dinner
+  - Sanders have a soccer game from 1-4 PM
+
+Midweek
+- August 14 Work-Bee: 6:30 PM PDT, 21:30 EDT
+
+### Writing up Roles
+#### 2015 Kindred Lead Convener
+Purpose: Ensure that all Kindred 2015 logistics are cared for so that the event is a blessing (not a burden) for all who attend.
+
+Domains:
+- [Kindred 2015 Invitation](/Kindred_2015_Invitation) … includes venue and schedule
+- [Kindred 2015 Guest List](/Kindred_2015_Guest_List)
+- [Kindred 2015 Orientation Packet](/Kindred_2015_Orientation_Packet)
+
+Accountabilities:
+- Submitting a plan (including budget) for consideration by the contributing members
+- Working the plan (if approved)
+  - Convening the co-conveners to write the invitation and make collective decisions as necessary
+  - Contacting event attendees to ensure they have what they need to travel to the event and participate
+  - Reserving the venue
+
+#### Festivals King/Queen
+Purpose: Manage logistics to ensure all our major in-person parties and camping events on the four major holidays are awesome!
+
+Domains:
+- Financial resources allocated to the four major holidays by the Lead Link
+- Planning documents for the four major holidays including venues, transportation, supplies, and agendas
+
+Accountabilities:
+- Determining what resources each event needs to be successful
+- Proposing venues and agenda items for events
+- Assembling lists of specific things to buy
+- Purchasing supplies or assigning others to do so
+- Contacting venues to make reservations
+- Providing any necessary assistance for each participant to travel to the event
+- Gauging the mood and needs of participants at the event and adjusting plans as needed
+
+#### Open Space Convener
+Purpose: coordinate Open Space events, including those that coincide with festivals.
+
+Domains:
+- Invitations
+- Guest lists
+- Facilities
+- Facilitation Process
+
+Accountabilities:
+- Convening the co-conveners to write the invitation
+- Booking the venue
+- Coordinating the guest list and ensuring that there is capacity for all who are attending
+- Enlisting facilitation as needed
+- Coordinating with the Festival King/Queen when coincident with festivals (invitation, venue, schedule, etc.)
+
+#### Scripture Writer
+Purpose: Maintain and expand the SolSeed body of religious texts.
+
+Domains:
+- The SolSeed Creed
+- Text of the rituals for the Liturgical Seasons
+- The SolSeed Book of Days
+- SolSeed: The Book of Life
+
+Accountabilities:
+- Writing and revising content for the SolSeed scriptures
+- Motivating others to write content, particularly for SolSeed: The Book of Life
+- Discussing possibly-controversial content with the Stewards to ensure it matches our joint understanding of what SolSeed is about
+
+#### Web Maintenance Guy/Gal
+Purpose: Keep the SolSeed web presence online and fully functional.
+
+Domains:
+- SolSeed-owned domain names
+- Web hosting for solseed.org
+- The SolSeed Meetup accounts
+- Internet ad campaigns
+
+Accountabilities:
+- Paying for domain names and web hosting
+- Troubleshooting any technical problems that arise with solseed.org, e.g. spam on the wiki and page-loading delays
+- Paying for the Meetup accounts
+- Setting up and maintaining Internet ad campaigns
+
+#### Outreach Coordinator
+Purpose: keep track of and optimize our collective topical communities, advertising, and other outreach efforts.
+
+Domains:
+- Topical community protocols
+- Drip emails
+- The SolSeed Facebook page
+- SolSeed Meetup event pages
+- Internet ad campaigns
+
+Accountabilities:
+- Verifying that everyone is following their topical community protocols, and removing barriers to doing so
+- Assigning people to create drip emails
+- Maintaining the MailChimp system for sending drip emails
+- Posting to the SolSeed Facebook page and motivating others to do so
+- Posting upcoming events to the SolSeed Meetups
+- Assembling content for Internet ad campaigns
+- Tracking success metrics for Internet ad campaigns
+
+### Closing Round
+- Brandon … I love actually doing the work in these calls … +1 for work bees
+- Ben … I’m ambivalent ... it’s obviously a good way to motivate us, working while on a call and expecting each other to be working, but it feels like we could be doing this on our own … I do like the moments when we look at each other’s work and make a few suggestions … it’s like we’re creating a virtual office space instead of a virtual meeting, which is a bit weird

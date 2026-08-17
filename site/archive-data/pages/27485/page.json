@@ -1,0 +1,63 @@
+{
+  "canonical_path": "/August_20,_2015:_Online_Work_Bee",
+  "current_revision_id": "43083",
+  "database_title": "August_20,_2015:_Online_Work_Bee",
+  "display_title": "August 20, 2015: Online Work Bee",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 2,
+  "page_id": "27485",
+  "published_revision_count": 2,
+  "revisions": [
+    {
+      "author": "Brandon CS Sanders",
+      "comment": "Created page with \"== Thursday Agenda == * Check in * Opening Blessing * Project Work ** Brandon: Reading http://waitbutwhy.com/2015/08/how-and-why-spacex-will-colonize-mars.html ** Eric: Reading h...\"",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": "40601",
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": "40599",
+      "same_as_previous_public": false,
+      "timestamp": "2015-08-24T00:36:44Z",
+      "wikitext_bytes": 1272,
+      "wikitext_sha256": "d2d7da9417f3715fa286d13a4305f57e564f7762c29862b7d0c9f5d61380c10f",
+      "source_format": "wikitext",
+      "source_extension": "wiki"
+    },
+    {
+      "author": "Brandon CS Sanders",
+      "comment": "moved [[August 20, 2015: Workbee]] to [[August 20, 2015: Online Work Bee]]",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": "43083",
+      "original_parent_revision_id": "40599",
+      "previous_public_revision_id": "40599",
+      "revision_id": "40601",
+      "same_as_previous_public": true,
+      "timestamp": "2015-08-24T00:37:36Z",
+      "wikitext_bytes": 1272,
+      "wikitext_sha256": "d2d7da9417f3715fa286d13a4305f57e564f7762c29862b7d0c9f5d61380c10f",
+      "source_format": "wikitext",
+      "source_extension": "wiki"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 40601,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 1267,
+      "markdown_sha256": "88fc01e78b12fe846642a37ccad624e693bff2b60c2819b7aa0cb07bb70d96b0",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": "40601",
+      "previous_public_revision_id": "40601",
+      "revision_id": "43083",
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z",
+      "wikitext_bytes": 1267,
+      "wikitext_sha256": "88fc01e78b12fe846642a37ccad624e693bff2b60c2819b7aa0cb07bb70d96b0",
+      "source_extension": "md"
+    }
+  ],
+  "site_revision_count": 1
+}

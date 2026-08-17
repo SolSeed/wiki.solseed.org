@@ -1,0 +1,120 @@
+### Agenda
+- Check In
+- Review WWWs
+- Weekly Events Logistics
+- Review Agenda
+- SolSeed Song
+- Bella Gaia
+- Opening words for 7th liturgical season
+- Evaluation
+
+### Check In
+- Eric ... really excited about Michael Dowd's interest in SolSeed ... also really exhausted from the work to clean up the mess in the basement, from going to Michael Dowd's event, etc ... my life is intense, but good
+- Ben ... I am having a somewhat relaxing weekend.  (At least yesterday was somewhat relaxing) but this afternoon I had a somewhat disturbing conversation with Lion and I have a meeting with 'Get Money Out of Politics' after this and so I am stressed some of the day and relaxing others.  
+
+### WWWs from last time
+- Brandon ... follow your topical community protocol for this week ... ongoing
+- Brandon ... meditate and keep track of which days ... ongoing
+- Brandon ... finish the visitor cookies and logging including google analytics ... by week after next
+- Brandon ... send the image of the SolSeed emblem to Eric ... by week after next
+- Brandon ... react to the transcendent experiences table ... by week after next
+- Ben ... follow your topical community protocol for this week ... ongoing
+- Ben ... meditate and keep track of which days ... ongoing
+- Eric ... follow your topical community protocol for this week ... ongoing
+- Eric ... meditate and keep track of which days ... ongoing
+- Eric ... Extract issues from Commentary on commentary and add to Git ... by next call
+- Eric ... mail thing to Sequoia ... by next call (tried but the post office was closed)
+
+### WWWs
+- Brandon ... follow your topical community protocol for this week ... ongoing
+- Brandon ... meditate and keep track of which days ... ongoing
+- Brandon ... finish the visitor cookies and logging including google analytics ... by next week
+- Brandon ... send the image of the SolSeed emblem to Eric ... by next week
+- Brandon ... react to the transcendent experiences table ... by next week
+- Brandon .. ask Mark Neilssen if we can include his paintings in the intial The Seed video ... by the week after next
+- Ben ... follow your topical community protocol for this week ... ongoing
+- Ben ... meditate and keep track of which days ... ongoing
+- Ben ... re-contact John about getting the rights to the song ... by tonight
+- Ben ... check with Brandon about the rights to use the paintings in a Creative Commons licensed video ... by tonight
+- Ben ... make some progress on the next music video ... by next call
+- Eric ... follow your topical community protocol for this week ... ongoing
+- Eric ... meditate and keep track of which days ... ongoing
+- Eric ... Extract issues from Commentary on commentary and add to Git ... by next call
+- Eric ... mail thing to Sequoia ... by next call
+
+### Weekly Events Logistics
+Service rotation: Eric, Shelley, Brandon, Ben
+- September 21 Service: 9:00 am PDT (12:00 EDT) (Brandon) ... but it's the Equinox
+- September 22 Work-Bee: 10:00 am PDT 13:00 EDT
+- September 28 Service: 9:00 am PDT (12:00 EDT) (Ben)
+- September 29 Work-Bee: 1:30 pm PDT 16:30 EDT
+- October 20 Seeing Nature Readings and Practices (Ottawa): 13:00 EST 
+
+### SolSeed Song
+- Ben needs to re-contact John about getting the rights.
+- Brandon said he was going to talk to Mark Nilssen about including the painter's pictures in a video of the song.
+- Ben should start on working on a more animated video
+
+### http://www.bellagaia.com/
+2013 performances:
+- Nov 22 - New York, NY, Girls Club of Manhattan - Planetarium show & Collaboration (Details TBA)
+- Nov 8 - Laredo TX, NASA Beautiful Earth Education program Planetarium show (Details TBA)
+
+2014 performances:
+- March 28 - Phoenix AZ Chandler Auditorium (Ensemble)
+- May 10 - Santa Barbara, CA Granada Theatre (Ensemble, 4K projections)
+We could make donations to support them (and/or other interesting projects of the Baum Foundation such as "Future We Want") - http://thebaumfoundation.org/donate
+- Talk about it in the "what with funds" exercise
+
+### 7th season opening words
+http://solseed.org/July_28,_2013:_Online_Work_Bee#Opening_words_for_the_service
+
+<Each person begins with a cup of water>
+Barren worlds ... everywhere ... barren worlds ...
+But here ... <gasp> ... Earth! 
+
+<light earth candle>
+
+Cities! Farms! Forests! Seas! 
+A living world poised to flower and spread.
+A living world supporting a beautiful civilization
+A living world, bursting with possibility.
+
+Our story begins with the people, our members ...
+We who answer the call! 
+
+<Each person pours their water into a common bowl>
+
+As we practice, a movement forms,
+Binding our lives together,
+Reminding our elephants,
+Aligning our words and actions
+With our highest aspirations. 
+
+<Each person dips their finger into the common bowl of water and then touches it to their mouth and opposite hand><symbolism: water is highest aspirations or community supporting highest aspirations; mouth is words and opposite hand is actions>
+
+We bring the new trees!
+The new trees make life's next great leap.
+The new trees take root on barren worlds. 
+
+<lay a floatable tree seed (e.g. individual maple key or pine seed (not whole cone)) on the surface of the water>
+
+And ... we grow new homes!
+Bringing barren worlds to life,
+Colonies where life's upward spiral supports all spacefaring creatures. 
+
+<light second candle the first week and one more each week through the season.>
+
+People. Practice. Trees. Colonies.
+From barren worlds ... <gasp> ... a family of living worlds.
+
+#### Dropped lines
+The new trees diversify SolSeed,
+
+The new trees achieve a Destiny (suggested replacement we didn't use)
+
+Colonies of communion for all spacefaring creatures.
+
+### Evaluation
+- Eric ... I love working with you ... I am grateful for you being in my life
+- Ben ... seems like we made good progress; thunder and music are impeding thought; I am glad the SolSeed Movement exists but I am not good at stating my feelings.

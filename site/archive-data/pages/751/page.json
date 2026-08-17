@@ -1,0 +1,48 @@
+{
+  "canonical_path": "/October_25,_2010:_Online_Work_Bee",
+  "current_revision_id": "42307",
+  "database_title": "October_25,_2010:_Online_Work_Bee",
+  "display_title": "October 25, 2010: Online Work Bee",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 1,
+  "page_id": "751",
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "Brandon CS Sanders",
+      "comment": "Move over edit that happened after the database dump I made to move to the new server",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": "42307",
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": "1930",
+      "same_as_previous_public": false,
+      "timestamp": "2010-10-26T06:11:51Z",
+      "wikitext_bytes": 5731,
+      "wikitext_sha256": "53ee608578940100a8da3998f17d69a11fc8855fa4f8edc2c7e961f5a0231274",
+      "source_format": "wikitext",
+      "source_extension": "wiki"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 1930,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 5762,
+      "markdown_sha256": "b3ce8dcd0e9c21fcc5d3c5edb4817984d532b874935a2755d5863d953b39703e",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": "1930",
+      "previous_public_revision_id": "1930",
+      "revision_id": "42307",
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z",
+      "wikitext_bytes": 5762,
+      "wikitext_sha256": "b3ce8dcd0e9c21fcc5d3c5edb4817984d532b874935a2755d5863d953b39703e",
+      "source_extension": "md"
+    }
+  ],
+  "site_revision_count": 1
+}

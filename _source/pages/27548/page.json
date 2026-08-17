@@ -1,0 +1,69 @@
+{
+  "canonical_path": "/April_3,_2016:_Business_Call",
+  "current_revision_id": 43146,
+  "database_title": "April_3,_2016:_Business_Call",
+  "display_title": "April 3, 2016: Business Call",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 3,
+  "page_id": 27548,
+  "published_revision_count": 3,
+  "revisions": [
+    {
+      "author": "EricSaumur",
+      "comment": "Created page with \"== Sunday Agenda ==’ * Check in * Opening Blessing * Review WWWs * Weekly event logistics * Review Agenda * Service call enhancements * Evaluation * Closing Blessing  == Thursd...\"",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 40764,
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": 40763,
+      "same_as_previous_public": false,
+      "timestamp": "2016-04-04T01:31:17Z",
+      "wikitext_bytes": 9424,
+      "wikitext_sha256": "c91a08f96c16a25dbfdf57c94cda5b449d11c6ed530b405e986e5a44bc08007f"
+    },
+    {
+      "author": "EricSaumur",
+      "comment": "",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 40765,
+      "original_parent_revision_id": 40763,
+      "previous_public_revision_id": 40763,
+      "revision_id": 40764,
+      "same_as_previous_public": false,
+      "timestamp": "2016-04-04T01:32:38Z",
+      "wikitext_bytes": 9135,
+      "wikitext_sha256": "ec6092bdec3a249bbb735e9aafbe9cef7ba92c4cea19381849b4b2c93197f305"
+    },
+    {
+      "author": "EricSaumur",
+      "comment": "",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 43146,
+      "original_parent_revision_id": 40764,
+      "previous_public_revision_id": 40764,
+      "revision_id": 40765,
+      "same_as_previous_public": false,
+      "timestamp": "2016-04-04T01:33:15Z",
+      "wikitext_bytes": 9132,
+      "wikitext_sha256": "18742573d3b472aba2f1420473081c09443d4c128d531fc3e3e09f1e440a59e6"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 40765,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 9139,
+      "markdown_sha256": "d308326a4b2c61d0ae44852291675812ddf7351d3137861d9c3905976288d3fa",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": 40765,
+      "previous_public_revision_id": 40765,
+      "revision_id": 43146,
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z"
+    }
+  ],
+  "site_revision_count": 1
+}

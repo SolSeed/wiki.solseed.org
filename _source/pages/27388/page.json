@@ -1,0 +1,56 @@
+{
+  "canonical_path": "/SolSeed_Business_Brainstorming",
+  "current_revision_id": 42987,
+  "database_title": "SolSeed_Business_Brainstorming",
+  "display_title": "SolSeed Business Brainstorming",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 2,
+  "page_id": 27388,
+  "published_revision_count": 2,
+  "revisions": [
+    {
+      "author": "BenSibelman",
+      "comment": "Created page from the notes from previous business calls",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 40286,
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": 40285,
+      "same_as_previous_public": false,
+      "timestamp": "2015-01-09T03:38:42Z",
+      "wikitext_bytes": 26412,
+      "wikitext_sha256": "d97f345df92232b8dff7b1eb30e9b016e4eb15d42eca4af09a2ec5dceb93c5f5"
+    },
+    {
+      "author": "BenSibelman",
+      "comment": "/* Blue Hat (talking process) */",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 42987,
+      "original_parent_revision_id": 40285,
+      "previous_public_revision_id": 40285,
+      "revision_id": 40286,
+      "same_as_previous_public": false,
+      "timestamp": "2015-01-09T03:39:45Z",
+      "wikitext_bytes": 26462,
+      "wikitext_sha256": "263a70054b31d8799192877031316201792a8c42190129ae1bc864fb542961f7"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 40286,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 26579,
+      "markdown_sha256": "120e46356dc1fd8bb3f141dd3481db769653f3b9e2a4a913d3e200fa8758bd1a",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": 40286,
+      "previous_public_revision_id": 40286,
+      "revision_id": 42987,
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z"
+    }
+  ],
+  "site_revision_count": 1
+}

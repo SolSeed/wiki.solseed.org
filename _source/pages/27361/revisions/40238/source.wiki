@@ -1,0 +1,1 @@
+Animation of Olbers' Paradox in action from Wikipedia's page on Olbers' paradox

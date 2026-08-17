@@ -1,0 +1,43 @@
+{
+  "canonical_path": "/One_Page_Plan",
+  "current_revision_id": 42422,
+  "database_title": "One_Page_Plan",
+  "display_title": "One Page Plan",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 1,
+  "page_id": 1146,
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "Brandon CS Sanders",
+      "comment": "moved [[One Page Plan]] to [[OnePagePlan]] over redirect",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 42422,
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": 2560,
+      "same_as_previous_public": false,
+      "timestamp": "2011-05-02T04:08:20Z",
+      "wikitext_bytes": 25,
+      "wikitext_sha256": "d488cbd5ae09c9f34481aa1166002aeaade4cbeaa35aee9f601e56b999b898cc"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 2560,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 61,
+      "markdown_sha256": "9229023ca08c313b9372219ef1eb2e608412dcc90709cd5a4b2493047fc04558",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": 2560,
+      "previous_public_revision_id": 2560,
+      "revision_id": 42422,
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z"
+    }
+  ],
+  "site_revision_count": 1
+}

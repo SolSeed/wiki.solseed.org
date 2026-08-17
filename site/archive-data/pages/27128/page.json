@@ -1,0 +1,48 @@
+{
+  "canonical_path": "/December_27th_:_Curved_Space",
+  "current_revision_id": "42733",
+  "database_title": "December_27th_:_Curved_Space",
+  "display_title": "December 27th : Curved Space",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 1,
+  "page_id": "27128",
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "EricSaumur",
+      "comment": "moved [[December 27th : Curved Space]] to [[December 27th : Circular LineLand]]: split day into two",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": "42733",
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": "39367",
+      "same_as_previous_public": false,
+      "timestamp": "2013-07-18T02:25:13Z",
+      "wikitext_bytes": 47,
+      "wikitext_sha256": "475ce035e8299d9fc824245a066c0e912b9ecff011f808f3c712480049239d00",
+      "source_format": "wikitext",
+      "source_extension": "wiki"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 39367,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 105,
+      "markdown_sha256": "5abb89c3f13cc8944341af714cecddb2b02440f19569acf52031c0dd8e328627",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": "39367",
+      "previous_public_revision_id": "39367",
+      "revision_id": "42733",
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z",
+      "wikitext_bytes": 105,
+      "wikitext_sha256": "5abb89c3f13cc8944341af714cecddb2b02440f19569acf52031c0dd8e328627",
+      "source_extension": "md"
+    }
+  ],
+  "site_revision_count": 1
+}

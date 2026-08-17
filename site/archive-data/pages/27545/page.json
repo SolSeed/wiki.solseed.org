@@ -1,0 +1,48 @@
+{
+  "canonical_path": "/Spider_Momma",
+  "current_revision_id": "43143",
+  "database_title": "Spider_Momma",
+  "display_title": "Spider Momma",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 1,
+  "page_id": "27545",
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "Brandon CS Sanders",
+      "comment": "Created page with \"There was a momma spider who wanted more than anything in the world to be connected to the land and to her fellow creatures and to her children. But she was assigned many many ta...\"",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": "43143",
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": "40757",
+      "same_as_previous_public": false,
+      "timestamp": "2016-03-28T00:59:05Z",
+      "wikitext_bytes": 1129,
+      "wikitext_sha256": "442f12eeb68d42bf541f8db8cdcb983f5e36474c76d13bef5e94e646d386c7c1",
+      "source_format": "wikitext",
+      "source_extension": "wiki"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 40757,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 1130,
+      "markdown_sha256": "f4156b9fabfbfe078fb5fbdc297b437194a21929ff3c3ddd982bad1c698c9310",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": "40757",
+      "previous_public_revision_id": "40757",
+      "revision_id": "43143",
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z",
+      "wikitext_bytes": 1130,
+      "wikitext_sha256": "f4156b9fabfbfe078fb5fbdc297b437194a21929ff3c3ddd982bad1c698c9310",
+      "source_extension": "md"
+    }
+  ],
+  "site_revision_count": 1
+}

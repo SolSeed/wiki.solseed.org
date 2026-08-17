@@ -1,0 +1,1 @@
+Arete is a Greek word that means living up to our potential and fulfilling our purpose. When we say “the Arete of Life” we mean the complex whole of Life, including the upward spiral of creation and the myriad deaths and extinctions that give rise to that spiral.

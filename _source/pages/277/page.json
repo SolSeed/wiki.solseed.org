@@ -1,0 +1,43 @@
+{
+  "canonical_path": "/File:Jerry_and_Shirley.jpg",
+  "current_revision_id": 41842,
+  "database_title": "Jerry_and_Shirley.jpg",
+  "display_title": "File:Jerry and Shirley.jpg",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 6,
+  "original_revision_count": 1,
+  "page_id": 277,
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "Shelley Schoepflin Sanders",
+      "comment": "Trash pickup with SolSeed and friends.",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 41842,
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": 740,
+      "same_as_previous_public": false,
+      "timestamp": "2009-04-15T03:14:30Z",
+      "wikitext_bytes": 38,
+      "wikitext_sha256": "b062d7eeac4db5d2d2d49f1a174b7e77eb438f23a026796fccfe55a7b3eb5f66"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 740,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 39,
+      "markdown_sha256": "5082a1a428eb1a602935b79728067093564f275fd35c6718d2a8fd5a67059be6",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": 740,
+      "previous_public_revision_id": 740,
+      "revision_id": 41842,
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z"
+    }
+  ],
+  "site_revision_count": 1
+}

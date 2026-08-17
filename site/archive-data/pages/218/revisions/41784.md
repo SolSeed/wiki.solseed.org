@@ -1,0 +1,211 @@
+< [Group Experiences](/Group_Experiences)
+
+### Opening words - 5 mins
+BRANDON:
+The SolSeed Creed is a statement of the shared values that ground the SolSeed Movement. The SolSeed Creed asserts that life and that which sustains life is good and precious, and calls humanity to mature into its role as caretaker of SolSeed. The Destiny is the ultimate expression of what nurturing and protecting life means. Becoming worthy of and fulfilling The Destiny are the two ultimate goals held by members of the SolSeed Movement. 
+
+BEN:
+We believe that:
+
+**The Destiny of SolSeed**
+**is to take root amongst the stars.**
+
+SHELLEY:
+Sol,
+Terra,
+you,
+me,
+we,
+ALL,
+are precious SolSeed.
+
+**As SolSeed's intelligent spark,** 
+**We are its caretakers,**
+**We must fulfill The Destiny.
+
+We believe that:
+Our holy duty is to 
+embrace Self Love,
+cultivate Empathy,
+and pursue Wisdom,
+
+**so that our being honors SolSeed,**
+**and our striving hastens 
+**the fulfillment of The Destiny.**
+
+Self Love is motive.
+Without Self Love,
+Empathy and Wisdom are impotent.
+
+**I pledge to learn to love myself; to
+**become a person I cherish,
+**admire, and care for.**
+
+Empathy is transcendent.
+Without Empathy,
+Self Love and Wisdom are evil.
+
+**I pledge to cultivate empathy in
+**myself and others; to share and
+**demonstrate my concern for
+**others and for the growing life all
+**around me.
+
+Wisdom is effective.
+Without Wisdom,
+Self Love and Empathy are feeble and capricious.
+
+**I pledge to seek wisdom; to honor
+**my past, to strive for the future, to
+**be open to new ideas and new
+**beliefs, and to share my wisdom
+**with others.
+
+Through Self Love, Empathy, and Wisdom
+we have come to know that:
+
+ALL:
+**We are SolSeed;
+**Children of the sun,
+**Awakened by starlight,
+**Growing, nurturing, protecting,
+'''We bring life!
+
+### Check in with everyone - 10 mins
+Power Shift 2009
+
+12,000 young adults
+
+5 sessions of workshops and panels
+  - Photo and Video Tactics (for political purposes)
+  - The road to Copenhagen (climate negotions end of year)
+  - Making the economy green for all (environmentalism about lifting up the least of us and upgrading blue color jobs to pay well)
+  - Climate, creatures, and ecosytems (can't afford to be depressed)
+  - Climate adaptation (communities that will be impacted and how to help them)
+
+One sky (ben's thinking about doing some things with them locally)
+
+Training on the day after
+
+Lobby day ... hundreds of congressfolk getting visits from young people
+
+Rally on the West lawn of the capital and a march to a nearby coal plant (currently shut down or about to be shut down ... perhaps in response to us) a mandate to move to natural gas
+
+Serendipitously met some folks I haven't seen for a long time (nbrhood and pomona college)
+
+Went to a meeting with a Jay In?
+
+Visit with Aunt and Cousin ... couple of museums
+
+Huge gatherings on the first two nights with great speakers
+
+Wonderful to have so much mass (huge event) ... lots of talk about last chance ... if we don't get things shifting this year we're all doomed ... hard to deal with
+
+If we don't start decreasing greenhouse gases we're not going to be able to avoid climate catastrophe ... there is a huge negotiation in December ... rally on October 24th (hopefully largest political action day in history)
+
+Trying to stay committed ... figuring out what my next steps are going to be ... contacts and representatives in my district
+
+Do you feel called to this work?  More so since important folks said it's our generations calling (even though we screwed it up)
+
+### Water Project - 10 mins
+Nothing back from Water Partners International (water.org) yet
+Brandon's parents agree with the project, so is Brenna
+16 members: ask them all by email?  Voice?
+  - Some are "drive-by" members?
+  - Shelley: This won't change unless we invite them
+  - Currently have actual contact info for only 8 people
+
+    - Bertie Stevens 22 Feb 2009 
+    - Alex Cassell 19 Jan 2009 
+    - Ted Ernst 17 Jan 2009 
+    - Joy Marie January 16, 2009 
+    - Jonathan Madrigal - God is Change and I believe we can change. November 22nd, 2008 
+    - AJ Adair - There is Nothing holier than fulfilling TheDestiny and taking our place among the stars! June 1, 2008 
+    - Kalvin-Just finished reading Ms.Butler books and i want to adopt this as my life style.  God is Change. March 13, 2008 
+    - Chris Dawson - I hear a great movement arising from a great listening.  March 10th, 2008 
+    - Kevin James Daniels - January 11, 2008 
+    - Benjamin Sibelman - hoping to help shape the Solseed Movement. July 19, 2006 
+    - Brenna Waxter - April 23, 2005 
+    - Bonnie Sanders - April 23, 2005 
+    - Bob Sanders - Let the seeds take root! March 27, 2005 
+    - Shelley Schoepflin Sanders - After reading the revised Destiny, I'm willing to start a TestDriveYear February 28, 2005 
+    - Brandon CS Sanders - February 16, 2005 
+
+Invite just SolSeed members for this project, or people defining themselves as "friends of SolSeed?"
+
+### Mid Range Project - 10 mins
+- Move toward StarFaring Society
+  - Living together
+    - Neighborhood Seedbanks
+    - Purchase a building for "headquarters" and to ground the movement
+    - Conceptualize and build an eco-village
+  - Industry (to support the movement)
+    - Create a test rocket and launch it (http://oregonrocketry.com/)
+    - Start a company that works on avionics
+    - Create a research project in the area of power beaming
+- Community Networking
+  - Find kindred researchers
+    - Biologists
+  - Find kindred communities
+  - Organize Kindred 2010 (to bring together researchers and communities)
+- Membership building
+  - Booths/Tables at kindred conferences
+    - Comic-Con International (Comic Books and Pop Culture Convention)
+    - WorldCon (The World Science Fiction Convention)
+- Literature-building
+  - Video projects
+  - Canon/"sacred texts"
+  - Continue to develop the wiki
+
+What is critical mass for each project?
+
+### What's next / homework / assign next call - 10 mins
+- Opening Words - 5 mins
+- Check in - 10 mins
+- Water Project - 15 mins (Ben and Brandon)
+- Attracting and Caring for New Members - 20 mins (Ben and Shelley)
+- Closing Words - 5 mins (Brandon)
+
+#### Next steps:
+  - Brandon will introduce Jessica and Ben (and forward info) by Friday evening
+  - Ben will talk with Jessica to get WPI to set up donation page and pen-pal system
+  - Brandon will get the other 7 people's emails: Kalvin, AJ Adair, Jonathan Madrigal, Joy Marie, Alex Cassell, Bertie Stevens by Sunday evening
+  - Shelley will send out the list of all contacts by Monday evening
+  - Shelley will organize future calls so that more people can participate
+
+#### Topics
+Shelley: welcoming new people to the wiki and encouraging them to provide contact info
+Ben's idea: how to talk to people about SolSeed
+Shelley: Change and organizational change ... are we embracing the idea that God is change ... shape God ... and what that would look like for our org ... would we be willing to change TheDestiny (maybe not) our creed (probably)
+
+Ben: Don't want to define god because it excludes
+
+#### Candidates for Call Times
+8 pm is best time for Brenna b/c kids to bed.
+
+Shelley spoke with Brenna, Ben, Ted, Brandon on 3/8/09. For now, we'll reschedule call to Tuesdays at 8 pm. Ted may or may not be able to make it, but all the rest can.
+
+- M evening (Shelley and Brandon have grief group; Brenna sometimes works Monday night)
+- T evening (Brandon has Go night ... could skip)
+- W evening (Brenna works)
+- H evening (Brenna works)
+- F evening (Shelley and Brandon have sabbath++)
+- S 
+- S
+
+### Closing words - 5 mins
+Well, I dreamed I saw the silver spaceships lying 
+In the yellow haze of the sun, 
+There were children crying and colors flying 
+All around the chosen ones. 
+All in a dream, all in a dream 
+The loading had begun. 
+They were flying Mother Nature's silver seed 
+To a new home in the sun.* 
+Flying Mother Nature's silver seed
+To a new home.
+- Neil Young, "After the Gold Rush"
+      
+*Let's assume this means "a place bathed in sunlight" rather than "inside a star!"
+      
+![After the Gold Rush drawing.jpg](/assets/uploads/After_the_Gold_Rush_drawing.jpg)

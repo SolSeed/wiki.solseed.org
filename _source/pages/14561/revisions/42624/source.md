@@ -1,0 +1,84 @@
+### Agenda
+- Check In
+- Review WWWs
+- Review Agenda
+- Weekly Events Logistics
+- OnePagePlan
+- Evaluation
+
+### Check In
+- Ben ... Not feeling so good.  Feel overcommitted, not getting everything done that needs to be done.  Substantial progress on paper due friday.
+- Eric ... Feeling good ... it's sunny ... there is a terrible drought here though, and I'm afraid there might be forest fires
+
+### WWWs from last time
+- Brandon ... follow your topical community protocol for this week ... ongoing
+- Brandon ... meditate and keep track of which days ... ongoing
+- <s>Brandon ... write up thoughts about the [Religious Method](/Religious_Method) (on existing wiki page) ... by next call</s>
+- Brandon ... put in 2hrs on the book ... by next call
+- Brandon ... schedule the first 'seeing nature' Portland meetup event ... by next call
+- Brandon ... write [SolSeedCreed](/SolSeedCreed) stanza II commentary ... by next call
+- Brandon ... post [SolSeedCreed](/SolSeedCreed) stanza I commentary ... by next call
+- Brandon ... eventually do the math for the cost of the Solstice
+- Shelley ... follow your topical community protocol for this week ... ongoing
+- Shelley ... meditate and keep track of which days ... ongoing
+- <s>Ben ... follow your topical community protocol for this week ... ongoing
+- Ben ... meditate and keep track of which days ... ongoing
+- Ben ... add photos to the newsletter and send it out ... today
+- Ben ... pledge $1000 and send suggested lyrics for a song about SolSeed ... by next call
+- Eric ... follow your topical community protocol for this week ... ongoing
+- Eric ... meditate and keep track of which days ... ongoing</s>
+
+### WWWs
+- Brandon ... follow your topical community protocol for this week ... ongoing
+- Brandon ... meditate and keep track of which days ... ongoing
+- Shelley ... follow your topical community protocol for this week ... ongoing
+- Shelley ... meditate and keep track of which days ... ongoing
+- Ben ... follow your topical community protocol for this week ... ongoing
+- Ben ... meditate and keep track of which days ... ongoing
+- Ben ... submit the revised paper ... by Friday
+- Ben ... transfer the notes to the wiki ... whenever the wiki is available
+- Eric ... follow your topical community protocol for this week ... ongoing
+- Eric ... meditate and keep track of which days ... ongoing
+- Eric ... review Ben's paper and send comments ... by Tuesday
+
+### Weekly Events Logistics
+Service Saturday Aug 4, 9am PDT, (Ben)
+Rotation: Brandon, Eric, Jerry?, Shelley, Ben
+
+Work-Bee Sunday August 5, 1:30 PDT
+
+In-person service in Portland: ?
+Ottawa Seeing Nature Excursion: Friday August 3, 7pm EDT
+
+### One Page Plan
+Agenda
+- <s>Where do we want to be in 20 yrs?  In 10 yrs?  In 5 yrs?</s>
+- Read through values, beliefs etc of the OnePagePlan
+- What are the projects that we want to do soon?
+- What are the first 3-4 projects?
+- Consider order and overlap of projects first and ask (how long is it going to take?)
+
+#### Core Values/Beliefs
+  - **Living and working in community?** (We don't do this yet, but it's on our business cards and banner) ... could relate to the more universal ethic through conferences bringing communities together in a network
+    - Elucidate with Captain Planet language, "By our powers combined"?  God is a metaphor for the immense power of society to do things that its individual members could not.  
+      - By living and working together in community the [SolSeed Movement](/SolSeed_Movement) can achieve more than its individual members could ever achieve.  The goal of fulfilling [The Destiny](/The_Destiny) is only possible throught this mechanism.
+      - By living together in 'community', the species that make up [SolSeed](/SolSeed) can achieve much more than each individual species could achieve on their own.  In fact without the diversity of the biosphere, most species (trying to survive alone) would die off.
+
+  - **[The Destiny](/The_Destiny) of SolSeed is to take root amongst the stars.**  To protect the future of life, we must help it grow beyond [Earth](/Earth) and even beyond the [Sol](/Sol)ar  system, so it can never be wiped out.  More importantly, our belief in  this audaciously optimistic goal, and in the epic story of a future with  life thriving on many worlds, is central to defining the [SolSeed Movement](/SolSeed_Movement).  
+    - This is the one value that makes us unique among movements whose core value is respect for all life.
+    - Stuff about being worthy
+    - We're not necessarily the only biosphere expanding out into the galaxy, so worries about us taking over everything may not be required.  We won't know until we go and see.  But we can't go look without establishing ourselves along the way.
+
+  - Care, Loyalty, Liberty, Authority, Fairness, Sanctity
+    - Care is easy: we care about all life
+    - Sanctity is easy: pollution, habitat destruction, etc are forms of violation of sanctity
+    - Fairness is harder: how do we accept proportionality if it extends to  letting people starve if they can't or won't work? are those people not  worthy of being cared for?
+    - Loyalty (to the SolSeed Movement) is okay as long as we don't have to be in harmful competition with other groups
+    - Authority is hard because we (the [SolSeed Movement](/SolSeed_Movement)) are a kind of rebel.  We are being creative in a realm (religion) that is generally conservative.   Oddly, many would assume that we're starting a new religion so the  founder can aggrandize himself and have authority over cult followers  (as many recent "new religions" have done), but this is the opposite of  true.  And so we reject  authority within SolSeed partly because we don't want to be like that  and partly because we hold strong democratic values.
+      - Eric: Imagine a forest spanning different climates, where trees in  cloudy, rainy areas could send water to trees in sunny, dry areas and  get sugar in return ... the trees could establish a "tyranny"
+      - Ben: Environmental regulators, and police and courts enforcing laws that protect people from harm, are authorities that we could respect.  May exert authority as long as it's in directions approved by a majority of the citizenry?
+    - Liberty is pretty easy: freedom to follow our religion and others'  freedom to follow theirs?  Also, science requires freedom from  oppressive ideology that tells people certain things can't be true.   Also, creativity and making beauty and possibility happen seem to  require freedom if you're intelligent (or millions of years of  evolutionary time otherwise).  On the other hand, we support limiting  people's freedom to "desecrate the sanctity of nature" and harm other  living beings.
+
+### Evaluation
+- Ben ... It feels weird to work on this one big project on the calls (especially because it is theoretical rather than practical.)  It will take some getting used to.
+- Eric ... I really like fact that we're really focused on the [OnePagePlan](/OnePagePlan), evaluating it top to bottom.  It's helping me make it my own, so it's not just your plan that I'm helping with.  As a result, I can take anything else we work on more seriously, because it will be things I helped plan to do.

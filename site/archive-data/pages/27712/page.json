@@ -1,0 +1,48 @@
+{
+  "canonical_path": "/Europa",
+  "current_revision_id": "43310",
+  "database_title": "Europa",
+  "display_title": "Europa",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 1,
+  "page_id": "27712",
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "EricSaumur",
+      "comment": "Created page with \"Europa is one of the Galilean Moons of Jupiter.  It is a moon renown for having a sub ice crust ocean of massive proportions.  Also the [[World Mother]] who symbolizes the hypoth...\"",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": "43310",
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": "41291",
+      "same_as_previous_public": false,
+      "timestamp": "2018-04-13T02:00:31Z",
+      "wikitext_bytes": 247,
+      "wikitext_sha256": "adf81ccd476a802c3e360624b5523bc33b97bc7f8b34c60ebfd5b9300d31acf1",
+      "source_format": "wikitext",
+      "source_extension": "wiki"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 41291,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 261,
+      "markdown_sha256": "2af507c0002346ed3efea707e13b49e471be62477382e6b519edfaebf89550f8",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": "41291",
+      "previous_public_revision_id": "41291",
+      "revision_id": "43310",
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z",
+      "wikitext_bytes": 261,
+      "wikitext_sha256": "2af507c0002346ed3efea707e13b49e471be62477382e6b519edfaebf89550f8",
+      "source_extension": "md"
+    }
+  ],
+  "site_revision_count": 1
+}

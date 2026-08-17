@@ -1,0 +1,56 @@
+{
+  "canonical_path": "/Fighting_For_Wrong",
+  "current_revision_id": 42777,
+  "database_title": "Fighting_For_Wrong",
+  "display_title": "Fighting For Wrong",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 2,
+  "page_id": 27174,
+  "published_revision_count": 2,
+  "revisions": [
+    {
+      "author": "EricSaumur",
+      "comment": "Created page with \"This is the second in a series of essays on [[Moral relativism]].  Value is the driver of human action.  If, at a moment in time, you value a bag of milk more than the five dolla...\"",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 39504,
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": 39503,
+      "same_as_previous_public": false,
+      "timestamp": "2013-12-15T20:47:21Z",
+      "wikitext_bytes": 3132,
+      "wikitext_sha256": "061d5c744c6ee09aab662fc5bd9068538e7afeefda578d7e049a1ed745c0eb78"
+    },
+    {
+      "author": "EricSaumur",
+      "comment": "",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 42777,
+      "original_parent_revision_id": 39503,
+      "previous_public_revision_id": 39503,
+      "revision_id": 39504,
+      "same_as_previous_public": false,
+      "timestamp": "2013-12-15T20:48:57Z",
+      "wikitext_bytes": 3176,
+      "wikitext_sha256": "3a943a4d158671e8aba39580736b3d8331ab3c308269764f71515e997988e376"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 39504,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 3239,
+      "markdown_sha256": "f031e4793adbf0244d1a3f4824dd07f60fa396ce358f5c1b22296e4b2df756a7",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": 39504,
+      "previous_public_revision_id": 39504,
+      "revision_id": 42777,
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z"
+    }
+  ],
+  "site_revision_count": 1
+}

@@ -1,0 +1,48 @@
+{
+  "canonical_path": "/Newspace",
+  "current_revision_id": "42279",
+  "database_title": "Newspace",
+  "display_title": "Newspace",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 1,
+  "page_id": "723",
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "BenSibelman",
+      "comment": "[[Newspace]] moved to [[NewSpace 2010]]: More descriptive",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": "42279",
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": "1848",
+      "same_as_previous_public": false,
+      "timestamp": "2010-09-01T04:27:03Z",
+      "wikitext_bytes": 27,
+      "wikitext_sha256": "4617a4a0f67cfc368dccdd93d5469cf6bcc802a599a400e407369af638923b86",
+      "source_format": "wikitext",
+      "source_extension": "wiki"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 1848,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 65,
+      "markdown_sha256": "1349c9ecd1d6c227916d9537d900397d044248936a92ec294e24b33e6e0bd231",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": "1848",
+      "previous_public_revision_id": "1848",
+      "revision_id": "42279",
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z",
+      "wikitext_bytes": 65,
+      "wikitext_sha256": "1349c9ecd1d6c227916d9537d900397d044248936a92ec294e24b33e6e0bd231",
+      "source_extension": "md"
+    }
+  ],
+  "site_revision_count": 1
+}

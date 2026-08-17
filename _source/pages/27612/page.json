@@ -1,0 +1,43 @@
+{
+  "canonical_path": "/December_27th_:_Circular_LineLand",
+  "current_revision_id": 43210,
+  "database_title": "December_27th_:_Circular_LineLand",
+  "display_title": "December 27th : Circular LineLand",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 1,
+  "page_id": 27612,
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "EricSaumur",
+      "comment": "moved [[December 27th : Circular LineLand]] to [[Circular LineLand]]: bod date should not be part of title",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 43210,
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": 40940,
+      "same_as_previous_public": false,
+      "timestamp": "2017-01-15T15:36:35Z",
+      "wikitext_bytes": 31,
+      "wikitext_sha256": "1c7bdd657c9a0d132b5272111f22f604f5a5b410f1f82c74230359a76cf82ef4"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 40940,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 73,
+      "markdown_sha256": "a9767f01119480f79c606f76bc61ad367612e8d59bf7fbc2ce8ce2fc89ec6b48",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": 40940,
+      "previous_public_revision_id": 40940,
+      "revision_id": 43210,
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z"
+    }
+  ],
+  "site_revision_count": 1
+}

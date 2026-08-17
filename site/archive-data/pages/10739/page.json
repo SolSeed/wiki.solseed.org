@@ -1,0 +1,48 @@
+{
+  "canonical_path": "/Talk:SolSeedMovementNews",
+  "current_revision_id": "42588",
+  "database_title": "SolSeedMovementNews",
+  "display_title": "Talk:SolSeedMovementNews",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 1,
+  "original_revision_count": 1,
+  "page_id": "10739",
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "TedErnst",
+      "comment": "Created page with \"Hmm.  I'm not able to add news because it is included in the home page.  Let's put [[Sol2012]] in the news box! ~~~~\"",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": "42588",
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": "14039",
+      "same_as_previous_public": false,
+      "timestamp": "2012-06-15T15:24:19Z",
+      "wikitext_bytes": 164,
+      "wikitext_sha256": "61b4ae2ac2362377f7e19f69d1e603bda3bba81c6592f3c6b96b19da526cb79a",
+      "source_format": "wikitext",
+      "source_extension": "wiki"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 14039,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 173,
+      "markdown_sha256": "0e81fbff9467efcb83fb4678806c86892cba8a4bd8dc63d2cdeb9bd192c70147",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": "14039",
+      "previous_public_revision_id": "14039",
+      "revision_id": "42588",
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z",
+      "wikitext_bytes": 173,
+      "wikitext_sha256": "0e81fbff9467efcb83fb4678806c86892cba8a4bd8dc63d2cdeb9bd192c70147",
+      "source_extension": "md"
+    }
+  ],
+  "site_revision_count": 1
+}

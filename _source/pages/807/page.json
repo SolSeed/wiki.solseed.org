@@ -1,0 +1,43 @@
+{
+  "canonical_path": "/File:Solstice_food_table.JPG",
+  "current_revision_id": 42362,
+  "database_title": "Solstice_food_table.JPG",
+  "display_title": "File:Solstice food table.JPG",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 6,
+  "original_revision_count": 1,
+  "page_id": 807,
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "BenSibelman",
+      "comment": "Photo of the food table at [[Solstice2010]]",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 42362,
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": 2120,
+      "same_as_previous_public": false,
+      "timestamp": "2011-01-01T05:34:49Z",
+      "wikitext_bytes": 43,
+      "wikitext_sha256": "084257c60453770449f0f42795ff2b73878608fee36dd811183d0ba6a226829a"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 2120,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 57,
+      "markdown_sha256": "9fae92364add018ea319f52c52b1730ab46c6257fb2ab733e676084e18e905a6",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": 2120,
+      "previous_public_revision_id": 2120,
+      "revision_id": 42362,
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z"
+    }
+  ],
+  "site_revision_count": 1
+}

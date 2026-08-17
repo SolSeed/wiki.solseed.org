@@ -1,0 +1,63 @@
+{
+  "canonical_path": "/Buckleberry",
+  "current_revision_id": "43270",
+  "database_title": "Buckleberry",
+  "display_title": "Buckleberry",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 2,
+  "page_id": "27672",
+  "published_revision_count": 2,
+  "revisions": [
+    {
+      "author": "EricSaumur",
+      "comment": "Created page with \"<b>Buckleberry</b> is a 25 acre hilly forested property in Central Frontenac Township, Ontario, Canada.  It is a [[dedicated SolSeed property| Dedicated SolSeed Property]] belong...\"",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": "41144",
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": "41143",
+      "same_as_previous_public": false,
+      "timestamp": "2017-12-04T01:03:57Z",
+      "wikitext_bytes": 9922,
+      "wikitext_sha256": "a1f44f633ac7f6b5ea5b61c81bad529b68c6f7d728e25ff3213dc6128dd88d31",
+      "source_format": "wikitext",
+      "source_extension": "wiki"
+    },
+    {
+      "author": "EricSaumur",
+      "comment": "",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": "43270",
+      "original_parent_revision_id": "41143",
+      "previous_public_revision_id": "41143",
+      "revision_id": "41144",
+      "same_as_previous_public": false,
+      "timestamp": "2017-12-04T01:04:38Z",
+      "wikitext_bytes": 9921,
+      "wikitext_sha256": "e64361a44fd6006a5bfb3cab1277c3f0fdd052a21a60b6af1f3b5ce368c6ddfb",
+      "source_format": "wikitext",
+      "source_extension": "wiki"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 41144,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 9960,
+      "markdown_sha256": "964eb48ac19081e770b444cb4839ed56dd711c7a1738830dd38e6e9eeff5d700",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": "41144",
+      "previous_public_revision_id": "41144",
+      "revision_id": "43270",
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z",
+      "wikitext_bytes": 9960,
+      "wikitext_sha256": "964eb48ac19081e770b444cb4839ed56dd711c7a1738830dd38e6e9eeff5d700",
+      "source_extension": "md"
+    }
+  ],
+  "site_revision_count": 1
+}

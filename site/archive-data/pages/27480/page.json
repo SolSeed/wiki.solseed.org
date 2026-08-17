@@ -1,0 +1,48 @@
+{
+  "canonical_path": "/File:GaiaInTheValley.jpg",
+  "current_revision_id": "43078",
+  "database_title": "GaiaInTheValley.jpg",
+  "display_title": "File:GaiaInTheValley.jpg",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 6,
+  "original_revision_count": 1,
+  "page_id": "27480",
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "EricSaumur",
+      "comment": "Gaia statue in the clearing in the Bank street valley.",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": "43078",
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": "40587",
+      "same_as_previous_public": false,
+      "timestamp": "2015-07-20T18:03:11Z",
+      "wikitext_bytes": 54,
+      "wikitext_sha256": "ec683f5399ccf22948f449ed2c59550ee26580ac59863f17f91bd1cd3349f94b",
+      "source_format": "wikitext",
+      "source_extension": "wiki"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 40587,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 55,
+      "markdown_sha256": "3c108fd0ea5ba87d6ec76cf1a58326cfcfbf84d6c55738499d55bf40881ec5ac",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": "40587",
+      "previous_public_revision_id": "40587",
+      "revision_id": "43078",
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z",
+      "wikitext_bytes": 55,
+      "wikitext_sha256": "3c108fd0ea5ba87d6ec76cf1a58326cfcfbf84d6c55738499d55bf40881ec5ac",
+      "source_extension": "md"
+    }
+  ],
+  "site_revision_count": 1
+}

@@ -5,13 +5,14 @@
   "database_title": "SolSeed",
   "display_title": "SolSeed",
   "canonical_path": "SolSeed",
-  "current_revision_id": "103",
+  "current_revision_id": "104",
   "original_revision_count": 3,
-  "published_revision_count": 3,
+  "published_revision_count": 4,
   "excluded_spam_revision_count": 0,
   "revisions": [
     {"revision_id":"101","original_parent_revision_id":null,"previous_public_revision_id":null,"next_public_revision_id":"102","timestamp":"2014-06-18T10:00:00Z","author":"Alice","comment":"Initial page","wikitext_bytes":19,"wikitext_sha256":"af2cbec55014d63b1c872603e409301414dd2a354581f40d26d4ff96ccd5b609","same_as_previous_public":false,"excluded_revision_count_since_previous_public":0},
     {"revision_id":"102","original_parent_revision_id":"101","previous_public_revision_id":"101","next_public_revision_id":"103","timestamp":"2014-06-19T10:00:00Z","author":"Bob","comment":"Add welcome","wikitext_bytes":36,"wikitext_sha256":"bead75ccc6bc98ac5675947062c244ac149deef0aedf08a7bdd1b96c01a5d8b3","same_as_previous_public":false,"excluded_revision_count_since_previous_public":0},
-    {"revision_id":"103","original_parent_revision_id":"102","previous_public_revision_id":"102","next_public_revision_id":null,"timestamp":"2014-06-20T10:00:00Z","author":"Alice","comment":"Preserve history","wikitext_bytes":48,"wikitext_sha256":"9046ba2f5a0ad44c4a802dd460f462a7d5063758f28b3bb266db8251d759f6cc","same_as_previous_public":false,"excluded_revision_count_since_previous_public":0,"historical_note":"Citation review confirmed this revision."}
+    {"revision_id":"103","original_parent_revision_id":"102","previous_public_revision_id":"102","next_public_revision_id":"104","timestamp":"2014-06-20T10:00:00Z","author":"Alice","comment":"Preserve history","wikitext_bytes":48,"wikitext_sha256":"9046ba2f5a0ad44c4a802dd460f462a7d5063758f28b3bb266db8251d759f6cc","same_as_previous_public":false,"excluded_revision_count_since_previous_public":0,"historical_note":"Citation review confirmed this revision."},
+    {"revision_id":"104","original_parent_revision_id":"103","previous_public_revision_id":"103","next_public_revision_id":null,"timestamp":"2018-12-15T00:00:00Z","author":"SolSeed archive migration","comment":"Add maintainable Markdown revision","source_format":"markdown","revision_origin":"site","markdown_bytes":70,"same_as_previous_public":false,"excluded_revision_count_since_previous_public":0}
   ]
 }

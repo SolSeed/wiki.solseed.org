@@ -1,0 +1,63 @@
+{
+  "canonical_path": "/October_4,_2010:_Online_Work_Bee",
+  "current_revision_id": "42296",
+  "database_title": "October_4,_2010:_Online_Work_Bee",
+  "display_title": "October 4, 2010: Online Work Bee",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 2,
+  "page_id": "740",
+  "published_revision_count": 2,
+  "revisions": [
+    {
+      "author": "BenSibelman",
+      "comment": "Created page from the EtherPad clone",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": "1901",
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": "1900",
+      "same_as_previous_public": false,
+      "timestamp": "2010-10-05T04:45:21Z",
+      "wikitext_bytes": 4148,
+      "wikitext_sha256": "ac64a1b4384eb808f250aede0d9d9534f558943dac21ab5197a0cbf63a3bed5b",
+      "source_format": "wikitext",
+      "source_extension": "wiki"
+    },
+    {
+      "author": "BenSibelman",
+      "comment": "Added link and cross-outs",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": "42296",
+      "original_parent_revision_id": "1900",
+      "previous_public_revision_id": "1900",
+      "revision_id": "1901",
+      "same_as_previous_public": false,
+      "timestamp": "2010-10-05T04:46:22Z",
+      "wikitext_bytes": 4166,
+      "wikitext_sha256": "c3706c3fb029ec9fae632c3bd103718d054a863381fb46d488e550f573399ea1",
+      "source_format": "wikitext",
+      "source_extension": "wiki"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 1901,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 4295,
+      "markdown_sha256": "edcae7549fcbe93d19bf6b659b4289464a0b54d10474ae6755effa7352033da1",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": "1901",
+      "previous_public_revision_id": "1901",
+      "revision_id": "42296",
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z",
+      "wikitext_bytes": 4295,
+      "wikitext_sha256": "edcae7549fcbe93d19bf6b659b4289464a0b54d10474ae6755effa7352033da1",
+      "source_extension": "md"
+    }
+  ],
+  "site_revision_count": 1
+}

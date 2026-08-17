@@ -1,0 +1,63 @@
+{
+  "canonical_path": "/Batfolk_origin_story",
+  "current_revision_id": "42699",
+  "database_title": "Batfolk_origin_story",
+  "display_title": "Batfolk origin story",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 2,
+  "page_id": "27094",
+  "published_revision_count": 2,
+  "revisions": [
+    {
+      "author": "BenSibelman",
+      "comment": "Created page",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": "39260",
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": "39237",
+      "same_as_previous_public": false,
+      "timestamp": "2013-03-31T01:54:09Z",
+      "wikitext_bytes": 11939,
+      "wikitext_sha256": "19342b17d467359324fed199f36ecdebb3d9658ef7ae668f4c2191271a7af53c",
+      "source_format": "wikitext",
+      "source_extension": "wiki"
+    },
+    {
+      "author": "BenSibelman",
+      "comment": "Added link",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": "42699",
+      "original_parent_revision_id": "39237",
+      "previous_public_revision_id": "39237",
+      "revision_id": "39260",
+      "same_as_previous_public": false,
+      "timestamp": "2013-04-07T19:16:14Z",
+      "wikitext_bytes": 12001,
+      "wikitext_sha256": "5d311be6c534518fd66f32497d9f64407283afe16cc90637336553b9e7d3f2f1",
+      "source_format": "wikitext",
+      "source_extension": "wiki"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 39260,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 12035,
+      "markdown_sha256": "bad0d192021fe2310d216c0998611e6efd27e161007268c98ad3eed2b1db9aa6",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": "39260",
+      "previous_public_revision_id": "39260",
+      "revision_id": "42699",
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z",
+      "wikitext_bytes": 12035,
+      "wikitext_sha256": "bad0d192021fe2310d216c0998611e6efd27e161007268c98ad3eed2b1db9aa6",
+      "source_extension": "md"
+    }
+  ],
+  "site_revision_count": 1
+}

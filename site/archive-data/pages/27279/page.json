@@ -1,0 +1,48 @@
+{
+  "canonical_path": "/Sign_for_Empathy",
+  "current_revision_id": "42880",
+  "database_title": "Sign_for_Empathy",
+  "display_title": "Sign for Empathy",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 1,
+  "page_id": "27279",
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "Brandon CS Sanders",
+      "comment": "Created page with \"== Empathy ==  [[Empathy]] (same as compassion): [http://www.signingsavvy.com/sign/EMPATHY/3367/1 Both hands using touch fingers, make circular forward stroking motions in the ai...\"",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": "42880",
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": "39945",
+      "same_as_previous_public": false,
+      "timestamp": "2014-08-24T21:28:19Z",
+      "wikitext_bytes": 267,
+      "wikitext_sha256": "457a61b4cddcaa9df337fd7c931675aa72b12d07f3f5d16ca5187f5fbc01c8b8",
+      "source_format": "wikitext",
+      "source_extension": "wiki"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 39945,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 285,
+      "markdown_sha256": "5cae1506c1c0fe9c591e0028eeecfd0961a75148465aea509ebcd6ac4961d385",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": "39945",
+      "previous_public_revision_id": "39945",
+      "revision_id": "42880",
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z",
+      "wikitext_bytes": 285,
+      "wikitext_sha256": "5cae1506c1c0fe9c591e0028eeecfd0961a75148465aea509ebcd6ac4961d385",
+      "source_extension": "md"
+    }
+  ],
+  "site_revision_count": 1
+}

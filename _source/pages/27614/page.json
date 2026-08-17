@@ -1,0 +1,43 @@
+{
+  "canonical_path": "/December_29th_:_Space-Time-Matter-Energy",
+  "current_revision_id": 43212,
+  "database_title": "December_29th_:_Space-Time-Matter-Energy",
+  "display_title": "December 29th : Space-Time-Matter-Energy",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 1,
+  "page_id": 27614,
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "EricSaumur",
+      "comment": "moved [[December 29th : Space-Time-Matter-Energy]] to [[Space-Time-Matter-Energy]]: bod date should not be part of title",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 43212,
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": 40944,
+      "same_as_previous_public": false,
+      "timestamp": "2017-01-15T15:37:21Z",
+      "wikitext_bytes": 38,
+      "wikitext_sha256": "2c1393e5519cba34ba375e0e8fdeac7401b94740bc02caef5ac0b04bfc5e424d"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 40944,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 87,
+      "markdown_sha256": "a2dbb8fdaf7c8eadda456273302ae8a952770e1f346013128004d5a12aa468db",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": 40944,
+      "previous_public_revision_id": 40944,
+      "revision_id": 43212,
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z"
+    }
+  ],
+  "site_revision_count": 1
+}

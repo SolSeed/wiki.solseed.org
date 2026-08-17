@@ -1,0 +1,48 @@
+{
+  "canonical_path": "/Book_32",
+  "current_revision_id": "42098",
+  "database_title": "Book_32",
+  "display_title": "Book 32",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 1,
+  "page_id": "539",
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "Brandon CS Sanders",
+      "comment": "New page: Book 32 is part of the [[SolSeed Book Program]].  Did you get Book 32?  We'd love to see all of the places Book 32 has been and meet all the people who have read it.  If you've encountered...",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": "42098",
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": "1435",
+      "same_as_previous_public": false,
+      "timestamp": "2010-04-05T01:56:42Z",
+      "wikitext_bytes": 440,
+      "wikitext_sha256": "8385d5de457e389faf68ff37d777434707d3eeec10a7e2c445db3c3298610b4f",
+      "source_format": "wikitext",
+      "source_extension": "wiki"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 1435,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 511,
+      "markdown_sha256": "257af9964637a879dabf244d850c6730d0f40a59198564cd34dfadaa2e2c248d",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": "1435",
+      "previous_public_revision_id": "1435",
+      "revision_id": "42098",
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z",
+      "wikitext_bytes": 511,
+      "wikitext_sha256": "257af9964637a879dabf244d850c6730d0f40a59198564cd34dfadaa2e2c248d",
+      "source_extension": "md"
+    }
+  ],
+  "site_revision_count": 1
+}

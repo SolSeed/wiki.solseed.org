@@ -1,0 +1,48 @@
+{
+  "canonical_path": "/Category:Opportunity_Profile",
+  "current_revision_id": "42637",
+  "database_title": "Opportunity_Profile",
+  "display_title": "Category:Opportunity Profile",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 14,
+  "original_revision_count": 1,
+  "page_id": "26526",
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "Brandon CS Sanders",
+      "comment": "Description of an opportunity profile",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": "42637",
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": "38535",
+      "same_as_previous_public": false,
+      "timestamp": "2012-09-16T20:50:45Z",
+      "wikitext_bytes": 308,
+      "wikitext_sha256": "75480790207fa5d811d2624b10520d4317db92c7d3faccf493db6dd181551df9",
+      "source_format": "wikitext",
+      "source_extension": "wiki"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 38535,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 309,
+      "markdown_sha256": "996974180c1d8b044717b072176a8b896cd53fdd50009a3f4accf1d4c41b20d2",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": "38535",
+      "previous_public_revision_id": "38535",
+      "revision_id": "42637",
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z",
+      "wikitext_bytes": 309,
+      "wikitext_sha256": "996974180c1d8b044717b072176a8b896cd53fdd50009a3f4accf1d4c41b20d2",
+      "source_extension": "md"
+    }
+  ],
+  "site_revision_count": 1
+}

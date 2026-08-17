@@ -1,0 +1,10 @@
+* navigation
+** mainpage|mainpage-description
+** JoiningTheMovement|Join Us?
+** Sol2009|Sol2009
+** Events and Calls|Events and Calls
+** recentchanges-url|recentchanges
+** helppage|help
+* SEARCH
+* TOOLBOX
+* LANGUAGES

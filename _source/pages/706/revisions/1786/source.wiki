@@ -1,0 +1,28 @@
+[[Ted Ernst]] is beginning research into what it takes to set up a corporation.  Findings appear on this page.
+
+* Oregon Secretary of State: http://www.filinginoregon.com/
+* Business Wizard to help navigate the process: http://egov.sos.state.or.us/br/pkg_bc1_web_interview.bic_home
+** First question asks about business activity type.  Which is it?
+<pre>
+· Agriculture, Forestry, Fishing and Hunting  
+· Mining, Quarrying, and Oil and Gas Extraction  
+· Utilities  
+· Construction  
+· Manufacturing  
+· Wholesale Trade  
+· Retail Trade  
+· Transportation and Warehousing  
+· Information  
+· Finance and Insurance  
+· Real Estate and Rental and Leasing  
+· Professional, Scientific, and Technical Services  
+· Management of Companies and Enterprises  
+· Commercial, Janitorial, Travel, Security and Landscaping Services  
+· Waste Management and Remediation Services  
+· Educational Services  
+· Health Care and Social Assistance  
+· Arts, Entertainment, and Recreation  
+· Accommodation and Food Services  
+· Other Services (except Public Administration)  
+· Public Administration  
+</pre>

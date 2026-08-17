@@ -1,0 +1,48 @@
+{
+  "canonical_path": "/File:Sol2009Spectacle.JPG",
+  "current_revision_id": "41944",
+  "database_title": "Sol2009Spectacle.JPG",
+  "display_title": "File:Sol2009Spectacle.JPG",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 6,
+  "original_revision_count": 1,
+  "page_id": "380",
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "BenSibelman",
+      "comment": "The Spectacle provided by [[Bob]] for [[Sol 2009]].",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": "41944",
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": "1094",
+      "same_as_previous_public": false,
+      "timestamp": "2009-11-13T04:24:37Z",
+      "wikitext_bytes": 51,
+      "wikitext_sha256": "4c7b0986fe91d1a9120aaa8f14a6d12b54ab4a19341fd47ec6f326c6a9cda63c",
+      "source_format": "wikitext",
+      "source_extension": "wiki"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 1094,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 65,
+      "markdown_sha256": "b185d37b2fa48feaaaf42106b5386b372a8eec864acecbeb52c980ab304771f2",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": "1094",
+      "previous_public_revision_id": "1094",
+      "revision_id": "41944",
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z",
+      "wikitext_bytes": 65,
+      "wikitext_sha256": "b185d37b2fa48feaaaf42106b5386b372a8eec864acecbeb52c980ab304771f2",
+      "source_extension": "md"
+    }
+  ],
+  "site_revision_count": 1
+}

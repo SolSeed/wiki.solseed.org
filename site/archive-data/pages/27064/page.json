@@ -1,0 +1,48 @@
+{
+  "canonical_path": "/Topical_Community_Profile",
+  "current_revision_id": "42669",
+  "database_title": "Topical_Community_Profile",
+  "display_title": "Topical Community Profile",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 1,
+  "page_id": "27064",
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "EricSaumur",
+      "comment": "moved [[Topical Community Profile]] to [[Topical Community Protocol]]: Brain fart",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": "42669",
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": "39129",
+      "same_as_previous_public": false,
+      "timestamp": "2012-11-11T22:23:40Z",
+      "wikitext_bytes": 40,
+      "wikitext_sha256": "e0de6251d14d9b9ccdd7725d54660fd7e0879d5e4386a74434120c1d02af84c8",
+      "source_format": "wikitext",
+      "source_extension": "wiki"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 39129,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 91,
+      "markdown_sha256": "a62675ae9b26e370534c9b0c5ec34a509ed86e6c278657307aff32dfc06d041a",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": "39129",
+      "previous_public_revision_id": "39129",
+      "revision_id": "42669",
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z",
+      "wikitext_bytes": 91,
+      "wikitext_sha256": "a62675ae9b26e370534c9b0c5ec34a509ed86e6c278657307aff32dfc06d041a",
+      "source_extension": "md"
+    }
+  ],
+  "site_revision_count": 1
+}

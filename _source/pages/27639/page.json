@@ -1,0 +1,56 @@
+{
+  "canonical_path": "/Last_Respects",
+  "current_revision_id": 43237,
+  "database_title": "Last_Respects",
+  "display_title": "Last Respects",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 2,
+  "page_id": 27639,
+  "published_revision_count": 2,
+  "revisions": [
+    {
+      "author": "BenSibelman",
+      "comment": "Created page from the Word doc",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 41022,
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": 41021,
+      "same_as_previous_public": false,
+      "timestamp": "2017-04-30T23:32:59Z",
+      "wikitext_bytes": 30160,
+      "wikitext_sha256": "4ed879eb1be49be53555624c46ca4ad54eb81d16f1fcdbaa8113190fbbeaea14"
+    },
+    {
+      "author": "BenSibelman",
+      "comment": "Added back-link",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 43237,
+      "original_parent_revision_id": 41021,
+      "previous_public_revision_id": 41021,
+      "revision_id": 41022,
+      "same_as_previous_public": false,
+      "timestamp": "2017-04-30T23:33:56Z",
+      "wikitext_bytes": 30221,
+      "wikitext_sha256": "35c4a7dea95be6860f6199c759fa612f9847f124001f0a8a49520875c78e6e28"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 41022,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 30249,
+      "markdown_sha256": "63fb6f9c39c3ab5055ee639e8da6c262aaa4810177abf120324bc2d9c40caab4",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": 41022,
+      "previous_public_revision_id": 41022,
+      "revision_id": 43237,
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z"
+    }
+  ],
+  "site_revision_count": 1
+}

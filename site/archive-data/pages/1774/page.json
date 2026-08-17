@@ -1,0 +1,48 @@
+{
+  "canonical_path": "/File:Photo_from_100yss.JPG",
+  "current_revision_id": "42470",
+  "database_title": "Photo_from_100yss.JPG",
+  "display_title": "File:Photo from 100yss.JPG",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 6,
+  "original_revision_count": 1,
+  "page_id": "1774",
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "BenSibelman",
+      "comment": "Photo of [[Bonnie]], [[Brandon]], [[Sequoia]], and [[Ben]] heading back to the Orlando hotel where the [[100 Year Starship Symposium]] is taking place.",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": "42470",
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": "3421",
+      "same_as_previous_public": false,
+      "timestamp": "2011-10-22T18:51:13Z",
+      "wikitext_bytes": 151,
+      "wikitext_sha256": "e4cd498ce514240daa6e7f68c64fbf84eae0c5d78eb5ec60d3cd617659195778",
+      "source_format": "wikitext",
+      "source_extension": "wiki"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 3421,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 207,
+      "markdown_sha256": "822dffdf7d4f331453abf7c42cfa3a85e6cbc31c0a54b61eac3dc242a1aeed19",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": "3421",
+      "previous_public_revision_id": "3421",
+      "revision_id": "42470",
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z",
+      "wikitext_bytes": 207,
+      "wikitext_sha256": "822dffdf7d4f331453abf7c42cfa3a85e6cbc31c0a54b61eac3dc242a1aeed19",
+      "source_extension": "md"
+    }
+  ],
+  "site_revision_count": 1
+}

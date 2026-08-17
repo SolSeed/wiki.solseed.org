@@ -1,0 +1,6 @@
+Our facebook page is at: https://www.facebook.com/SolSeed
+
+Some potential sources for Facebook posts include the following:
+- [Inspiring Quotes](/Inspiring_Quotes)
+- [Birthdays of Inspiring People](/Birthdays_of_Inspiring_People)
+- [Pantheism Facebook Page](https://www.facebook.com/Pantheism)

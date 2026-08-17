@@ -1,0 +1,43 @@
+{
+  "canonical_path": "/August_18,_2013:_Online_Work_Bee",
+  "current_revision_id": 42739,
+  "database_title": "August_18,_2013:_Online_Work_Bee",
+  "display_title": "August 18, 2013: Online Work Bee",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 1,
+  "page_id": 27134,
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "Brandon CS Sanders",
+      "comment": "Created page with \"== Agenda == * Check In * Review WWWs * Weekly Events Logistics * Review Agenda * Funnel and Ad experiments * What with funds? ... More Songs? More Art for Additional Liturgical ...\"",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 42739,
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": 39399,
+      "same_as_previous_public": false,
+      "timestamp": "2013-09-01T20:43:56Z",
+      "wikitext_bytes": 5008,
+      "wikitext_sha256": "6303d451410c060a6b83527712ba4acb8733d6a8b2689a2af54a135e55efdece"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 39399,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 4999,
+      "markdown_sha256": "b3fa333e9db8fae33e439311f4e8b709a3d9ebc3364e2c1866520e6964ef3ab8",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": 39399,
+      "previous_public_revision_id": 39399,
+      "revision_id": 42739,
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z"
+    }
+  ],
+  "site_revision_count": 1
+}

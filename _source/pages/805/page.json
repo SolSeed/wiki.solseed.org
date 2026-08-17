@@ -1,0 +1,43 @@
+{
+  "canonical_path": "/Children's_book",
+  "current_revision_id": 42360,
+  "database_title": "Children's_book",
+  "display_title": "Children's book",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 1,
+  "page_id": 805,
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "BenSibelman",
+      "comment": "Added redirect",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 42360,
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": 2117,
+      "same_as_previous_public": false,
+      "timestamp": "2011-01-01T05:28:22Z",
+      "wikitext_bytes": 30,
+      "wikitext_sha256": "71e9f15e0522d36ea5a6a6e5493f0001b6bbc149797bfe123947d2926dfa648d"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 2117,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 71,
+      "markdown_sha256": "5c754a03e4d7697ddff59a21a0ead596e782c104a2f2b7228bdab8690b62262f",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": 2117,
+      "previous_public_revision_id": 2117,
+      "revision_id": 42360,
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z"
+    }
+  ],
+  "site_revision_count": 1
+}

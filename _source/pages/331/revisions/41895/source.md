@@ -1,0 +1,206 @@
+Notes from Previous Calls: http://solseed.org/Group_Experiences
+
+Dial-in Number: 1-218-936-4700 
+
+Participant Access Code: 815066
+
+### May 25, 2009 @8pm PST
+- Opening Words - 5 mins
+
+- Check in - 10 mins
+
+- Topic 1: The Untethered Soul - 15 mins
+
+- Topic 2: Solseed campout
+
+- Logistics / What's next / homework / assign next call - 10 mins
+
+- Closing Words - 2 mins
+
+### Opening Words - (5 mins)
+http://solseed.org/SolSeedCreed/CallAndResponse
+
+Mark: We believe that: The Destiny of SolSeed is to take root amongst the stars. 
+
+ 
+
+Brandon: Sol,  Terra,  you,  me,  we,  ALL,  are precious SolSeed.
+
+Shelley: As SolSeed's intelligent spark, We are its caretakers, We must fulfill The Destiny.
+
+Ben: We believe that:  Our holy duty is to embrace Self Love, cultivate Empathy, and pursue Wisdom,
+
+Brenna: so that our being honors SolSeed, and our striving hastens the fulfillment of The Destiny.
+
+Mark: Self Love is motive.  Without Self Love,  Empathy and Wisdom are impotent.
+
+Brandon: I pledge to learn to love myself; to become a person I cherish, admire, and care for.
+
+Shelley: Empathy is transcendent.  Without Empathy, Self Love and Wisdom are evil.
+
+Ben: I pledge to cultivate empathy in myself and others; to share and demonstrate my concern for others and for the growing life all around me. 
+
+Brenna: Wisdom is effective.  Without Wisdom, Self Love and Empathy are feeble and capricious.  
+
+Mark: I pledge to seek wisdom; to honor my past, to strive for the future, to be open to new ideas and new beliefs, and to share my wisdom with others.
+
+Brandon: Through Self Love, Empathy, and Wisdom we have come to know that:
+
+All: We are SolSeed; Children of the sun, Awakened by starlight, Growing, nurturing, protecting, We bring life!
+
+### Check in and Reflections (10 mins)
+Ben: To this call and to life I bring "detachment from the idea of complete detachment", this book is an elaboration of the philosophy of popular songs "don't worry be happy", "hakuna matata",  no point in arguing with it
+
+Boni: Happy to be home, went down to Bob's mother's over the weekend, I bring contentment right now
+
+Shelley: To this call and to life I bring a readiness for deepening, a lot times I feel like my life is not quite in control so I don't want to take anything more on, but for the moment I feel ready to take things on
+
+Brenna: For the moment, I bring peace and the attitude of being in the moment
+
+Brandon: I bring community and connection
+
+Mark: I bring appetite and interest.
+
+### Topic 1: The Untethered Soul (15 mins)
+Chapters 15-16
+
+Brandon: First pg ch 15: It's just that you have a deep-seated set of preferences that gets in the way.
+
+Ben: Pg 150 -- "will" -- is it the force that animates your being and makes your arms and legs move -- then he says that will is typically used in ways counter to life. At least he admits it's possible to do things.
+
+Going back to the house metaphor for psyche: 
+
+- Don't know what the housemate was supposed to represent--different from the previous "psychotic roommate"
+
+- Has to start out nice or we wouldn't have become attached to it
+
+Boni: God created us for his enjoyment--the giraffe proves this
+
+- Shelley: Do you see it as a moral imperative to bring God enjoyment?  I wasn't exactly raised to believe that it's my job to help fulfill God's vision through being joyful and playing
+
+- Mark: I'm a garden gnome in Eden
+
+- Shelley: saying "if you're in a concentration camp, just enjoy it" might be going a little far, but if you're stuck there, there's no point being grumpy
+
+  - But if we're looking at a bunch of other people being stuck there, we have a moral imperative to do something about it
+
+- Brenna: If we choose properly, we can always find something to be happy about
+
+- Boni: Some people have horrible things in their lives, and they are still enjoying life. You can make a decision to live your life, thankful or not! Question: What's the difference between joy and happiness.
+
+  - Ben: Le Guin quote, toward the end of The Left Hand of Darkness, two people are crossing an ice sheet. THe speaker says, "There's no way of considering that I was happy during this time. But looking back, what I was feeling was joy."
+
+  - Boni: I've always believed that "happiness" is more outside circumstances, while "joy" is something that comes from within. I believe that you can be sad and still have joy.
+
+  - Mark: I think joy is transitory, whereas happiness is deep contentment.
+
+  - Everyone else: That's the opposite of how I see it
+
+  - Brandon: Joy comes from opening and perceiving things as they are and marveling and seeing the wonder of being that comes from that opening.  Happiness is the feeling you get when things are going your way, and the world you see happens to match your preferences.
+
+  - The Untethered Soul offers a way to [joy/happiness] in the absence of idealized system preferences.
+
+### Topic 2:  Solseed 2009 campout (15 mins)
+Brenna: I'm in the dark as to what's going to happen at this campout, and who's responsible for things, and is there an agenda?
+
+#### Agenda?
+- Brandon: There will be an Open Space agenda that is created by the people who come to the conference.
+
+- Brenna: How will discussion re: The Untethered Soul be arranged? I am open to options for how to do this.
+
+- Ben: I am sure people will propose sessions about The Untethered Soul, so no more advance planning required.
+
+- Shelley: Not all participants have to read it, it's just one lens to approach the focus question of "Who are we?
+
+#### Who's responsible for food?
+- There is a menu here: http://solseed.org/Sol_2009_Food
+
+- We are open to ideas.
+
+- We have a plan for buying and storing the food
+
+#### Tents?
+- Mark has tent
+
+- Brenna purchasing one this weekend
+
+- Ben borrow from parents
+
+- Lion?
+
+- Shelley and Brandon buying one soon
+
+- No one other than Kim has asked for help with this
+
+#### Is there a problem w/ people coming late? Leaving early, e.g. Sunday?
+- hakuna matata
+
+- Mark: Friday night to Sunday night
+
+#### Spectacle?
+- Plan for Saturday night after dark
+
+- Bob and Brandon are in charge
+
+- Shelley (a.k.a The High Priestess) has an idea for a ritual
+
+#### Opening and Closing Ceremonies
+- Theme is "Who are We?"
+
+- Nature nugget -- bring something from nature that reminds you of something
+
+- Something to draw everyone to participate
+
+- Reading the creed together -- could listen and/or read
+
+- Go around circle and ask everyone to say an interesting sentence beginning with words "I am . . ." 
+
+#### T-shirts
+- Brandon's idea: print the haiku and the logo Ben created on the shirts
+
+- Ben: different logo options
+
+- Shelley will participate
+
+#### By-laws
+- Would like to get by-laws done before Sol 2009 so we can have our first board mtg at Sol 2009, select members etc.
+
+#### Instruments
+- Bring your own!
+
+### Logistics / What's next / homework / assign next call (10 mins)
+- Brandon, Ben and Shelley will work on t-shirts
+
+  - Tues review logos
+
+  - Brandon will get order in by end of the week
+
+- Ben: Will ask his dad to attend, as he might be able to assist with by-laws
+
+- Boni and Brandon will discuss by-laws this weekend
+
+  - Find a registered agent for us to use (lawyer or accountant) for communications to go to
+
+Homework: 3 chapters per week to finish by Sol 2009
+
+#### Next Call
+- Next time Untethered Soul Part IV, Chs. 17-19
+
+- Facilitator (Ben)
+
+- Opening/closing words (Brenna)
+
+- Summary and reminder email (Brandon)
+
+- Topic ideas (Mark)
+
+  - Root and Flower Metaphor?
+
+  - Continue metaphor talk?
+
+  - Permaculture (sustainable agriculture and life in general)
+
+#### Closing Words (2 min)
+Opportunity is a dare - not a door 
+
+The question for each person to settle is not what she would do if she had means, time, influence and educational advantages; the question is what she will do with the things she has.

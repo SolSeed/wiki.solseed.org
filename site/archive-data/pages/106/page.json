@@ -1,0 +1,48 @@
+{
+  "canonical_path": "/ValuesMovement",
+  "current_revision_id": "41676",
+  "database_title": "ValuesMovement",
+  "display_title": "ValuesMovement",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 1,
+  "page_id": "106",
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "BenSibelman",
+      "comment": "Created page using material from AboutUs",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": "41676",
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": "212",
+      "same_as_previous_public": false,
+      "timestamp": "2008-12-20T05:42:43Z",
+      "wikitext_bytes": 466,
+      "wikitext_sha256": "78e28401ea09887389a41411d97718858e2aa92558768e78606d45fa4c3fcc79",
+      "source_format": "wikitext",
+      "source_extension": "wiki"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 212,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 632,
+      "markdown_sha256": "4351229b41bb1313049eb248487e4106ded4a6225e52f72606b5702df144c962",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": "212",
+      "previous_public_revision_id": "212",
+      "revision_id": "41676",
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z",
+      "wikitext_bytes": 632,
+      "wikitext_sha256": "4351229b41bb1313049eb248487e4106ded4a6225e52f72606b5702df144c962",
+      "source_extension": "md"
+    }
+  ],
+  "site_revision_count": 1
+}

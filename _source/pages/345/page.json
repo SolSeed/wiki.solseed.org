@@ -1,0 +1,56 @@
+{
+  "canonical_path": "/File:Logo-simple.gif",
+  "current_revision_id": 41909,
+  "database_title": "Logo-simple.gif",
+  "display_title": "File:Logo-simple.gif",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 6,
+  "original_revision_count": 2,
+  "page_id": 345,
+  "published_revision_count": 2,
+  "revisions": [
+    {
+      "author": "BenSibelman",
+      "comment": "Simplest version of a new [[SolSeed Emblem concept]]. See [[Our Name Is Our Logo]] for details.",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 1004,
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": 999,
+      "same_as_previous_public": false,
+      "timestamp": "2009-08-16T20:33:12Z",
+      "wikitext_bytes": 95,
+      "wikitext_sha256": "7f87fd081a3b030abec34cb39b7d39050c1a82beabfa0176696856c7e87ec751"
+    },
+    {
+      "author": "BenSibelman",
+      "comment": "",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 41909,
+      "original_parent_revision_id": 999,
+      "previous_public_revision_id": 999,
+      "revision_id": 1004,
+      "same_as_previous_public": false,
+      "timestamp": "2009-08-22T04:36:08Z",
+      "wikitext_bytes": 95,
+      "wikitext_sha256": "1f56959ede001b830dbd59986be99ede603738a9e9238723c7577bedacf93e27"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 1004,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 132,
+      "markdown_sha256": "f328c54c6d708347a815602b0ef52a1f62e67042f912145a48d375c1ee230fab",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": 1004,
+      "previous_public_revision_id": 1004,
+      "revision_id": 41909,
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z"
+    }
+  ],
+  "site_revision_count": 1
+}

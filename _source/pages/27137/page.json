@@ -1,0 +1,43 @@
+{
+  "canonical_path": "/September_15,_2013:_Online_Work_Bee",
+  "current_revision_id": 42742,
+  "database_title": "September_15,_2013:_Online_Work_Bee",
+  "display_title": "September 15, 2013: Online Work Bee",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 1,
+  "page_id": 27137,
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "EricSaumur",
+      "comment": "Created page with \"== Agenda ==  * Check In * Review WWWs * Weekly Events Logistics * Review Agenda * SolSeed Song * Bella Gaia * Opening words for 7th liturgical season * Evaluation  == Check In =...\"",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 42742,
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": 39405,
+      "same_as_previous_public": false,
+      "timestamp": "2013-09-16T00:11:04Z",
+      "wikitext_bytes": 5956,
+      "wikitext_sha256": "8b3ec9b60c0b4e3484dfdc607606ca140acfb5bfbe1f6c8d683ca144e3112b71"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 39405,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 5908,
+      "markdown_sha256": "fdcf4c678ee27e26302de543099d956c6297f6a9d17162533a8effe4458d6e36",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": 39405,
+      "previous_public_revision_id": 39405,
+      "revision_id": 42742,
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z"
+    }
+  ],
+  "site_revision_count": 1
+}

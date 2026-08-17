@@ -1,0 +1,56 @@
+{
+  "canonical_path": "/File:Amber's_notes_from_my_1000-Year_Institution_session.gif",
+  "current_revision_id": 41759,
+  "database_title": "Amber's_notes_from_my_1000-Year_Institution_session.gif",
+  "display_title": "File:Amber's notes from my 1000-Year Institution session.gif",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 6,
+  "original_revision_count": 2,
+  "page_id": 193,
+  "published_revision_count": 2,
+  "revisions": [
+    {
+      "author": "BenSibelman",
+      "comment": "These hand-drawn graphical notes, scanned in and reconstructed, reflect several areas of discussion: examples of [[long-lasting|perseverance]] institutions and practices, ideas from the film [[The Upward Spiral]] on how to act \"upstream\" to create a large",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 498,
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": 497,
+      "same_as_previous_public": false,
+      "timestamp": "2009-01-30T05:15:32Z",
+      "wikitext_bytes": 791,
+      "wikitext_sha256": "e55138fb518ecda0c4d12a02534dd2c278380b8032ad30c8179211415b0b04a5"
+    },
+    {
+      "author": "BenSibelman",
+      "comment": "Corrected a link",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 41759,
+      "original_parent_revision_id": 497,
+      "previous_public_revision_id": 497,
+      "revision_id": 498,
+      "same_as_previous_public": false,
+      "timestamp": "2009-01-30T05:16:56Z",
+      "wikitext_bytes": 791,
+      "wikitext_sha256": "16715db61d099de00a8b6ab09b6f667304acecb340ccfe4540cb822ca03f3fcf"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 498,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 842,
+      "markdown_sha256": "19371eceb1154f9f85dfa75a85e818d77aa671756b9fb9fc97e610584444ba13",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": 498,
+      "previous_public_revision_id": 498,
+      "revision_id": 41759,
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z"
+    }
+  ],
+  "site_revision_count": 1
+}

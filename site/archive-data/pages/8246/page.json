@@ -1,0 +1,48 @@
+{
+  "canonical_path": "/File:Hank's_place.JPG",
+  "current_revision_id": "42549",
+  "database_title": "Hank's_place.JPG",
+  "display_title": "File:Hank's place.JPG",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 6,
+  "original_revision_count": 1,
+  "page_id": "8246",
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "BenSibelman",
+      "comment": "The side of Hank's house, with a small greenhouse and the framework of a geodesic dome just visible behind the pile of wood.  The cat hiding under the right corner of the woodpile is named Rambo.",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": "42549",
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": "11417",
+      "same_as_previous_public": false,
+      "timestamp": "2012-04-28T19:41:56Z",
+      "wikitext_bytes": 195,
+      "wikitext_sha256": "b807a840f44ff9c09bd3fab6d1ec9bb36d0f775177759b8128fa3e245bdbe454",
+      "source_format": "wikitext",
+      "source_extension": "wiki"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 11417,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 196,
+      "markdown_sha256": "bf1d46acd8766a8fa59e0b68162bc09eae5eafb9b425e7421540f5c2ab9a82f6",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": "11417",
+      "previous_public_revision_id": "11417",
+      "revision_id": "42549",
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z",
+      "wikitext_bytes": 196,
+      "wikitext_sha256": "bf1d46acd8766a8fa59e0b68162bc09eae5eafb9b425e7421540f5c2ab9a82f6",
+      "source_extension": "md"
+    }
+  ],
+  "site_revision_count": 1
+}

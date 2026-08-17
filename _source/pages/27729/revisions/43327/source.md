@@ -1,0 +1,171 @@
+*[Ben](/Ben) wrote this story for the [2018 Spring Equinox Storytelling and Sushi Feast](/2018_Spring_Equinox_Storytelling_and_Sushi_Feast).*
+
+The world had literally gone to hell, Zander thought, not for the first time. The burning buildings in the distance gave a dim reddish cast to the surely-permanent overcast, the soot from a hundred other burning cities trapped in the stratosphere. The faintly visible disc of the sun, also red, mocked the Library's trees and food gardens with its impotence. The few people who trudged or staggered past on the street below his guard post certainly resembled damned souls on journeys to nowhere, while the more occasional sprinters carrying stolen goods might as well be referred to as demons.
+
+To complete the picture, the sound of the chill wind—thankfully blowing straight toward the crater that used to be downtown, as it had been since the blast—was broken periodically by Jed's lung-tearing screams. Zander winced every time, because if someone was visible on the street, they inevitably looked up with expressions Zander couldn't read in the distance and gloom, but had no trouble imagining. *That huge compound must have massive stores of food and other necessities, and anyone inside will be distracted by those screams . . .*
+
+Finally, the moment he'd been dreading arrived. After a particularly violent shriek from Jed, a woman in a jarringly out-of-place pink sweater, carrying two big bags full of canned food, stopped directly opposite the entrance over which Zander stood, looked squarely up at him, and made the obvious gambit: “Do you need help in there? I know a medic.”
+
+“Sure you do,” Zander said scornfully. “If you think we're that stupid, you've got another think coming. The Library is closed. No visitors.” He pointed his rifle in her general direction.
+
+The woman flinched but stood her ground. “I've been past this block three times in the past three hours,” she said. “The screams haven't changed. Are you even trying to treat him?”
+
+“That's none of your business,” Zander said. “I have nothing more to say to you.”
+
+The woman shrugged and walked briskly away. But Zander had the feeling she'd be back. Her or someone else like her.
+
+He unlocked the balcony door, stuck his head in, and yelled, “Mel, get up here!” Then he relocked the door and turned around to face the street.
+
+“What?” came Mel's irritated voice a minute later. “My shift isn't for another hour.”
+
+“Just take over for five minutes. I have to talk to Jed and Callie.”
+
+“Talk to Jed? Are you kidding me?”
+
+Zander opened the door again and gave Mel a look. “Do I ever kid?” He shoved the gun into her hands.
+
+“Fine. I'll just remind you that we all do have to get along in here for the forseeable future.”
+
+“Sorry, I'll try to be more civil,” Zander said as he edged past her, knowing he didn't sound particularly sincere.
+
+Someone was clomping down the stairs from the open radiation hatch. Callie glanced up from rewrapping Jed's arm bandages for the umpteenth time, and quailed. She knew that look on Zander's face, and it never portended anything good.
+
+Zander glanced up at the bookshelf that had fallen on Jed last night, one of several jarred free of the walls by the shockwave from the blast—thankfully no one had been near the others. Was he going to criticize her for not having replaced all the books yet?
+
+He looked down at her bleakly. “I don't suppose you've changed your mind about moving him?” 
+
+“Jed's the doctor, ask him if it's safe,” Callie said with a helpless shrug. “If you can get him coherent enough.” She went back to rewrapping, inwardly cursing her lack of diligence in cross-training over the three years since she'd joined the project. She was supposed to be the backup doctor, but treating Jed's injury was far beyond her skills. 
+
+Zander knelt by Jed's head. “Bite harder, please,” he said quietly, referring to the rag between Jed's teeth. “Otherwise we may have to drag you down to the subbasement.”
+
+Jed grunted, then lifted his unbroken arm and made a few sloppy approximations of ASL signs. Callie thought he was probably trying to say “I'll do what I can.”
+
+Zander turned back to meet her accusing stare. “Or we could close the radiation hatch.”
+
+“Oh, no. You're not putting me through that again,” Callie said with finality. She had never been claustrophobic before, but last night, even before the bomb hit, while they were waiting down here in the Library's extensive basement complex, she had begun to feel like the walls were closing in. After the strike, while trying to care for Jed, it had gotten increasingly hard for her to breathe. Zander had reluctantly let her open the hatch after only an hour of normal Geiger counter readings.
+
+“Well, we've got to do something,” he said now. “The screams are attracting attention.”
+
+“What kind of attention?” Callie asked, hope flaring in her chest. “Is there someone out there who can help? Who actually knows how to—”
+
+“No doubt such people exist,” Zander said with what for him was considerable gentleness. “But we're not likely to meet them. The people we are likely to meet are desperados who want what we have and will say anything to get at it.” Callie opened her mouth to reply; he overrode her. “The world as we know it ended last night. The Library's mission to rebuild civilization begins now. The first step is to make sure we can preserve the necessary knowledge from people who see books as kindling and Librarians as a waste of space and food.”
+
+Jed gave a low moan.
+
+“How long do you think we can hold out without a real doctor—any of us?” Callie demanded. “And how are we supposed to rebuild civilization if we lock ourselves away from everyone else?”
+
+Harry walked in. “Oh, there you are,” he said to Zander. “Just wanted to report that I finally got the geothermal system unhooked from the grid, and the grow lights are online. A little flickery, but that's to be expected.”
+
+Zander turned to Callie. “There's your answer. Once we have a food surplus, we can start sharing with people and they'll be less inclined to steal from us. Then we can start teaching them how to build or scavenge their own power sources and grow lights, get some more farming going, and someday people will hopefully stop being utterly desperate and start believing in a future again. But none of that will happen if we let down our guard now.” He stood up. “I have to get back to my post.”
+
+Jed moaned again. Callie gave Zander an anguished look. “Say they have a medic. Say we let him in but no one else, strip-search him and keep him under guard while he helps Jed. Where's the risk in that?”
+
+“He could be a scout doing recon for his friends who plan to break in later,” said Zander. “And what if he kills Jed instead of helping him?”
+
+“This is a compound fracture, I know that much,” Callie said. “I can't set it—I don't even know how to amputate it safely. If the wound festers for much longer, Jed's going to die anyway.”
+
+“I'm sorry,” Zander said. “The best I can say is you should look up a medical text that might help. I know, I know, that stuff can't be learned quickly. But we have no reasonable alternative.” He turned and left.
+
+The “medic,” when he showed up with the pink-clad woman in tow, turned out to be a big, burly black man. His costume of soiled surgical scrubs and a black bag with a red cross on it didn't fool Zander for a second.
+
+“Liz here says you've got a man screaming in there,” he said. “What's wrong with him?”
+
+“None of your business,” Zander said, aiming the gun directly at his head. “Move along.”
+
+The black man put down the bag and raised his hands. Neither he nor the woman moved. Zander waited a few seconds, then waggled the gun. “I said—”
+
+“Normally I'd be happy to walk away,” the black man said shakily, “but I've read about you guys online, and I really think you have the right idea—keeping the knowledge alive, trying to rebuild, not just giving up. I even donated to you a couple times. Clarence Jenkins—you can look me up if you still have access to the records. I want to help you keep hope alive.”
+
+Zander was impressed. The Library Project had always been obscure—and this man couldn't have found the website after the bomb hit, at least judging by the complete lack of signal on all the Librarians' cell phones. He moved the rifle a little to one side. “Can you prove to me that you're actually a doctor?”
+
+The black man sighed. “Not from out here. I mean, I could spout some medical jargon at you, but if you're intent on being paranoid, you won't—”
+
+“Paranoid is the wrong word,” Zander said. “I *know* the city is full of desperate looters who could easily destroy everything we've worked for. I'm being *vigilant.*”
+
+The woman spoke up. “You're wrong,” she said. “Completely wrong. It's not every man for himself out here, not at all. People are helping each other, working together, forming real community. It's beautiful. Of course we're taking food and supplies from the stores, but no one is hoarding it just for themselves, not that I've seen.”
+
+Zander laughed. “You seriously expect me to believe that?”
+
+The woman shrugged, looking frustrated. “Guess not,” she said. “Feel free to come out and see for yourself. It's perfectly safe.”
+
+Zander laughed some more. How stupid did these people think he was?
+
+“I'm serious! No one is attacking each other out here. The only people with guns I've seen are guys like you holed up in mansions, thinking everyone's out to get them and take all their stuff.”
+
+“There are some kids running around smashing shop windows and grabbing jewelry and stuff,” the black man added, “but they're harmless. Just having fun.”
+
+Zander stopped laughing. A complete breakdown in social order was these people's idea of fun? Where were the police, anyway? Had they all deserted and joined the looters? He supposed it wouldn't be too surprising, but he couldn't help being shocked all over again by the reality of the day they'd been preparing for over the past five years. *It's the end of the world as we know it, and these crazies feel fine...*
+
+Another of Jed's screams tore through the air.
+
+“That sounds like a serious broken bone!” the black man shouted. “Do you *want* your friend to suffer?”
+
+Something in Zander snapped. “I'd rather put him out of his misery than trust him to people like you! Get lost!” When they again made no move to comply, he fired a warning shot over their heads. “Now!”
+
+They ran.
+
+Zander felt good about it until Jed screamed again several minutes later. Then he wondered if he'd overreacted because that last scream had set him on edge. He had always been very cautious and careful about firing a gun with people around, and that went double now that the population had shrunk so far. But when under stress, the scream plus a black man yelling at him might just have been too much to cope with. Maybe he'd made a mistake.
+
+Walking back up to the front porch of the massive Library compound two hours later was the hardest thing Clarence had ever forced himself to do. There was a white woman on guard above it now, but he had no reason to think she would be any less paranoid or trigger-happy than the guy he'd met last time. All he could think was that these people and their lofty plans had better prove themselves worthy of his aid.
+
+Liz had flatly refused to return, but she had helped him track down Jade, who strode up beside him now and planted her hands on her hips. “Hey!” she said. “I hear someone in there wants proof that we're not a bunch of crazy violent savages out here. I've got that proof if you want to see it!” She pulled out her cell phone and held it aloft like the Statue of Liberty's torch.
+
+“It's a little hard to see the screen from up here,” the guard said with amusement tinged with wariness.
+
+“Well, you could be polite and have someone come down and open the front door, but—” Jade overrode the woman's indignant response, “I figured you wouldn't go for that. I've got a shock-proof case on this thing, so I can just toss it up to your little balcony and—”
+
+“How do I know it isn't a bomb?” the woman with the rifle demanded.
+
+“Ye *gods* you people are paranoid!” Jade swiped and tapped a few times. “Can a bomb do this?”
+
+Music blared from the phone at maximum volume. “So long Mom, I'm off to drop the bomb...” Clarence winced at both the provocative lyrics and the power usage, imagining the city's supply of charged battery packs dwindling. This was nothing compared to the hours she'd spent taking video, of course, but still.
+
+Jade tapped the phone. “Come gather round, people, wherever you roam...” Tap. “Imagine there's no heaven...” Tap. The silence was deafening. She looked up expectantly.
+
+Several seconds passed. Then, “Fine, give me your damn phone,” the woman said. “You're awfully trusting assuming I'll give it back.”
+
+“Oh, I backed up all my files to my laptop before coming over,” Jade said with a shrug. “And there are tons more phones where this came from.” She tapped and swiped, presumably switching to the video player, then wound up like a pitcher and tossed the phone on a high, lazy arc, sailing over the balcony railing.
+
+The woman let it clatter to the floor, stared at it a moment, then picked it up. “Okay, what do you want me to see?”
+
+“Zander, get up here!” came Mel's muffled yell.
+
+Zander was working with Harry to erect a primitive wind turbine, a power source less reliable but far easier to duplicate than the deep-bore geothermal system. His next guard shift wasn't until midnight, but he didn't hesitate. “I'll be back shortly,” he said to Harry, and ran.
+
+Sure enough, the “medic” was back. He'd brought a different, much younger, Asian-looking female friend. And Mel had put down her rifle and was holding out her phone—no, wait, it wasn't hers. “You need to see this,” she said.
+
+He stared at her. “They gave that to you?”
+
+She nodded. “It's the girl's phone. She's some kind of cinematographer.”
+
+He made no move to take it. “Put it down and pick up your rifle.”
+
+“You don't want to touch it?”
+
+His look was enough. She set the phone on the balcony railing and rearmed herself.
+
+He thought a moment, then ducked inside and grabbed the nearest portable Geiger counter. Holding it up to the phone, he got a few more ticks than usual, but not the storm of them he'd feared. And he knew that while an overvolted laptop battery could make a sizeable explosion, a phone battery was only about as dangerous as a small firecracker.
+
+On the phone's screen was a play button half-obscuring an image of the black man leaning over someone. Video propaganda? But Mel was endorsing it, and he trusted her judgment. He glanced at the people in the street, put down the counter, and stabbed the play button with a finger.
+
+The shaky handheld view closed in, showing two broken ends of a thin bone sticking out of the prone person's lower leg. The black man was carefully teasing them back together. The video cut to an even tighter closeup, the realigned bone now nestled between rolls of muscle, as brown hands tightened one of several screws affixing a strip of metal to the bone on both sides of the fracture. There was surprisingly little blood. More fast jump-cuts and he was stitching the wound closed, then wrapping a cast, then helping the moaning patient onto a pair of crutches.
+
+Cut to a different scene entirely: a row of tables in the middle of a grassy field, covered with pots of food, with people taking turns serving themselves. The view rotated to show a long line of people queued up on one side, and people sitting and eating on an array of many-colored blankets and tarps laid out across the field. The expressions on people's faces ranged from contentment to grief to impatience, but the line was far more orderly than Zander would have thought possible. Could this be footage from before the blast? The hellish ruddy cast to the scene would have been easy to fake—but then the camera panned a little further and a cluster of burning condo towers came into view in the distance. He knew those buildings; they weren't far away. He paused the video and looked downhill to the right, and there they were, still burning.
+
+He pressed play again. The video cut to a large circle of people sitting on the grass. “My wife was working on the thirty-seventh floor of the Citibank tower when the news came in,” a tearful man said while the others listened attentively. “I talked with her on the phone, trying to reassure her, while she was stuck in the mob trying to get down the stairs. She made it out of the building three minutes before the bomb hit.” He sobbed for several seconds. “I don't know how I can live without her!” The four people on either side of him helped him to his feet and enfolded him in a group hug while others in the circle made sympathetic sounds. The embrace went on and on.
+
+Then the video cut to a closeup of a solenoid wrapped around a shaft with four fan blades attached, each about as long as the brown hands that held the device up. One hand released the shaft and the blades began to spin in the wind. The camera pulled back; the Latina woman holding the mini-windmill stood with several other people on a hilltop in the city's largest park, two of them holding open books, another scribbling on a large sketchpad, the rest gesturing animatedly as they discussed how to scale up the prototype. Again, buildings were burning in the distance; Zander barely noticed.
+
+Another cut, to the black medic entering one of those burning buildings with a rescue team. But Zander wasn't interested; he'd seen all he needed to. There were people out there already trying to rebuild, preparing for the future! That news was worth everything.
+
+“Okay,” he said, hitting pause again, “you've sold me. Mr. Medic, what was your name—Jenkins? You can come in, alone. Camera girl—” he tossed the phone down to her— “I hear there are some guys like me holed up in mansions who need to see this.”
+
+“No kidding!” she said. “We've been trying, me and my crew. Most of those crazies are thicker-skulled than you. We've had some luck, but we've also had to dodge several potshots—especially those of us with darker skin.”
+
+Zander spent several uncomfortable seconds trying to think of a response. Then, with relief, he remembered something else he'd been meaning to say. “By the way, you may want to start thinking about a more durable storytelling medium. Digital data is going to be very hard to preserve once all our electronics start wearing out.”
+
+“Yeah,” she shrugged, “but this doesn't need to last too long. Now is when it's needed.” She pocketed the phone. “Nice meeting you. I hope Clarence can fix up your friend.” She nodded to the medic, then trotted away with a jaunty spring in her step that argued more for the lack of danger on the streets than any video could.
+
+*Now is when it's needed.* Zander looked at Mel, whose rifle was pointed up at the rudlit clouds. Then he turned to go down and unbolt the door for a man who had probably thought Zander was about to kill him, earlier today, for the crime of offering to save a life. It wasn't really hell on Earth out there—although he doubted it was quite the hippie heaven Jade's video tried to portray—but enough people like Zander, with a bit less restraint, could bring that hell into existence.
+
+Well, Zander was done with being part of that problem. He slid back the five bolts and flung the Library doors open wide.

@@ -1,0 +1,43 @@
+{
+  "canonical_path": "/Rejuvenation",
+  "current_revision_id": 42902,
+  "database_title": "Rejuvenation",
+  "display_title": "Rejuvenation",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 1,
+  "page_id": 27302,
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "BenSibelman",
+      "comment": "Created page from the OpenOffice doc",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 42902,
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": 40004,
+      "same_as_previous_public": false,
+      "timestamp": "2014-09-29T00:35:56Z",
+      "wikitext_bytes": 16050,
+      "wikitext_sha256": "832bf8709a96f62093830850fbb932aead285612097dae7099e134f33368fd70"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 40004,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 16031,
+      "markdown_sha256": "8311ba4a5f727a736a61eb5169330ccc46a08847125e653661170a2322845106",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": 40004,
+      "previous_public_revision_id": 40004,
+      "revision_id": 42902,
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z"
+    }
+  ],
+  "site_revision_count": 1
+}

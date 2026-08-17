@@ -1,0 +1,33 @@
+<table border="1">
+<tr>
+<td>'''Description'''</td>
+<td>'''Image''' (click for full size)</td>
+<td>'''On the surface'''</td>
+<td>'''Closer look'''</td>
+<td>'''Deeper meaning'''</td>
+</tr>
+<tr>
+This logo/emblem design was originally a variant on the Earth-as-a-tree concept that emphasizes our rootedness in energy from [[Sol]], thus helping to explain the term [[SolSeed]].  It now accomplishes much more.  For one thing, it could resolve the [[June 2, 2009: Flower and Roots Metaphor#Topic 2: Roots and Flowers (15_mins)|debate]] about metaphors for members of the [[SolSeedMovement]] who prefer to focus on literal vs. metaphorical interpretations of [[TheDestiny]]: the latter represent the "[[Sol]] aspect" of the movement, while the former represent the "[[Seed]] aspect."  (And of course some people are in between.)
+
+<td valign="top">
+Basic emblem design, suitable for many uses and many media (ink, thread, wire, etc.)
+</td>
+<td valign="top">
+[[Image:Logo-simple.gif|150px]]
+</td>
+<td valign="top">
+* The O is a symbolic [[Sol]] with four rays.
+* The d represents a maple [[seed]].
+</td>
+<td valign="top">
+* The S is shaped roughly like a yin-yang symbol and could also be viewed as [http://peacebuttons.info/E-News/ecologysymbol.htm the ecology symbol, theta].
+* The two e's trace the spiral path of a whirling maple seed.
+</td>
+<td>
+* As noted above, the two words represent two intertwined aspects of the [[SolSeedMovement]]:
+** ''SOL'' represents [[SolSeedCommunity|community]], sustainability, centeredness, a focus on the present.  It might be defined as the "feminine principle."
+** ''Seed'' represents outward motion, progress, [[change]], a focus on the future.  It might be defined as the "masculine principle" (the maple seed is even kind of phallic).
+** Compare the logo of the advocacy group [http://equalitynow.org Equality Now]: [[Image:EqualityNow.png|24px]]
+</td>
+</tr>
+</table>

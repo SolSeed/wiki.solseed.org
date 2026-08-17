@@ -1,0 +1,43 @@
+{
+  "canonical_path": "/File:SerenityLodge.jpg",
+  "current_revision_id": 42358,
+  "database_title": "SerenityLodge.jpg",
+  "display_title": "File:SerenityLodge.jpg",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 6,
+  "original_revision_count": 1,
+  "page_id": 803,
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "Shelley Schoepflin Sanders",
+      "comment": "The site of [[Seed 2011]]",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 42358,
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": 2106,
+      "same_as_previous_public": false,
+      "timestamp": "2010-12-27T09:49:29Z",
+      "wikitext_bytes": 25,
+      "wikitext_sha256": "5fd68b6f09d250586bc5a1424cb90a8b7a44b6952784bb558c50c077fe2403d9"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 2106,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 36,
+      "markdown_sha256": "21e9984d27e860b4c4bead0e3a6494f7288a94b5ef2c97264ddb3a44ea031010",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": 2106,
+      "previous_public_revision_id": 2106,
+      "revision_id": 42358,
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z"
+    }
+  ],
+  "site_revision_count": 1
+}

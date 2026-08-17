@@ -1,0 +1,132 @@
+### Agenda
+- Check In
+- Review WWWs
+- Review Agenda
+- Next Service Logistics
+- Debrief the Solstice (10 min or less)
+- Review 2011 OnePagePlan
+- Create 2012 OnePagePlan
+- Meetup
+- Evaluation
+
+### Check In
+- Shelley ... feels good
+- Brandon ... OK
+- Sequoia ... asleep
+- Ben ... angry with his technology (shelley thinks understandably)
+
+### WWWs from last time
+- <s>Brandon ... follow your topical community protocol for this week ... ongoing (just SolSeed for now)
+- Brandon ... meditate and keep track of which days ... ongoing</s>
+- Ben ... follow your topical community protocol for this week ... ongoing
+- <s>Ben ... meditate and keep track of which days ... ongoing
+- Ben ... make a colored-in version of the art for "Something You Learn" and send to Lori ... by next call
+- Shelley ... follow your topical community protocol for this week ... ongoing
+- Shelley ... meditate and keep track of which days ... ongoing
+- Shelley ... call Ben's parents ... tomorrow
+- Ben, Brandon, and Shelley ... do the Solstice</s>
+
+### WWWs
+- Shelley ... follow your topical community protocol for this week ... ongoing
+- Shelley... meditate and keep track of which days ... ongoing
+- Shelley ... prepare the service ... by Saturday
+- Ben ... follow your topical community protocol for this week ... ongoing
+- Ben ... meditate and keep track of which days ... ongoing
+- Ben ... finish editing the OnePagePlan page ... by tomorrow
+- Ben ... call somebody to try and fix my Skype ... by next call
+- Brandon ... follow your topical community protocol for this week ... ongoing (just SolSeed for now)
+- Brandon ... meditate and keep track of which days ... ongoing
+- Brandon ... send email to the Meetup participants explaining what to expect ... by tomorrow
+- Brandon ... have the plan for food for the Meetup figured out ... by Thursday
+- Brandon ... do the shopping for the Meetup food ... Friday
+
+### Next Service Logistics
+Saturday January 7, 2012 ... Shelley
+Rotation: Brandon, Jerry?, Shelley, Ben
+
+### Winter Solstice
+- A little more preparation for the service would pay dividends
+- Keep the lights off for a little longer (let our eyes adjust)
+- Sitdown dinner
+  - Pros: generally thumbs up, got to talk to everyone individually, Shelley says the food prep was generally easier this year (less required because about half the people) ... thought the food prep was great (considering we had to walk in the door from the hike and have it ready to go)
+  - Cons: it would be nice if we could have more people ... normally the Vliets and the 
+Hartley's and Ted and Celeste would come ... but there would hardly be room
+- Shelley really likes the multi-generational feel ... three sets of parents, our generation, plus the kids
+- Yule log ... perhaps swap it in for the hike next year?
+
+### One Page Plan
+#### 2011 4th Quarter Goals, due 12/31/2011
+- Meetup: **Super Green**
+  - <s>Yellow: Start a Meetup in Portland
+  - Green:
+    - Have a really nice webpage for the Meetup
+    - Schedule our first two meetings (just need one more)
+  - Super Green: Have 12 interested people join the group and explain why they are part of the group</s>
+- Book: **Red**
+  - Yellow: Finish a draft of *[ Helping Life Thrive, On Earth And Beyond](/SolSeed:_Helping_Life_Thrive,_On_Earth_And_Beyond)*
+  - Green: Print the draft in book form
+  - Super Green: Add images and do some revision of the text
+- Topical Communities: **Green**
+  - <s>Yellow: Each identify an existing community that we want to tackle
+  - Green: Have a protocol for how to interact with our chosen communities each week, and do it for three weeks</s>
+  - Super Green: Protocol appears to be sustainable for the long term (Ben and Brandon aren't sure yet)
+- SpaceWiki: **Yellow**
+  - <s>Yellow: Start a 100yss hub/project page on SpaceWiki</s>
+  - Green:
+    - Have all the sections we want
+    - Make a good faith effort to contact every speaker
+    - Enroll Brandon's two contacts to work on the project
+  - Super Green:
+    - 75% of the speakers' bio pages filled out
+    - Papers for 50% of the speakers posted
+- Spiritual Practice: **Super Green**
+  - <s>Yellow: Have a Solstice celebration and continue the Sabbath services
+  - Green: Have a really good Solstice celebration
+  - Super Green: Restore daily meditative practice (10 minutes per day)</s>
+
+#### 2011 1 Year Goals
+- Village: Start construction on a backyard cottage: **Red**
+- Outreach: Two more contributing members: **Red**
+- Media: Finish the two books and maintain SpaceWiki: **Yellow** (one book)
+- Spiritual practice: Maintain the spiritual practice (weekly service calls, in-person solstice and equinox events): **Green**
+- Service: $10,000 or 200 hour contribution (or some combination) to a service project that brings life: **Red**
+- Industry: Apply for an SBIR grant related to launching life to another world (possibly a space catapult): **Red**
+
+#### 2012 1 Year Goals
+- Media: Finish what we're working on for the big book (possibly as two books/parts) and publish it
+- Outreach: Maintain and develop our topical community protocols all year
+- Spiritual practice: Maintain and develop the spiritual practice (daily practice, weekly services, and big celebrations for the solstices and equinoxes)
+- Village: Core membership all lives in same neighborhood
+
+#### 2012 1st Quarter Goals, due 3/31/2012
+- Book
+  - Yellow: Have something written for each of the topics that we think is important to have in the book
+  - Green: A complete book outline that flows and makes sense
+  - Super Green: Start polishing each section and have two sections posted on a blog
+- Spiritual Practice
+  - Yellow: Continue weekly services and daily meditation practice
+  - Green: Attempt a new weekly format including at least one other person in addition to the four regulars
+  - Super Green: Six weeks of well-planned, two-part services including programming for children and adults, with verbal pre-commitment from two additional family groups to attend all six weeks
+- Topical Communities
+  - Yellow: Maintain our current protocols
+  - Green: Plan the SolSeed protocol
+  - Super Green: Develop some of the content for the SolSeed protocol
+- Major Events
+  - Yellow: Make a decision about whether to have Kindred 2012 on the Summer Solstice
+  - Green: Have some sort of Spring Equinox Celebration
+  - Super Green: Prepare for Earth Day
+
+##### Discussion
+- Brandon thinks we set our sights too broad and on things outside of our control ... need to more realistic and focused on what we will do, not outcomes we want
+  - We should target habits and regular practices that build momentum, more than numbers of "new members" etc
+- Shelley thinks we need a protocol for interacting with people who sign up as Members by Declaration
+  - Drip campaign: an email every week to draw people in
+- Ben feels that we may be drastically redirecting our strategy too often, rather than giving the things we are doing enough chance to work ... things might be discouraging at first, but sometimes that is just because we haven't pushed on the flywheel long enough
+
+### First Meetup
+Ben is not coming after all
+
+### Evaluation
+- Shelley: thought we got a lot done
+- Ben: still angry at my technology, glad that we got the OnePagePlan laid out for the next quarter and year
+- Brandon: excited for this quarter and this year, disappointed that the 2011 progress markers (lots of reds) don't match my feelings of the progress we've made

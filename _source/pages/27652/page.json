@@ -1,0 +1,56 @@
+{
+  "canonical_path": "/July_9,_2017:_Business_Call",
+  "current_revision_id": 43250,
+  "database_title": "July_9,_2017:_Business_Call",
+  "display_title": "July 9, 2017: Business Call",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 2,
+  "page_id": 27652,
+  "published_revision_count": 2,
+  "revisions": [
+    {
+      "author": "BenSibelman",
+      "comment": "Created page from the Google doc",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 41081,
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": 41080,
+      "same_as_previous_public": false,
+      "timestamp": "2017-07-09T16:51:39Z",
+      "wikitext_bytes": 6083,
+      "wikitext_sha256": "2064c47a1f66fcae1cf56129e454f7eff88adcea05f79864f5a1b66ba97d31ff"
+    },
+    {
+      "author": "BenSibelman",
+      "comment": "/* What we want to get done this summer */",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 43250,
+      "original_parent_revision_id": 41080,
+      "previous_public_revision_id": 41080,
+      "revision_id": 41081,
+      "same_as_previous_public": false,
+      "timestamp": "2017-07-09T16:52:09Z",
+      "wikitext_bytes": 6081,
+      "wikitext_sha256": "89e539d0ebac464b7e637d944578ee8ee0881dd0d38d70e0c153c2aac5cf2837"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 41081,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 6184,
+      "markdown_sha256": "7fbf27af9aa458e252f4f8781ca544cdcd6aac910127c8c60fa236328918b0d6",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": 41081,
+      "previous_public_revision_id": 41081,
+      "revision_id": 43250,
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z"
+    }
+  ],
+  "site_revision_count": 1
+}

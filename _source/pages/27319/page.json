@@ -1,0 +1,43 @@
+{
+  "canonical_path": "/File:Hp_logo.jpg",
+  "current_revision_id": 42919,
+  "database_title": "Hp_logo.jpg",
+  "display_title": "File:Hp logo.jpg",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 6,
+  "original_revision_count": 1,
+  "page_id": 27319,
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "EricSaumur",
+      "comment": "The Humanistic Paganism Logo; A tree including roots surrounded by a circular chain.",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 42919,
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": 40088,
+      "same_as_previous_public": false,
+      "timestamp": "2014-10-16T04:30:55Z",
+      "wikitext_bytes": 84,
+      "wikitext_sha256": "56b8ebb4d9f82510e31a2db12d508678b63909cfd29987c8f94c1b0d172c9797"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 40088,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 85,
+      "markdown_sha256": "27760fb3b8c60ed79fc5e2dc49bc557d6341bc76688f2751ad53cff8d6180d0e",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": 40088,
+      "previous_public_revision_id": 40088,
+      "revision_id": 42919,
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z"
+    }
+  ],
+  "site_revision_count": 1
+}

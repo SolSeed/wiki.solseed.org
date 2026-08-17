@@ -1,0 +1,111 @@
+### Agenda
+- Check In
+- Review WWWs
+- Review Agenda
+- Next Calls' Logistics
+- Watch Ben's updated video
+- Summer Solstice trip
+  - Triathlon
+    - Review the tee-shirt design
+  - Lists of invitees
+  - Solstice itself
+- Evaluation
+
+### Check In
+- Eric ... Happy in the sun ... currently outside enjoying the weather
+- Ben ... feeling productive, SolSeed homework done ahead of time, got some work done for portland networking, called mom for Mother's Day and she told me to "take a bike ride" and I did and it felt good
+- Shelley ... emotionally fragile as usual on Mother's Day, but fine
+- Brandon ... it's gorgeous out right now ... I don't know about on the inside ... don't have clear introspection ... I'm reading a good book about habits
+
+### WWWs from last time
+- <s>Ben ... follow your topical community protocol for this week ... ongoing
+- Ben ... meditate and keep track of which days ... ongoing
+- Ben ... draw a background for the biking shot (second shot) ... by next call
+- Ben ... review list of names for the triathlon ... by Tuesday
+- Ben ... draft graphic for the triathlon ... by next call
+- Ben ... think about symbolic things to do at moment of solstice ... by next call
+- Ben ... send invitation to Ursula Goodenough ... by next call
+- Brandon ... follow your topical community protocol for this week ... ongoing
+- Brandon ... meditate and keep track of which days ... ongoing
+- Brandon ... check with Shelley about how we can work with 4:09 on Wednesday ... by Tuesday
+- Brandon ... reserve the shelter at cape lookout ... by Tuesday
+- Brandon ... invite Jonathan Haidt to the Solstice ... by Tuesday
+- Brandon ... write one blog post ... by next call
+- Brandon ... bring over the pictures and stuff from the blog posts ... by next call
+- Brandon ... think about symbolic things to do at moment of solstice ... by next call
+- Eric ... come up with suggestions for symbolic things to do at moment of solstice ... by next call
+- Eric ... meditate and keep track of which days ... ongoing 
+- Eric ... write one more section of chapter 7... by next call 
+- Eric ... work on list of possible topical communities to follow, using http://meetup.com ... by next call
+- Shelley ... look for a meditation center as a possible topical community ... ongoing
+- Shelley ... meditate and keep track of which days ... ongoing</s>
+- Shelley ... get Blue Lake permit ... by next call (did complete a Vancouver lake permit request)
+- <s>Shelley ... think about symbolic things to do at moment of solstice ... by next call</s>
+
+### WWWs
+- Ben ... follow your topical community protocol for this week ... ongoing
+- Ben ... meditate and keep track of which days ... ongoing
+- Ben ... do another iteration of the triathlon design ... by next call
+- Ben ... invite my parents, Gus, and Lion to Sol 2012 ... by tomorrow
+- Brandon ... follow your topical community protocol for this week ... ongoing
+- Brandon ... meditate and keep track of which days ... ongoing
+- Brandon ... invite your people to the religious method ... by Monday
+- Brandon ... invite Art, Hank, the Vliets, Paul Krafel, Mathew, Molly, and Ted to Sol 2012 ... by tomorrow
+- Shelley ... follow your topical community protocol for this week ... ongoing
+- Shelley ... meditate and keep track of which days ... ongoing
+- Shelley ... invite Mickki, Lori, and Krista to Sol 2012 ... by tomorrow
+- Eric ... follow your topical community protocol for this week ... ongoing
+- Eric ... meditate and keep track of which days ... ongoing
+- Eric ... do an iteration of the triathlon design ... by next call
+- Eric ... invite Freeman Dyson and ask for ideas ... by next call
+
+### Next Calls' Logistics
+Service Saturday May 19, 4pm PDT, (Brandon)
+Rotation: Brandon, Eric, Jerry?, Shelley, Ben
+Work-Bee: Sunday May 20, 1:30pm PDT
+?In-person service May 19, evening with the Vliets
+
+### Solstice
+#### Triathlon
+- Graphic
+  - Do we create a slight variation on the already popular evolution t-shirt design, or something more true to the concept (starting with early fish and progressing through small mammals) and potentially less popular?
+  - Could compromise by making the fish and rodents cuter
+  - Have a background (ocean with a slope coming out of it) to match popular versions that start with fish or amphibians
+  - Put swimming, running, and biking humans below the evolution progression to illustrate the connection to the triathlon
+    - The human at the end of the evolution progression could be carrying a spear or riding a wheel instead of biking
+
+#### Invitee list (friends)
+  - Ben's parents ... (Ben)
+  - Art ... wants to come, asked about dates (Brandon)
+  - Hank ... (Brandon)
+  - Mickki ... (Shelley)
+  - Vliets ... (Brandon)
+  - Paul Krafel ... (Brandon)
+  - Mathew and Molly ... (Brandon)
+  - Gus ... (Ben)
+  - Ted ... (Brandon)
+  - Lion ... (Ben)
+  - Lori ... (Shelley)
+  - Krista Hughes ... (Shelley)
+  - Jonathan Haidt ... wishes us well but can't come
+  - Ursula Goodenough ... (Ben)
+  - Freeman Dyson ... (Eric)
+
+Adding ourselves to [Sol2012#Signup](/Sol2012#Signup)
+
+#### Moment of Solstice ritual ideas
+- Eric ... large piece of brass kept hot in a campfire, spray cold water on it and watch the blast of steam ... symbolizing early metalwork
+- Ben ... stretch out our arms toward the sun
+- Shelley ... stand in a circle ... some sort of music, maybe drums (Sequoia really loves drums) ... marching or walking pattern ... countdown
+- Brandon ... on the beach if possible ... giant bonfire if possible ... trips from the fire to the ocean to get water, each participant does the same thing
+
+- General idea: 
+  - Get 5 drums, one for each of the core people
+  - Each person takes a break from drumming in turn to go get some water
+  - Brandon wants the piece of metal to be sun-shaped
+
+### Evaluation
+- Shelley ... I feel like we made good progress and worked well together toward achieving consensus on values-ridden decisions
+- Brandon ... I'm excited about what we're planning, looking forward to seeing it happen
+- Ben ... I felt like the call was a bit rushed, maybe that is what always happens when we have a bunch of agenda items and get in depth on one of them ... maybe an argument for only having a small number of agenda items per week
+- Eric ... Feeling more and more a part of this group (even though I am thousands of km away), that the ideas we are bouncing back and forth are bringing us together and that what we are doing is tying this group together for the future and that is a key part of what we are doing

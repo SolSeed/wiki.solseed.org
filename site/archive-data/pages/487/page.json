@@ -1,0 +1,48 @@
+{
+  "canonical_path": "/Probabilistic_Shifts",
+  "current_revision_id": "42049",
+  "database_title": "Probabilistic_Shifts",
+  "display_title": "Probabilistic Shifts",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 1,
+  "page_id": "487",
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "BenSibelman",
+      "comment": "Created page.",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": "42049",
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": "1320",
+      "same_as_previous_public": false,
+      "timestamp": "2010-01-03T23:08:57Z",
+      "wikitext_bytes": 1878,
+      "wikitext_sha256": "90cc618bcb979fad62c279070daa0897a6b8c73bc574873bc843147eca51f6a7",
+      "source_format": "wikitext",
+      "source_extension": "wiki"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 1320,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 1972,
+      "markdown_sha256": "b3cff5643f16dd0b7e899aa69d528a366566e426a5fd5d1b6a20bccde7559d9c",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": "1320",
+      "previous_public_revision_id": "1320",
+      "revision_id": "42049",
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z",
+      "wikitext_bytes": 1972,
+      "wikitext_sha256": "b3cff5643f16dd0b7e899aa69d528a366566e426a5fd5d1b6a20bccde7559d9c",
+      "source_extension": "md"
+    }
+  ],
+  "site_revision_count": 1
+}

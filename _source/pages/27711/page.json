@@ -1,0 +1,43 @@
+{
+  "canonical_path": "/Ceres",
+  "current_revision_id": 43309,
+  "database_title": "Ceres",
+  "display_title": "Ceres",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 1,
+  "page_id": 27711,
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "EricSaumur",
+      "comment": "Created page with \"Ceres is the Dwarf Planet which dominates the asteroid belt containing most of the belt's mass.  Also the [[World Mother]] which symbolizes the hypothetical biosphere which might...\"",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 43309,
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": 41290,
+      "same_as_previous_public": false,
+      "timestamp": "2018-04-13T01:58:17Z",
+      "wikitext_bytes": 222,
+      "wikitext_sha256": "12cff6d69ab54610d90701a0633563593442353001fda6717b6e6c5ff3d84de0"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 41290,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 236,
+      "markdown_sha256": "ae5f5ee5076ab8c2690c78859301cbc516ceff3cb86adb23c2994437233d0837",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": 41290,
+      "previous_public_revision_id": 41290,
+      "revision_id": 43309,
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z"
+    }
+  ],
+  "site_revision_count": 1
+}

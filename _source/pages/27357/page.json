@@ -1,0 +1,43 @@
+{
+  "canonical_path": "/Gaia_as_the_Furthest_Lichin",
+  "current_revision_id": 42956,
+  "database_title": "Gaia_as_the_Furthest_Lichin",
+  "display_title": "Gaia as the Furthest Lichin",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 1,
+  "page_id": 27357,
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "EricSaumur",
+      "comment": "moved [[Gaia as the Furthest Lichin]] to [[Gaia as the Furthest Lichen]]: spelling!",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 42956,
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": 40227,
+      "same_as_previous_public": false,
+      "timestamp": "2014-12-20T17:03:19Z",
+      "wikitext_bytes": 41,
+      "wikitext_sha256": "01df09c4f483dd429177a9fb7dc0a6d99fbb46bba4d33d1c07b293df997d838c"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 40227,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 93,
+      "markdown_sha256": "01177f04f6fc0e1f0165a3fdd4aaf0a0ac1cc9fb467e29aa82686d12695e9f02",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": 40227,
+      "previous_public_revision_id": 40227,
+      "revision_id": 42956,
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z"
+    }
+  ],
+  "site_revision_count": 1
+}

@@ -1,0 +1,82 @@
+{
+  "canonical_path": "/Strategy",
+  "current_revision_id": 43222,
+  "database_title": "Strategy",
+  "display_title": "Strategy",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 4,
+  "page_id": 27624,
+  "published_revision_count": 4,
+  "revisions": [
+    {
+      "author": "Brandon CS Sanders",
+      "comment": "Created page with \"We employ the metaphor of a plant to consider the stages of growth of [[SolSeed]].  These stages are messy and overlap considerably.  It is only when we step far back that we can...\"",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 40970,
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": 40969,
+      "same_as_previous_public": false,
+      "timestamp": "2017-02-05T17:38:44Z",
+      "wikitext_bytes": 2204,
+      "wikitext_sha256": "c2d2a03abc5755ad4ddcab0fd0872014c9a4c3eaa91d66d84a86c0aa7a7dcb2e"
+    },
+    {
+      "author": "Brandon CS Sanders",
+      "comment": "",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 40971,
+      "original_parent_revision_id": 40969,
+      "previous_public_revision_id": 40969,
+      "revision_id": 40970,
+      "same_as_previous_public": false,
+      "timestamp": "2017-02-05T17:41:36Z",
+      "wikitext_bytes": 2207,
+      "wikitext_sha256": "16a95ad1f39b4769c3b3a6537808b8a244afc986c74eb426dd73b118dfde42f0"
+    },
+    {
+      "author": "Brandon CS Sanders",
+      "comment": "",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 40972,
+      "original_parent_revision_id": 40970,
+      "previous_public_revision_id": 40970,
+      "revision_id": 40971,
+      "same_as_previous_public": false,
+      "timestamp": "2017-02-05T17:43:42Z",
+      "wikitext_bytes": 2199,
+      "wikitext_sha256": "13bad8b2785c55bc2ed462733cb9ee567ae936d5b05bf1a5e011c200ddca5dba"
+    },
+    {
+      "author": "Brandon CS Sanders",
+      "comment": "",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 43222,
+      "original_parent_revision_id": 40971,
+      "previous_public_revision_id": 40971,
+      "revision_id": 40972,
+      "same_as_previous_public": false,
+      "timestamp": "2017-02-05T17:45:03Z",
+      "wikitext_bytes": 2181,
+      "wikitext_sha256": "9e516ab9d0cc9731ebfe6a9700d57e799b393a5b212fe5d3243cf087e8de3822"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 40972,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 2269,
+      "markdown_sha256": "440e9e8944c6fdb6a991f8cb3c234d8c5c9243a3f7fae0dc2a96e74a5bd5dbc6",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": 40972,
+      "previous_public_revision_id": 40972,
+      "revision_id": 43222,
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z"
+    }
+  ],
+  "site_revision_count": 1
+}

@@ -1,0 +1,48 @@
+{
+  "canonical_path": "/Eddie's_Holonic_Contribution",
+  "current_revision_id": "43056",
+  "database_title": "Eddie's_Holonic_Contribution",
+  "display_title": "Eddie's Holonic Contribution",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 1,
+  "page_id": "27458",
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "EricSaumur",
+      "comment": "moved [[Eddie's Holonic Contribution]] to [[Blog/Eddie's Holonic Contribution]]: It's a blog",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": "43056",
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": "40526",
+      "same_as_previous_public": false,
+      "timestamp": "2015-05-29T02:47:49Z",
+      "wikitext_bytes": 47,
+      "wikitext_sha256": "b2ccc3f21f07a06ad0e89c7a865bf8b5beb8b3ae25c1bab1e14b99b1d22c2252",
+      "source_format": "wikitext",
+      "source_extension": "wiki"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 40526,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 105,
+      "markdown_sha256": "85853def22d9c908acda5dea79c91aa9027ae0f667b61224607e81862ecb2df5",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": "40526",
+      "previous_public_revision_id": "40526",
+      "revision_id": "43056",
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z",
+      "wikitext_bytes": 105,
+      "wikitext_sha256": "85853def22d9c908acda5dea79c91aa9027ae0f667b61224607e81862ecb2df5",
+      "source_extension": "md"
+    }
+  ],
+  "site_revision_count": 1
+}

@@ -1,0 +1,82 @@
+{
+  "canonical_path": "/A_Fly's_Eye_View",
+  "current_revision_id": 43100,
+  "database_title": "A_Fly's_Eye_View",
+  "display_title": "A Fly's Eye View",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 4,
+  "page_id": 27502,
+  "published_revision_count": 4,
+  "revisions": [
+    {
+      "author": "EricSaumur",
+      "comment": "Created page with \"This page has not been spellchecked or edited.  It could use a lot of work.  You can help by editing it.  Let us imagine.  You are a fly on a wall.  The wall is a living wooden w...\"",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 41286,
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": 40664,
+      "same_as_previous_public": false,
+      "timestamp": "2015-10-24T17:05:44Z",
+      "wikitext_bytes": 9065,
+      "wikitext_sha256": "87b8d417c850c80d25c52557625983d309b2e0cf27297f2a2d791d78a9a3ec0c"
+    },
+    {
+      "author": "EricSaumur",
+      "comment": "",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 41287,
+      "original_parent_revision_id": 40664,
+      "previous_public_revision_id": 40664,
+      "revision_id": 41286,
+      "same_as_previous_public": false,
+      "timestamp": "2018-04-13T01:04:02Z",
+      "wikitext_bytes": 9070,
+      "wikitext_sha256": "fd5bc5d93a7a25ff8d10f4e296fd46f2bd5500f413d41def84de61d255afda6f"
+    },
+    {
+      "author": "EricSaumur",
+      "comment": "",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 41318,
+      "original_parent_revision_id": 41286,
+      "previous_public_revision_id": 41286,
+      "revision_id": 41287,
+      "same_as_previous_public": false,
+      "timestamp": "2018-04-13T01:47:58Z",
+      "wikitext_bytes": 9074,
+      "wikitext_sha256": "964c32b1e97d867072beb5975d68d8ad09b2dcda3ffaf590ef212d4a0a586e4d"
+    },
+    {
+      "author": "EricSaumur",
+      "comment": "",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 43100,
+      "original_parent_revision_id": 41287,
+      "previous_public_revision_id": 41287,
+      "revision_id": 41318,
+      "same_as_previous_public": false,
+      "timestamp": "2018-04-19T23:20:03Z",
+      "wikitext_bytes": 9075,
+      "wikitext_sha256": "7bd46b8e8c1708fef891e859d8d25eade6792d52e886956a035008ec0eb75b80"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 41318,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 9114,
+      "markdown_sha256": "ae93e8b36e8c7f9c215194818c9ce497b6a9acf0d3b131bf267fa613cd8b4da5",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": 41318,
+      "previous_public_revision_id": 41318,
+      "revision_id": 43100,
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z"
+    }
+  ],
+  "site_revision_count": 1
+}

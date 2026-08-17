@@ -1,0 +1,43 @@
+{
+  "canonical_path": "/File:Leafcutter_ant_carrying_leaf.jpg",
+  "current_revision_id": 42569,
+  "database_title": "Leafcutter_ant_carrying_leaf.jpg",
+  "display_title": "File:Leafcutter ant carrying leaf.jpg",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 6,
+  "original_revision_count": 1,
+  "page_id": 9139,
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "Brandon CS Sanders",
+      "comment": "From: http://commons.wikimedia.org/wiki/File:Leafcutter_ant_carrying_leaf.jpg",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 42569,
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": 12354,
+      "same_as_previous_public": false,
+      "timestamp": "2012-05-13T20:24:06Z",
+      "wikitext_bytes": 77,
+      "wikitext_sha256": "c40df137b907577d97252b82f0e547957ff041427d60e364b42129c098b46bf8"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 12354,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 78,
+      "markdown_sha256": "73c3b3c6ff632fc1c42f4463f92aceb18d052ac49940a81237b5d2e5bbd81e91",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": 12354,
+      "previous_public_revision_id": 12354,
+      "revision_id": 42569,
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z"
+    }
+  ],
+  "site_revision_count": 1
+}

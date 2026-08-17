@@ -1,0 +1,109 @@
+### Agenda
+- Check In
+- Review WWWs
+- Review Agenda
+- Weekly Events Logistics
+- "The Seed" Song
+- The religion question
+- Sol 2013
+- Evaluation
+
+### Check In
+- Ben ... helped move sailboat, sad about tree cut down "just because it was blocking the view"
+- Brandon ... went to Evergreen Air and Space Museum, which was really cool
+
+### WWWs from last time
+- <s>Ben ... follow your topical community protocol for this week ... ongoing
+- Ben ... meditate and keep track of which days ... ongoing</s>
+- Ben ... send $250 to support the PSAS sponsorship ... by next call (written but not sent)
+- <s>Ben ... print out the timings for the drumming ceremony ... by next call</s>
+- Eric ... send $250 to support the PSAS sponsorship ... by next call
+- Eric ... follow your topical community protocol for this week ... ongoing
+- Eric ... meditate and keep track of which days ... ongoing
+- Eric ... get drums for the weekend to bring to the cottage ... by next Saturday
+- Eric ... send picture of wearing bug jacket ... by next call
+- Brandon ... follow your topical community protocol for this week ... ongoing
+- Brandon ... meditate and keep track of which days ... ongoing
+- <s>Brandon ... find at least 2 evaluation boards for IC sensors for mini-greenhouses ... by next call</s>
+  - pH https://www.sparkfun.com/products/10972
+  - dissolved oxygen https://www.sparkfun.com/products/11194
+  - IR thermometer https://www.sparkfun.com/products/10740
+- <s>Brandon ... ping Mathew about the PSAS launch logistics ... by today</s>
+- Brandon ... get the logo sticker made for the rocket fin ... by next Tuesday
+
+### WWWs
+- Brandon ... follow your topical community protocol for this week ... ongoing
+- Brandon ... meditate and keep track of which days ... ongoing
+- Ben ... follow your topical community protocol for this week ... ongoing
+- Ben ... meditate and keep track of which days ... ongoing
+- Ben ... email John and Will about the stuff we need from them ... by Tuesday
+- Eric ... follow your topical community protocol for this week ... ongoing
+- Eric ... meditate and keep track of which days ... ongoing
+
+### Weekly Events Logistics
+Service during Ottawa trip: we'll figure it out later (Shelley)
+Rotation: Brandon, Shelley, Eric, Ben
+
+Work-Bee Sunday June 30, 1:30 pm PDT 16:30 EDT (Brandon will be at the PSAS rocket launch)
+
+Seeing Nature Readings and Practices: next is 2013-10-20 13:00 EST 
+
+### "The Seed" Song
+- Ben is thinking of making a 30 second video of just the chorus (an animation) that would go like this:
+  - Cutaway showing a seed underground with a small sprout coming out
+  - Zoom out and pan up to the surface, with small buildings in the background and the sun shining above
+  - Pan back down to show roots growing down and outward from the seed, intertwining with other roots growing from other seeds
+  - Pan up and to the right, with roots at the bottom of the frame and a growing city filling the rest
+    - *We pass an industrial plant whose smoke blots out the sky as it expands to the right
+      - Possibly turn it into stormclouds with lightning bolts
+    - We come to a shoreline with buildings standing in the water beyond, their upper stories burning*
+  - Meanwhile, the seeds have been forming increasingly large sprouts above the ground, and some braided vines suddenly leap out from the shore to form a bridge across the ocean
+    - As we follow the bridge and leave the burning city behind, the smoke/stormclouds clear and the sun comes out again
+    - We reach another shore where the vine joins the greenery in an ecotopian city whose buildings are giant trees with windows in them
+  - Another big beanstalk-like vine grows upward with a birdlike creature at the end
+    - The bird folds its wings to become a rocket as we pan up through a thin cloud layer to see Earth from orbit
+    - Transition to the SolSeed logo
+
+- Alternatives for *the "I will find my way across the night" line*
+  - Follow a sprout slowly growing upward through dark soil
+    - Start out with growing across a starfield, then transition to soil
+
+- But maybe Ben should go with his original plan, at least for the short chorus-only video, so it's not a "camel" (a horse designed by committee)
+
+### The Religion Question
+Ben's sister Abigail's response to the song was "But why does this have to be a religion?" Ben talked about one of Brandon's arguments about motivating people by occupying the religious place in our circles of commitment.  Her argument is that is what makes religion so insidious because it brain-washes people.  Ben and Abigail talked about it maybe being okay if you are an adult and you know what you are going into.  But Abigail's impression is that most people don't know enough going in, and children certainly don't have much say or information (maybe not enough).  The last thing we talked about was values vs. beliefs ... we may be certain about our values being positive, but religions have beliefs that they impose on people (or people accept because they come with the package).  Ben's answer (almost certainly inaccurate) was that we try not to have any beliefs, but to just go with what mainstream science has to say about the world.  She said that in that case it's not a religion.
+
+Afterward Ben was thinking we have at least one belief: that it would be good for life to spread outward into space.  Ben was thinking about how people telling you to believe something can after a long time feel like you are telling ourself. (for example Paul Guilding telling you that grief about the future is okay, but that prolonged despair is not) If it were up to Ben he would try and avoid grieving for the world and be more constructive in saying "how can we prevent some of the things" ... Paul's book points you toward "there is nothing to be done."  His book is not a religious tract, so both the positive things about religion (committing you to act in accordance with values) and negative things (reshaping your views in a way that you wouldn't necessarily choose) can be found outside of religion as well.
+
+We may need to go over again the arguments for and against SolSeed being a religion.
+
+Brandon: I think we need a "Why we are a religion" essay.
+
+Eric:  We are a religion because I like us being a religion.  Do we need a better reason?
+Brandon: I agree; I'm aware of the evil uses of religion that are rampant, but I also think there's a strong argument to be made that we wouldn't have human civilization without religion, and there are few other things that have the power to make historically positive change happen.
+Science being another example of such a thing
+Eric: This is what [Sol 2012](/Sol_2012) was about: doing religion better than it's been done in the past.
+Brandon: "We tried baseball and it didn't work": http://xprogramming.com/articles/jatbaseball/
+Brandon: Religion is about personal and group character-building, rather than about making X happen in the world
+Practicing piano is similar: "brainwashing yourself" so you have instincts that support great piano-playing
+Eric: But religion isn't so narrowly focused, it includes one's whole character and how we deal with morally difficult situations
+Brandon: If we're successful and enough people get involved, the whole gamut of human expression will manifest, including people who commit atrocities "in the name of life"
+Eric: Or in the name of a misremembered idea, e.g. "SalSaud" ... in the very long term, all your actions can have unpredictable and horrible consequences
+Brandon: If SolSeed lasts, we won't be able to control what it eventually becomes
+
+Abigail: Does this have to be an argument (confrontational), or just a discussion?
+Ben: Religion is the sort of thing that makes it hard to avoid feeling confrontational, despite our value of embracing difference
+Eric: Conflict is a good thing <s>sometimes</s> all the time
+Brandon: But argument may not be
+
+### Sol 2013
+- Eric's report: Beautiful stars, bikes and most unconference-type stuff is up at the cabin, meal plan is set
+  - Sequoia's seat is on Shelley's bike, Ren's seat is on Brandon's
+- Brandon: Maybe call it just a "retreat" rather than an unconference
+  - Ben: Wiki-vanning without (or in) the van?
+- Brandon: We have the t-shirts; they turned out much better than last time
+
+### Evaluation
+- Brandon ... I'm still here, just have a baby in my arms ... I feel really good about SolSeed being a religion ... it's not "the right thing" for SolSeed to be a religion, just a good thing
+- Ben ... Like Abigail I'm not a fan of confrontational arguments ... but of course, on the one hand I can agree with my family and say that religion is bad or with Brandon and say that it is good.
+- Eric ... I feel like I showed up too late to get much out of this religion discussion ... still really excited about having you all come to the cottage

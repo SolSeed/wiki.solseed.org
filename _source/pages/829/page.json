@@ -1,0 +1,43 @@
+{
+  "canonical_path": "/File:Lori_singing.JPG",
+  "current_revision_id": 42384,
+  "database_title": "Lori_singing.JPG",
+  "display_title": "File:Lori singing.JPG",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 6,
+  "original_revision_count": 1,
+  "page_id": 829,
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "BenSibelman",
+      "comment": "Photo of Lori Henriques performing her music at the January 2011 [[Music Festival]].",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 42384,
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": 2182,
+      "same_as_previous_public": false,
+      "timestamp": "2011-02-03T04:56:41Z",
+      "wikitext_bytes": 84,
+      "wikitext_sha256": "87bc6e535c534412d612bbe927f5ef7bc941bdac9c173775fcc076d328d6d0df"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 2182,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 100,
+      "markdown_sha256": "329dc2ad9d9be052bc45e05458e3a3482e165070395412f1acc33b7324be5d6a",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": 2182,
+      "previous_public_revision_id": 2182,
+      "revision_id": 42384,
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z"
+    }
+  ],
+  "site_revision_count": 1
+}

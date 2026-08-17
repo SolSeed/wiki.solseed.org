@@ -1,0 +1,63 @@
+{
+  "canonical_path": "/Olamina",
+  "current_revision_id": "42276",
+  "database_title": "Olamina",
+  "display_title": "Olamina",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 2,
+  "page_id": "720",
+  "published_revision_count": 2,
+  "revisions": [
+    {
+      "author": "Brandon CS Sanders",
+      "comment": "Redirecting to [[Lauren Olamina]]",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": "1844",
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": "1839",
+      "same_as_previous_public": false,
+      "timestamp": "2010-08-31T23:42:05Z",
+      "wikitext_bytes": 28,
+      "wikitext_sha256": "ec9785d0f435b9e358c07c1d69c946b0acb865de0b7f68f1e6296117311fa829",
+      "source_format": "wikitext",
+      "source_extension": "wiki"
+    },
+    {
+      "author": "Redirect fixer",
+      "comment": "[[Lauren Olamina]] has been moved, it is now a redirect to [[Lauren Oya Olamina]]",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": "42276",
+      "original_parent_revision_id": "1839",
+      "previous_public_revision_id": "1839",
+      "revision_id": "1844",
+      "same_as_previous_public": false,
+      "timestamp": "2010-08-31T23:42:59Z",
+      "wikitext_bytes": 32,
+      "wikitext_sha256": "87d9705caff4b2c6eaf9b92b541b3cd07d544f517de9b4d268522b8e17e6dceb",
+      "source_format": "wikitext",
+      "source_extension": "wiki"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 1844,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 75,
+      "markdown_sha256": "a4fb1c03368a7ca6df3ffd0780e3a3ce28514be3a06782afb3514c137e216b2f",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": "1844",
+      "previous_public_revision_id": "1844",
+      "revision_id": "42276",
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z",
+      "wikitext_bytes": 75,
+      "wikitext_sha256": "a4fb1c03368a7ca6df3ffd0780e3a3ce28514be3a06782afb3514c137e216b2f",
+      "source_extension": "md"
+    }
+  ],
+  "site_revision_count": 1
+}

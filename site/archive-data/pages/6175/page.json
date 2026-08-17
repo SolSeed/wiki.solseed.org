@@ -1,0 +1,48 @@
+{
+  "canonical_path": "/File:Hike_in_the_dark_for_Winter_Solstice_2011.JPG",
+  "current_revision_id": "42536",
+  "database_title": "Hike_in_the_dark_for_Winter_Solstice_2011.JPG",
+  "display_title": "File:Hike in the dark for Winter Solstice 2011.JPG",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 6,
+  "original_revision_count": 1,
+  "page_id": "6175",
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "BenSibelman",
+      "comment": "Looking out over the city while on our way up to the summit of Mt. Taber.",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": "42536",
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": "8841",
+      "same_as_previous_public": false,
+      "timestamp": "2012-03-25T18:02:39Z",
+      "wikitext_bytes": 73,
+      "wikitext_sha256": "b21d0eccd9bf787f6918786a420ffdc78c50385870240e3e376a842b9b9b9826",
+      "source_format": "wikitext",
+      "source_extension": "wiki"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 8841,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 74,
+      "markdown_sha256": "b2c903ac6c50b35f387743dac5997c8047a722294d2fdfd5f2c3690a94230465",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": "8841",
+      "previous_public_revision_id": "8841",
+      "revision_id": "42536",
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z",
+      "wikitext_bytes": 74,
+      "wikitext_sha256": "b2c903ac6c50b35f387743dac5997c8047a722294d2fdfd5f2c3690a94230465",
+      "source_extension": "md"
+    }
+  ],
+  "site_revision_count": 1
+}

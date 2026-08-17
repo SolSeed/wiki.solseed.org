@@ -1,0 +1,56 @@
+{
+  "canonical_path": "/User:Shawn_G_Marincas",
+  "current_revision_id": 43290,
+  "database_title": "Shawn_G_Marincas",
+  "display_title": "User:Shawn G Marincas",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 2,
+  "original_revision_count": 2,
+  "page_id": 27692,
+  "published_revision_count": 2,
+  "revisions": [
+    {
+      "author": "Shawn G Marincas",
+      "comment": "Initial Commit - Hello SolSeed",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 41207,
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": 41204,
+      "same_as_previous_public": false,
+      "timestamp": "2018-03-05T22:20:43Z",
+      "wikitext_bytes": 3547,
+      "wikitext_sha256": "82cab927b846dfe136536675f3a0bce38ca51308767ad4c9498b151d24db6c85"
+    },
+    {
+      "author": "Shawn G Marincas",
+      "comment": "/* A Thoughtful Goose */",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 43290,
+      "original_parent_revision_id": 41204,
+      "previous_public_revision_id": 41204,
+      "revision_id": 41207,
+      "same_as_previous_public": false,
+      "timestamp": "2018-03-05T22:24:07Z",
+      "wikitext_bytes": 3538,
+      "wikitext_sha256": "86aebefee490beeace128f494fed8661a4319eb97b8a657867c37ba37e5609b3"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 41207,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 3561,
+      "markdown_sha256": "be5633f86770a01280e6fe7889b714dc27fcc4b79d0cc52a93d7d30f62ad88ec",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": 41207,
+      "previous_public_revision_id": 41207,
+      "revision_id": 43290,
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z"
+    }
+  ],
+  "site_revision_count": 1
+}

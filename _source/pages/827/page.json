@@ -1,0 +1,69 @@
+{
+  "canonical_path": "/Outside_My_Door_with_Lori_Henriques",
+  "current_revision_id": 42382,
+  "database_title": "Outside_My_Door_with_Lori_Henriques",
+  "display_title": "Outside My Door with Lori Henriques",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 3,
+  "page_id": 827,
+  "published_revision_count": 3,
+  "revisions": [
+    {
+      "author": "BenSibelman",
+      "comment": "Created stub",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 2185,
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": 2179,
+      "same_as_previous_public": false,
+      "timestamp": "2011-02-03T04:53:51Z",
+      "wikitext_bytes": 364,
+      "wikitext_sha256": "f04aea949818e9cde9ec46bd8ea08cbeadd4fd8370df4a451285590eae67643b"
+    },
+    {
+      "author": "BenSibelman",
+      "comment": "Added photos",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 2186,
+      "original_parent_revision_id": 2179,
+      "previous_public_revision_id": 2179,
+      "revision_id": 2185,
+      "same_as_previous_public": false,
+      "timestamp": "2011-02-03T05:05:22Z",
+      "wikitext_bytes": 560,
+      "wikitext_sha256": "9bbec0a790865fc5e6826a36bdab2b0e510991840f550957f58268dbd6db907b"
+    },
+    {
+      "author": "BenSibelman",
+      "comment": "moved [[Music Festival]] to [[Outside My Door with Lori Henriques]]: Music Festival is an overly generic name. We've already been bitten by this once with Longest Night Festival.",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 42382,
+      "original_parent_revision_id": 2185,
+      "previous_public_revision_id": 2185,
+      "revision_id": 2186,
+      "same_as_previous_public": true,
+      "timestamp": "2011-02-03T05:07:36Z",
+      "wikitext_bytes": 560,
+      "wikitext_sha256": "9bbec0a790865fc5e6826a36bdab2b0e510991840f550957f58268dbd6db907b"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 2186,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 616,
+      "markdown_sha256": "0b961f9e3706144a175b57215be78ad3fddd499cbbfc1130211480372cb5314b",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": 2186,
+      "previous_public_revision_id": 2186,
+      "revision_id": 42382,
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z"
+    }
+  ],
+  "site_revision_count": 1
+}

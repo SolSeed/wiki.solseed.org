@@ -1,0 +1,43 @@
+{
+  "canonical_path": "/February_19,_2015:_Chatting",
+  "current_revision_id": 43006,
+  "database_title": "February_19,_2015:_Chatting",
+  "display_title": "February 19, 2015: Chatting",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 1,
+  "page_id": 27407,
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "BenSibelman",
+      "comment": "Created page from the Google doc",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 43006,
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": 40343,
+      "same_as_previous_public": false,
+      "timestamp": "2015-02-23T01:36:45Z",
+      "wikitext_bytes": 969,
+      "wikitext_sha256": "ff25a49d41df73bebc64ffdc87900a4db33686a59415a692f5437680725f1449"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 40343,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 964,
+      "markdown_sha256": "3520960daed4dee927cade86c9149ea8ae3b290e8ef9b4a436a7cef54ca1d36c",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": 40343,
+      "previous_public_revision_id": 40343,
+      "revision_id": 43006,
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z"
+    }
+  ],
+  "site_revision_count": 1
+}

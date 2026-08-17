@@ -1,0 +1,48 @@
+{
+  "canonical_path": "/Altering_reality_with_digital_timelapse",
+  "current_revision_id": "42395",
+  "database_title": "Altering_reality_with_digital_timelapse",
+  "display_title": "Altering reality with digital timelapse",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 1,
+  "page_id": "840",
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "BenSibelman",
+      "comment": "Created page",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": "42395",
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": "2206",
+      "same_as_previous_public": false,
+      "timestamp": "2011-02-07T20:38:04Z",
+      "wikitext_bytes": 690,
+      "wikitext_sha256": "8fff246c18c63ec985356827536206f1264533900a2c5658f8174edcc29ce984",
+      "source_format": "wikitext",
+      "source_extension": "wiki"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 2206,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 731,
+      "markdown_sha256": "a164deb89277c6a82590ece7e255a2521e655b15cc548d15227ce64222ee7b17",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": "2206",
+      "previous_public_revision_id": "2206",
+      "revision_id": "42395",
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z",
+      "wikitext_bytes": 731,
+      "wikitext_sha256": "a164deb89277c6a82590ece7e255a2521e655b15cc548d15227ce64222ee7b17",
+      "source_extension": "md"
+    }
+  ],
+  "site_revision_count": 1
+}

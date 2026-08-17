@@ -1,0 +1,41 @@
+[SolSeed](/SolSeed) < [Events and Calls](/Events_and_Calls)
+
+Debrief on the Triads
+- Mark ... Regula, Kim and I started a week or so later ... I think we've done six ... it's like a good group therapy group that is just starting to cook ... and we're enjoying the triad ... three people able to share and get to know each other ... formed, normed ... and now we want to continue ... and we are going to continue ... because we think it is bearing fruit 
+- (actually Mark typed it :-) no brandon did
+- Kim agrees that it rocks and should continue
+Hi! 
+- Shelley agrees that her triad (including Boni and Meg) also took awhile to warm up ... hasn't stuck with the original triad format; assymetric amount of time often spent on one person due to depth of the issues discussed ... also probably met less often than the other two triads
+Markie speaks! HI Markie!
+- Ben: Ted, Brandon, and Ben. We never described it as group therapy; it started out talking about problems and as it progressed we began to have more discussions about positive things happening in our lives. This was quite valuable. This experience is a nice way to provide regular opportunity to talk with friends in an organized fashion, which helps me as "I am bad at" informal or improvised social activities.
+- Kim: Call can feel like an obligation to 1 or more person . . . and on those days you can actually hear the difference and the first five minutes are a warmup .. but even then it's useful and just knowing ...
+- Kim/Mark/Regula triad shall continue, but we're open to doing other things as well depending on what the group decides on going forward with. 
+- Meg says the triad provides space for both introspection and getting to know Shelley and Boni, which indirectly helps her grow ... not meeting as often is okay ... Boni provides a lot of life experience
+- Possible lapse due to birth of Sequoia? (5-6 weeks from now) ... easy enough to meet at my house
+- Idea of switching triads around: Meg and Shelley say "1 is all I can do" ... Kim wouldn't mind doing an extra one but it sounds like there wouldn't be enough interest
+- Check in again on October 20
+
+Group calls?
+- Shelley: I'll do it if Brandon does ... especially a book club
+- Brandon: would be nice to have a call for working on the SolSeed 1-Page Plan ... could also have a reading group call
+- Kim and Mark agree about book club  What book??? 
+  - Ben: Chapter from Red Mars by Kim Stanley Robinson (about a psychologist on Mars)
+  - Brandon: Parable of the Sower by Octavia Butler (about the founder of the fictional Earthseed religion) Book One?? 
+  - Shelley wants Mark to suggest a Buddhist-type personal-growth book Book Two??
+  - Kim's suggestion: Animal, Vegetable, Miracle (non-fiction about a year eating only self-grown or local food) 
+  - Sunday, 7 pm PST, October 4, 2009
+  - Read 1/2 of the book, through the end of 2026. Parable of the Sower by Octavia Butler.
+
+Group Get Together?
+- Let's set a date for the next get-together
+- Is it a SolSeed event or a Kindred 2010 event? Or both?
+- Kim can schedule in Dec/Jan if we tell her dates now.
+- Kindred 2010 should be in the summer so we can camp out.
+- Winter 2010 event?
+  - Shelley can't help as much w/ the work of putting together the event this time, due to Sequoia
+  - Kim could come a couple days early to help out
+  - Monday Dec. 21 (Solstice) at the Sanders'? plus the previous weekend?
+  - Could fit maybe up to 6 guests at the house
+  - Other Portland people's houses might be possibilities for out-of-towners to stay at, ex. Stacey and Ben's parents
+  - Not officially related to SolSeed?
+    - Open Space AND a Solstice party event on Monday night!!

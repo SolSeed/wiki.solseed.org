@@ -1,0 +1,56 @@
+{
+  "canonical_path": "/Singing_and_Community",
+  "current_revision_id": 42799,
+  "database_title": "Singing_and_Community",
+  "display_title": "Singing and Community",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 2,
+  "page_id": 27197,
+  "published_revision_count": 2,
+  "revisions": [
+    {
+      "author": "EricSaumur",
+      "comment": "Created page with \"Singing and Community   by Eric Saumur  I've always been an atheist and, so when I was a teen and had to attend Chapel every morning at my Anglican high school, I refused to join...\"",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 39589,
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": 39588,
+      "same_as_previous_public": false,
+      "timestamp": "2014-01-24T16:40:41Z",
+      "wikitext_bytes": 1614,
+      "wikitext_sha256": "547fd3c7be41a15f85989573c9c6b6b02269d35f185563a3b8321f9e45366c0c"
+    },
+    {
+      "author": "EricSaumur",
+      "comment": "",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 42799,
+      "original_parent_revision_id": 39588,
+      "previous_public_revision_id": 39588,
+      "revision_id": 39589,
+      "same_as_previous_public": false,
+      "timestamp": "2014-01-24T16:42:48Z",
+      "wikitext_bytes": 1594,
+      "wikitext_sha256": "c1a93b2af7fb3100f02822d2ade9193bcfc4c541bbb597823f524df84a61a1d4"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 39589,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 1607,
+      "markdown_sha256": "dfe96d05e7714010ab1fbf4be840c33f78f15b17f042dd9c63661e594496aad5",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": 39589,
+      "previous_public_revision_id": 39589,
+      "revision_id": 42799,
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z"
+    }
+  ],
+  "site_revision_count": 1
+}

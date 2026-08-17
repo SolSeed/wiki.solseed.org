@@ -1,0 +1,56 @@
+{
+  "canonical_path": "/Watching_\"The_Hand_Game\"",
+  "current_revision_id": 43334,
+  "database_title": "Watching_\"The_Hand_Game\"",
+  "display_title": "Watching \"The Hand Game\"",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 2,
+  "page_id": 27736,
+  "published_revision_count": 2,
+  "revisions": [
+    {
+      "author": "BenSibelman",
+      "comment": "Created page",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 41560,
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": 41461,
+      "same_as_previous_public": false,
+      "timestamp": "2018-08-06T22:43:12Z",
+      "wikitext_bytes": 1531,
+      "wikitext_sha256": "6df292e0b6ace16ec602df970d0be1fbd83270c2c7e6e8c575c001157baf9f0c"
+    },
+    {
+      "author": "BenSibelman",
+      "comment": "/* Discussion */",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 43334,
+      "original_parent_revision_id": 41461,
+      "previous_public_revision_id": 41461,
+      "revision_id": 41560,
+      "same_as_previous_public": false,
+      "timestamp": "2018-11-05T05:23:10Z",
+      "wikitext_bytes": 1535,
+      "wikitext_sha256": "20ddb04481bacbc2f8da1d225905c3270a02c74b98147e8801b06cc08ba97a8e"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 41560,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 1597,
+      "markdown_sha256": "0564597fb3bf78c5b0931e149e90d36b437883de930048539c8366764f9f9f28",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": 41560,
+      "previous_public_revision_id": 41560,
+      "revision_id": 43334,
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z"
+    }
+  ],
+  "site_revision_count": 1
+}

@@ -1,0 +1,1 @@
+Image taken from http://upload.wikimedia.org/wikipedia/commons/4/45/Jacob_Wrestling_with_the_Angel.jpg and edited to focus on the combattants and with the words added: "Sometimes, you must fight for what you know is wrong, in another frame of reference."

@@ -1,0 +1,48 @@
+{
+  "canonical_path": "/In_Her_Majesty's_Forest_Service",
+  "current_revision_id": "42871",
+  "database_title": "In_Her_Majesty's_Forest_Service",
+  "display_title": "In Her Majesty's Forest Service",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 1,
+  "page_id": "27270",
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "EricSaumur",
+      "comment": "Story used as reading",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": "42871",
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": "39919",
+      "same_as_previous_public": false,
+      "timestamp": "2014-08-07T00:05:51Z",
+      "wikitext_bytes": 5913,
+      "wikitext_sha256": "53c3aa8c396e1e77ccd86d70620fb7c32d8e02e6f365ce0da7155c6648e1e7c3",
+      "source_format": "wikitext",
+      "source_extension": "wiki"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 39919,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 5914,
+      "markdown_sha256": "0c69b80490424f443189e132f14d334587ae4a7f2ca1e6c8811c3e8958c59b20",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": "39919",
+      "previous_public_revision_id": "39919",
+      "revision_id": "42871",
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z",
+      "wikitext_bytes": 5914,
+      "wikitext_sha256": "0c69b80490424f443189e132f14d334587ae4a7f2ca1e6c8811c3e8958c59b20",
+      "source_extension": "md"
+    }
+  ],
+  "site_revision_count": 1
+}

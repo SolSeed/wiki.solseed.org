@@ -1,0 +1,82 @@
+### Sunday Agenda
+- Check in
+- Opening Blessing
+- Review WWWs
+- Daily Practice/Metrics
+- Weekly event logistics
+- Review Agenda
+- Work Bee
+  - Eric: Robot
+  - Ben: Shiny Green Festival photo search
+- Evaluation
+- Closing Blessing
+
+### Check In
+- Eric … I feel like I used to feel when one contact would fall out, because I only have one monitor
+- Ben … I am both pleased and frustrated with the progress that I have made … pleased in that I crossed off a bunch of stuff from my todo list but frustrated that it was just as impossible to clean the toilet and bathtub as I feared.
+
+### Opening Blessing
+We come together to plan the work, in the hopes that our plans are not "the best-laid plans of mice and men," that something we plan actually happens. May our work be driven by our passion for our highest aspirations, and guided by empathy and wisdom. --Blessed Be
+
+### WW(W)s from last time
+Organize the WWWs by person and then due date.  We’ll start checking in on topical community protocol and meditation for each mini-period between workbees. Holacracy founder Brian Robertson says these are bad: http://holacracy.org/blog/the-insanity-of-the-what-by-when 
+
+- <s>Eric … meditate and keep track of which days ... ongoing
+- Eric … follow your topical community protocol for this period ... ongoing</s>
+- Eric … finish reading *Flight in a Cage* ... by sometime soon
+- Eric … work on Blog post … by not too long from now
+- Eric … look at putting extracts of my blog post on “Change the Course” ... soon after I do some other stuff
+- <s>Ben … meditate and keep track of which days ... ongoing</s>
+- Ben … follow your topical community protocol for this period ... ongoing
+- Ben … finish and send the newsletter … by next call
+- Ben ... do more web searches for Gaia reproduction ... by next call 
+- Brandon … meditate and keep track of which days ... ongoing
+- Brandon … follow your topical community protocol for this period ... ongoing
+
+### WWWs
+- Ben … meditate and keep track of which days ... ongoing
+- Ben … follow your topical community protocol for this period ... ongoing
+- Ben … finish and send the newsletter … by Tuesday
+- Ben ... do more web searches for Gaia reproduction ... by next call 
+- Eric … meditate and keep track of which days ... ongoing
+- Eric … follow your topical community protocol for this period ... ongoing
+- Brandon … meditate and keep track of which days ... ongoing
+- Brandon … follow your topical community protocol for this period ... ongoing
+
+### Daily Practice (from Sunday to Sunday)
+- https://tdp.me/person/brandon-cs-sanders
+- https://tdp.me/person/EricOfSolseed
+- https://tdp.me/person/SciFiBen 
+
+2015-07-12 to 2015-07-18: 31+?+0=31 checkmarks
+
+### Metrics (from Sunday to Sunday)
+0 … articles published (blog, etc)
+0 … net signups to the newsletter for the week (111 total)
+1 … conversants from signup (people we are talking or emailing with) 
+0 … articles added to Gaia.wiki
+? … sessions on Gaia.wiki other than us
+? … sessions on Spacewiki.com
+? … sessions on SolSeed.org (including Portland meetup)
+21 … Dedicants of Gaia’s People (Ottawa)
+22 … Dedicants of Gaia's People (Portland)
+27 … Spacefarers of SolSeed-Ottawa
+36 … Spacefarers of SolSeed (Portland)
+1+?+0=1 … topical community touches
+31 … daily practice checkmarks for the week
+
+### Weekly Events Logistics
+Midweek
+- July 23 Work-Bee: 6:30 PM PST, 21:30 EST
+
+Weekend
+Service rotation: Eric, Shelley, Brandon, Ben
+- July 25 Service: 9 AM PDT  (Eric from NEAT Cafe)
+- July 26 Business Call: 5:30 PM PDT, 20:30 EDT
+
+### Evaluation
+- Eric … I found it frustrating that I didn't seem to get started on anything, but I'm really looking forward to getting power back to my computer next week, which should really help
+- Ben … I am really looking forward to seeing what you eventually do with the change your course questionnaire and to adding more blog posts, both yours and mine ... and I think I have all the photos I need for the newsletter, I just can’t upload them.
+
+### Closing Blessing (after the meditation)
+We close this circle having done the work, rester our minds, and renewed our commitment to do even more work. And so, we turn now back toward the world and the work that lies before us, and we carry into that work the love and connection and passion for life that we have shared. May your day be filled with life and love. -- Blessed Be

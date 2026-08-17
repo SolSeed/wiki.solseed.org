@@ -1,0 +1,18 @@
+[SolSeed](/SolSeed) < [SolSeedCommunity](/SolSeedCommunity)
+
+"No matter how ridiculous [Earthseed](/Earthseed) must have seemed, with its starry Destiny, it offered immediate rewards.  Here was real community.  Here was at least a semblance of security.  Here was the comfort of ritual and routine and the emotional satisfaction of belonging to a 'team' that stood together to meet challenge when challenge came."
+- *Parable of the Talents* by [Octavia Butler](/Octavia_Butler)
+
+This quote makes the point that, while many people do seek purpose in their lives, it may be easier to accept such a novel goal as [TheDestiny](/TheDestiny) by linking it to the concrete value of joining a community where everyone helps each other.
+
+The fictional community of Acorn in *Parable of the Talents* is described as a physical place where people live and work together.  By contrast, the [SolSeedCommunity](/SolSeedCommunity) presently exists only as a virtual construct, built out of words exchanged between people who may live hundreds or thousands of miles apart.  Nevertheless, it may be possible for [SolSeed](/SolSeed) to reproduce some aspects of a more ordinary community.
+
+### Gatherings
+"Our Gatherings, aside from weddings, funerals, welcomings, or holiday celebrations, are discussions.  They're problem-solving sessions, they're times of planning, healing, learning, creating, times of focusing, and reshaping ourselves.  They can cover anything at all to do with [Earthseed](/Earthseed) or Acorn, past, present, or future, and anyone can speak."
+- *Parable of the Talents* by [Octavia Butler](/Octavia_Butler)
+
+The first physical, in-person gathering of [SolSeed](/SolSeed) members is [Seed 2009](/Seed_2009), which has been months in the making.  It's not easy to regularly bring together people from so far apart.  One solution to this would be to create local subgroups that schedule their own gatherings.
+
+We are also using teleconferencing technology to allow weekly [discussions](/SolSeedCalls) to take place among widely scattered members without requiring them to travel.
+
+See also [Seed Village](/Seed_Village).

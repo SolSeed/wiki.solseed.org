@@ -1,0 +1,43 @@
+{
+  "canonical_path": "/Transcend",
+  "current_revision_id": 43242,
+  "database_title": "Transcend",
+  "display_title": "Transcend",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 1,
+  "page_id": 27644,
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "EricSaumur",
+      "comment": "Created page with \"Transcend is a word used in the [[SolSeed Movement]] in a sense that is not supernatural but which simply indicates that something is exceeding its own boundaries.  The phrase, '...\"",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 43242,
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": 41044,
+      "same_as_previous_public": false,
+      "timestamp": "2017-05-06T13:35:44Z",
+      "wikitext_bytes": 850,
+      "wikitext_sha256": "00231b56d3c4872891a46149693e422b9e70449353b506fe681cc77ab80efc49"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 41044,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 901,
+      "markdown_sha256": "58e945ae10cfcc058948e459681ef0e0399e66c11215b22470223a8233757b6c",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": 41044,
+      "previous_public_revision_id": 41044,
+      "revision_id": 43242,
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z"
+    }
+  ],
+  "site_revision_count": 1
+}

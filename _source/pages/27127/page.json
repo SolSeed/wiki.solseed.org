@@ -1,0 +1,43 @@
+{
+  "canonical_path": "/December_28th_:_Space-Time-Matter-Energy",
+  "current_revision_id": 42732,
+  "database_title": "December_28th_:_Space-Time-Matter-Energy",
+  "display_title": "December 28th : Space-Time-Matter-Energy",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 1,
+  "page_id": 27127,
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "EricSaumur",
+      "comment": "moved [[December 28th : Space-Time-Matter-Energy]] to [[December 29th : Space-Time-Matter-Energy]]: split 27th into two days",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 42732,
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": 39364,
+      "same_as_previous_public": false,
+      "timestamp": "2013-07-18T02:23:57Z",
+      "wikitext_bytes": 54,
+      "wikitext_sha256": "5dfd023949a8b70fa6faf9c76c3e522b9ba97438ec2e0ba7299e3f0dd6eae05a"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 39364,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 119,
+      "markdown_sha256": "132e4563b1a57885e5e81dd693293f1c15ccd92615787ec0f6e7e04b587294f6",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": 39364,
+      "previous_public_revision_id": 39364,
+      "revision_id": 42732,
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z"
+    }
+  ],
+  "site_revision_count": 1
+}

@@ -1,0 +1,48 @@
+{
+  "canonical_path": "/16",
+  "current_revision_id": "42009",
+  "database_title": "16",
+  "display_title": "16",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 1,
+  "page_id": "446",
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "Brandon CS Sanders",
+      "comment": "Redirecting to [[Book 16]]",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": "42009",
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": "1212",
+      "same_as_previous_public": false,
+      "timestamp": "2009-11-28T23:57:50Z",
+      "wikitext_bytes": 21,
+      "wikitext_sha256": "5e225b1271700249789bea5955d39516fc2584e1245e54c9f4b897e326bc24ed",
+      "source_format": "wikitext",
+      "source_extension": "wiki"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 1212,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 53,
+      "markdown_sha256": "106d9c88c97986ac345f2294338b43c6a432bb4093cb7ab2be0b43854e64e4a5",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": "1212",
+      "previous_public_revision_id": "1212",
+      "revision_id": "42009",
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z",
+      "wikitext_bytes": 53,
+      "wikitext_sha256": "106d9c88c97986ac345f2294338b43c6a432bb4093cb7ab2be0b43854e64e4a5",
+      "source_extension": "md"
+    }
+  ],
+  "site_revision_count": 1
+}

@@ -1,0 +1,63 @@
+{
+  "canonical_path": "/Who_should_convene_Kindred_festivals?",
+  "current_revision_id": "42857",
+  "database_title": "Who_should_convene_Kindred_festivals?",
+  "display_title": "Who should convene Kindred festivals?",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 2,
+  "page_id": "27256",
+  "published_revision_count": 2,
+  "revisions": [
+    {
+      "author": "BenSibelman",
+      "comment": "Created page from my notes",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": "40132",
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": "39844",
+      "same_as_previous_public": false,
+      "timestamp": "2014-06-28T17:19:58Z",
+      "wikitext_bytes": 2144,
+      "wikitext_sha256": "d506524512a7c9a1eeec39a14b5cbd017cd4bff068c1f91e53af8539f4e102e5",
+      "source_format": "wikitext",
+      "source_extension": "wiki"
+    },
+    {
+      "author": "EricSaumur",
+      "comment": "/* Discussion */ ink",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": "42857",
+      "original_parent_revision_id": "39844",
+      "previous_public_revision_id": "39844",
+      "revision_id": "40132",
+      "same_as_previous_public": false,
+      "timestamp": "2014-10-21T02:27:39Z",
+      "wikitext_bytes": 2148,
+      "wikitext_sha256": "20666391162fa73ee398357cddf5a36a30a4b073a63033116758a1ca84e4185e",
+      "source_format": "wikitext",
+      "source_extension": "wiki"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 40132,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 2258,
+      "markdown_sha256": "ca75f5df4bfe98a06e5da05b618e0e55ebf601cac826df8b787402a76d5f1e96",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": "40132",
+      "previous_public_revision_id": "40132",
+      "revision_id": "42857",
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z",
+      "wikitext_bytes": 2258,
+      "wikitext_sha256": "ca75f5df4bfe98a06e5da05b618e0e55ebf601cac826df8b787402a76d5f1e96",
+      "source_extension": "md"
+    }
+  ],
+  "site_revision_count": 1
+}

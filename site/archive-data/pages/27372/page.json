@@ -1,0 +1,48 @@
+{
+  "canonical_path": "/Precious",
+  "current_revision_id": "42971",
+  "database_title": "Precious",
+  "display_title": "Precious",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 1,
+  "page_id": "27372",
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "Brandon CS Sanders",
+      "comment": "Created page with \"[http://www.handspeak.com/word/index.php?dict=pra&signID=2507 ASL Sign]\"",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": "42971",
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": "40264",
+      "same_as_previous_public": false,
+      "timestamp": "2015-01-09T02:38:38Z",
+      "wikitext_bytes": 71,
+      "wikitext_sha256": "33da97335e348bb171c045429a6c2630aafa0cdef8a721b463121e055b8c428b",
+      "source_format": "wikitext",
+      "source_extension": "wiki"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 40264,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 73,
+      "markdown_sha256": "d62ff4d276f3de8901f1161a6c2c19c45197d2cf43b2f1decd6866082e6d2824",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": "40264",
+      "previous_public_revision_id": "40264",
+      "revision_id": "42971",
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z",
+      "wikitext_bytes": 73,
+      "wikitext_sha256": "d62ff4d276f3de8901f1161a6c2c19c45197d2cf43b2f1decd6866082e6d2824",
+      "source_extension": "md"
+    }
+  ],
+  "site_revision_count": 1
+}

@@ -1,0 +1,56 @@
+{
+  "canonical_path": "/Virtues",
+  "current_revision_id": 42860,
+  "database_title": "Virtues",
+  "display_title": "Virtues",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 2,
+  "page_id": 27259,
+  "published_revision_count": 2,
+  "revisions": [
+    {
+      "author": "BenSibelman",
+      "comment": "Created page from my notes",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 40740,
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": 39850,
+      "same_as_previous_public": false,
+      "timestamp": "2014-06-28T17:30:18Z",
+      "wikitext_bytes": 1254,
+      "wikitext_sha256": "7c7cd58da7598fe5cd07b264d0f9c3ce641457356874dcdde4dd058091f48717"
+    },
+    {
+      "author": "BenSibelman",
+      "comment": "/* Discussion at Sol 2014 */",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 42860,
+      "original_parent_revision_id": 39850,
+      "previous_public_revision_id": 39850,
+      "revision_id": 40740,
+      "same_as_previous_public": false,
+      "timestamp": "2016-03-07T02:49:41Z",
+      "wikitext_bytes": 1381,
+      "wikitext_sha256": "23c86dcf5bf8fb8d47d22ca4426a807c711733ab12ff5e5d675f328af3d5ddea"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 40740,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 1537,
+      "markdown_sha256": "fde9281956027a05e2112c43118c2ce6bfa48a263982d704d0d92036c8b190b1",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": 40740,
+      "previous_public_revision_id": 40740,
+      "revision_id": 42860,
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z"
+    }
+  ],
+  "site_revision_count": 1
+}

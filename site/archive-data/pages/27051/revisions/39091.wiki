@@ -1,0 +1,1 @@
+Two of several robotic climbers built by teams of kids compete to reach the top of the "space elevator" ribbons at the Museum of Flight, as part of the Family Science Fest for the 2012 Space Elevator Conference.

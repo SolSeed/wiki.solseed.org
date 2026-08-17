@@ -1,0 +1,56 @@
+{
+  "canonical_path": "/January_5,_2014:_Online_Work_Bee",
+  "current_revision_id": 42788,
+  "database_title": "January_5,_2014:_Online_Work_Bee",
+  "display_title": "January 5, 2014: Online Work Bee",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 2,
+  "page_id": 27186,
+  "published_revision_count": 2,
+  "revisions": [
+    {
+      "author": "BenSibelman",
+      "comment": "Created page from the EtherPad, with adjustments",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 39577,
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": 39561,
+      "same_as_previous_public": false,
+      "timestamp": "2014-01-05T22:58:22Z",
+      "wikitext_bytes": 10859,
+      "wikitext_sha256": "c626da1882417e601f03d8e32dce4a7b6927958c6825487ff8af435de93f6747"
+    },
+    {
+      "author": "Brandon CS Sanders",
+      "comment": "moved [[January 5, 2013: Online Work Bee]] to [[January 5, 2014: Online Work Bee]]",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 42788,
+      "original_parent_revision_id": 39561,
+      "previous_public_revision_id": 39561,
+      "revision_id": 39577,
+      "same_as_previous_public": true,
+      "timestamp": "2014-01-23T00:18:04Z",
+      "wikitext_bytes": 10859,
+      "wikitext_sha256": "c626da1882417e601f03d8e32dce4a7b6927958c6825487ff8af435de93f6747"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 39577,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 10832,
+      "markdown_sha256": "ddcf0dff765524e38011dbb8cf79661466c2a55b575ceb6647d7a918e93cec50",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": 39577,
+      "previous_public_revision_id": 39577,
+      "revision_id": 42788,
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z"
+    }
+  ],
+  "site_revision_count": 1
+}

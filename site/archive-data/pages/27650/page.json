@@ -1,0 +1,48 @@
+{
+  "canonical_path": "/Celebrations",
+  "current_revision_id": "43248",
+  "database_title": "Celebrations",
+  "display_title": "Celebrations",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 1,
+  "page_id": "27650",
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "Brandon CS Sanders",
+      "comment": "Created page with \"See Also: * [[Liturgical Season]] * [https://sites.google.com/site/biosphericcommu/home/events eric's originals]\"",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": "43248",
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": "41076",
+      "same_as_previous_public": false,
+      "timestamp": "2017-07-09T15:48:35Z",
+      "wikitext_bytes": 112,
+      "wikitext_sha256": "427ac82b56b3f95759199b3e85996c919de1844152e1c3b300a319d4e441caa1",
+      "source_format": "wikitext",
+      "source_extension": "wiki"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 41076,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 132,
+      "markdown_sha256": "d9ee3fb0e752c133d4f6a2f3be3ef0c6d7d473163f42214b8cea883c66e922dc",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": "41076",
+      "previous_public_revision_id": "41076",
+      "revision_id": "43248",
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z",
+      "wikitext_bytes": 132,
+      "wikitext_sha256": "d9ee3fb0e752c133d4f6a2f3be3ef0c6d7d473163f42214b8cea883c66e922dc",
+      "source_extension": "md"
+    }
+  ],
+  "site_revision_count": 1
+}

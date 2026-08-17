@@ -1,0 +1,107 @@
+### Agenda
+- Check in
+- Opening Blessing
+- Review WWWs
+- Weekly event logistics
+- Review Agenda
+- Strategy/Tactics Talk
+  - Fruits for the brain's three layers
+  - Polarizing statement
+  - Mythologizing our ancestors
+- Daily practice
+
+Note: Ben left early, hence the lack of an Evaluation or Closing Blessing
+
+### Check-in
+- Brandon … I'm all right, but disturbed by what I said earlier about my kids not identifying as SolSeed.
+- Ben … I have had a generally good weekend, and am beating myself up for spending too much time enjoying myself and not enough time doing activist work.
+
+### Opening Blessing
+May we find the appropriate level of commitment to our highest aspirations. May we live that level of commitment.
+--Blessed Be
+
+### WW(W)s from last time
+#### Ongoing
+- Brandon … Bedtime is 9:30 every night with alarm at 5:30, enroll Shelley in it
+- Brandon … spend 15 minutes every day on Machine Learning
+- Brandon … make a daily 1 minute video check-in for Ben and Eric
+- Brandon … Meditate regularly with Eric
+- <s>Ben … meditate regularly with Eric
+- Ben … spend at least 15 minutes a day on *[Flight in a Cage](/Flight_in_a_Cage)*</s>
+- Ben … Send Brandon/Eric a video message each day about what I did
+- Eric … Watch videos and make mine at 8:45pm before Ben calls
+- Eric … Send Brandon/Ben a video message each day about what I did
+- Eric … Work on Buckleberry at least 15 minutes a day
+- Eric … Meditate regularly with Ben
+- Eric … Meditate regularly with Brandon
+
+#### Sometime soon
+- Brandon … research our legal status as an informal religious organization
+
+#### Time-specific
+- <s>Ben … check with Aunt Ruth about space in the house for the eclipse … by tomorrow</s>
+- Brandon … check with Eric, Rico, and Shelley about whether 7:30 works for the service next week … by today
+- Brandon … add Nag! Or something similar to phone … by today
+- <s>Brandon … check with Ted about his daily practice (can I do it with him somehow?) … by today</s>
+
+### Weekly Events Logistics
+Service rotation: Eric, Ben, Brandon, Rico, Shelley
+- February 18 Service: 7:45 AM PST / 10:45 EST … Eric
+- February 19 Business Call: 8:00 PM PST / 11:00 EST
+
+### Strategy/Tactics
+#### Fruits
+We have to provide fruits to all three layers of the brain, ensuring the inner layers are cared for before we can work in the outer layers
+- Lizard brain: safety (housing, finances)
+  - Intentional communities?
+- Mammalian brain: connection and relationships (touch, sharing)
+- Neocortex
+  - The Obligation / [The Destiny](/The_Destiny)
+
+#### Polarizing statement
+Brandon: Humanity has a thing to do, and that thing is to carry life to other worlds. If we fail to do it, almost nothing else matters.
+- Ben: That's a very fundamentalist-sounding statement ... also one that sounds like you want to totalize our belief system to our whole species, which we have said we don't want to do with the SolSeed Movement
+- Brandon: but is it true?
+- Ben: it’s an overstatement, because there are other things our abilities can bring to the world that would also increase its diversity and value.
+  - We can create new kinds of forest ecosystems on earth, as Eric proposes.
+  - We can also research ways of being a sapient species that lives in harmony with other species. This might ultimately benefit future sapient species (or entities), including ones that we might create ourselves.
+  - And it might be those future sapiences that spread life beyond our planet.
+- Ben: Also, I could not look somebody in the eye who is a member of a group that is suffering from political oppression, and say that “not only does my SolSeed work matter more than helping you, but the potential for future life I could help create makes the Holocaust look like a rounding error.”  That is just an incredibly ugly statement to me.  So I don’t want our religion to get too self-important.
+  - Brandon: There are unintended consequences of our actions, and we are not wise. So even if we aspire to do something grand that has this huge impact on the future, there's a tremendous chance that we will fizzle or worse, create something ugly in the opposite direction.
+- Ben: One more objection: we are a science-based movement/religion. That means that being too certain of ourselves is a crime against our own underpinnings. In science, nothing is certain.
+  - Brandon: If someone asks us, "what are you doing that's so important?" we don't have a good answer.
+  - Ben: How about an answer that says this could well be important, but not that this is the only important thing for humans to do?
+  - Brandon: Newton and Leibniz both came up with calculus at the same time, because they were the ones with the right context to see that. I worry that we are the right ones to see this truth, that [The Destiny](/The_Destiny) is humanity's thing to do, and that if we can't hold that obligation ourselves, then it's hopeless for humanity, because almost nobody else sees it. As if Newton and Leibniz were incapable of developing calculus.
+  - Ben: For crying out loud, Brandon!  I really don’t want to be a fundamentalist, and we don't have to.  We can say that this is really important without making it a totalizing system.  Did Newton and Liebniz say that doing calculus is the only important thing that humans can do?
+  - Brandon: I agree with a lot of this, but I want us to face the question of "what if my polarizing statement is true?"
+  - Ben: I don’t accept that it could be.  It’s saying that we were put on this Earth for one reason.  We weren’t.  And don’t get me wrong, I really want Life to spread beyond Earth.  But I want that to be a thing that people work on because they want to, not because some sort of totalizing system forces it onto them.
+  - Brandon: I think the polarizing statement has the potential to be true, and we should look at it. And we could figure out how it's not true, and have clarity on that. It would be nice to have a good articulation of why it's true or false.
+
+#### Mythologizing our Ancestors
+Brandon: I'm looking at all this as a way to create an enduring replacement for the consumption story.
+- One that doesn't thumb our noses at what we've seen working.
+- One that properly takes our basic nature into account.
+  - Personification and metaphor really resonate in the human psyche.
+  - We could create myths about our ancestors that are blatant manipulations of human cognitive bias.
+    - We can look at them with clear eyes and say "this is a myth, not factual" but use it to powerfully communicate a greater truth that creates a commitment to things that we desire to be deeply committed to.
+    - Ben: What if it turns into manipulating others who don’t understand that it's just a myth? (I'm more nervous about this now because of the master manipulator in the White House.)
+    - Brandon: There may be powerful techniques for socializing and spreading ideas that we deny ourselves for the same reason that some weapons are prohibited in warfare: the use of them is too dehumanizing.
+    - Ben: That said: Myths are probably not among those techniques that need to be banned.
+
+### Daily Practice
+What fruits are we going for with our daily practices?
+- Meditation
+  - Mindfulness … mental well-being
+  - Some freedom from reactiveness at the two inner levels
+  - When done together, connection among members of SolSeed
+- Working on Buckleberry/Auberge Paradis
+- Working on [Flight in a Cage](/Flight_in_a_Cage)
+- Working on Concerning AI/Concerning Speech
+  - Safety for the movement (has financial potential)
+  - Safety for dna based life
+  - Connection between Ted and Brandon
+- Having a regular bedtime
+  - Freedom from reactiveness (self activated) creates space for other practices
+- 1 minute video checkins
+  - Connection to other members
+  - Little rewards for making progress

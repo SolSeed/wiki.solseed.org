@@ -1,0 +1,43 @@
+{
+  "canonical_path": "/File:Wind_turbines.jpg",
+  "current_revision_id": 42323,
+  "database_title": "Wind_turbines.jpg",
+  "display_title": "File:Wind turbines.jpg",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 6,
+  "original_revision_count": 1,
+  "page_id": 767,
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "BenSibelman",
+      "comment": "Free stock photo of wind turbines (with some unfortunate JPEG artifacts), from http://www.sxc.hu/photo/1032727",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 42323,
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": 1971,
+      "same_as_previous_public": false,
+      "timestamp": "2010-11-14T22:25:05Z",
+      "wikitext_bytes": 110,
+      "wikitext_sha256": "e30f4302e460aeeb294c4302c1b86accd0051f7f171b60e4d0725286b535c50c"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 1971,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 111,
+      "markdown_sha256": "69461f9957ff738b3be23cac250b70fb13df0646d99baaa3f21059726223a1a2",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": 1971,
+      "previous_public_revision_id": 1971,
+      "revision_id": 42323,
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z"
+    }
+  ],
+  "site_revision_count": 1
+}

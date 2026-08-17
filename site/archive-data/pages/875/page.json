@@ -1,0 +1,48 @@
+{
+  "canonical_path": "/WikiHarold",
+  "current_revision_id": "42396",
+  "database_title": "WikiHarold",
+  "display_title": "WikiHarold",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 1,
+  "page_id": "875",
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "BenSibelman",
+      "comment": "Created page",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": "42396",
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": "2244",
+      "same_as_previous_public": false,
+      "timestamp": "2011-02-12T20:32:35Z",
+      "wikitext_bytes": 2396,
+      "wikitext_sha256": "56e078bd0f1a82797f46825e103cdeff3344f6f2ef8abe3bb819443d3c48909c",
+      "source_format": "wikitext",
+      "source_extension": "wiki"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 2244,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 2495,
+      "markdown_sha256": "dc988c68ecc95fb13ccc22af705ec8ea1260133d4494d21d54a9ea7356e8b557",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": "2244",
+      "previous_public_revision_id": "2244",
+      "revision_id": "42396",
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z",
+      "wikitext_bytes": 2495,
+      "wikitext_sha256": "dc988c68ecc95fb13ccc22af705ec8ea1260133d4494d21d54a9ea7356e8b557",
+      "source_extension": "md"
+    }
+  ],
+  "site_revision_count": 1
+}

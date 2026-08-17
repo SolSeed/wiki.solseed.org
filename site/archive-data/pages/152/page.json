@@ -1,0 +1,63 @@
+{
+  "canonical_path": "/File:Ben_SolSeed_Emblem_Simplified.jpg",
+  "current_revision_id": "41718",
+  "database_title": "Ben_SolSeed_Emblem_Simplified.jpg",
+  "display_title": "File:Ben SolSeed Emblem Simplified.jpg",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 6,
+  "original_revision_count": 2,
+  "page_id": "152",
+  "published_revision_count": 2,
+  "revisions": [
+    {
+      "author": "BenSibelman",
+      "comment": "My emblem proposal with the text, clouds, and city lights removed, as per [[Brandon]]'s request.  This one has a solid \"spaceship\" with petals to make it look more flowerlike.",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": "1555",
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": "380",
+      "same_as_previous_public": false,
+      "timestamp": "2009-01-15T06:02:24Z",
+      "wikitext_bytes": 175,
+      "wikitext_sha256": "89c48b36b9cc284bc69216f7ef5e7482c3456811b6f01bc88d01e603de881727",
+      "source_format": "wikitext",
+      "source_extension": "wiki"
+    },
+    {
+      "author": "BenSibelman",
+      "comment": "uploaded a new version of \"[[Image:Ben SolSeed Emblem Simplified.jpg]]\": A new version of the simple \"flower-bud\" [[SolSeed Emblem]], with fewer sun rays, no veins on the leaves, and the word [[SolSeed]] included.",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": "41718",
+      "original_parent_revision_id": "380",
+      "previous_public_revision_id": "380",
+      "revision_id": "1555",
+      "same_as_previous_public": true,
+      "timestamp": "2010-05-13T04:16:46Z",
+      "wikitext_bytes": 175,
+      "wikitext_sha256": "89c48b36b9cc284bc69216f7ef5e7482c3456811b6f01bc88d01e603de881727",
+      "source_format": "wikitext",
+      "source_extension": "wiki"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 1555,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 184,
+      "markdown_sha256": "658ba8822931939e988d8cecc245e8d41045826d237b9df840e57c41e17a90c3",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": "1555",
+      "previous_public_revision_id": "1555",
+      "revision_id": "41718",
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z",
+      "wikitext_bytes": 184,
+      "wikitext_sha256": "658ba8822931939e988d8cecc245e8d41045826d237b9df840e57c41e17a90c3",
+      "source_extension": "md"
+    }
+  ],
+  "site_revision_count": 1
+}

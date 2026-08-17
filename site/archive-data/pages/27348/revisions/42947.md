@@ -1,0 +1,12 @@
+To consider:
+- [Does Changing Behavioral Intentions Engender Behavior Change? A Meta-Analysis of the Experimental Evidence](http://communicationcache.com/uploads/1/0/8/8/10887248/does_changing_behavioral_intentions_engender_behavior_change-_a_meta-analysis_of_the_experimental_evidence.pdf) ... the mere measurement effect where simply asking people about their intent changes behavior
+- [When Questions Change Behavior](https://faculty.fuqua.duke.edu/~gavan/bio/GJF_articles/question_behavior_psychsci_inpress.pdf)
+- [Hawthorne Effect](https://explorable.com/hawthorne-effect) ... subjects change behavior because they are being studied (could also be placebo or demand effect)
+- Hine, D.W. and Gifford, R. (1991). Fear Appeals, Individual Differences, and Environmental Concern. *The Journal of Environmental Education*. **23**, 36-41.
+- Clayton, S. and Brook, A. (2005). Can psychology help save the world? A model for conservation psychology.  *Analysis of Social Issues and Public Policy*, **5**, 1, 87-102.
+- Bator, R.J. and Cialdini, R.B. (2000).  The application of persuasion theory to the development of effective proenvironmental public service announcements. *Journal of Social Issues*, **56**, 527-41.
+- Gidley, J. (2005).  Giviing hope back to our young people: Creating a new spiritual mythology for western culture. *Journal of Futures Studies*, **9**, 3, 17-30.
+- Creating a Climate for Change:  Communicating Climate Change and Facilitating ... edited by Susanne C. Moser, Lisa Dilling
+- Lane, M. (2000).  Environmentally responsible behavior: Does it really matter what we believe? *Planning Forum*, **6**, 33-9.
+- Irvine, A. B., Ary, D. V., Grove, D. A., & Gilfillan-Morton, L. (2004). The effectiveness of an interactive multimedia program to influence eating habits. Health Education Research, 19, 290–305.
+- Kanfer, F. H. E., & Goldstein, A. P. E. (1986). Helping people change: A textbook of methods. New York: Pergamon Press.

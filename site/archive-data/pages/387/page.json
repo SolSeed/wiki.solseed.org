@@ -1,0 +1,48 @@
+{
+  "canonical_path": "/The_federation_of_Damanhur",
+  "current_revision_id": "41951",
+  "database_title": "The_federation_of_Damanhur",
+  "display_title": "The federation of Damanhur",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 1,
+  "page_id": "387",
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "BenSibelman",
+      "comment": "[[The federation of Damanhur]] moved to [[The Federation of Damanhur]]: Capital F makes more sense, and it makes the link from the Intentional Societies page work.",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": "41951",
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": "1119",
+      "same_as_previous_public": false,
+      "timestamp": "2009-11-15T20:44:18Z",
+      "wikitext_bytes": 40,
+      "wikitext_sha256": "44be01fdb824754d10053f3ed189d812b02f800cb319c88cee4eb4ce0465ba79",
+      "source_format": "wikitext",
+      "source_extension": "wiki"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 1119,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 91,
+      "markdown_sha256": "aeb8fbd7ed98d2c0b61a4d999823e9cfd6d9c46005e82e5cf7d1ac576983f6e0",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": "1119",
+      "previous_public_revision_id": "1119",
+      "revision_id": "41951",
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z",
+      "wikitext_bytes": 91,
+      "wikitext_sha256": "aeb8fbd7ed98d2c0b61a4d999823e9cfd6d9c46005e82e5cf7d1ac576983f6e0",
+      "source_extension": "md"
+    }
+  ],
+  "site_revision_count": 1
+}

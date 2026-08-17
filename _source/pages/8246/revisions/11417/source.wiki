@@ -1,0 +1,1 @@
+The side of Hank's house, with a small greenhouse and the framework of a geodesic dome just visible behind the pile of wood.  The cat hiding under the right corner of the woodpile is named Rambo.

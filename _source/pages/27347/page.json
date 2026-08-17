@@ -1,0 +1,56 @@
+{
+  "canonical_path": "/December_4,_2014:_Online_Work_Bee",
+  "current_revision_id": 42946,
+  "database_title": "December_4,_2014:_Online_Work_Bee",
+  "display_title": "December 4, 2014: Online Work Bee",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 2,
+  "page_id": 27347,
+  "published_revision_count": 2,
+  "revisions": [
+    {
+      "author": "BenSibelman",
+      "comment": "Created page from the Google doc, with adjustments",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 40188,
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": 40187,
+      "same_as_previous_public": false,
+      "timestamp": "2014-12-05T04:42:26Z",
+      "wikitext_bytes": 8424,
+      "wikitext_sha256": "79a089d084c46ffb76a8e6a3b6f10cd566fae5ad609debdad694d42c48132753"
+    },
+    {
+      "author": "BenSibelman",
+      "comment": "/* Green Hat (Generating Ideas) */",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 42946,
+      "original_parent_revision_id": 40187,
+      "previous_public_revision_id": 40187,
+      "revision_id": 40188,
+      "same_as_previous_public": false,
+      "timestamp": "2014-12-05T04:43:05Z",
+      "wikitext_bytes": 8423,
+      "wikitext_sha256": "5d5cf53fb6e8762793b648c35499dd9c506dd3ff911d7c10bf9fcd5aed0d5ab9"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 40188,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 8554,
+      "markdown_sha256": "73a6114291611668193a425dd1c59fa3e9d8cde21df71e86dd6e4122651d3755",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": 40188,
+      "previous_public_revision_id": 40188,
+      "revision_id": 42946,
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z"
+    }
+  ],
+  "site_revision_count": 1
+}

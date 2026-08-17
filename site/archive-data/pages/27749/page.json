@@ -1,0 +1,48 @@
+{
+  "canonical_path": "/Just_One",
+  "current_revision_id": "43347",
+  "database_title": "Just_One",
+  "display_title": "Just One",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 1,
+  "page_id": "27749",
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "EricSaumur",
+      "comment": "Created page with \"see [[You]] (Just One is [[Sophia]]'s name for You.)\"",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": "43347",
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": "41513",
+      "same_as_previous_public": false,
+      "timestamp": "2018-09-04T00:56:46Z",
+      "wikitext_bytes": 52,
+      "wikitext_sha256": "cb2f5ff45bc350e17e783a903e53e155766f05e8be59f604066149fdf1ee67c6",
+      "source_format": "wikitext",
+      "source_extension": "wiki"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 41513,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 64,
+      "markdown_sha256": "e87ab2abcb2a7fc20d39e768fb7a815f72df679e223e64d6095a649c80751d3e",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": "41513",
+      "previous_public_revision_id": "41513",
+      "revision_id": "43347",
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z",
+      "wikitext_bytes": 64,
+      "wikitext_sha256": "e87ab2abcb2a7fc20d39e768fb7a815f72df679e223e64d6095a649c80751d3e",
+      "source_extension": "md"
+    }
+  ],
+  "site_revision_count": 1
+}

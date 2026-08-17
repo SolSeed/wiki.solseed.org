@@ -1,0 +1,48 @@
+{
+  "canonical_path": "/Bootstrapping_Enterprises_Scheming",
+  "current_revision_id": "42038",
+  "database_title": "Bootstrapping_Enterprises_Scheming",
+  "display_title": "Bootstrapping Enterprises Scheming",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 1,
+  "page_id": "476",
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "BenSibelman",
+      "comment": "Created page from the EtherPad",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": "42038",
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": "1292",
+      "same_as_previous_public": false,
+      "timestamp": "2009-12-21T19:14:05Z",
+      "wikitext_bytes": 3228,
+      "wikitext_sha256": "d9ce810585e24150b9985802e5c09dcf759e17d24954d312231880669d9ba7af",
+      "source_format": "wikitext",
+      "source_extension": "wiki"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 1292,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 3395,
+      "markdown_sha256": "0e84ead05b4a2f28dda06bd2e33670bc1af831e716e4e9d534361090bfbc8118",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": "1292",
+      "previous_public_revision_id": "1292",
+      "revision_id": "42038",
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z",
+      "wikitext_bytes": 3395,
+      "wikitext_sha256": "0e84ead05b4a2f28dda06bd2e33670bc1af831e716e4e9d534361090bfbc8118",
+      "source_extension": "md"
+    }
+  ],
+  "site_revision_count": 1
+}

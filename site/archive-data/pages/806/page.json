@@ -1,0 +1,48 @@
+{
+  "canonical_path": "/File:Yule_tree.JPG",
+  "current_revision_id": "42361",
+  "database_title": "Yule_tree.JPG",
+  "display_title": "File:Yule tree.JPG",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 6,
+  "original_revision_count": 1,
+  "page_id": "806",
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "BenSibelman",
+      "comment": "Photo of the Yule tree at [[Solstice2010]].",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": "42361",
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": "2119",
+      "same_as_previous_public": false,
+      "timestamp": "2011-01-01T05:32:59Z",
+      "wikitext_bytes": 43,
+      "wikitext_sha256": "2dd9e06aba72661f20d2e591bff523b789a9d2a2afb54297fc07cd8a711764a5",
+      "source_format": "wikitext",
+      "source_extension": "wiki"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 2119,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 57,
+      "markdown_sha256": "96bcecea0752a0b114609c56b4004722535cc34f35e3745b864d091ac7d1842f",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": "2119",
+      "previous_public_revision_id": "2119",
+      "revision_id": "42361",
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z",
+      "wikitext_bytes": 57,
+      "wikitext_sha256": "96bcecea0752a0b114609c56b4004722535cc34f35e3745b864d091ac7d1842f",
+      "source_extension": "md"
+    }
+  ],
+  "site_revision_count": 1
+}

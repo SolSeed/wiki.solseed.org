@@ -1,0 +1,1 @@
+[We Believe](http://solseed.org/we_believe) is a book of commentary and illustrations unpacking each verse of the [SolSeedCreed](/SolSeedCreed).  There is a hard cover version of the book and an online version found at: http://solseed.org/we_believe

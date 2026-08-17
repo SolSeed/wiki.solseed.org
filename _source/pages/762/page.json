@@ -1,0 +1,56 @@
+{
+  "canonical_path": "/File:Gaia_with_plant.jpg",
+  "current_revision_id": 42318,
+  "database_title": "Gaia_with_plant.jpg",
+  "display_title": "File:Gaia with plant.jpg",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 6,
+  "original_revision_count": 2,
+  "page_id": 762,
+  "published_revision_count": 2,
+  "revisions": [
+    {
+      "author": "BenSibelman",
+      "comment": "Free stock image of the whole [[Earth]] with a plant growing out of it, from http://www.sxc.hu/photo/1158743",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 1975,
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": 1966,
+      "same_as_previous_public": false,
+      "timestamp": "2010-11-14T22:19:54Z",
+      "wikitext_bytes": 108,
+      "wikitext_sha256": "558876917a9ad8643c8a41245af12b7f8dbbb83155b7e30c4944f239ce16bb38"
+    },
+    {
+      "author": "BenSibelman",
+      "comment": "Added note about scaling",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 42318,
+      "original_parent_revision_id": 1966,
+      "previous_public_revision_id": 1966,
+      "revision_id": 1975,
+      "same_as_previous_public": false,
+      "timestamp": "2010-11-14T22:28:41Z",
+      "wikitext_bytes": 155,
+      "wikitext_sha256": "cd7e65b0b8bcae46c1df382e8f0a3b749705cbb87b7267da137f5a0c21e06110"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 1975,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 162,
+      "markdown_sha256": "524bed5dd2049d894a5f81e03d2ace670d6f7136c1d11ecfcfc86e89d6fbb569",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": 1975,
+      "previous_public_revision_id": 1975,
+      "revision_id": 42318,
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z"
+    }
+  ],
+  "site_revision_count": 1
+}

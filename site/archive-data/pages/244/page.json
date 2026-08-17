@@ -1,0 +1,63 @@
+{
+  "canonical_path": "/WorldCon",
+  "current_revision_id": "41810",
+  "database_title": "WorldCon",
+  "display_title": "WorldCon",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 2,
+  "page_id": "244",
+  "published_revision_count": 2,
+  "revisions": [
+    {
+      "author": "Brandon CS Sanders",
+      "comment": "New page: [http://www.anticipationsf.ca/English/Home Anticipation] will be held in Montréal, Quebec, at the Palais des congrès de Montréal from August 6th - 10th, 2009.  The price for a table in ...",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": "652",
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": "651",
+      "same_as_previous_public": false,
+      "timestamp": "2009-03-13T02:53:53Z",
+      "wikitext_bytes": 288,
+      "wikitext_sha256": "dee5a8347a869ac33dc6f5b0a4697f88e17f5c87fbf742e0c8d2bda9d005b490",
+      "source_format": "wikitext",
+      "source_extension": "wiki"
+    },
+    {
+      "author": "Brandon CS Sanders",
+      "comment": "",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": "41810",
+      "original_parent_revision_id": "651",
+      "previous_public_revision_id": "651",
+      "revision_id": "652",
+      "same_as_previous_public": false,
+      "timestamp": "2009-03-13T02:55:04Z",
+      "wikitext_bytes": 364,
+      "wikitext_sha256": "bc66726266ee31090cd1d7dfd19170ce49c89c8ab31e3c34f91254cf9dbce5fd",
+      "source_format": "wikitext",
+      "source_extension": "wiki"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 652,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 366,
+      "markdown_sha256": "a462969ef8a3693a6fdf0943cbb2ad28076c6d4f8f954b790b88f502c0d57c86",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": "652",
+      "previous_public_revision_id": "652",
+      "revision_id": "41810",
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z",
+      "wikitext_bytes": 366,
+      "wikitext_sha256": "a462969ef8a3693a6fdf0943cbb2ad28076c6d4f8f954b790b88f502c0d57c86",
+      "source_extension": "md"
+    }
+  ],
+  "site_revision_count": 1
+}

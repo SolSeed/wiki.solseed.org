@@ -1,0 +1,43 @@
+{
+  "canonical_path": "/Gus",
+  "current_revision_id": 42390,
+  "database_title": "Gus",
+  "display_title": "Gus",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 1,
+  "page_id": 835,
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "BenSibelman",
+      "comment": "Added redirect to user page",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 42390,
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": 2191,
+      "same_as_previous_public": false,
+      "timestamp": "2011-02-06T00:42:24Z",
+      "wikitext_bytes": 27,
+      "wikitext_sha256": "2c14c3ec8840268b57238848524734690849c2b9e9401b4a6eb38eef8b04d5f9"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 2191,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 65,
+      "markdown_sha256": "dce8fd2bf16a35434928932bb947c77eff6ee77c87c04a0c9b0e02fbf2fddc3e",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": 2191,
+      "previous_public_revision_id": 2191,
+      "revision_id": 42390,
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z"
+    }
+  ],
+  "site_revision_count": 1
+}

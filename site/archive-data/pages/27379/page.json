@@ -1,0 +1,48 @@
+{
+  "canonical_path": "/Boundaries",
+  "current_revision_id": "42978",
+  "database_title": "Boundaries",
+  "display_title": "Boundaries",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 1,
+  "page_id": "27379",
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "Brandon CS Sanders",
+      "comment": "Created page with \"[http://www.handspeak.com/word/index.php?dict=bo&signID=5946 ASL Sign]\"",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": "42978",
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": "40273",
+      "same_as_previous_public": false,
+      "timestamp": "2015-01-09T02:50:22Z",
+      "wikitext_bytes": 70,
+      "wikitext_sha256": "a1c973f47bcae8c0795b5f2eadaa0936a00940e68f8dde9d2aeb9889a709052f",
+      "source_format": "wikitext",
+      "source_extension": "wiki"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 40273,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 72,
+      "markdown_sha256": "d3d5b064b461524d5412bcd91f87de1ed063239a19b802bd32d5b9ab2b2c825b",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": "40273",
+      "previous_public_revision_id": "40273",
+      "revision_id": "42978",
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z",
+      "wikitext_bytes": 72,
+      "wikitext_sha256": "d3d5b064b461524d5412bcd91f87de1ed063239a19b802bd32d5b9ab2b2c825b",
+      "source_extension": "md"
+    }
+  ],
+  "site_revision_count": 1
+}

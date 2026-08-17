@@ -1,0 +1,63 @@
+{
+  "canonical_path": "/May_2010_Newsletter",
+  "current_revision_id": "42217",
+  "database_title": "May_2010_Newsletter",
+  "display_title": "May 2010 Newsletter",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 2,
+  "page_id": "661",
+  "published_revision_count": 2,
+  "revisions": [
+    {
+      "author": "BenSibelman",
+      "comment": "Created page",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": "1676",
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": "1675",
+      "same_as_previous_public": false,
+      "timestamp": "2010-06-11T04:36:35Z",
+      "wikitext_bytes": 3557,
+      "wikitext_sha256": "6a4716fbec471e3dcd717052c069adf4bb00f9621278ff04cacd7a6495b23d56",
+      "source_format": "wikitext",
+      "source_extension": "wiki"
+    },
+    {
+      "author": "BenSibelman",
+      "comment": "Removed email address",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": "42217",
+      "original_parent_revision_id": "1675",
+      "previous_public_revision_id": "1675",
+      "revision_id": "1676",
+      "same_as_previous_public": false,
+      "timestamp": "2010-06-11T04:37:59Z",
+      "wikitext_bytes": 3532,
+      "wikitext_sha256": "4bd4c720a8cd505e4c5be17d509e182cbb57ee36e87a31ee755b98a2e23d5212",
+      "source_format": "wikitext",
+      "source_extension": "wiki"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 1676,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 3626,
+      "markdown_sha256": "293cc1a802cd9d95a440a4508b419e9f36a9bad977dac36b9d88c8225ab4676d",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": "1676",
+      "previous_public_revision_id": "1676",
+      "revision_id": "42217",
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z",
+      "wikitext_bytes": 3626,
+      "wikitext_sha256": "293cc1a802cd9d95a440a4508b419e9f36a9bad977dac36b9d88c8225ab4676d",
+      "source_extension": "md"
+    }
+  ],
+  "site_revision_count": 1
+}

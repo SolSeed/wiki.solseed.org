@@ -1,0 +1,56 @@
+{
+  "canonical_path": "/Hike_and_Trail_Cleaning",
+  "current_revision_id": 41833,
+  "database_title": "Hike_and_Trail_Cleaning",
+  "display_title": "Hike and Trail Cleaning",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 2,
+  "page_id": 267,
+  "published_revision_count": 2,
+  "revisions": [
+    {
+      "author": "Brandon CS Sanders",
+      "comment": "New page: Back to [[Calendar of Events]]  Meet in Washington Park (Portland) and clean the trail as we walk.  It's a hike, social time, and a cleanup project with a picnic afterward.",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 722,
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": 720,
+      "same_as_previous_public": false,
+      "timestamp": "2009-04-09T05:20:28Z",
+      "wikitext_bytes": 172,
+      "wikitext_sha256": "64d77c816301905e1436cc4e15e5fd2e30740d88d4a81a5d677867581f569a8a"
+    },
+    {
+      "author": "Brandon CS Sanders",
+      "comment": "",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 41833,
+      "original_parent_revision_id": 720,
+      "previous_public_revision_id": 720,
+      "revision_id": 722,
+      "same_as_previous_public": false,
+      "timestamp": "2009-04-09T05:22:45Z",
+      "wikitext_bytes": 229,
+      "wikitext_sha256": "4162f222c65e844177bc54519cbdc24b8c3f62108f3e5bbe9086ec19c8c65f34"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 722,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 254,
+      "markdown_sha256": "dac3fbc91fbba791070bd5c776e6b64a839198c503df7b9144817993bf0774fc",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": 722,
+      "previous_public_revision_id": 722,
+      "revision_id": 41833,
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z"
+    }
+  ],
+  "site_revision_count": 1
+}

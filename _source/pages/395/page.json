@@ -1,0 +1,43 @@
+{
+  "canonical_path": "/1",
+  "current_revision_id": 41959,
+  "database_title": "1",
+  "display_title": "1",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 1,
+  "page_id": 395,
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "Brandon CS Sanders",
+      "comment": "[[1]] moved to [[Book 1]]: Better title",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 41959,
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": 1152,
+      "same_as_previous_public": false,
+      "timestamp": "2009-11-28T23:19:42Z",
+      "wikitext_bytes": 20,
+      "wikitext_sha256": "ce2209aab89127d102754e8cb6a64093a36400db6337b34a15a374968f974366"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 1152,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 51,
+      "markdown_sha256": "ea8a8001288deaf73bb1b5f2fe154801be20cbe48ed21039ec18b96f9420356a",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": 1152,
+      "previous_public_revision_id": 1152,
+      "revision_id": 41959,
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z"
+    }
+  ],
+  "site_revision_count": 1
+}

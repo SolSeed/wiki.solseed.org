@@ -1,0 +1,43 @@
+{
+  "canonical_path": "/October_1,_2015:_Online_Work_Bee",
+  "current_revision_id": 43096,
+  "database_title": "October_1,_2015:_Online_Work_Bee",
+  "display_title": "October 1, 2015: Online Work Bee",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 1,
+  "page_id": 27498,
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "Brandon CS Sanders",
+      "comment": "Created page with \"== µ-quarter (1.1 months) focus ==  Kickstarter to raise $4k for first batch of garden statues (we can be significant sponsors)  == Sunday Agenda == * Check in * Opening Blessin...\"",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 43096,
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": 40653,
+      "same_as_previous_public": false,
+      "timestamp": "2015-10-05T03:13:21Z",
+      "wikitext_bytes": 5440,
+      "wikitext_sha256": "79052ee0a64575f03d8ee61fb322af3e4472d6639aa724d2a10f066db30e4e4c"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 40653,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 5429,
+      "markdown_sha256": "5aa28139859ae160c29dda69f331a103b774b8424b6a2b1790197c0d8c36c02c",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": 40653,
+      "previous_public_revision_id": 40653,
+      "revision_id": 43096,
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z"
+    }
+  ],
+  "site_revision_count": 1
+}

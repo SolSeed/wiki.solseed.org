@@ -1,0 +1,4 @@
+### Help Paint
+A group painting from the SolSeed booth at the annual Portland CityRepair EarthDay Fair. Completed over the course of Earth Day at Portland's Washington High School field. One frame every 30 seconds...
+
+<YouTube v=ZpvGrDRuoTs>

@@ -1,0 +1,43 @@
+{
+  "canonical_path": "/User_talk:Insane_bubble",
+  "current_revision_id": 41841,
+  "database_title": "Insane_bubble",
+  "display_title": "User talk:Insane bubble",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 3,
+  "original_revision_count": 1,
+  "page_id": 276,
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "Shelley Schoepflin Sanders",
+      "comment": "Just saying hi",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 41841,
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": 739,
+      "same_as_previous_public": false,
+      "timestamp": "2009-04-14T03:02:50Z",
+      "wikitext_bytes": 140,
+      "wikitext_sha256": "77ee86631d9c8e746df009b74fbb732bf6b47d01c51c3a21986fcb2c5f1f524b"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 739,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 141,
+      "markdown_sha256": "3910cef044ea946253a949f2450c581a4810fdcc7fcc82596beff515ad41c2cf",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": 739,
+      "previous_public_revision_id": 739,
+      "revision_id": 41841,
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z"
+    }
+  ],
+  "site_revision_count": 1
+}

@@ -1,0 +1,63 @@
+{
+  "canonical_path": "/Metaphorium",
+  "current_revision_id": "43301",
+  "database_title": "Metaphorium",
+  "display_title": "Metaphorium",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 2,
+  "page_id": "27703",
+  "published_revision_count": 2,
+  "revisions": [
+    {
+      "author": "EricSaumur",
+      "comment": "Created page with \"Metaphorium is a literary device used to inform the reader, with humour, that aspects of most [[Gaia prayers|Suspension of Skyfall]] are meant to be taken as metaphor and often t...\"",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": "41255",
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": "41254",
+      "same_as_previous_public": false,
+      "timestamp": "2018-04-08T02:18:25Z",
+      "wikitext_bytes": 449,
+      "wikitext_sha256": "b45ffe3b5958925e0d85e92ca7f13614ee5d22b9268f19e4d0064a4fc8f3d101",
+      "source_format": "wikitext",
+      "source_extension": "wiki"
+    },
+    {
+      "author": "EricSaumur",
+      "comment": "",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": "43301",
+      "original_parent_revision_id": "41254",
+      "previous_public_revision_id": "41254",
+      "revision_id": "41255",
+      "same_as_previous_public": false,
+      "timestamp": "2018-04-08T02:18:54Z",
+      "wikitext_bytes": 449,
+      "wikitext_sha256": "85c8f61359247ad861f0d350913bda41dac92e22571760ce43c61a3da97d2035",
+      "source_format": "wikitext",
+      "source_extension": "wiki"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 41255,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 450,
+      "markdown_sha256": "818d4b98f126271b68128f3dca89706548073e1e2a9ef7f1458d1f002fc33364",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": "41255",
+      "previous_public_revision_id": "41255",
+      "revision_id": "43301",
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z",
+      "wikitext_bytes": 450,
+      "wikitext_sha256": "818d4b98f126271b68128f3dca89706548073e1e2a9ef7f1458d1f002fc33364",
+      "source_extension": "md"
+    }
+  ],
+  "site_revision_count": 1
+}

@@ -1,0 +1,43 @@
+{
+  "canonical_path": "/Template:Clear",
+  "current_revision_id": 41587,
+  "database_title": "Clear",
+  "display_title": "Template:Clear",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 10,
+  "original_revision_count": 1,
+  "page_id": 16,
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "Brandon CS Sanders",
+      "comment": "Moving over from AboutUs",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 41587,
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": 18,
+      "same_as_previous_public": false,
+      "timestamp": "2008-09-13T05:36:04Z",
+      "wikitext_bytes": 130,
+      "wikitext_sha256": "5648d7aede52f40bd168c3642a3293e6d033380677641e7b714a4d9010a86077"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 18,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 211,
+      "markdown_sha256": "e5943bfe3db0af2be1d6cdefb69d769aec66de09fd89b154f85835d33f0d2ee2",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": 18,
+      "previous_public_revision_id": 18,
+      "revision_id": 41587,
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z"
+    }
+  ],
+  "site_revision_count": 1
+}

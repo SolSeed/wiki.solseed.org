@@ -1,0 +1,13 @@
+{
+  "author": "Brandon CS Sanders",
+  "comment": "New page: <nowiki>{{</nowiki>[[Template:{{{1}}}|{{{1}}}]]<nowiki>}}</nowiki>",
+  "excluded_revision_count_since_previous_public": 0,
+  "next_public_revision_id": 41588,
+  "original_parent_revision_id": null,
+  "previous_public_revision_id": null,
+  "revision_id": 19,
+  "same_as_previous_public": false,
+  "timestamp": "2008-09-13T05:36:37Z",
+  "wikitext_bytes": 66,
+  "wikitext_sha256": "30d067a6791a64eecb93b5db1172340908e8a23eee413fc38b5b8108a3ccb7e0"
+}

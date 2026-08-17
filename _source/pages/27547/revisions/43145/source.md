@@ -1,0 +1,51 @@
+### Thursday Agenda
+- Check in
+- Opening Blessing
+- Project Work
+  - Brandon: Earthseed panel
+  - Brandon: Work on a 100-word bio
+  - Brandon: Beginner’s study guide draft
+  - Ben: Outline the Winter Newsletter
+  - Ben: Look at the final proposals John sent in
+  - Ben: Work on a 100-word bio
+- Evaluation
+- Closing Blessing
+
+### Check In
+- Ben … I have had a harrowing couple of days, but the super high priority issue on my plate is now well in hand, so that feels good
+- Brandon … I need to get some things checked off my list … my list is weighing on me
+
+### Opening Blessing
+The more things change, the more things stay the same, as in the more they keep changing. May we find expressions of ourselves as we navigate those changes. May we find causes worthy of denying ourselves for as we shape those changes. --Blessed Be
+
+### Newsletter Outline
+- Intro
+  - Our lives are very full of non-SolSeed stuff right now
+- Organizational stuff
+  - Strategic planning
+  - Getting back on track with finances
+  - Starting on a new SolSeed Creed revision
+- Earthseed
+  - Joining the religion/blog as individuals
+  - Early warning of possible wholesale merger
+- Imbolc/Riverain hike and snowshoeing
+- Spring Equinox event: sushi, board game, stories etc
+- What's next
+  - Octavia Butler event in June
+  - Still going to do the Gaia statue Kickstarter, we swear! (Maybe a simpler Kickstarter first)
+
+https://www.facebook.com/messages/conversation-1107558052597945 
+
+### Draft Bios for Earthseed
+#### Ben
+Ben Sibelman is an environmental activist, space enthusiast, software engineer, and amateur graphic designer. He's also a dedicant of the quasi-religious SolSeed Movement, which was inspired by Octavia Butler's fictional Earthseed religion and shares both its naturalistic perspective and its vision of taking root among the stars. Taking the Earthseed metaphor a step further, Ben imagines starships as seeds of Gaia, James Lovelock's theorized superorganism encompassing all Earthly life. Ben believes naturalistic religions will be crucial to ensuring a bright future on Earth and beyond, for humans and all kindred beings.
+
+#### Brandon
+Brandon Sanders grew up deeply immersed in Seventh-day Adventist subculture, but left the church after becoming an atheist in college.  In 2005, a peak spiritual experience drove him to found the SolSeed Movement -- a fusion of the peak experience itself and the tenets of Octavia Butler’s Earthseed religion.  Brandon holds a doctorate in Artificial Intelligence from the University of Rochester and lives in Portland, Oregon with his wife and their 6- and 3-year old boys.  The Sanders family uses daily, weekly, and seasonal SolSeed practices to shape their lives.
+
+### Evaluation
+- Brandon … bios are hard
+- Ben … I like writing about SolSeed a lot more than I like writing about myself.  It feels more right to define myself in terms of something I’m part of, rather than going on about biographical details no one is interested in.
+
+### Closing Blessing
+Change is eternal.  And all Lives are precious.  Even ours.  We should be unashamed to share the fullness of who we are, especially with people who share some of our highest aspirations.  May we find many kindred spirits at the OEB event in June.  -- Blessed Be

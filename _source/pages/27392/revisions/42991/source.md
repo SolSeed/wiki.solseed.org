@@ -1,0 +1,51 @@
+This story was written by Starhawk. We found it in John Halstead's description of his [Family Winter Solstice Ritual](http://www.patheos.com/blogs/allergicpagan/2011/12/29/winter-solstice-ritual/), and [Shelley](/Shelley) performed it at the [Longest Night Masquerade](/Longest_Night_Masquerade), with [Ren](/Ren) in the role of the sun.
+
+### Story
+Circle round, and I’ll tell you a story about when the sun was born again …
+
+It was the middle of winter, and the sun had grown very old.
+
+All year long the sun had worked very hard, rising and setting day after day. All year long the sun had fed everybody on earth, shining and shining, giving energy to the trees and the flowers and the grasses so they could grow and feed the animals and birds and insects and people.
+
+All year the sun’s gravity held tight to the spinning ball of the earth and the twirling ball of the moon and the eight other whirling planets as they traveled around and around and around, until the poor sun was dizzy watching it all.
+
+Now the poor tired sun could barely make it up in the morning, and after a very short time, needed to sleep again. So the days grew shorter, and the nights grew longer, until the day was so short it was hardly worth getting up for.
+Mother Night felt sorry for the sun.
+
+“Come to my arms and rest, child.  After all, I am your mother. You were born out of my darkness, billions of years ago, and you will return to me when all things end. Let me cradle you now, as I shelter every galaxy and star in the universe.”
+
+So Mother Night wrapped her great arms around the sun, and the night was very long indeed.
+
+“Why does the dark go on so long?” asked children all over the earth. “Won’t the sun ever come back again?”
+
+“The sun is very tired,” the old ones said. “But maybe, if you children say thank you for all the things the sun does for us, the light may return in the morning.”
+
+The children sang songs to the sun. They thought about all the things the sun gave them.
+
+*(Shelley asks the kids what they think the children might have thanked the sun for, then resumes the story.)*
+
+“Thank you for growing the lettuces and the corn and the rice and the wheat,” they said. “Thank you for growing the trees of the forests and the seaweed in the oceans and the krill that feeds the whales. Thank you for stirring the air and making winds that bring the rain.”
+
+Every time a child said thank you, the sun began to feel a little warmer, a little brighter. Wrapped safely in the arms of Night, the sun grew younger and younger.
+
+At last the children had to go to bed. “We will stay up and wait for the sun to rise again” the old ones said.
+
+“Can’t we stay up, too?” the children asked.
+
+“You can try, but you will get too sleepy,” the old ones said. “But you can each light a candle, because all fire is a spark of the sun’s fire. Put your candle in a very safe place, and let it keep vigil for you as you sleep and dream of sunrise.”
+
+So the children lit their candles and put them in very safe places, and each flame was a little spark of the sun’s fire.
+
+*(The children hold up artificial candles.)*
+
+And the sun peeped out from between the arms of Night, and saw all the little fires, and began to feel warmer and brighter and younger still.
+
+Early in the morning, the old ones woke the children. Together they climbed a high hill and faced to the east, the direction of sunrise. They sang songs to the sun and ran around trying to keep warm. They waited and waited to see what dawn would bring.
+
+The sky began to turn from black to indigo to blue. Slowly the sky grew light. A golden glow crept over the horizon. Night opened her great arms, and in a burst of brightness, the sun appeared, new and strong and shining.
+
+For in the long night the sun had rested well and grown young from the songs and the thanks of the children, young as a brand-new baby, born out of Night once more.
+
+Everybody cheered, and the children jumped up and down.
+
+“The sun has returned! The sun is reborn!” the people cried. And they danced and sang to celebrate the birth of a new day, and then went home to breakfast.

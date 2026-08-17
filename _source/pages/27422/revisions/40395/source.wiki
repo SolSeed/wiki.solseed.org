@@ -1,0 +1,1 @@
+Service Altar for the Conflatorium Liturgical Season.  Millenial Gaia Statue, Fossil Shaker, Candle, Snuffer, Matches, Zills, Bowl of boiling water, Tray of IceCubes with fossils frozen into them, Nori and Honey 'jellyfish' treat.

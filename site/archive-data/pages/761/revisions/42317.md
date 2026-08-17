@@ -1,0 +1,1 @@
+Free stock photo of a boy with dandelion seeds, from http://www.sxc.hu/photo/1194808 (scaled down for upload from 1918x2600 pixels).  Note that the [Stock.xchng usage statement](http://www.sxc.hu/help/7_2) says we may not use an image "To endorse products and services if it depicts a person."

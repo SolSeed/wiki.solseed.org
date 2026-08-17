@@ -1,0 +1,64 @@
+[SolSeed](/SolSeed) < [SolSeedMovement](/SolSeedMovement) < [JoinTheMovement](/JoinTheMovement)
+
+![SolSeedEmblemThumbnail.jpg](/assets/uploads/SolSeedEmblemThumbnail.jpg)
+
+### [Contributing Members](/Contributing_Members)
+- [Brandon Sanders](/Brandon_Sanders)
+- [Shelley Sanders](/Shelley_Sanders)
+- [Ben Sibelman](/Ben_Sibelman)
+- [Eric Saumur](/Eric_Saumur)
+- [Sequoia](/Sequoia) and [Ren](/Ren) Sanders
+
+### Members by Declaration
+Due to problems with spam you'll need to request an account on the wiki.  Email Brandon@THISDOMAIN.org if you'd like an account.
+
+If you find yourself resonating with the values expressed in the [SolSeedMovement](/SolSeedMovement) and would like to join, please read the [SolSeedCreed](/SolSeedCreed) page and then sign your name and the date in the space provided below.  Then head on over to [Getting Involved](/Getting_Involved) and figure out your program :-)
+
+If you are less sure but would like to receive monthly updates on what we're doing, see [FriendsOfSolSeed](/FriendsOfSolSeed).
+
+Your signature implies endorsement of the core values of the [SolSeedMovement](/SolSeedMovement), with the awareness that those values may change and grow as a result of your participation.
+
+After reading the [SolSeedCreed](/SolSeedCreed), I have decided to Join the [SolSeedMovement](/SolSeedMovement)::
+- [Shawn Marincas/Gooseus](/User:Shawn_G_Marincas) December 31, 2017 (UTC) I believe the best way forward is to create a [Foundation](/Foundation) which is motivated similarly to Hari Seldon's, from the [Foundation Series by Isaac Asimov](https://en.wikipedia.org/wiki/Foundation_series).  My principles are based on [my own definition of Life's Purpose](https://goose.us/thoughts/the-purpose-of-life/) which state that the purpose of life is to maximize the area under the complexity curve for a given living system.  The initial goal, as I see it, is to create sustainable complexity, and to then expand the scope of the living system from planetary to solar, and beyond.
+- [Pastor Gabe](/User:Pastor_Gabe) 23:44, 1 December 2012 (UTC) I bring greetings from your cousins of faith at Terasem.
+- [Hank Burroughs](/User:Happyhank) April 12, 2012  My main interest is in designing and building a Closed Environment Life Support System (CELSS).  Seems like a very important part of a spaceship for long voyages.
+- [Eric Saumur](/User:EricSaumur) February 26, 2012 I call myself a Biospheric Communionist.  Biospheric Communionism has as its central tenets that the Biosphere wants to spread out into the Galaxy, that there are other Biospheres out there trying to do the same and that when they meet there will be a wonderful explosion of diversity and beauty.  The common ground between SolSeed and Biospheric Communionism is so large that I will gladly call myself both.
+- [Dale E. Moore](/User:DaleEMoore) November 29, 2011
+- Mark Williams September 27, 2011
+- Ashlee Andrews September 14,2011
+- [Luke Bauer](/User:cirfis) ~ 29 December 2010 — [Humanism](http://en.wikipedia.org/wiki/Secular_humanism) and [Biological Inevitability](http://en.wikipedia.org/wiki/Malthusian_catastrophe) necessitate the [SolSeedMovement](/SolSeedMovement) -- [TheDestiny](/TheDestiny) is Man's duty, an imperative of Gaea.
+- Ryan Fitzpatrick 6.26.10 The world needs leaders who are alive, ones that seek to educate and inspire future generations of change.  To infinity and beyond!
+- [Katie Verevkina](/User:KatieV) April 3, 2010
+- [Ben Kohanski](/User:bkohansk) November 16, 2009
+- Ben Baldassare August 19, 2009
+- Krista Sanders June 19, 2009
+- [Charles Radley](/User:cfrjlr) 03 June 2009 — very similar to the Leeward Space Foundation http://www.leewardspacefoundation.org/
+- [Jesse Olson](/User:insane_bubble) 10 April 2009 — I really believe in SolSeed, I will help it prosper.
+- [Jillian](/User:Jillian) 14 March 2009 — This is the year of "change we can believe in". If not now, when?
+- [Paul Burney](/User:Pwburney) 11 March 2009 — Shape God
+- [Bertie Stevens](/User:Acorn1104) 22 Feb 2009
+- [Mark J Hansen](/Mark_J_Hansen) January 2009
+- [Ted Ernst](/Ted_Ernst) 17 Jan 2009
+- Joy Marie January 16, 2009
+- Jonathan Madrigal - God is Change and I believe we can change. November 22nd, 2008
+- Robert Lind - October 17, 2008
+- AJ Adair - There is Nothing holier than fulfilling [TheDestiny](/TheDestiny) and taking our place among the stars! June 1, 2008
+- [Kalvin](/User:PL2584)-Just finished reading Ms.Butler books and i want to adopt this as my life style.  God is Change. March 13, 2008
+- [Chris Dawson](/User:ChrisDawson) - I hear a great movement arising from a great listening.  March 10th, 2008
+- [Kevin James Daniels](/User:Kevin_James_Daniels) - January 11, 2008
+- [Benjamin Sibelman](/User:BenSibelman) - hoping to help shape the Solseed Movement. July 19, 2006
+- [Brenna Waxter](/Brenna_Waxter) - April 23, 2005
+- Bonnie Sanders - April 23, 2005
+- Bob Sanders - Let the seeds take root! March 27, 2005
+- [Shelley Schoepflin Sanders](/Shelley_Schoepflin_Sanders) - After reading the revised [Destiny](/TheDestiny), I'm willing to start a [TestDriveYear](/TestDriveYear) February 28, 2005
+- [Brandon CS Sanders](/Brandon_CS_Sanders) - February 16, 2005
+
+**Easy Joining Instructions:** Click "Edit" at the top of this page.  Just add your name in the editing pane at the top of the list, with the appropriate date.  Click the "Save page" button located below the editing pane.  That's it, you've just finished your first page edit!
+
+*Note:* **TestDriveYear** *has been suspended as of February 5, 2008.*
+
+----
+COMMENTS: You are warmly invited to ** in the [comments section](/SolSeedComments), or to comment anywhere in the page.
+----
+[SolSeed](/Category:SolSeed)
+[SolSeedMovement](/Category:SolSeedMovement)

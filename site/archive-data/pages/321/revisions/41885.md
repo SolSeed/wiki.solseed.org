@@ -1,0 +1,15 @@
+Howdy!
+
+Just found this site and organization. I must say that from what I have read, you folks seem to be on the same wave length as I am! I am going to try and pop over to the coast during one of those days, (I live in Silverton).
+
+The reason for this comment however, relates to your logo. It doesn't "Scream" SolSeed, (the concept as I understand it from other paces on this site). In fact, it looks almost like the "Hugo" award for Science Fiction writing. And while I am a great fan of SF, and certain elements of this approach implies such, (spreading life through the universe as Gaia's gonads, etc.), this image says nothing about growth, life survival, Gaia, etc. Just space. Or maybe an ICBM?
+
+A logo should encompass the idea in a simple visual metaphor. For example, a more stylized space ship that mimics the structure of a tree or other plant, implying growth and life. Just a thought.
+
+Cheers!
+
+Gus Frederick
+
+2020Oregon.net/blog
+
+Silverton, OR

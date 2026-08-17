@@ -1,0 +1,127 @@
+### Agenda
+- Check In
+- Review WWWs
+- Review [OnePagePlan](/OnePagePlan)
+- SpaceWiki
+- Outreach
+- Equinox Celebration
+- Ecovillage
+
+### Check In
+- Sequoia ... played in kiddie pool ... fun! Nap interrupted twice today
+- Shelley ... really enjoying hosting a couple for the UU bed and breakfast program
+- Ben ... feeling simultaneously good about managing packed schedule in personal life, and really depressed about the prospects of the world in general ... Friday at greenbelt park, helped pull blackberries ... Saturday visited Lion at Jigsaw Renaissance ... this week doctors apt. and drawing class (last week too) ... Bioneers coming up in addition to trip this weekend ... weekend in between is the 10-10-10 work party related to global warming
+- Brandon ... sick, having both inspiration and depression at work ... reached out to Earthseedy things/people, will report on this later
+
+### WWWs from last time
+- <s>Ben ... edit the first two paragraphs from the SolSeed wiki into opening words ... by Wednesday night
+- Ben ... write 333 words for the [SolSeed book](/SolSeed_book) ... by next call
+- Ben ... have a conversation with someone you trust about moving to the SolSeed Eco-Village ... by next call
+- Shelley ... reply to Matthew and Molly about a tour on October 2 ... by tonight
+- Shelley ... invite Matthew and Molly to equinox celebration ... by tonight
+- Shelley ... prepare closing words for next call ... by next call
+- Brandon ... follow up with the folks who are responding about the cottage ... by tomorrow
+- Brandon ... do chores for service from Shelley's list ... by tomorrow
+- Brandon ... call Ted with SS #s ... by tomorrow
+- Brandon ... watch Sequoia during Reader's Theater rehearsal at 8:15pm tomorrow
+- Brandon ... ping Kevin about children's book ... by tomorrow
+- Brandon ... send to Ben and Shelley KMF's example for the children's book that he's given me ... by tomorrow
+- Brandon ... write 200 words for the Book ... by next call 557 words</s>
+- Brandon ... fix the MediaWiki search ... by mid-October
+
+### [OnePagePlan](/OnePagePlan)
+#### 3rd Quarter Goals
+- SpaceWiki:
+  - <s>Yellow ... Created sponsor-specific inspiring materials and approached one potential sponsor with those to ask about them sponsoring an event ... done
+  - Green ... One thorough sponsorship campaign (talking to lots of people at the potential sponsoring organization, etc) ... talked to three people at SpaceX, although they turned us down</s>
+  - Super Green ... Five thorough sponsorship campaigns
+
+- Place:
+  - Yellow ... firm decision and commitment for pocket cottage and/or main house renovation (PCAOMHR) timeline
+  - Green ... inspiring concept plans for the PCAOMHR
+  - Super Green ... plans you could build from, and a builder
+
+- Media:
+  - <s>Yellow ... work on the big book every other week, average 250 words/week (500 per session) .. already there
+  - Green ... average 500 words/week for the big book all quarter ... this is very doable (need 400 words per week for the next 2 weeks)</s>
+  - Super Green ... average 1400 words/week for the big book all quarter
+
+### SpaceWiki
+- What will happen to the website if we don't do something cool soon?
+  - Another event (with or without sponsors)
+  - Get more blogs to post about it
+  - Barnraising (invite a bunch of people to help write an article)
+  - Something else?
+- Could SolSeed be the sponsor of SpaceWiki?
+  - Could diminish the likelihood of other sponsors wanting to put their names on our site
+- Can we get more people working on SpaceWiki?
+  - Paid or volunteer?
+- What are (y)our goals for SpaceWiki?
+  - Ben: Now that we've made a promise to the community, actually keeping that promise and making it something useful
+    - And in the process gaining some respect in the space community that we can draw on in helping get us established in other contributions to the space industry
+  - Shelley: Building community ... getting to know one or two other human beings ... perhaps through conference calls ... in PQI work we do stakeholder interviews to assess the communities needs and wants ... does anyone other than us feel like a stakeholder at this point?
+  - Brandon: Creating something cool that is of actual value to me personally ... learning a lot about space endeavors ... it should continue to grow
+    - Non-goals: making a profitable business out of it
+
+### Outreach
+- Paul, owner of Earthseed.org, said SolSeed ought to be a legal entity before transferring the domain name
+  - If not, he could at least link to us
+- Then there's Earthseed.com, whose owners initially wanted 5 figures, now down to $1250
+  - Probably not worth the bother
+- Brandon took over as moderator of Earthseed.tribe.net
+- Reached out to a college student who has an Earthseed page http://www.freewebs.com/godischange/
+- Added a link to EarthseedOctaviaButlerClub Yahoo group saying other groups are better b/c they're not just spam
+
+### Equinox Celebration
+- Shelley really enjoyed herself, and Brandon and Ben thought it was great too
+- Maybe next time if we're going to have something related to The Destiny it shouldn't just be hanging out there in the vacuum while we move on to something different
+  - Shelley is on a journey with respect to the Destiny
+
+### [SolSeedVillage](/SolSeedVillage)
+- We probably can't make a commitment yet ... too rushed
+- Ben talked with parents and supervisor ... covered a number of things without a lot of conclusions
+  - Given the job market, would there be something unwise about giving up my stable employment at this time ... what's worse, if we had a falling out and kicked Ben out of the eco-village, what then?
+  - On the positive side, I'm young and it's a good time to experiment a little and I have a little savings ... may be able to recover without having to move back in to my parents basement
+- Workbee Agenda (outcomes)
+  - Don't know how long it takes to get contractors and building things
+  - I've heard that it is terrible to remodel and that you should move out for a few weeks
+    - Maybe stay with Ted during that time?
+  - Should we just move to Daybreak?  May not take kindly to SolSeed moving in and trying to take over
+  - How much of this can be our focus?  Would it become all-consuming?
+  - How much of our monetary resources would need to be used up?
+  - Capacity building
+    - A second child would benefit from having this finished already
+    - Now is a good time for Shelley ... would be 9-10 months after second baby before she could put energy into this
+  - On flip side, if we made this an all-consuming focus and let SpaceWiki fall by the side we might never be able to pick it up ... might not incorporate ... might not publish kids book
+  - Shelley: I don't really work on the things you just named but I'm willing to work on the ecovillage
+  - Ben: In a way it builds capacity immediately because Shelley would take more WWWs
+  - Shelley: This is what speaks to me along with the service ... if we had it on the [OnePagePlan](/OnePagePlan) I could be the leader of that ... but I need support
+  - What about Ben's level of commitment/timing? ... if the remodel is finished and Ben still doesn't move down for another year or more, Shelley wouldn't feel very good about it
+    - Could do the remodel for other reasons, and if Ben doesn't move down soon, build the cottage as well?
+  - Do it in stages? One piece at a time?
+
+### Book
+Ben added 333 words this week, and Brandon added 498 words
+
+#### Current stats
+Introduction: 1346 words, plus 20-word bracketed comment
+Chapter 1: 942 words added during 3rd quarter 2010 (852 other words), plus 4-word to-do note
+Chapter 2: 691 words added during 3rd quarter 2010 (485 other words)
+Chapter 3: 1921 words
+Chapter 3.5: 557 words
+Chapter 4: 779 words
+ 
+Total for 3rd quarter 2010: 6533 words in the first 12 weeks, for an average of 544.42 words/week
+ 
+Grand total: 7874 words
+
+### WWWs
+- Ben ... check whether Space Manufacturing has slots left ... by next call
+- Brandon and Shelley ... talk about whether Space Manufacturing is an okay plan ... 
+- Brandon ... (conditional on the above decision) ... reach out to 4 or 5 potential SpaceWiki sponsors ... by tomorrow
+- Brandon ... initiate conversation with Paul about what to put on Earthseed.org ...
+
+### Closing Words for September 27
+The sun, with all those planets revolving around it and dependent on it, can still ripen a bunch of grapes as if it had nothing else in the universe to do.
+                
+— Galileo Galilei

@@ -1,0 +1,1 @@
+The Windward logo; a stylized W.

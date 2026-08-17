@@ -1,0 +1,56 @@
+{
+  "canonical_path": "/The_Library_Guard",
+  "current_revision_id": 43327,
+  "database_title": "The_Library_Guard",
+  "display_title": "The Library Guard",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 2,
+  "page_id": 27729,
+  "published_revision_count": 2,
+  "revisions": [
+    {
+      "author": "BenSibelman",
+      "comment": "Created page",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 41437,
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": 41436,
+      "same_as_previous_public": false,
+      "timestamp": "2018-07-04T21:02:28Z",
+      "wikitext_bytes": 19801,
+      "wikitext_sha256": "e8ed04f3f90a1c421de7f00f2ff37dbf36f7bf0b337f9ac87453aeaf5b976485"
+    },
+    {
+      "author": "BenSibelman",
+      "comment": "Added italics",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 43327,
+      "original_parent_revision_id": 41436,
+      "previous_public_revision_id": 41436,
+      "revision_id": 41437,
+      "same_as_previous_public": false,
+      "timestamp": "2018-07-04T21:05:50Z",
+      "wikitext_bytes": 19829,
+      "wikitext_sha256": "3a449565ecf4e8bcd8eaf8ea803630ba0ee17fb5208ffa2ec3e5b8c0fc933576"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 41437,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 19862,
+      "markdown_sha256": "7b25c8d5ff2391db71055f69820b1a93fa692af21da0ed3ed315c27988018878",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": 41437,
+      "previous_public_revision_id": 41437,
+      "revision_id": 43327,
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z"
+    }
+  ],
+  "site_revision_count": 1
+}

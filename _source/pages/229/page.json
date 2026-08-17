@@ -1,0 +1,43 @@
+{
+  "canonical_path": "/Brenna",
+  "current_revision_id": 41795,
+  "database_title": "Brenna",
+  "display_title": "Brenna",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 1,
+  "page_id": 229,
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "Brandon CS Sanders",
+      "comment": "New page: [[Image:BrennaBirthdaySeed2009.jpg|600px]]",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 41795,
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": 624,
+      "same_as_previous_public": false,
+      "timestamp": "2009-03-11T14:41:27Z",
+      "wikitext_bytes": 42,
+      "wikitext_sha256": "da2a377964fd546a99585d6ece37baf14de0120529ac4e805059ea8efc6fcc19"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 624,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 53,
+      "markdown_sha256": "d6e56a9b612ed423a67e9dd8a2388978d647c4c07915b18e1bb8ccf8e39f2890",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": 624,
+      "previous_public_revision_id": 624,
+      "revision_id": 41795,
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z"
+    }
+  ],
+  "site_revision_count": 1
+}

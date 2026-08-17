@@ -1,0 +1,43 @@
+{
+  "canonical_path": "/The_SolSeed_Intentional_Society/ByLaws",
+  "current_revision_id": 41874,
+  "database_title": "The_SolSeed_Intentional_Society/ByLaws",
+  "display_title": "The SolSeed Intentional Society/ByLaws",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 1,
+  "page_id": 309,
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "Brandon CS Sanders",
+      "comment": "[[The SolSeed Intentional Society/ByLaws]] moved to [[ByLaws]]",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 41874,
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": 823,
+      "same_as_previous_public": false,
+      "timestamp": "2009-05-16T19:21:00Z",
+      "wikitext_bytes": 20,
+      "wikitext_sha256": "4008d4e4e15f8c62e5452aa5c900f0853bfc47f570840a55630b15781d9e50a6"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 823,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 51,
+      "markdown_sha256": "28a31c1aadcf7822f7360ed7e867b5b05a0f1d2771b22211fe8ae1218fc0be87",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": 823,
+      "previous_public_revision_id": 823,
+      "revision_id": 41874,
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z"
+    }
+  ],
+  "site_revision_count": 1
+}

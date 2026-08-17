@@ -1,0 +1,48 @@
+{
+  "canonical_path": "/Template:TOCright",
+  "current_revision_id": "41625",
+  "database_title": "TOCright",
+  "display_title": "Template:TOCright",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 10,
+  "original_revision_count": 1,
+  "page_id": "55",
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "Brandon CS Sanders",
+      "comment": "New page: {| cellspacing=\"0\" cellpadding=\"0\" style=\"clear: {{{clear|right}}}; margin-bottom: .5em; float: right; padding: .5em 0 .8em 1.4em; background: none; width: {{{width|{{{1|auto}}}}}};\" | __T...",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": "41625",
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": "66",
+      "same_as_previous_public": false,
+      "timestamp": "2008-09-15T03:24:34Z",
+      "wikitext_bytes": 333,
+      "wikitext_sha256": "bdd77ce0169dd8f882c28198ccb9a46d910f0de23abb7d2e79cb39cb6480c2cb",
+      "source_format": "wikitext",
+      "source_extension": "wiki"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 66,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 199,
+      "markdown_sha256": "a7745ffaa8b4d41ae8cab532feededeb790d668c3c4c548db245ffee23c04ddf",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": "66",
+      "previous_public_revision_id": "66",
+      "revision_id": "41625",
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z",
+      "wikitext_bytes": 199,
+      "wikitext_sha256": "a7745ffaa8b4d41ae8cab532feededeb790d668c3c4c548db245ffee23c04ddf",
+      "source_extension": "md"
+    }
+  ],
+  "site_revision_count": 1
+}

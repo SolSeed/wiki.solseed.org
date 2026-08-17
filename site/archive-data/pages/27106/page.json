@@ -1,0 +1,63 @@
+{
+  "canonical_path": "/File:ShadowOfACube.png",
+  "current_revision_id": "42711",
+  "database_title": "ShadowOfACube.png",
+  "display_title": "File:ShadowOfACube.png",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 6,
+  "original_revision_count": 2,
+  "page_id": "27106",
+  "published_revision_count": 2,
+  "revisions": [
+    {
+      "author": "EricSaumur",
+      "comment": "Created page with \"A Line drawing depicting a Shadow of a Cube on a two dimensional universe or a piece of paper.\"",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": "39290",
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": "39289",
+      "same_as_previous_public": false,
+      "timestamp": "2013-04-15T03:13:48Z",
+      "wikitext_bytes": 94,
+      "wikitext_sha256": "e60022f67805c4c60894d4fc02051ba4c607247fcc09ea628757c558966bdb4d",
+      "source_format": "wikitext",
+      "source_extension": "wiki"
+    },
+    {
+      "author": "EricSaumur",
+      "comment": "uploaded &quot;[[File:ShadowOfACube.png]]&quot;",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": "42711",
+      "original_parent_revision_id": "39289",
+      "previous_public_revision_id": "39289",
+      "revision_id": "39290",
+      "same_as_previous_public": true,
+      "timestamp": "2013-04-15T03:13:59Z",
+      "wikitext_bytes": 94,
+      "wikitext_sha256": "e60022f67805c4c60894d4fc02051ba4c607247fcc09ea628757c558966bdb4d",
+      "source_format": "wikitext",
+      "source_extension": "wiki"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 39290,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 95,
+      "markdown_sha256": "3b00122678d40acc3becc68e9138825fbc5f7750f81445b92bde6ca5d07a292d",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": "39290",
+      "previous_public_revision_id": "39290",
+      "revision_id": "42711",
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z",
+      "wikitext_bytes": 95,
+      "wikitext_sha256": "3b00122678d40acc3becc68e9138825fbc5f7750f81445b92bde6ca5d07a292d",
+      "source_extension": "md"
+    }
+  ],
+  "site_revision_count": 1
+}

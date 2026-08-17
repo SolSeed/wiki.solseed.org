@@ -1,0 +1,43 @@
+{
+  "canonical_path": "/Bursting",
+  "current_revision_id": 42976,
+  "database_title": "Bursting",
+  "display_title": "Bursting",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 1,
+  "page_id": 27377,
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "Brandon CS Sanders",
+      "comment": "Created page with \"[http://www.signingsavvy.com/sign/BURST/3084/1 ASL Sign]\"",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 42976,
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": 40271,
+      "same_as_previous_public": false,
+      "timestamp": "2015-01-09T02:47:28Z",
+      "wikitext_bytes": 56,
+      "wikitext_sha256": "cbd07301c48e564c279c84513af483c0f99e94d3ebabaf920484275f3411b376"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 40271,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 58,
+      "markdown_sha256": "d73c7598bf2f3b23b3f88871de7e42f32729494cdd24a8a47420e497a7b36a6f",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": 40271,
+      "previous_public_revision_id": 40271,
+      "revision_id": 42976,
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z"
+    }
+  ],
+  "site_revision_count": 1
+}

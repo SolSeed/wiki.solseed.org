@@ -1,0 +1,63 @@
+{
+  "canonical_path": "/Adu",
+  "current_revision_id": "42402",
+  "database_title": "Adu",
+  "display_title": "Adu",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 2,
+  "page_id": "978",
+  "published_revision_count": 2,
+  "revisions": [
+    {
+      "author": "Shelley Schoepflin Sanders",
+      "comment": "Created page with \"Shelley's ideas  http://www.bowtieconstruction.com/2008/07/green-roofs/  http://www.ia.nrcs.usda.gov/features/images/Gallery/GreenRoofClose1.jpg  http://www.chinatownconnection.c...\"",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": "2462",
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": "2356",
+      "same_as_previous_public": false,
+      "timestamp": "2011-03-14T00:10:08Z",
+      "wikitext_bytes": 298,
+      "wikitext_sha256": "fc22e9bb8ec6a0e0b76ca697b60c10c7e515951a02c0a95a1799df8194a967f4",
+      "source_format": "wikitext",
+      "source_extension": "wiki"
+    },
+    {
+      "author": "Brandon CS Sanders",
+      "comment": "Replaced content with \"Moved to [[SolSeedVillage]]\"",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": "42402",
+      "original_parent_revision_id": "2356",
+      "previous_public_revision_id": "2356",
+      "revision_id": "2462",
+      "same_as_previous_public": false,
+      "timestamp": "2011-04-04T18:53:17Z",
+      "wikitext_bytes": 27,
+      "wikitext_sha256": "051227d2f2bb3370e502a669302960d081acf1300ccbbb4f012b3ef2e675f790",
+      "source_format": "wikitext",
+      "source_extension": "wiki"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 2462,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 43,
+      "markdown_sha256": "e3ce4bb4b512abb079d543e37984a2bf039d5e0176775d1997ace8c17aba1535",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": "2462",
+      "previous_public_revision_id": "2462",
+      "revision_id": "42402",
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z",
+      "wikitext_bytes": 43,
+      "wikitext_sha256": "e3ce4bb4b512abb079d543e37984a2bf039d5e0176775d1997ace8c17aba1535",
+      "source_extension": "md"
+    }
+  ],
+  "site_revision_count": 1
+}

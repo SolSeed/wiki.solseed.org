@@ -1,0 +1,48 @@
+{
+  "canonical_path": "/User_talk:Mcennalakidd",
+  "current_revision_id": "42482",
+  "database_title": "Mcennalakidd",
+  "display_title": "User talk:Mcennalakidd",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 3,
+  "original_revision_count": 1,
+  "page_id": "2128",
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "Brandon CS Sanders",
+      "comment": "Moved comment from news to this talk page ... also asked a question about the sluggishness",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": "42482",
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": "3895",
+      "same_as_previous_public": false,
+      "timestamp": "2011-12-05T04:04:29Z",
+      "wikitext_bytes": 412,
+      "wikitext_sha256": "85b1eeb5452230761ce5ac4f73b850a39f994f921d2db98c06262cb2f0a2d0a8",
+      "source_format": "wikitext",
+      "source_extension": "wiki"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 3895,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 424,
+      "markdown_sha256": "3c02fffd507e702061845bdd61edda8e36db32f00662b7ab8dfdfd6da05d382e",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": "3895",
+      "previous_public_revision_id": "3895",
+      "revision_id": "42482",
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z",
+      "wikitext_bytes": 424,
+      "wikitext_sha256": "3c02fffd507e702061845bdd61edda8e36db32f00662b7ab8dfdfd6da05d382e",
+      "source_extension": "md"
+    }
+  ],
+  "site_revision_count": 1
+}

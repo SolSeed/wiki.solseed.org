@@ -1,0 +1,43 @@
+{
+  "canonical_path": "/File:Trifold_cover_for_NorWesCon.png",
+  "current_revision_id": 42087,
+  "database_title": "Trifold_cover_for_NorWesCon.png",
+  "display_title": "File:Trifold cover for NorWesCon.png",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 6,
+  "original_revision_count": 1,
+  "page_id": 528,
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "BenSibelman",
+      "comment": "Hopefully this is a more inspiring intro than was provided by my [[media:Logo-medium.gif|four-color logo]] on the OryCon trifold. Also, hopefully it will look reasonably good when printed.",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 42087,
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": 1405,
+      "same_as_previous_public": false,
+      "timestamp": "2010-03-14T04:58:49Z",
+      "wikitext_bytes": 188,
+      "wikitext_sha256": "556c4a84908accf3da510c973a9db80827db521ecf9165b8ae82ddd581033024"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 1405,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 189,
+      "markdown_sha256": "3fe030f3d21a30592de0b7ba360cb5e1a60313f1d2486ea7f6bea0db5d43166a",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": 1405,
+      "previous_public_revision_id": 1405,
+      "revision_id": 42087,
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z"
+    }
+  ],
+  "site_revision_count": 1
+}

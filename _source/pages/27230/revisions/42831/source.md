@@ -1,0 +1,12 @@
+This is the plan to use the [GaiasHeartbeat](/GaiasHeartbeat) music video as a means of attracting potential SolSeed [members](/members) and [friends](/friends).
+
+### Potential launch activities
+- <s>Make the video on YouTube public (required) https://www.youtube.com/watch?v=cUKilzvWpIc</s>
+- <s>Post on facebook.com/SolSeed</s>
+- Suggest it to a bunch of environmentally focused facebook pages as they build up to earthday
+  - World Pantheism Network
+  - Ecology Ottawa
+  - Symphony of Science ... definitely melodysheep
+  - ... more
+- Send it to our friends and family and request that they share it on Facebook
+  - Some of us have already done this

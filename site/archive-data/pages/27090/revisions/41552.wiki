@@ -1,0 +1,9 @@
+The next day should cover the concepts of Temporal Parts, the flow of time and the Worm Theory of objects in time:
+
+"... one second per second is one second divided by one second, and one second divided by one second is the number one. But the number one is not a rate, so is certainly not the rate at which anything (the flow of time included) happens."
+
+Bradford Skow
+
+“One Second Per Second”�
+
+Philosophy and Phenomenological Research (2012).

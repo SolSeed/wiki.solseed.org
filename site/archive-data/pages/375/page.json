@@ -1,0 +1,48 @@
+{
+  "canonical_path": "/File:BrandonWithSol2009Rocket.JPG",
+  "current_revision_id": "41939",
+  "database_title": "BrandonWithSol2009Rocket.JPG",
+  "display_title": "File:BrandonWithSol2009Rocket.JPG",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 6,
+  "original_revision_count": 1,
+  "page_id": "375",
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "BenSibelman",
+      "comment": "Brandon posing with his [[Media:SolSeedEmblemThumbnail.jpg|SolSeed Emblem]] shirt in front of the papier-mache rocket at [[Sol 2009]].",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": "41939",
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": "1089",
+      "same_as_previous_public": false,
+      "timestamp": "2009-11-13T04:11:46Z",
+      "wikitext_bytes": 134,
+      "wikitext_sha256": "fd48475972fd27a1ba3a0235f942836c802ebbd826d027367c69c28634981e44",
+      "source_format": "wikitext",
+      "source_extension": "wiki"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 1089,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 144,
+      "markdown_sha256": "05dfd18aafd6f76c52425d8662fec6c60d629bf3a58e4699c6887f5a7eac45e7",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": "1089",
+      "previous_public_revision_id": "1089",
+      "revision_id": "41939",
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z",
+      "wikitext_bytes": 144,
+      "wikitext_sha256": "05dfd18aafd6f76c52425d8662fec6c60d629bf3a58e4699c6887f5a7eac45e7",
+      "source_extension": "md"
+    }
+  ],
+  "site_revision_count": 1
+}

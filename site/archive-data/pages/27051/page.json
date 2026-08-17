@@ -1,0 +1,48 @@
+{
+  "canonical_path": "/File:Climber_contest.jpg",
+  "current_revision_id": "42656",
+  "database_title": "Climber_contest.jpg",
+  "display_title": "File:Climber contest.jpg",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 6,
+  "original_revision_count": 1,
+  "page_id": "27051",
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "BenSibelman",
+      "comment": "Two of several robotic climbers built by teams of kids compete to reach the top of the \"space elevator\" ribbons at the Museum of Flight, as part of the Family Science Fest for the 2012 Space Elevator Conference.",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": "42656",
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": "39091",
+      "same_as_previous_public": false,
+      "timestamp": "2012-10-28T18:17:29Z",
+      "wikitext_bytes": 211,
+      "wikitext_sha256": "0f5d4735da58f1f69af92c578a4da74334fe2a5dbc126ff75875d756a59029ce",
+      "source_format": "wikitext",
+      "source_extension": "wiki"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 39091,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 212,
+      "markdown_sha256": "d13e6319c86e647e8ca983ee59f8fa22e7b514ded52e03ee2ab3c0915f8ccd5b",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": "39091",
+      "previous_public_revision_id": "39091",
+      "revision_id": "42656",
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z",
+      "wikitext_bytes": 212,
+      "wikitext_sha256": "d13e6319c86e647e8ca983ee59f8fa22e7b514ded52e03ee2ab3c0915f8ccd5b",
+      "source_extension": "md"
+    }
+  ],
+  "site_revision_count": 1
+}

@@ -1,0 +1,57 @@
+Back to the [Longest Night Festival](/Longest_Night_Festival)
+
+http://etherpad.com/6F5GOTsS9J
+
+__NOTOC__
+
+### Participants
+- [Brandon CS Sanders](/Brandon_CS_Sanders)
+- [Ben Sibelman](/Ben) ... convener
+- [Keith Lofstrom](http://keithl.com)
+
+### Thoughts on what to discuss
+- Scary nuts are worse than harmless nuts
+- Can we not be perceived as nuts?
+- We live in a policitical climate in which you are expected to perceive half the world as nuts
+- It seems important to understand that fear of being outcast
+- Do they think we're nuts?  We coulds ask and they lie ... we'll never know with 100%
+- What we're really worried are about the actions they might take
+  - Deep space nine ... only judge people by what they do
+- Whose opinions about us matter?
+  - What do the people we will have want to have attracted think about us.
+  - There are people we want to attract to join us
+  - And then there are people we want as neighbors
+- *Parable of the Talents* ... Shedding Acorn was needed
+
+### Discussion
+#### Examples of groups that are quasi-religious and have problems
+- Landmark Education
+  - Exercises within the course include how to deal with fears like fear of being an outcast
+- Rajnishis in Oregon
+  - Some of them *were* scary
+  - But had good places in Portland to get vegetarian food
+  - Their problem was trying to politically control their surroundings, and trying to swing an election through illegal means
+- Saint-Simonians, technology- and future-focused religion and intentional community
+  - Started trying to dig the Suez Canal
+    - But it took someone with a different kind of big-picture view to finish it
+  - Problems included belief in sexual promiscuity
+
+#### General observations
+- People look scary when they seem to put their values above basic civilized values
+- People worry when their kids might get involved in a group that prevents them from being successful and/or ruins their lives
+- Also, religions (and rockets) are a source of power, and people fear the potential for power to "run amuck"
+  - Keith: Catholic priests' celibacy helps avoid fear of sexual power
+
+#### What if SolSeed was a religion (as well as other things)?
+- Religion should be an outgrowth of mysticism (which is a mythical embellishment of deep truth), not just invented
+  - Keith: Even in the former case, it usually goes downhill from the mystic roots
+    - Always ends up with a few leaders and many followers (who want to be followers)
+    - Possible exceptions: Unitarians, Quakers
+- Religions are usually intolerant of each other
+- [Brandon](/Brandon) originally didn't want SolSeed to be a religion
+  - During college he became a militant atheist and was in conflict with his parents, even though they share core values
+  - Unfortunately, the superficial ends up trumping that common core
+    - Keith: especially in politics, where all Rep vs. Dem activism is anti-American in the sense of destroying the idea of common purpose
+- In not being a religion you give up access to the mystical tradition, the experience of being one with others
+  - This may be frightening, but in order to accomplish any collective project you must give up some of your individuality
+  - The ideal organization would work because it has the right people who each have the skills and desire to fill a specific role, but this rarely happens

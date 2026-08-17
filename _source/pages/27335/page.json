@@ -1,0 +1,43 @@
+{
+  "canonical_path": "/Kindred_Festival",
+  "current_revision_id": 42934,
+  "database_title": "Kindred_Festival",
+  "display_title": "Kindred Festival",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 1,
+  "page_id": 27335,
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "EricSaumur",
+      "comment": "Created page with \"This page is about the concept of a Kindred Fesitval.  for particular Kindred festivals see individual pages.  For the overall concept of Kindred, see [[Kindred]].   == Kindred I...\"",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 42934,
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": 40139,
+      "same_as_previous_public": false,
+      "timestamp": "2014-10-21T02:51:51Z",
+      "wikitext_bytes": 1648,
+      "wikitext_sha256": "577054f2ddfe61a164828452228ce3017a33bf6d3abb10a5ac3e0dedb19afad6"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 40139,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 1586,
+      "markdown_sha256": "666b6099522501e09a3497c4144512031c77520ef378f98a38af4b172609daa4",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": 40139,
+      "previous_public_revision_id": 40139,
+      "revision_id": 42934,
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z"
+    }
+  ],
+  "site_revision_count": 1
+}

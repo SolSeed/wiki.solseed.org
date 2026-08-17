@@ -1,0 +1,43 @@
+{
+  "canonical_path": "/FalconsCrestLodge",
+  "current_revision_id": 41627,
+  "database_title": "FalconsCrestLodge",
+  "display_title": "FalconsCrestLodge",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 1,
+  "page_id": 57,
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "Brandon CS Sanders",
+      "comment": "Redirecting to [[FalconsCrest]]",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 41627,
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": 76,
+      "same_as_previous_public": false,
+      "timestamp": "2008-09-16T01:37:55Z",
+      "wikitext_bytes": 26,
+      "wikitext_sha256": "c13291b7b417aa1f44084bab4c42ff5183d73b46bfeae40093a202b3677979f9"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 76,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 63,
+      "markdown_sha256": "aebd0b97841b2ed67d1b065fd3e335c465a5acc1e0c048a3e0bdd053c2d01653",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": 76,
+      "previous_public_revision_id": 76,
+      "revision_id": 41627,
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z"
+    }
+  ],
+  "site_revision_count": 1
+}

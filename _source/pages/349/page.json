@@ -1,0 +1,56 @@
+{
+  "canonical_path": "/File:BrandonJibing_2006_September_closeup.png",
+  "current_revision_id": 41913,
+  "database_title": "BrandonJibing_2006_September_closeup.png",
+  "display_title": "File:BrandonJibing 2006 September closeup.png",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 6,
+  "original_revision_count": 2,
+  "page_id": 349,
+  "published_revision_count": 2,
+  "revisions": [
+    {
+      "author": "Brandon CS Sanders",
+      "comment": "",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 1013,
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": 1012,
+      "same_as_previous_public": false,
+      "timestamp": "2009-10-19T06:03:50Z",
+      "wikitext_bytes": 0,
+      "wikitext_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "author": "Brandon CS Sanders",
+      "comment": "",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 41913,
+      "original_parent_revision_id": 1012,
+      "previous_public_revision_id": 1012,
+      "revision_id": 1013,
+      "same_as_previous_public": false,
+      "timestamp": "2009-10-19T06:04:13Z",
+      "wikitext_bytes": 55,
+      "wikitext_sha256": "aaf5185cb58df6281af491e5999b829b285ede43d562a6c5aa69b2c6312925ac"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 1013,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 66,
+      "markdown_sha256": "a4c4d6cc0c09c569b9f58b252301100cda3011044fb8b1adec7885d3fe525b29",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": 1013,
+      "previous_public_revision_id": 1013,
+      "revision_id": 41913,
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z"
+    }
+  ],
+  "site_revision_count": 1
+}

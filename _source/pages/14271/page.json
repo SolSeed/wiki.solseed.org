@@ -1,0 +1,43 @@
+{
+  "canonical_path": "/File:Small_domes_at_Sol_2012.JPG",
+  "current_revision_id": 42623,
+  "database_title": "Small_domes_at_Sol_2012.JPG",
+  "display_title": "File:Small domes at Sol 2012.JPG",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 6,
+  "original_revision_count": 1,
+  "page_id": 14271,
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "BenSibelman",
+      "comment": "[[Ben]], [[Hank]], and [[Eric]] sitting inside a large geodesic dome with two smaller domes we built at [[Sol 2012]].",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 42623,
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": 17943,
+      "same_as_previous_public": false,
+      "timestamp": "2012-07-22T23:15:45Z",
+      "wikitext_bytes": 117,
+      "wikitext_sha256": "05c8d126eb842d826c5804ce94717323cbfca9c91cb6f25681cd383c06f6935a"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 17943,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 141,
+      "markdown_sha256": "b57a272c21e85382c6eb10719f979d5513cab6096d2ead3f26766ee0027c7210",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": 17943,
+      "previous_public_revision_id": 17943,
+      "revision_id": 42623,
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z"
+    }
+  ],
+  "site_revision_count": 1
+}

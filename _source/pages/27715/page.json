@@ -1,0 +1,43 @@
+{
+  "canonical_path": "/Sedna",
+  "current_revision_id": 43313,
+  "database_title": "Sedna",
+  "display_title": "Sedna",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 1,
+  "page_id": 27715,
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "EricSaumur",
+      "comment": "Created page with \"Sedna is a world in the scattered disk.  Also the [[World Mother]] who symbolizes the biosphere which might someday (or already) live of this world's surface.\"",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 43313,
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": 41294,
+      "same_as_previous_public": false,
+      "timestamp": "2018-04-13T02:05:21Z",
+      "wikitext_bytes": 158,
+      "wikitext_sha256": "751cfbd43625cec3a426b397640fb5f32663ad0f5d0c1224112655b0de209ea8"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 41294,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 172,
+      "markdown_sha256": "5f524fa0d3a49412a367cfaff8dcc5989a6e6a843c8e7c4eb025861339b42008",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": 41294,
+      "previous_public_revision_id": 41294,
+      "revision_id": 43313,
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z"
+    }
+  ],
+  "site_revision_count": 1
+}

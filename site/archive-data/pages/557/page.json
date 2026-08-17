@@ -1,0 +1,48 @@
+{
+  "canonical_path": "/Book_50",
+  "current_revision_id": "42116",
+  "database_title": "Book_50",
+  "display_title": "Book 50",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 1,
+  "page_id": "557",
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "Brandon CS Sanders",
+      "comment": "New page: Book 50 is part of the [[SolSeed Book Program]].  Did you get Book 50?  We'd love to see all of the places Book 50 has been and meet all the people who have read it.  If you've encountered...",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": "42116",
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": "1453",
+      "same_as_previous_public": false,
+      "timestamp": "2010-04-05T02:01:49Z",
+      "wikitext_bytes": 440,
+      "wikitext_sha256": "1a75020af035830685c8cca1e687c84bb6903ceb458e8e803ae34f4fdc7f8f75",
+      "source_format": "wikitext",
+      "source_extension": "wiki"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 1453,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 511,
+      "markdown_sha256": "e3c7b623faf6f0035c9f0f97a3341a427fb2a2ac23c7fb9cf0ca398a79cafa8c",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": "1453",
+      "previous_public_revision_id": "1453",
+      "revision_id": "42116",
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z",
+      "wikitext_bytes": 511,
+      "wikitext_sha256": "e3c7b623faf6f0035c9f0f97a3341a427fb2a2ac23c7fb9cf0ca398a79cafa8c",
+      "source_extension": "md"
+    }
+  ],
+  "site_revision_count": 1
+}

@@ -1,0 +1,69 @@
+{
+  "canonical_path": "/September_9,_2012:_Online_Work_Bee",
+  "current_revision_id": 42639,
+  "database_title": "September_9,_2012:_Online_Work_Bee",
+  "display_title": "September 9, 2012: Online Work Bee",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 3,
+  "page_id": 27011,
+  "published_revision_count": 3,
+  "revisions": [
+    {
+      "author": "BenSibelman",
+      "comment": "Created page from the EtherPad archive",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 39031,
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": 39030,
+      "same_as_previous_public": false,
+      "timestamp": "2012-09-23T18:02:28Z",
+      "wikitext_bytes": 24013,
+      "wikitext_sha256": "dd8271c4feca60395f17e644334c828859c8bf0a8f9f5d0afa8471bd0b11316e"
+    },
+    {
+      "author": "BenSibelman",
+      "comment": "Removed top links and fixed headings",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 39032,
+      "original_parent_revision_id": 39030,
+      "previous_public_revision_id": 39030,
+      "revision_id": 39031,
+      "same_as_previous_public": false,
+      "timestamp": "2012-09-23T18:04:09Z",
+      "wikitext_bytes": 23916,
+      "wikitext_sha256": "1e6b0c29c35fb79af893318a0493aa207073dd72dbff17718180f4fe7fe2ed63"
+    },
+    {
+      "author": "BenSibelman",
+      "comment": "Fixed heading",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 42639,
+      "original_parent_revision_id": 39031,
+      "previous_public_revision_id": 39031,
+      "revision_id": 39032,
+      "same_as_previous_public": false,
+      "timestamp": "2012-09-23T18:05:09Z",
+      "wikitext_bytes": 23914,
+      "wikitext_sha256": "2be2e53110e71dc0c1cee2de262ac3fdc535a1c18f974d5ae70179a2431f29c0"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 39032,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 24147,
+      "markdown_sha256": "2a72a8da72c4f3e4e4687a51eed07b983b872b60832f1478f23488448cff0dfb",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": 39032,
+      "previous_public_revision_id": 39032,
+      "revision_id": 42639,
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z"
+    }
+  ],
+  "site_revision_count": 1
+}

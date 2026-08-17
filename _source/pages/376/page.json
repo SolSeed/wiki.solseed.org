@@ -1,0 +1,43 @@
+{
+  "canonical_path": "/File:Sol2009SwingDancing.JPG",
+  "current_revision_id": 41940,
+  "database_title": "Sol2009SwingDancing.JPG",
+  "display_title": "File:Sol2009SwingDancing.JPG",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 6,
+  "original_revision_count": 1,
+  "page_id": 376,
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "BenSibelman",
+      "comment": "The swing dancing session at [[Sol 2009]].",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 41940,
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": 1090,
+      "same_as_previous_public": false,
+      "timestamp": "2009-11-13T04:13:40Z",
+      "wikitext_bytes": 42,
+      "wikitext_sha256": "a61906af86b45a8b775fb806d89309f6a70d7aa3629db46d04442ac42e280856"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 1090,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 52,
+      "markdown_sha256": "666b8ba514acfb4be04e32d4ab3f0e5fdd1a5fa0085a2f13608bea087ec19309",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": 1090,
+      "previous_public_revision_id": 1090,
+      "revision_id": 41940,
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z"
+    }
+  ],
+  "site_revision_count": 1
+}

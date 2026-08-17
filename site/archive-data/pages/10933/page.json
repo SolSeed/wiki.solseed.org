@@ -1,0 +1,48 @@
+{
+  "canonical_path": "/Sol_2012_Shopping_List",
+  "current_revision_id": "42591",
+  "database_title": "Sol_2012_Shopping_List",
+  "display_title": "Sol 2012 Shopping List",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 1,
+  "page_id": "10933",
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "Shelley Schoepflin Sanders",
+      "comment": "Created page with \" [[Sol 2012]] ''' Shelley to do:''' -buy strawberries for waffles on Wed morning -call BW -Go to ABC: --stripples --vegemeat for sandwiches --Frozen vegetarian meatballs to eat o...\"",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": "42591",
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": "14245",
+      "same_as_previous_public": false,
+      "timestamp": "2012-06-18T04:54:41Z",
+      "wikitext_bytes": 4932,
+      "wikitext_sha256": "80e041e4363737b6e91b234ac5e75cbfe5b21b65ef96762c7378b77273695572",
+      "source_format": "wikitext",
+      "source_extension": "wiki"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 14245,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 4900,
+      "markdown_sha256": "45439506ebaf5b2742c5a8f3e9f5d02169450acaa0596440ab891d6f6397cc88",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": "14245",
+      "previous_public_revision_id": "14245",
+      "revision_id": "42591",
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z",
+      "wikitext_bytes": 4900,
+      "wikitext_sha256": "45439506ebaf5b2742c5a8f3e9f5d02169450acaa0596440ab891d6f6397cc88",
+      "source_extension": "md"
+    }
+  ],
+  "site_revision_count": 1
+}

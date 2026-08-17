@@ -1,0 +1,83 @@
+See also [SolSeedVillage](/SolSeedVillage)
+
+ROOM / AREA
+NEED
+WANT
+
+EXTERIOR FINISHES
+- Good insulation
+- Double-paned windows
+- Organic/earthy aesthetic
+- Futuristic styling (e.g. curved corners, wraparound or angled windows)
+
+INTERIOR FINISHES
+
+- Hardwood-style floors (maybe bamboo)
+
+ENTRY / FRONT PORCH
+
+LIVING AREA 
+- Enough room for a desk, digital piano, and a comfy chair
+- A staircase to the sleeping area
+- A large window with blinds or a shade
+- Enough room for an extra comfy chair or a couch
+- A separate structure that allows easy access to the upper level for a cat
+
+DINING AREA
+N/A (occupant will use the one in the main house)
+N/A
+
+KITCHEN AREA
+N/A (occupant will use the one in the main house)
+Make it easy for someone to install a compact kitchen at a later date
+
+BEDROOM
+- Enough room for a queen-size bed
+- A window with blinds or a shade
+- A trapdoor, for privacy when a guest is staying the night downstairs
+
+STORAGE
+- Attic storage next to the sleeping area
+- A clothes closet
+- A closet for cleaning supplies
+- Storage cabinets in the bathroom (probably under the sink)
+- Built-in storage shelves in a corner of the living area
+
+LAUNDRY ROOM
+N/A (occupant will use the one in the main house)
+N/A
+
+BATHROOM
+- The obvious (shower, toilet, sink, mirror)
+- Enough room for a litterbox
+- Have the sink deep enough to easily refill a water bottle
+- A translucent window (to get natural light while preserving privacy)
+
+ALCOVES / SPECIAL AREAS
+
+SERVICES/UTILITIES
+- Run lines from the main house
+  - Electricity
+  - Water
+  - Sewer (unless we're really radical about graywater/composting toilet)
+- Ethernet cable from the house
+- Throw in a fiber-optic cable just in case we get that type of service to the main house later
+--
+SITE
+- Bike shelter big enough to house 6 adult bikes, 2 kids’ bikes, a bike trailer, and a baby seat
+- Make it big enough to house 8 or more adult bikes plus the other stuff
+
+DECK/PATIO/WALKWAYS
+
+- Covered walkway connecting to the main house
+- Could make the walkway two-leveled so we can walk from the deck to the ADU roof
+
+SUSTAINABLE CONCEPTS
+- If we do an unconventional toilet, we will still add plumbing in case someone wants to put in a regular toilet later
+- A green roof (possibly on the walkway as well as the ADU itself)
+- Ability to install solar panels at a later date (possibly on the walkway as well as the ADU itself)
+- Rainwater collection, mainly from the main house and walkway
+- Graywater-using (newly legal in Portland) or composting toilet
+- Ability to use graywater from the bathroom for watering the garden outside
+- Under-floor radiant heating
+- Passive House level insulation (would largely eliminate the need for heating)

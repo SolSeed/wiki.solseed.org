@@ -1,0 +1,46 @@
+This is one page of the [SolSeed Book of Days](/SolSeed_Book_of_Days)
+
+#### Contemplation for the Day
+[Let us imagine](/Suspension_of_Skyfall)
+
+[You](/You) are climbing the hill at Buckleberry.  The slope is strewn with oak leaves half covering mossy rocks.  The trees are older and bigger than they are now, but they have only a few small leaves.  A patch of snow still lingers at the base of a small cliff.  It is early spring.  A group of people are walking with you.  The path is well established, stones are cemented into place, railings support elderly members of your group and they pause for breath on the path.  You realize you are walking with the elders because you are one.  Children climb through the railings and scramble up the slope chasing each other, laughing and calling out their imagined experiences.  'My triscanner has detected aliens over the next slope!'  'I'm a wolverine.'  'I'm a giant dung beetle.'  Everyone has been painted for the occasion with blue and green face paint.  Some have only done their faces, others are completely clothed in paint, painted up as Gaia herself.
+
+'Is she still there?' you ask yourself looking up the slope through the maze of trunks, 'It has been another harsh winter.'
+
+A pregnant woman beside you turns to you and you see her blue green face isn't just paint like everyone else's.  [Gaia](/Gaia) is walking among you, 'The statue will still be there little one.'
+
+'You know this, Gaia?' you ask more out of shock that she is there than to really question her knowledge.  while you talk you continue to walk around a hair pin turn designed to make the path easy even for a wheel chair to negotiate.
+
+'Little one, remember, none of this is real.  This is your hoped for future.  A well established seed village, working toward the Destinies and gathering every spring to celebrate the beginning of spring.  These are all your hopes. The statue will still be there because it is what you hope for.'  You reach the turn that takes you into the final ravine that leads to the top of the hill.
+
+'But if we put one up this year, the real year that I am imagining from that is,' you falter but Gaia smiles allowing you to continue, 'It won't last forever.'  You remember this spot, when you first came here there was a huge tree fallen across the ravine here that you had to crawl over.  The log is long gone but a patch of particularly mossy ground to one side, hints that maybe it's effect is sill being felt.
+
+Gaia laughs, 'Of course not, little one, nothing lasts forever.  Most things which appear to last, are renewed.  Am I the same Gaia who yearned to emerge from the sea four hundred million years ago.'  You crouch to pass under a tree that has fallen during the winter and is leaning against a tree of the other side of the path.
+
+'No, I suppose not.' You frown trying to understand what she is getting at.  Ahead the view is blocked by a cedar hedge circling the top of the hill.
+
+'So, as long as this community renews itself, it will renew the statue too.'  Gaia points to the top of the hill, 'Some young person has already climbed the hill earlier in the spring and checked on her.  Probably many have.  This land is being worked to keep the community alive,' Gaia points to a nearby tree and you can see that a large portion of its branches were recently harvested, 'If she had been destroyed, then this procession would be carrying her replacement.'
+
+You pass through a gap in the cedar hedge and see the statue.  It isn't the one that you imagined.  It is carved wood and stands eight feet tall, not a painted mannekin standing six feet tall.  There is a fountain at her feet that fills a pond which spills through the cedar hedge into a stand of oaks beyond.  Beyond that you can hear the sound of a small waterfall.  A young woman, painted thouroughly as Gaia, steps up beside the statue and turns to the group.  'Life is precious', she calls out.
+
+Everyone chants together, 'It has always been precious; it will always be precious.'
+
+The woman calls again, 'Life, exuberant, bursting through boundaries to flower and spread,'
+
+Again everyone chants together, 'Creates the conditions for more Life in an upward spiral of ever growing possibilities.'  You chant with the others but your eyes are drawn toward the statue.  It seems freshly painted and barren.  She has no tatoos of animals,  the world is a mere outline on her belly, you wonder why isn't she more ornate.
+
+But the woman isn't calling the full creed she jumps ahead, 'Through art and the natural world, we awaken within ourselve and others.' A few young people wander throught he group handing out bits of paper and spray cans of paint.
+
+You chant with the others, 'That Cosmic Religious Feeling, that ignites wonder, fosters compassion and inspires invention.' You are handed your spray can and your bit of paper. The paper is a tiny stencil of a giraffe and pencilled onto the edge of the stenil are the words, 'lower back'  You look again at the statue and realize what is about to happen.  The renewal of the tatoos and the world are done by the group every year.  You mutter, 'It is a ritual that binds us to the statue, to the land and to our dreams.'
+
+Gaia, still standing beside you nods, 'It's a beautiful act.'
+
+The woman is finishing the creed, 'We have learned that,'
+
+And everyone together calls, 'We are SolSeed, children of the Earth and Sun, We Bring Life!'
+
+Then everyone forms a queue and each person approaches the statue, bows in reverence and then holds their stencil to the right spot on her body and makes a few quick sweeps with their spray paint can.  Some people are better with their cans than others and some tatoos are faint and others are perfect and others still have drips and smudges.  Each person calls out a line of scripture as they complete their stencil.  Some are lines you don't recognize, some are lines from stories or authors we hold dear.  Some are lines from the creed and when it is a call, the group responds.
+
+Your turn comes and you go round to the back of the statue and find a bare patch of her lower back and hold your stencil there.  You spray and the paint comes out tan, the colour of light patches of a giraffe's fur.  You pull your stencil away and you are pleased with your work, a little giraffe among a plethora of land animals wandering Gaia's back.  'Empathy is trancendant, without empathy, passion and wisdom are evil.' you call
+
+The response comes, the pledge to love others and to grow ours.  A tear creeps into your eye and one of your giraffe's feet forms a drip and runs a short distance down Gaia's back.  'Empathy calls us not to demand perfection of each other' you think and step down from the base of the statue and back into the group.

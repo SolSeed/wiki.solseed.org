@@ -1,0 +1,48 @@
+{
+  "canonical_path": "/File:Kids_at_Music_Festival.JPG",
+  "current_revision_id": "42386",
+  "database_title": "Kids_at_Music_Festival.JPG",
+  "display_title": "File:Kids at Music Festival.JPG",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 6,
+  "original_revision_count": 1,
+  "page_id": "831",
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "BenSibelman",
+      "comment": "Photo of children and adults playing at the January 2011 [[Music Festival]].",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": "42386",
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": "2184",
+      "same_as_previous_public": false,
+      "timestamp": "2011-02-03T04:58:44Z",
+      "wikitext_bytes": 76,
+      "wikitext_sha256": "c021036899c0603617ca75a7efb91f37e175b97957b1f522d632543aee884414",
+      "source_format": "wikitext",
+      "source_extension": "wiki"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 2184,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 92,
+      "markdown_sha256": "5491676dcef60dfdb9142760107958fef88111a01c4d6a86a6a141e72c44c2b4",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": "2184",
+      "previous_public_revision_id": "2184",
+      "revision_id": "42386",
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z",
+      "wikitext_bytes": 92,
+      "wikitext_sha256": "5491676dcef60dfdb9142760107958fef88111a01c4d6a86a6a141e72c44c2b4",
+      "source_extension": "md"
+    }
+  ],
+  "site_revision_count": 1
+}

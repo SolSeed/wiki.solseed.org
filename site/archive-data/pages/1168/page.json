@@ -1,0 +1,48 @@
+{
+  "canonical_path": "/File:Earth_Day_2011_mural_before.JPG",
+  "current_revision_id": "42429",
+  "database_title": "Earth_Day_2011_mural_before.JPG",
+  "display_title": "File:Earth Day 2011 mural before.JPG",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 6,
+  "original_revision_count": 1,
+  "page_id": "1168",
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "BenSibelman",
+      "comment": "The \"before\" picture of the mural canvas at [[Earth Day 2011]], with only the \"help paint\" sign and a few early additions.",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": "42429",
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": "2592",
+      "same_as_previous_public": false,
+      "timestamp": "2011-05-07T23:38:15Z",
+      "wikitext_bytes": 122,
+      "wikitext_sha256": "b11455141b398078bdbcff759a208e5ee4d99b1f6826c24fc87ac967ce8b2999",
+      "source_format": "wikitext",
+      "source_extension": "wiki"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 2592,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 138,
+      "markdown_sha256": "fe657b947209cf2bcc8913add0b495f9a7c26b7bf441034549a6529d8f23b16a",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": "2592",
+      "previous_public_revision_id": "2592",
+      "revision_id": "42429",
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z",
+      "wikitext_bytes": 138,
+      "wikitext_sha256": "fe657b947209cf2bcc8913add0b495f9a7c26b7bf441034549a6529d8f23b16a",
+      "source_extension": "md"
+    }
+  ],
+  "site_revision_count": 1
+}

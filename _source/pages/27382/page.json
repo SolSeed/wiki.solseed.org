@@ -1,0 +1,43 @@
+{
+  "canonical_path": "/Creates",
+  "current_revision_id": 42981,
+  "database_title": "Creates",
+  "display_title": "Creates",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 1,
+  "page_id": 27382,
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "Brandon CS Sanders",
+      "comment": "Created page with \"[http://www.handspeak.com/word/index.php?dict=cr&signID=509 ASL Sign], [http://www.signingsavvy.com/sign/CREATE/1771/1 ASL Sign 2]\"",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 42981,
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": 40277,
+      "same_as_previous_public": false,
+      "timestamp": "2015-01-09T02:55:29Z",
+      "wikitext_bytes": 130,
+      "wikitext_sha256": "a500fa736e309d7dc82f26ab8286f2a62df2b84998f8116dbc942ce3f325b6f5"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 40277,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 133,
+      "markdown_sha256": "753b74c7803c43c16f6a24b707f9f97184ed463e59d11bbb966c5f5b211cbf9f",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": 40277,
+      "previous_public_revision_id": 40277,
+      "revision_id": 42981,
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z"
+    }
+  ],
+  "site_revision_count": 1
+}

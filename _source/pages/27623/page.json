@@ -1,0 +1,56 @@
+{
+  "canonical_path": "/February_5,_2017:_Business_Call",
+  "current_revision_id": 43221,
+  "database_title": "February_5,_2017:_Business_Call",
+  "display_title": "February 5, 2017: Business Call",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 2,
+  "page_id": 27623,
+  "published_revision_count": 2,
+  "revisions": [
+    {
+      "author": "BenSibelman",
+      "comment": "Created page from the Google doc",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 40968,
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": 40967,
+      "same_as_previous_public": false,
+      "timestamp": "2017-02-05T17:07:33Z",
+      "wikitext_bytes": 7659,
+      "wikitext_sha256": "7e516eea0feb9e18b7b543562c4c9b249b1b55aa19ed10fd5908e02d9e1b172e"
+    },
+    {
+      "author": "BenSibelman",
+      "comment": "/* Green Hatting: Phases */",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 43221,
+      "original_parent_revision_id": 40967,
+      "previous_public_revision_id": 40967,
+      "revision_id": 40968,
+      "same_as_previous_public": false,
+      "timestamp": "2017-02-05T17:10:58Z",
+      "wikitext_bytes": 7662,
+      "wikitext_sha256": "cc88d7b46e6b280980ddc496ccacf81e6be3389298a3c298abbff3767255f7d0"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 40968,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 7660,
+      "markdown_sha256": "8204abd6296e741913a746f2da338a2bacd8b3fc6aa48f717392731f7cd08773",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": 40968,
+      "previous_public_revision_id": 40968,
+      "revision_id": 43221,
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z"
+    }
+  ],
+  "site_revision_count": 1
+}

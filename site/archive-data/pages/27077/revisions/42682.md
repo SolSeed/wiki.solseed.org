@@ -1,0 +1,155 @@
+### Agenda
+- Check In
+- Review WWWs
+- Review Agenda
+- Cross-quarter skating
+- Weekly Events Logistics
+- SolSeed Creed v2.1
+- One Page Plan
+- Evaluation
+
+### Check In
+- Eric ... I feel a lot better than I sound
+- Brandon ... had a good retreat with ASF ... it was lovely to see Ben for lunch (very nice comments about Ben from the others later that day)
+- Ben ... I wish I had more energy, but not ready to try an addictive and stomach harming substance (coffee)
+- Shelley ... Ren and I got woken up from our naps for this call, both a little groggy
+- Sequoia ... zzz
+
+### WWWs from last time
+- <s>Eric ... follow your topical community protocol for this week ... ongoing
+- Eric ... meditate and keep track of which days ... ongoing</s>
+- Eric ... add inviting two Facebook friends to like SolSeed to my topical community protocol ... by next call
+- Eric ... do PERMA Questionaire ( https://sasupenn.qualtrics.com/SE/?SID=SV_4P0CKmXVx3CJ4Y4) ... by call after next call 
+- <s>Eric ... Think about phases of Solseed</s>
+- Ben ... follow your topical community protocol for this week ... ongoing
+- <s>Ben ... meditate and keep track of which days ... ongoing
+- Ben ... transfer these notes to the wiki ... by tonight
+- Ben ... look up frickin' bus schedules for Awakening the Dreamer mk. 2 ... by Friday</s>
+- Ben ... work on "the gospel according to Ben" ... by next call
+- Ben ... do PERMA Questionaire ( https://sasupenn.qualtrics.com/SE/?SID=SV_4P0CKmXVx3CJ4Y4) ... by call after next call 
+- <s>Shelley ... follow your topical community protocol for this week ... ongoing
+- Shelley ... meditate and keep track of which days ... ongoing</s>
+- Shelley ... invite two Facebook friends to like our page ... by next call
+- Shelley ... do PERMA Questionaire ( https://sasupenn.qualtrics.com/SE/?SID=SV_4P0CKmXVx3CJ4Y4) ... by call after next call 
+- <s>Brandon ... follow your topical community protocol for this week ... ongoing
+- Brandon ... meditate and keep track of which days ... ongoing
+- Brandon ... invite two Facebook friends to like our page ... by next call</s>
+- Brandon ... do PERMA Questionaire ( https://sasupenn.qualtrics.com/SE/?SID=SV_4P0CKmXVx3CJ4Y4) ... by call after next call 
+
+### WWWs
+- Eric ... follow your topical community protocol for this week ... ongoing
+- Eric ... meditate and keep track of which days ... ongoing
+- Eric ... do PERMA Questionaire ( https://sasupenn.qualtrics.com/SE/?SID=SV_4P0CKmXVx3CJ4Y4) ... by next call 
+- Ben ... follow your topical community protocol for this week ... ongoing
+- Ben ... meditate and keep track of which days ... ongoing
+- Ben ... work on "the gospel according to Ben" ... by next call
+- Ben ... do PERMA Questionaire ( https://sasupenn.qualtrics.com/SE/?SID=SV_4P0CKmXVx3CJ4Y4) ... by next call 
+- Shelley ... follow your topical community protocol for this week ... ongoing
+- Shelley ... meditate and keep track of which days ... ongoing
+- Shelley ... do PERMA Questionaire ( https://sasupenn.qualtrics.com/SE/?SID=SV_4P0CKmXVx3CJ4Y4) ... by next call 
+- Shelley ... discuss difficulties with participating in this call with Brandon ... by next call
+- Brandon ... follow your topical community protocol for this week ... ongoing
+- Brandon ... meditate and keep track of which days ... ongoing
+- Brandon ... do PERMA Questionaire ( https://sasupenn.qualtrics.com/SE/?SID=SV_4P0CKmXVx3CJ4Y4) ... by next call 
+- Brandon ... add ice skating at 10am on Sunday Feb 3rd at Lloyd Center Ice Rink to meetup.com ... by today
+- Brandon ... send SolSeedCreed v2.1 ... by next call
+
+### Cross-quarter skating
+The cross-quarter appears to be on Sunday February 3
+- Brandon will set up an ice-skating Meetup in Portland
+- Ben might come down from Seattle
+
+### Weekly Events Logistics
+Service Saturday February 2, 9:00am PST  12:00 EST (Shelley)
+Rotation: Brandon, Eric, Shelley, Ben
+
+Work-Bee Sunday February 10, 1:30 pm PST 16:30 EST (skipping next week due to cross-quarter celebration)
+
+In-person service with Vliets: Saturday the 2nd, 10:30 am
+Seeing Nature Readings and Practices: next is 2013-02-17 13:00 EST
+
+### Creed v2.1
+- Brandon is working on a draft and will send it out when it's ready to review
+
+### OnePagePlan
+Agenda
+- <s>Where do we want to be in 20 yrs?  In 10 yrs?  In 5 yrs?</s>
+  - Boil down these goals into short evocative statements with substantial elaboration behind them
+- <s>Read through values, beliefs etc of the OnePagePlan</s>
+- What are the projects that we want to do soon?
+- What are the first 3-4 projects?
+- Consider order and overlap of projects first and ask (how long is it going to take?)
+
+#### Phases
+- Full suite of practices
+  - Shared understanding of what a practice is
+  - Have: Daily individual mindfulness practice (meditation), Work bees, Small Group "Service" Discussions, Seasonal Celebrations, 
+  - Missing: compassion (for weak, for earth), simplicity, digging in the soil, making things that bring life (SpaceHacking, DIY ecology, robots, kites and balloons that map things, etc), Congregational Size "Being Together" Meetings, ecological sacrifice (celebration and support, space in our lives), kindred festivals
+  - For Discussion: Tithing, Sabbath
+
+- 1 city node: Portland, Seattle, or Ottawa
+  - At least 4 contributing members in one of our founding locations
+  - At least once weekly face-to-face meetings
+
+- Big Family: (like 20 participating members)
+  - Establish process to make business meetings work well at that size (consensus, nonviolent communication?)
+    - Or just have small local work bees and keep the 4-person "cross-pollinating" work bee calls?
+    - We don't know whether we'll grow beyond the current 3 localities
+
+- 3 city nodes: Portland, Seattle, Ottawa, and/or Somewhere else.
+  - At least 3 people in each node
+  - At least once weekly face-to-face meeting at each node
+  - One delegate from each city attends the weekly international work bee calls
+
+- 1 Rooted in-person Annual Kindred Festival
+  - Has momentum (more than just one year)
+  - Has at least three contributing tribes (those that are expected to show up each year)
+
+- Established organization
+  - SolSeed has legal status as a church, nonprofit, and/or (non-sole-proprietorship) business
+  - This organization does work related to our values and vision
+
+- Deep and Wide Funnel of Engagement
+  - 20,000+ Facebook Fans
+  - 200+ Members by Declaration
+  - 20+ Contributing Members
+
+- Rich Canon
+  - SolSeedCreed is fully commented (at least once) and illustrated (at least once)
+  - Two New Testament Gospels are complete
+  - We've identified our spiritual ancestors and our past and present teachers, and are deeply plugged into our entire narrative (past, present, and future)
+
+- Significant media presence
+  - At least 1000 copies of the book sold or donated to individuals or libraries
+  - At least one video with over 200,000 views on YouTube
+  - An interview or two per year with a local news outlet
+
+- 1 Physical community
+  - At least 5 SolSeed members are living together (as in, within a city block)
+    - Because they're all SolSeed members (though they may have family members who aren't), they have shared spiritual practice and shared goals
+  - Eco-village practices (e.g. sharing rarely-used items and some meals) are commonplace
+
+- 3 Physical communities
+  - At least 5 SolSeed members are living together (as in, within a city block)
+    - Because they're all SolSeed members (though they may have family members who aren't), they have shared spiritual practice and shared goals
+  - Eco-village practices (e.g. sharing rarely-used items and some meals) are commonplace
+
+- Significant presence in space
+  - At least one small satellite built by SolSeed members is in orbit
+  - Alternatively, one instrument on someone else's satellite or probe
+
+- SolSeed has Trees
+  - We have greenhouses and are experimenting with breeding trees for extreme climates.
+
+- SolSeed has Extreme Trees
+  - We have bred trees that can live in extreme climates and are experimenting with growing them in those climates
+
+- SolSeed has a Dyson Tree Lab
+  - We have a greenhouse capable of controlling pressure and temperature down to vacuum and 50 K and are using it to breed trees.
+- SolSeed has Dyson Trees 
+
+### Evaluation
+- Shelley ... Ren is finally happy and that makes me happy, I am finding it progressively more difficult to participate in the SolSeed business call for a number of reasons and I'll take a www to discuss them with Brandon this week
+- Brandon ... ok
+- Eric ... Just getting going, I'm going to try and keep the momentum this weekend (no www necessary)
+- Ben ... I'm worried by the fact that we are almost half way through the quarter and don't have the one page plan in enough shape to know what we are trying to get done this quarter (also cat is needling my thighs)

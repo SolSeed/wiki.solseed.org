@@ -1,0 +1,56 @@
+{
+  "canonical_path": "/Arthur_Brock",
+  "current_revision_id": 41883,
+  "database_title": "Arthur_Brock",
+  "display_title": "Arthur Brock",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 2,
+  "page_id": 319,
+  "published_revision_count": 2,
+  "revisions": [
+    {
+      "author": "Artbrock",
+      "comment": "New page: I live in Denver and am committed to a practical and spiritual path which nurtures life.  I've got an Internet software company and do all sorts of strange alternative currency work.  [htt...",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 876,
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": 874,
+      "same_as_previous_public": false,
+      "timestamp": "2009-06-03T19:37:27Z",
+      "wikitext_bytes": 278,
+      "wikitext_sha256": "72fa368f73fac1fa0e9147fb0950a23f9fd2babbc8a44e70f92b11ecbb0e4d1f"
+    },
+    {
+      "author": "Artbrock",
+      "comment": "",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 41883,
+      "original_parent_revision_id": 874,
+      "previous_public_revision_id": 874,
+      "revision_id": 876,
+      "same_as_previous_public": false,
+      "timestamp": "2009-06-03T20:05:35Z",
+      "wikitext_bytes": 302,
+      "wikitext_sha256": "ed6ff49a5e6617ee5e0925610b781192899cdbe089532e5d6c3828a70219b75e"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 876,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 303,
+      "markdown_sha256": "95a7addbd2e62642788d97260af2eb5d32890416d1397274951c57bb742bae9d",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": 876,
+      "previous_public_revision_id": 876,
+      "revision_id": 41883,
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z"
+    }
+  ],
+  "site_revision_count": 1
+}

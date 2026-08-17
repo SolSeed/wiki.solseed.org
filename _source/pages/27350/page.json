@@ -1,0 +1,43 @@
+{
+  "canonical_path": "/Cosmic_Calendar",
+  "current_revision_id": 42949,
+  "database_title": "Cosmic_Calendar",
+  "display_title": "Cosmic Calendar",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 1,
+  "page_id": 27350,
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "BenSibelman",
+      "comment": "redirect",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 42949,
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": 40201,
+      "same_as_previous_public": false,
+      "timestamp": "2014-12-08T04:38:14Z",
+      "wikitext_bytes": 37,
+      "wikitext_sha256": "d47b27585e56df8ac052691cb72510b03103cbb28c5042c9277c2b7e12a515d6"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 40201,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 85,
+      "markdown_sha256": "8e7627a2808b96a6872020d2a8c79397c4a73f87cb39190691820ef775116fba",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": 40201,
+      "previous_public_revision_id": 40201,
+      "revision_id": 42949,
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z"
+    }
+  ],
+  "site_revision_count": 1
+}

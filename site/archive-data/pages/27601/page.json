@@ -1,0 +1,63 @@
+{
+  "canonical_path": "/Brain_Hug",
+  "current_revision_id": "43199",
+  "database_title": "Brain_Hug",
+  "display_title": "Brain Hug",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 2,
+  "page_id": "27601",
+  "published_revision_count": 2,
+  "revisions": [
+    {
+      "author": "Brandon CS Sanders",
+      "comment": "Created page with \": My Inside Brain, : My Inside Brain, : Big feelings come from my Inside Brain. : Big feelings, big feelings. : I get great big feelings from my Inside Brain.  : My Outside Brain...\"",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": "40909",
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": "40908",
+      "same_as_previous_public": false,
+      "timestamp": "2017-01-07T21:16:09Z",
+      "wikitext_bytes": 456,
+      "wikitext_sha256": "91da3ca382891d1d37c56df842c46d0ed0f2376d104b0d181d9000c2039233d6",
+      "source_format": "wikitext",
+      "source_extension": "wiki"
+    },
+    {
+      "author": "Brandon CS Sanders",
+      "comment": "",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": "43199",
+      "original_parent_revision_id": "40908",
+      "previous_public_revision_id": "40908",
+      "revision_id": "40909",
+      "same_as_previous_public": false,
+      "timestamp": "2017-01-07T21:16:29Z",
+      "wikitext_bytes": 458,
+      "wikitext_sha256": "1ad29d4f81b7caf2d20cb14a8396051e6cad62fb571aebfaedbed2fab6cc3cc3",
+      "source_format": "wikitext",
+      "source_extension": "wiki"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 40909,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 427,
+      "markdown_sha256": "c3b1259e115b133ce7ffdebd5c65bedeb9e72f050a24c9e61cfe26300a88197d",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": "40909",
+      "previous_public_revision_id": "40909",
+      "revision_id": "43199",
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z",
+      "wikitext_bytes": 427,
+      "wikitext_sha256": "c3b1259e115b133ce7ffdebd5c65bedeb9e72f050a24c9e61cfe26300a88197d",
+      "source_extension": "md"
+    }
+  ],
+  "site_revision_count": 1
+}

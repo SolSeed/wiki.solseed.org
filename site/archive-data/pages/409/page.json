@@ -1,0 +1,48 @@
+{
+  "canonical_path": "/Book_12",
+  "current_revision_id": "41973",
+  "database_title": "Book_12",
+  "display_title": "Book 12",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 1,
+  "page_id": "409",
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "Brandon CS Sanders",
+      "comment": "Starting the [[Book 12]] page.",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": "41973",
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": "1170",
+      "same_as_previous_public": false,
+      "timestamp": "2009-11-28T23:35:10Z",
+      "wikitext_bytes": 436,
+      "wikitext_sha256": "71ada46bc6f5cdda2141ffcfff5bee869bdc0e1ac16d8d42db85aed6d9a23439",
+      "source_format": "wikitext",
+      "source_extension": "wiki"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 1170,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 496,
+      "markdown_sha256": "1995a1c446d3947f89e884e1a1ca113432541534a6c1e2f85e5a94fbf53f3508",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": "1170",
+      "previous_public_revision_id": "1170",
+      "revision_id": "41973",
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z",
+      "wikitext_bytes": 496,
+      "wikitext_sha256": "1995a1c446d3947f89e884e1a1ca113432541534a6c1e2f85e5a94fbf53f3508",
+      "source_extension": "md"
+    }
+  ],
+  "site_revision_count": 1
+}

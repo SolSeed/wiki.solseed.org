@@ -1,0 +1,40 @@
+[Ben](/Ben) is writing a novel called *[Flight in a Cage](/Flight_in_a_Cage)*, originally planned as a webcomic, that imagines a future several centuries from now in which a religion similar to the [SolSeed Movement](/SolSeed_Movement) still exists and has had some minor influence on the colonization of the solar system. In planning since 2007, Ben finally started writing the story itself in novel form in July 2014.
+
+#### About the story
+*This text was planned to appear on the "About" page of the comic's website.*
+
+These days, many people view any supposed natural limit on human abilities as an affront.  There's a school of thought holding that with mass production and Moore's Law, nothing we set out to do will be impossible, and any unintended consequence of the headlong acceleration in technological progress can be dealt with through some technical fix enabled by that same progress.  While some of these radical optimists imagine human civilization rapidly expanding to fill the cosmos, other observers are watching the consequences of our disregard for limits coming back to bite us, and doubting that civilization will survive long enough to get a single human being out of Earth's gravity well.
+
+The future pictured in this comic lies somewhere in between these extremes.  It is a future where groups of space colonists are gradually abandoning their hubristic libertarian ideals, because the harsh realities of their precarious environment force them to put their lives in each other's hands on a daily basis.  These groups, as well as larger human institutions such as Earth-based "corpornations" and the Republic of Mars, are driven to strive for true ecological sustainability by the ongoing eco-cataclysm that has brought Earth's ancient and mighty biosphere to its knees, forcing recognition of the far greater fragility of the simple closed ecosystems that keep humans alive elsewhere in the solar system.  Humanity is slowly and painfully coming to realize the need to live within certain natural limits, and to find ways of realizing all our highest dreams and aspirations without violating those limits.  That concept is the abstract meaning of the name "Flight in a Cage."
+
+On a concrete level, this comic is about the lives of genetically-modified humans with wings, known as batfolk, who live inside a fairly small hollow asteroid which some of them view as a kind of cage.  They also face a compromise with natural limits in their own body plans; with their arms replaced by wings, they're forced to use their feet (modified to resemble the dexterous chimpanzee foot) for most of the tasks others accomplish with their hands.  And an intolerant faction of the unmodified human population, seeking living space due to a major setback in the Mars terraforming effort and willing to take it from people they see as unworthy "mutants," may soon threaten what freedom the batfolk have within their stony shell.
+
+Into this situation comes Eryn, an ordinary teenage girl from Mars.  Well, not completely ordinary.  She's a member of an obscure religious group with the grand ambition of building the first starship and breaking the limit of the Sun's gravity well, as part of a still grander project of spreading life from Earth across the galaxy.  It turns out that some of the batfolk are more than willing to participate in this mission, viewing starflight as the ultimate expression of freedom from limits.  But as always, the devil is in the details...
+
+#### Other pieces of the story
+- Ben wrote a text-only [Batfolk origin story](/Batfolk_origin_story) for the [2013 Spring Equinox Storytelling and Suishi Feast](/2013_Spring_Equinox_Storytelling_and_Suishi_Feast), while still planning the main story as a comic.
+- There is also a planned prologue about Devan, one of the main characters, learning to fly.
+
+### Discussion at [Sol 2012](/Sol_2012)
+[Ben](/Ben): What could SolSeed go through over the next several centuries? How would it contribute to the future described in this comic?
+
+- [Hank](/Hank): There are universal ideas/impulses, and the dream of flight may be one of them
+  - "Jetman," wingsuits, vertical wind tunnels
+  - Ben: So maybe members of SolSeed could use/share that impulse and help engineer the batfolk in the first place
+
+- Ben: Large group going to Mars would do it for various reasons
+  - Hank: China is doing docking maneuvers in space
+    - Ben: Probably trying to demonstrate national superiority
+    - Hank: They claim it's for the benefit of humanity
+  - Ben: Google Lunar X-Prize
+  - Hank: SpaceX
+  - Ben: Comm sats
+  - Hank: Spy sats
+
+- [Lion](/Lion): Integrate Eric's vision of trees growing on comets into your comic
+
+- [Brandon](/Brandon): SolSeed might go through a schism
+  - [Eric](/Eric): between those who are focused on "shiny" (fast route to the stars) vs. "green" (slow route/[Dyson trees](/Dyson_trees))
+  - Brandon: purification of various strains, ex. some "green" people work on healing Earth
+    - Eric: maybe to fix the mistake a SolSeeder made in releasing overly-successful CO2 eaters in the first place (a desperate and misguided attempt to solve the climate crisis, which caused a massive ecosystem crash)
+    - Brandon: that could have caused a massive exodus from the movement out of embarrassment

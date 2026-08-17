@@ -27,6 +27,7 @@ test("renders the public page, history, revision, source, diff, and archive data
       "archive-data/pages/1/page.json",
       "archive-data/pages/1/revisions/101.wiki",
       "archive-data/pages/1/revisions/103.wiki",
+      "archive-data/pages/1/revisions/104.md",
     ]) assert.match(await readFile(join(output, file), "utf8"), /./, file);
     const history = await readFile(join(output, "history/SolSeed/index.html"), "utf8");
     assert.ok(history.indexOf("Revision 103") < history.indexOf("Revision 102"));
@@ -38,8 +39,13 @@ test("renders the public page, history, revision, source, diff, and archive data
     const controls = await readFile(join(output, "assets/history-controls.js"), "utf8");
     assert.match(controls, /selectRevisionPair/); assert.match(controls, /renderSplitDiff/); assert.match(controls, /renderInlineDiff/);
     const archivePage = JSON.parse(await readFile(join(output, "archive-data/pages/1/page.json"), "utf8"));
-    assert.equal(archivePage.revisions.length, 3); assert.equal(archivePage.revisions[0].revision_id, "101");
+    assert.equal(archivePage.revisions.length, 4); assert.equal(archivePage.revisions[0].revision_id, "101");
     assert.equal(archivePage.revisions[0].source, undefined);
+    const current = await readFile(join(output, "SolSeed/index.html"), "utf8");
+    assert.match(current, /<h2[^>]*>A Markdown heading<\/h2>/);
+    assert.match(current, /<a href="\/Template:Example">namespaced link<\/a>/);
+    assert.match(current, /archive of the SolSeed wiki as it existed in 2018/i);
+    assert.doesNotMatch(current, /\b(?:edit|sign up|log in|create account)\b/i);
   } finally { await rm(output, { recursive: true, force: true }); }
 });
 

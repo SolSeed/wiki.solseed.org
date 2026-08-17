@@ -1,0 +1,121 @@
+### Agenda
+- Good News/Check In
+- Review WWWs
+- Weekly Events Logistics
+- Review Agenda
+- Holacracy Stewards Workbee … Of Note ... Work on Purpose, Domains, Accountabilities for Contributors (20 min)
+- [Sol 2014](/Sol_2014) … reports and take WWWs
+- Naturalistic Pagans
+- Evaluation
+
+#### Items for Thursday’s meeting
+- Fifth liturgical season
+- Kindred 2015 … new camp, potential co-conveners
+
+### Gratinews
+- Eric … I am grateful that UUFO has asked me to be the speaker at a service in September and talk about my journey to SolSeed
+- Brandon … I am grateful that John Halstead from http://humanisticpaganism.com has asked us to write a post for them about SolSeed, and I found a camp with lodges and cabins and stuff that I think will be really good for Kindred 2015.
+- Ben … I am grateful that I am almost done for my friend Saab’s new website and I also got some work done on the SolSeed video.
+
+### WWWs from last time
+- Ben ... follow your topical community protocol for this week ... ongoing
+- Ben ... meditate and keep track of which days ... ongoing
+- Ben ... finish a draft of the animation for the 30-second video ... by next call
+- Brandon ... follow your topical community protocol for this week ... ongoing
+- <s>Brandon ... meditate and keep track of which days ... ongoing
+- Brandon … reread the governance meeting protocol … by next weekend
+- Brandon … prepare for the next holacracy governance meeting … by next weekend
+- Brandon … invite Paul to Sol 2014 … by tomorrow</s>
+- Brandon … reimburse Eric for plane ticket … by Tuesday (check and envelope ready but not mailed)
+- <s>Brandon … put together a food budget and shopping list for Sol 2014 … by next weekend</s>
+- Eric ... follow your topical community protocol for this week ... ongoing
+- Eric ... meditate and keep track of which days ... ongoing
+- Eric … prepare for the next holacracy governance meeting … by next weekend
+- Eric … do the exercise about what we want to get out of the Sol2014 with Patrick .. by next meeting
+- Eric … read the results of the Sol2014 exercise … by next meeting
+- Eric … come up with a list of actions for the 5th season ritual … by next meeting
+
+### WWWs
+- Eric ... follow your topical community protocol for this week ... ongoing
+- Eric ... meditate and keep track of which days ... ongoing
+- Eric … prepare for the next holacracy governance meeting … by Thursday
+- Eric … do the exercise about what we want to get out of the Sol2014 with Patrick .. by Thursday
+- Eric … read the results of the Sol2014 exercise … by Thursday
+- Eric … come up with a list of actions for the 5th season ritual … by Thursday
+- Eric … redraft the Empathy Orientation Email … by Thursday
+- Eric … write a post for HP.com … by Thursday
+- Brandon ... follow your topical community protocol for this week ... ongoing
+- Brandon ... meditate and keep track of which days ... ongoing
+- Brandon … put the check to Eric in the mail tomorrow … by Monday
+- Brandon … examine the mechanism for assigning/electing Lead Link … by next week
+- Brandon … ask Shelley to be part of the stewards circle … by next week
+- Brandon … propose the contributors purpose, domains, accountabilities via the email process …  by next week
+- Brandon … verify 6:30-7:30pm Pacific on Thursdays for an additional SolSeed meeting … by next Thursday
+- Brandon … revise the design, check whether people want them (Eric wants a large) and what size … by Thursday
+- Brandon … consider fire dance materials, special bags, water containers, etc … by Thursday
+- Brandon … put together a “things to bring” list … by Thursday
+- Brandon … schedule a get together with Sarvata’s to work on Sol 2014 … by Thursday
+- Ben ... follow your topical community protocol for this week ... ongoing
+- Ben ... meditate and keep track of which days ... ongoing
+- Ben ... finish a draft of the animation for the 30-second video ... by next call
+- Ben … buy train tickets for Sol 2014 … by tonight
+- Ben … familiarize myself with the Humanistic Paganism website … by next call
+
+### Weekly Events Logistics
+Service rotation: Eric, Shelley, Brandon, Ben
+- June 5 Work-Bee 18:30 PDT (21:30 EDT)
+- June 7 Service: 9:00 am PDT (12:00 EDT) (Ben)(Fifth week of the Diversitas)(Sanders at Family Reunion)
+- June 8 Work-Bee: 1:30 pm PDT (16:30 EDT)(Sanders at Family Reunion)
+
+### Holacracy Stewards Workbee … Of Note ... Work on Purpose, Domains, Accountabilities for Contributors  (20 min)
+- Brandon learned that there is sometimes no Lead Link in the outermost circle (for example the Holacracy One’s organization), and that the Lead Link in a circle is usually in charge of assigning non-elected roles
+- Brandon wants to work on the purpose, domains, and accountabilities of the Contributors Circle
+- Eric proposes that only Stewards can select other Stewards
+  - Brandon agrees, saying that typical open-source projects don’t become successful democracies until later in their lives
+
+Purpose for the Contributors Circle
+- Start with “Expressing the Arete of Life ... it is in Life's nature to flower and spread, even to the stars”
+
+Domains for the Contributors Circle
+- All SolSeed Movement property and ordinary operations
+- Relationships with kindred groups and people
+
+Accountabilities for the Contributors Circle
+- Ensuring that our individual and collective words and actions are aligned with our highest aspirations (cultivating the spiritual/religious fruits of the SolSeed Movement)
+- Choosing and Managing SolSeed Movement projects and ensuring that they align with the values of the SolSeed Movement
+- Documenting the SolSeed Movement and Practices
+- Recruiting New Members
+- Ensuring that Members are well cared for
+- Non-Stewards in this circle should regularly report on progress to the Stewards Circle
+
+Purpose for the Stewards Circle
+- Expressing the Arete of Life ... it is in Life's nature to flower and spread, even to the stars
+
+Domains Reserved for the Stewards Circle (Not to be devolved)
+- The SolSeedCreed and other core expressions of values and beliefs including our Highest Aspirations
+
+Accountabilities Reserved for the Stewards Circle (Not to be devolved)
+- Appointing the Lead Link for the Contributors Circle
+- Appointing new Stewards
+- Determining the basic structure of the organization (i.e. how Stewards are selected, what sub-circles to create under Stewards, and even whether or not to keep using Holacracy)
+
+Scheduling the next Holacracy meeting
+- Brandon is okay with just Ben and Eric doing it, but then Brandon shouldn’t be the one to prepare for it
+- Eric suggests a weekday evening time, which helps to maintain progress through the summer
+  - Brandon suggests this would be the “backup business meeting”
+    - Eric prefers just having both meetings every week (except in case of scheduling conflicts)
+  - Eric is willing to go as late as 10-11 PM Eastern, 7-8 PM Pacific
+  - Brandon says Thursday is by far the best day for him, because Shelley is home that evening
+
+### Sol 2014
+#### YayLifeTri supplies
+- Eric still has medals from last year
+- Brandon will work on t-shirts
+  - Ben doesn’t want another one
+  - Also this time we don’t need to order a bunch for supposed extra participants
+- Ben will take his bike on the train, but Eric won't bring one from Ottawa
+
+### Evaluation
+- Brandon …  I am excited and having fun … thank you guys!  I think we are getting close to being ready to become an official organization.
+- Eric … I feel like adding a second work bee meeting is really the right thing to do to get in gear
+- Ben … I feel like we thought we were getting in gear when we created the financing spreadsheet but that didn’t really accelerate our concrete progress, and now it is feeling like we are becoming less lethargic.

@@ -1,0 +1,48 @@
+{
+  "canonical_path": "/File:Fortress3.jpg",
+  "current_revision_id": "43271",
+  "database_title": "Fortress3.jpg",
+  "display_title": "File:Fortress3.jpg",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 6,
+  "original_revision_count": 1,
+  "page_id": "27673",
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "EricSaumur",
+      "comment": "Preliminary sketch of the great walled city which is the setting of Gaia Calls Us To Parlay.",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": "43271",
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": "41145",
+      "same_as_previous_public": false,
+      "timestamp": "2017-12-05T02:34:24Z",
+      "wikitext_bytes": 92,
+      "wikitext_sha256": "7242458ae078ccd6095b3f949738d96741e5bfd7ca468c79b72ed046c6441622",
+      "source_format": "wikitext",
+      "source_extension": "wiki"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 41145,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 93,
+      "markdown_sha256": "d2f9c943cba0ac7c73b3ef4f4eb3740d1310b5943aec35f1fb312bd675543b94",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": "41145",
+      "previous_public_revision_id": "41145",
+      "revision_id": "43271",
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z",
+      "wikitext_bytes": 93,
+      "wikitext_sha256": "d2f9c943cba0ac7c73b3ef4f4eb3740d1310b5943aec35f1fb312bd675543b94",
+      "source_extension": "md"
+    }
+  ],
+  "site_revision_count": 1
+}

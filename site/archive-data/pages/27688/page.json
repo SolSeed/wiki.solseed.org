@@ -1,0 +1,48 @@
+{
+  "canonical_path": "/---Unconference",
+  "current_revision_id": "43286",
+  "database_title": "---Unconference",
+  "display_title": "---Unconference",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 1,
+  "page_id": "27688",
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "Brandon CS Sanders",
+      "comment": "Created page with \"=== Name: TBD ===  === Unconference === Venue * Next question for Walt: Is the Village Helix at the usual time (Memorial Day weekend)? * Ben: Concerned about being able to Skype ...\"",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": "43286",
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": "41195",
+      "same_as_previous_public": false,
+      "timestamp": "2018-02-25T17:27:58Z",
+      "wikitext_bytes": 1579,
+      "wikitext_sha256": "5b4928a2cc0234e4344a28a6dc6b7bdb15fb14a2993f2dce3b2cdbe24df6f92c",
+      "source_format": "wikitext",
+      "source_extension": "wiki"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 41195,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 1569,
+      "markdown_sha256": "7b1f947a227a3c6ed0e890a4fd84490a431f1dabd614923c37d0c799b4b7b153",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": "41195",
+      "previous_public_revision_id": "41195",
+      "revision_id": "43286",
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z",
+      "wikitext_bytes": 1569,
+      "wikitext_sha256": "7b1f947a227a3c6ed0e890a4fd84490a431f1dabd614923c37d0c799b4b7b153",
+      "source_extension": "md"
+    }
+  ],
+  "site_revision_count": 1
+}

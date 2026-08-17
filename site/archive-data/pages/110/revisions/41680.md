@@ -1,0 +1,12 @@
+[SolSeed](/SolSeed) < [SolSeedPhilosophy](/SolSeedPhilosophy) < [Pragmatism](/Pragmatism)
+*
+[Pragmatism](/Pragmatism) keeps us bound to reality.
+Without [Pragmatism](/Pragmatism),
+[Hope](/Hope) would become wishful thinking,
+[Creativity](/Creativity) would lead only to impractical fantasies,
+and [Perseverance](/Perseverance) would ultimately get us nowhere.
+*
+
+Pragmatism is about "doing the best we can with what we've got."  It's about recognizing that the world and human nature don't necessarily work the way we'd like them to, and that we'll have to adapt to them rather than forcing them to adapt to us.  It's about patience, too: [Perseverance](/Perseverance) is necessary because the reality is that the drastic changes we need to make won't happen quickly (or if somehow they do, then they surely won't last).
+
+[SolSeedVirtues](/Category:SolSeedVirtues)

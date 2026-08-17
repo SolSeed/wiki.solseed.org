@@ -1,0 +1,48 @@
+{
+  "canonical_path": "/File:SESolsticeGroupPhoto.jpg",
+  "current_revision_id": "43125",
+  "database_title": "SESolsticeGroupPhoto.jpg",
+  "display_title": "File:SESolsticeGroupPhoto.jpg",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 6,
+  "original_revision_count": 1,
+  "page_id": "27527",
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "BenSibelman",
+      "comment": "All participants in [[A Space Elevator Solstice]] except Rodrigo, space-elevator company founder Michael Laine, and his girlfriend Gwen.",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": "43125",
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": "40713",
+      "same_as_previous_public": false,
+      "timestamp": "2016-01-22T06:02:07Z",
+      "wikitext_bytes": 136,
+      "wikitext_sha256": "531c67e320ec7570e8a90054b1963aa767eee6c928f80ba66700e757f1b151ff",
+      "source_format": "wikitext",
+      "source_extension": "wiki"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 40713,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 163,
+      "markdown_sha256": "36ecced7e2307b373a40e2917d312cd8cc1578241bf743b5c3ee82d581ea9411",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": "40713",
+      "previous_public_revision_id": "40713",
+      "revision_id": "43125",
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z",
+      "wikitext_bytes": 163,
+      "wikitext_sha256": "36ecced7e2307b373a40e2917d312cd8cc1578241bf743b5c3ee82d581ea9411",
+      "source_extension": "md"
+    }
+  ],
+  "site_revision_count": 1
+}

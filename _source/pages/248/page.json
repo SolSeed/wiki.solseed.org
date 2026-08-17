@@ -1,0 +1,43 @@
+{
+  "canonical_path": "/WhoAreKindred",
+  "current_revision_id": 41814,
+  "database_title": "WhoAreKindred",
+  "display_title": "WhoAreKindred",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 1,
+  "page_id": 248,
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "Shelley Schoepflin Sanders",
+      "comment": "New page: Saturday morning conference calls * [[UpwardSpiralChurch]] ... Art and Mickey in Denver: looking to start something similar to SolSeed, but not with similar ultimate aims * [[Spiriata]] .....",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 41814,
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": 668,
+      "same_as_previous_public": false,
+      "timestamp": "2009-03-18T15:18:32Z",
+      "wikitext_bytes": 2157,
+      "wikitext_sha256": "f8138b6ff7a73aeaec98ce751bd4a73ef19c640c2bf8fb511bae76475f5eb5cb"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 668,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 2242,
+      "markdown_sha256": "e1e5731efd1ccb35c018aa480020a01cab2a158adefd9faace54fca505c7844e",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": 668,
+      "previous_public_revision_id": 668,
+      "revision_id": 41814,
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z"
+    }
+  ],
+  "site_revision_count": 1
+}

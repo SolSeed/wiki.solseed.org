@@ -1,0 +1,43 @@
+{
+  "canonical_path": "/File:DeepTimeRosary.jpg",
+  "current_revision_id": 42915,
+  "database_title": "DeepTimeRosary.jpg",
+  "display_title": "File:DeepTimeRosary.jpg",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 6,
+  "original_revision_count": 1,
+  "page_id": 27315,
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "EricSaumur",
+      "comment": "A photo of a deep time rosary layed out on a yellow cloth in a spiral",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 42915,
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": 40051,
+      "same_as_previous_public": false,
+      "timestamp": "2014-10-13T14:58:19Z",
+      "wikitext_bytes": 69,
+      "wikitext_sha256": "9f7cd26c8b1fefc8bf45ba6de4468bb5b7b2c257b3b98d5694c851346b30878c"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 40051,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 70,
+      "markdown_sha256": "6926ad3137a8c153903fddadacd8cefff231b46375ab5d5da6def53fa38ca149",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": 40051,
+      "previous_public_revision_id": 40051,
+      "revision_id": 42915,
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z"
+    }
+  ],
+  "site_revision_count": 1
+}

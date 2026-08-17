@@ -1,0 +1,82 @@
+{
+  "canonical_path": "/2009.02.07",
+  "current_revision_id": 41773,
+  "database_title": "2009.02.07",
+  "display_title": "2009.02.07",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 4,
+  "page_id": 207,
+  "published_revision_count": 4,
+  "revisions": [
+    {
+      "author": "TedErnst",
+      "comment": "New page: < [[Group Experiences]]  === 2009.02.07 (Arthur) Call - Agenda ===  *  Opening words - 5 mins *  Check in with everyone - 10 mins *  Deeper topic conversation - 30 mins *  What's next / ho...",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 527,
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": 526,
+      "same_as_previous_public": false,
+      "timestamp": "2009-02-07T21:05:23Z",
+      "wikitext_bytes": 7269,
+      "wikitext_sha256": "4330f9b26d548114720bcdebb883c2006ccae6c9ee7290aa4b4d7e955486d82f"
+    },
+    {
+      "author": "TedErnst",
+      "comment": "[[February 07, 2009]] moved to [[2009.02.07]]",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 529,
+      "original_parent_revision_id": 526,
+      "previous_public_revision_id": 526,
+      "revision_id": 527,
+      "same_as_previous_public": true,
+      "timestamp": "2009-02-07T21:07:09Z",
+      "wikitext_bytes": 7269,
+      "wikitext_sha256": "4330f9b26d548114720bcdebb883c2006ccae6c9ee7290aa4b4d7e955486d82f"
+    },
+    {
+      "author": "TedErnst",
+      "comment": "",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 530,
+      "original_parent_revision_id": 527,
+      "previous_public_revision_id": 527,
+      "revision_id": 529,
+      "same_as_previous_public": false,
+      "timestamp": "2009-02-07T21:08:24Z",
+      "wikitext_bytes": 7303,
+      "wikitext_sha256": "89bc0e3c1a922aceb1995293acd831b4a0d4977a3f103ef22092a7df3d02f25c"
+    },
+    {
+      "author": "TedErnst",
+      "comment": "/* Closing Words */",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 41773,
+      "original_parent_revision_id": 529,
+      "previous_public_revision_id": 529,
+      "revision_id": 530,
+      "same_as_previous_public": false,
+      "timestamp": "2009-02-07T21:09:18Z",
+      "wikitext_bytes": 7294,
+      "wikitext_sha256": "de61c0ec5518f753259d94f061794b770d86460e42da4a0caa77ed0368f84a1c"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 530,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 7192,
+      "markdown_sha256": "d0b01e5daf290c3561ef308bfae741ddd94a93706adcb8f12769e8df1d21a6fa",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": 530,
+      "previous_public_revision_id": 530,
+      "revision_id": 41773,
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z"
+    }
+  ],
+  "site_revision_count": 1
+}

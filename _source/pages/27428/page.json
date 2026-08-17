@@ -1,0 +1,43 @@
+{
+  "canonical_path": "/File:EddiesPuddle.jpg",
+  "current_revision_id": 43026,
+  "database_title": "EddiesPuddle.jpg",
+  "display_title": "File:EddiesPuddle.jpg",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 6,
+  "original_revision_count": 1,
+  "page_id": 27428,
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "EricSaumur",
+      "comment": "On the morning after I met Eddie (2015-03-21), I returned to where I found him.  The puddle had frozen solid and the first snow of spring had covered it.",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 43026,
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": 40426,
+      "same_as_previous_public": false,
+      "timestamp": "2015-03-21T14:52:23Z",
+      "wikitext_bytes": 153,
+      "wikitext_sha256": "b9e947852bf0ae361ececc381a56721a45041ce63b1d30d936fde5d127e07b74"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 40426,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 154,
+      "markdown_sha256": "d67241a6e9d6304e6230fdf66ae3d779c07d01ad1dd2d35babc91df73a6d4938",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": 40426,
+      "previous_public_revision_id": 40426,
+      "revision_id": 43026,
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z"
+    }
+  ],
+  "site_revision_count": 1
+}

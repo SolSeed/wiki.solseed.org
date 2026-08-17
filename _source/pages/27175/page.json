@@ -1,0 +1,43 @@
+{
+  "canonical_path": "/File:FightingForWhatYouKnowIsWrong.jpg",
+  "current_revision_id": 42778,
+  "database_title": "FightingForWhatYouKnowIsWrong.jpg",
+  "display_title": "File:FightingForWhatYouKnowIsWrong.jpg",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 6,
+  "original_revision_count": 1,
+  "page_id": 27175,
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "EricSaumur",
+      "comment": "Image taken from http://upload.wikimedia.org/wikipedia/commons/4/45/Jacob_Wrestling_with_the_Angel.jpg and edited to focus on the combattants and with the words added: \"Sometimes, you must fight for what you know is wrong, in another frame of reference.\"",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 42778,
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": 39505,
+      "same_as_previous_public": false,
+      "timestamp": "2013-12-15T20:51:14Z",
+      "wikitext_bytes": 254,
+      "wikitext_sha256": "56be4d1db796e6aa5c598f8174cbc5510c7c7de5eb391ee9f00f39e37ddbb38e"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 39505,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 255,
+      "markdown_sha256": "6513bd618467f3397c2ca6f2db64623d042d82726d6ed74393900e2985b7848e",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": 39505,
+      "previous_public_revision_id": 39505,
+      "revision_id": 42778,
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z"
+    }
+  ],
+  "site_revision_count": 1
+}

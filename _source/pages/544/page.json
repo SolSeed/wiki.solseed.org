@@ -1,0 +1,43 @@
+{
+  "canonical_path": "/Book_37",
+  "current_revision_id": 42103,
+  "database_title": "Book_37",
+  "display_title": "Book 37",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 1,
+  "page_id": 544,
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "Brandon CS Sanders",
+      "comment": "New page: Book 37 is part of the [[SolSeed Book Program]].  Did you get Book 37?  We'd love to see all of the places Book 37 has been and meet all the people who have read it.  If you've encountered...",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 42103,
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": 1440,
+      "same_as_previous_public": false,
+      "timestamp": "2010-04-05T01:58:00Z",
+      "wikitext_bytes": 440,
+      "wikitext_sha256": "060aa7382fd47d191c0eba6b33992884353426e259d6751dc5f883eb8840925e"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 1440,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 511,
+      "markdown_sha256": "cbfd3ed7d10d0f9dfaac2515899135d3d42ef2327f76ef0d150c0c810e57d59f",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": 1440,
+      "previous_public_revision_id": 1440,
+      "revision_id": 42103,
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z"
+    }
+  ],
+  "site_revision_count": 1
+}

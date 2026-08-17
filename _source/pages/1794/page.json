@@ -1,0 +1,43 @@
+{
+  "canonical_path": "/File:Pledge_to_ignore_campaign_ads.jpg",
+  "current_revision_id": 42473,
+  "database_title": "Pledge_to_ignore_campaign_ads.jpg",
+  "display_title": "File:Pledge to ignore campaign ads.jpg",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 6,
+  "original_revision_count": 1,
+  "page_id": 1794,
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "BenSibelman",
+      "comment": "An image [[Ben]] is sharing around the Web in order to combat the flood of corporate campaign contributions for the 2012 elections.",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 42473,
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": 3443,
+      "same_as_previous_public": false,
+      "timestamp": "2011-10-28T03:59:35Z",
+      "wikitext_bytes": 131,
+      "wikitext_sha256": "1eaa7042d6f7f5d1dcffc8f9da0f3c5c8e0db20e64b6c7946d3a33a1ee559a3d"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 3443,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 136,
+      "markdown_sha256": "c8ce45705d1f9734a31d4a623f10aa1a9ebac1d9966482ad54c0f34316b90547",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": 3443,
+      "previous_public_revision_id": 3443,
+      "revision_id": 42473,
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z"
+    }
+  ],
+  "site_revision_count": 1
+}

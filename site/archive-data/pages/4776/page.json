@@ -1,0 +1,48 @@
+{
+  "canonical_path": "/Template:Reflist-talk",
+  "current_revision_id": "42506",
+  "database_title": "Reflist-talk",
+  "display_title": "Template:Reflist-talk",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 10,
+  "original_revision_count": 1,
+  "page_id": "4776",
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "EricSaumur",
+      "comment": "Created page with \"{{Documentation subpage}} <!-- PLEASE ADD CATEGORIES AND INTERWIKIS AT THE BOTTOM OF THIS PAGE -->  This template is a version of {{tl|reflist}} designed to show a reference sect...\"",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": "42506",
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": "6822",
+      "same_as_previous_public": false,
+      "timestamp": "2012-03-01T04:32:21Z",
+      "wikitext_bytes": 1472,
+      "wikitext_sha256": "391d5b646576aaa8e5502aa1126994e648471fc4ad56f326824eaf62b2264c77",
+      "source_format": "wikitext",
+      "source_extension": "wiki"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 6822,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 1613,
+      "markdown_sha256": "e38a61ba6573cb0b3d940c92c3d374a14f86dfd475eb969967aa86f7f5e6c6e6",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": "6822",
+      "previous_public_revision_id": "6822",
+      "revision_id": "42506",
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z",
+      "wikitext_bytes": 1613,
+      "wikitext_sha256": "e38a61ba6573cb0b3d940c92c3d374a14f86dfd475eb969967aa86f7f5e6c6e6",
+      "source_extension": "md"
+    }
+  ],
+  "site_revision_count": 1
+}

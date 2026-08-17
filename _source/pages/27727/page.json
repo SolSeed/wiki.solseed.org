@@ -1,0 +1,43 @@
+{
+  "canonical_path": "/Mammalia",
+  "current_revision_id": 43325,
+  "database_title": "Mammalia",
+  "display_title": "Mammalia",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 1,
+  "page_id": 27727,
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "EricSaumur",
+      "comment": "Created page with \"Mammalia is a SolSeed Goddess.  As such she is a personification not a person.  She represents the body of all Mammals and she is pictured as a woman entirely covered in fur with...\"",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 43325,
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": 41426,
+      "same_as_previous_public": false,
+      "timestamp": "2018-06-28T02:35:00Z",
+      "wikitext_bytes": 910,
+      "wikitext_sha256": "743fa17f4dc4685ac138953b98d471d21b82c7db91ed2b4df9870daa2ee3fa2e"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 41426,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 911,
+      "markdown_sha256": "4047f75842af7786f1aca70526e126aa42487571959291f2dc7570fcf10506e5",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": 41426,
+      "previous_public_revision_id": 41426,
+      "revision_id": 43325,
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z"
+    }
+  ],
+  "site_revision_count": 1
+}

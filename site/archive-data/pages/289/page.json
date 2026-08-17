@@ -1,0 +1,63 @@
+{
+  "canonical_path": "/The_Untethered_Soul",
+  "current_revision_id": "41854",
+  "database_title": "The_Untethered_Soul",
+  "display_title": "The Untethered Soul",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 2,
+  "page_id": "289",
+  "published_revision_count": 2,
+  "revisions": [
+    {
+      "author": "Brandon CS Sanders",
+      "comment": "New page: For more about the book see http://www.untetheredsoul.com/  The members and friends of the [[SolSeedMovement]] are reading this book in preparation for [[Sol2009]] in late June 2009.",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": "765",
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": "763",
+      "same_as_previous_public": false,
+      "timestamp": "2009-04-28T15:14:15Z",
+      "wikitext_bytes": 182,
+      "wikitext_sha256": "85aaa3af9108ef37d94991ada0cbf707b779fe8479065e9e8632c0e50bbbb0a7",
+      "source_format": "wikitext",
+      "source_extension": "wiki"
+    },
+    {
+      "author": "Brandon CS Sanders",
+      "comment": "",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": "41854",
+      "original_parent_revision_id": "763",
+      "previous_public_revision_id": "763",
+      "revision_id": "765",
+      "same_as_previous_public": false,
+      "timestamp": "2009-04-28T15:18:03Z",
+      "wikitext_bytes": 218,
+      "wikitext_sha256": "94a306850f3132232c7fdd5db2d4987a0b2e1ca24398b38cc59e53fc77a9d280",
+      "source_format": "wikitext",
+      "source_extension": "wiki"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 765,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 276,
+      "markdown_sha256": "d4d8205956478016cf95ebf6e0bd2332d4f6049c0c3c51b4fa6ea54fbe5afc31",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": "765",
+      "previous_public_revision_id": "765",
+      "revision_id": "41854",
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z",
+      "wikitext_bytes": 276,
+      "wikitext_sha256": "d4d8205956478016cf95ebf6e0bd2332d4f6049c0c3c51b4fa6ea54fbe5afc31",
+      "source_extension": "md"
+    }
+  ],
+  "site_revision_count": 1
+}

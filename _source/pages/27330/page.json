@@ -1,0 +1,43 @@
+{
+  "canonical_path": "/File:EricAtPodium.jpg",
+  "current_revision_id": 42929,
+  "database_title": "EricAtPodium.jpg",
+  "display_title": "File:EricAtPodium.jpg",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 6,
+  "original_revision_count": 1,
+  "page_id": 27330,
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "EricSaumur",
+      "comment": "Image of [[Eric Saumur]] speaking at the UUFO podium.",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 42929,
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": 40129,
+      "same_as_previous_public": false,
+      "timestamp": "2014-10-19T23:13:38Z",
+      "wikitext_bytes": 53,
+      "wikitext_sha256": "921fc602fffa18a92535fb6c4d1891e937b57a6751ddcb0a9a1f9b5ab63dd148"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 40129,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 66,
+      "markdown_sha256": "6eeb3b886ae33450c4db5f706c9a747a08a8ea6ef0d77abaaa0c533aa7d5387f",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": 40129,
+      "previous_public_revision_id": 40129,
+      "revision_id": 42929,
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z"
+    }
+  ],
+  "site_revision_count": 1
+}

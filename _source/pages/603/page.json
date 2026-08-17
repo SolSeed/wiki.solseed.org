@@ -1,0 +1,82 @@
+{
+  "canonical_path": "/30-second_spot",
+  "current_revision_id": 42159,
+  "database_title": "30-second_spot",
+  "display_title": "30-second spot",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 4,
+  "page_id": 603,
+  "published_revision_count": 4,
+  "revisions": [
+    {
+      "author": "BenSibelman",
+      "comment": "Created page",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 1556,
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": 1554,
+      "same_as_previous_public": false,
+      "timestamp": "2010-05-13T04:11:02Z",
+      "wikitext_bytes": 2251,
+      "wikitext_sha256": "06ec7e5ed23cbfea8fbd90d83a9477d5a70f2bc7ef5778972933ece12e58c0ac"
+    },
+    {
+      "author": "BenSibelman",
+      "comment": "/* Part 3 */ Added a link",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 1557,
+      "original_parent_revision_id": 1554,
+      "previous_public_revision_id": 1554,
+      "revision_id": 1556,
+      "same_as_previous_public": false,
+      "timestamp": "2010-05-13T04:18:53Z",
+      "wikitext_bytes": 2295,
+      "wikitext_sha256": "ffb42cdbe5425f37c2fc8372ab07e5488a65fa24aea26c5d640639e158581a11"
+    },
+    {
+      "author": "BenSibelman",
+      "comment": "/* Part 2 */ minor word choice change",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 1565,
+      "original_parent_revision_id": 1556,
+      "previous_public_revision_id": 1556,
+      "revision_id": 1557,
+      "same_as_previous_public": false,
+      "timestamp": "2010-05-13T04:19:33Z",
+      "wikitext_bytes": 2294,
+      "wikitext_sha256": "b33fad50a8e391fbfdf1e1a1e3dcc9db0597c1614b9847d9ee07730f987be997"
+    },
+    {
+      "author": "BenSibelman",
+      "comment": "Elaborated on the pullback sequence",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 42159,
+      "original_parent_revision_id": 1557,
+      "previous_public_revision_id": 1557,
+      "revision_id": 1565,
+      "same_as_previous_public": false,
+      "timestamp": "2010-05-16T01:25:46Z",
+      "wikitext_bytes": 2791,
+      "wikitext_sha256": "a147ae53ac4cedbdaf1ce7cbb01983314879c0a07645347ca909d3f7868a785d"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 1565,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 2839,
+      "markdown_sha256": "efc4084aed99e99f3da2a01fc7f23b3571d8cb652f184495c66fb9bb95cc37cf",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": 1565,
+      "previous_public_revision_id": 1565,
+      "revision_id": 42159,
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z"
+    }
+  ],
+  "site_revision_count": 1
+}

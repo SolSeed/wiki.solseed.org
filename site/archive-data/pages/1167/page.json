@@ -1,0 +1,48 @@
+{
+  "canonical_path": "/File:Molly_face_painting.JPG",
+  "current_revision_id": "42428",
+  "database_title": "Molly_face_painting.JPG",
+  "display_title": "File:Molly face painting.JPG",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 6,
+  "original_revision_count": 1,
+  "page_id": "1167",
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "BenSibelman",
+      "comment": "Molly painting a visitor's face at our [[Earth Day 2011]] booth.",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": "42428",
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": "2590",
+      "same_as_previous_public": false,
+      "timestamp": "2011-05-07T23:13:03Z",
+      "wikitext_bytes": 64,
+      "wikitext_sha256": "6c43696817bdb98d20a06bc09c88cecd02249d2f3161570ad51097ebbf2d5517",
+      "source_format": "wikitext",
+      "source_extension": "wiki"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 2590,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 80,
+      "markdown_sha256": "f069a85b31451b7378bd4f71bd83893c0d7554c46c2975c01cbe52ed5a7cc956",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": "2590",
+      "previous_public_revision_id": "2590",
+      "revision_id": "42428",
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z",
+      "wikitext_bytes": 80,
+      "wikitext_sha256": "f069a85b31451b7378bd4f71bd83893c0d7554c46c2975c01cbe52ed5a7cc956",
+      "source_extension": "md"
+    }
+  ],
+  "site_revision_count": 1
+}

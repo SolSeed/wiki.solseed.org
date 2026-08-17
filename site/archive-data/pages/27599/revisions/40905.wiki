@@ -1,0 +1,32 @@
+Civilization has no plan for failure. The general assumption is that if the world as we know it comes to an end, either everyone will die or the few survivors will have to fend for themselves in a Hobbesian war of all against all, with no hope of restoring anything close to our present level of technology or First World standards of health and comfort. With only minor exceptions, everyone who worries about doomsday scenarios such as runaway climate disruption or an artificial-intelligence explosion is focused solely on prevention, not on limiting the damage, surviving through a dark age, or recovering and building a new, wiser civilization.
+
+What would it take to fill this gap? What can be done to plan for a collapse of civilization, and who is already doing relevant work along these lines? Could their efforts be brought together to form a coherent plan and an organization to implement it?
+
+My working title for such an organization is [[the ReSuRRECT Project]], for Resilience, Survival, and Rebuilding after a Runaway Excursion in Climate and Technology. Needless to say, the name needs work.
+
+Here are some preliminary thoughts on what can be done in each of the three categories:
+
+== Resilience: making systems collapse-proof ==
+* '''Food and agriculture:''' Convert as much of the world as possible to high-yield organic farming that doesn't require motorized farm equipment or industrially produced inputs. Possible partners:
+** The UN Conference on Trade and Development, which published the 2013 report [http://unctad.org/en/pages/PublicationWebflyer.aspx?publicationid=666 "Wake Up Before It Is Too Late"] on the necessity to move to organic farming on a global scale
+** [http://www.growbiointensive.org/index.html Ecology Action], a group that promotes and disseminates biointensive farming techniques, known for their Executive Director's book ''How to Grow More Vegetables Than You Ever Thought Possible on Less Land Than You Can Imagine''
+** [http://greenwave.org/ GreenWave], which has developed a simple and ecologically beneficial method of producing large amounts of edible kelp and shellfish
+
+* '''Politics and war:''' Get serious about rapidly and completely phasing out nuclear weapons, so that wars over dwindling resources during civilization's decline can't literally wipe out humanity. Possible partners:
+** Advocacy groups such as the [https://www.armscontrol.org/ Arms Control Association] and [http://www.wand.org Women's Action for New Directions] that work on this issue
+** [http://thebulletin.org The Bulletin of the Atomic Scientists], keeper of the famous Nuclear Doomsday Clock
+
+== Survival: learning to live through a dark age ==
+* '''Reskilling:''' Teach as many people as possible how to live a medieval lifestyle, perhaps gamifying the process to attract more participants. Possible partners:
+** [https://transitionnetwork.org/ The Transition Network], which [http://transitionus.org/knowledge-hub/themes/reskilling promotes reskilling] as a major aspect of their work
+** [http://ecovillage.org The Global Ecovillage Network], which connects communities around the world that are living sustainably, often with limited technology
+** [http://sca.org The Society for Creative Anachronism], which is dedicated to restoring the arts and skills of pre-17th-century Europe and could help make things more fun
+
+== Rebuilding: providing future generations with the tools to make a new, better civilization ==
+* '''Saving knowledge:''' Build and distribute many collapse-proof archives that store as much of what humanity currently knows about the world as possible. Possible partners:
+** [http://longnow.org The Long Now Foundation], which intends to build a "library for the deep future" to go with its underground 10,000 year Clock of the Long Now
+** [https://archive.org/ The Internet Archive] and its partner, the [http://www.bibalex.org/en/project/details?documentid=283 New Library of Alexandria]
+
+* '''The technology tree:''' Research and write a textbook for how to recover modern technology from a variety of starting points, with a built-in ethic of sustainability and prudence that guides people away from repeating the mistakes that lead to a collapse. Possible partners:
+** Open Source Ecology, creator of the [http://opensourceecology.org/wiki/Global_Village_Construction_Set Global Village Construction Set], a DIY system for building "the 50 different Industrial Machines that it takes to build a small, sustainable civilization with modern comforts"
+** [http://www.firaxis.com/ Firaxis Games], creator of the ''Civilization'' series of computer games (which all include simplified technology trees), which could help make things fun

@@ -1,0 +1,56 @@
+{
+  "canonical_path": "/Shiny_Green_Acorn_Festival",
+  "current_revision_id": 43168,
+  "database_title": "Shiny_Green_Acorn_Festival",
+  "display_title": "Shiny Green Acorn Festival",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 2,
+  "page_id": 27570,
+  "published_revision_count": 2,
+  "revisions": [
+    {
+      "author": "BenSibelman",
+      "comment": "Created page",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 40836,
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": 40835,
+      "same_as_previous_public": false,
+      "timestamp": "2016-08-27T20:08:29Z",
+      "wikitext_bytes": 2106,
+      "wikitext_sha256": "7487408bda719feb2930bd7e11129546ec4b260e854cd51a430e542486933e0d"
+    },
+    {
+      "author": "BenSibelman",
+      "comment": "/* Saturday */",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 43168,
+      "original_parent_revision_id": 40835,
+      "previous_public_revision_id": 40835,
+      "revision_id": 40836,
+      "same_as_previous_public": false,
+      "timestamp": "2016-08-27T20:08:59Z",
+      "wikitext_bytes": 2103,
+      "wikitext_sha256": "6d247884a13c2d3028211db3ef5bf56f11e6894f76726006c256fa516c674a6b"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 40836,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 2838,
+      "markdown_sha256": "100b31c6c239596b1361d86ed365deb9842c4701171327a7dfc0a63cccb192f1",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": 40836,
+      "previous_public_revision_id": 40836,
+      "revision_id": 43168,
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z"
+    }
+  ],
+  "site_revision_count": 1
+}

@@ -1,0 +1,82 @@
+{
+  "canonical_path": "/2009.01.22",
+  "current_revision_id": 41750,
+  "database_title": "2009.01.22",
+  "display_title": "2009.01.22",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 4,
+  "page_id": 184,
+  "published_revision_count": 4,
+  "revisions": [
+    {
+      "author": "Shelley Schoepflin Sanders",
+      "comment": "New page: ==Opening Words== [[SolSeed Creed]]  ==Discussion== *How does the SolSeed Creed work for folks? *Not for profit status  ==Homework== *Art discuss w/ Mom her research *Brandon create some k...",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 472,
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": 469,
+      "same_as_previous_public": false,
+      "timestamp": "2009-01-22T20:22:27Z",
+      "wikitext_bytes": 494,
+      "wikitext_sha256": "977deece203f9728e4a225c8b23614b4b48bc6dc8f8e451a90278df70cefe593"
+    },
+    {
+      "author": "TedErnst",
+      "comment": "",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 487,
+      "original_parent_revision_id": 469,
+      "previous_public_revision_id": 469,
+      "revision_id": 472,
+      "same_as_previous_public": false,
+      "timestamp": "2009-01-22T21:53:18Z",
+      "wikitext_bytes": 507,
+      "wikitext_sha256": "8f9e6f0c9872f5d317ec1dff7c7337efd5c0830707c8b0865344569b5814d17e"
+    },
+    {
+      "author": "Brandon CS Sanders",
+      "comment": "",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 523,
+      "original_parent_revision_id": 472,
+      "previous_public_revision_id": 472,
+      "revision_id": 487,
+      "same_as_previous_public": false,
+      "timestamp": "2009-01-29T16:30:02Z",
+      "wikitext_bytes": 522,
+      "wikitext_sha256": "5dfe10916b7ee51caf4ce589bcd291f5fefa2eff867225a59eefeab8892b6375"
+    },
+    {
+      "author": "Brandon CS Sanders",
+      "comment": "[[January 22, 2009]] moved to [[2009.01.22]]: Better URLs",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 41750,
+      "original_parent_revision_id": 487,
+      "previous_public_revision_id": 487,
+      "revision_id": 523,
+      "same_as_previous_public": true,
+      "timestamp": "2009-02-07T03:08:48Z",
+      "wikitext_bytes": 522,
+      "wikitext_sha256": "5dfe10916b7ee51caf4ce589bcd291f5fefa2eff867225a59eefeab8892b6375"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 523,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 562,
+      "markdown_sha256": "de1318bbd42d7aaa1f1f0eaecc981536dbab795dfd1ad9305235dae8f352df60",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": 523,
+      "previous_public_revision_id": 523,
+      "revision_id": 41750,
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z"
+    }
+  ],
+  "site_revision_count": 1
+}

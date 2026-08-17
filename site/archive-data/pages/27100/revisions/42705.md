@@ -1,0 +1,90 @@
+### Agenda
+- Check In
+- Review WWWs
+- Review Agenda
+- Weekly Events Logistics
+- Mid-Spring Event/Earth day Portland?
+- Sol 2013
+- Newsletter
+- Song (Skype session)
+- Possible SolSeed Village locations
+  - Waverly Commons
+  - Hobbits and Dwarves
+- Review Equinox (including wiki page)
+- Evaluation
+
+### Check In
+- Eric ... high on chocolate, feeling good (chocolate bunny was suddenly all eaten)
+- Ben ... feeling surprisingly good considering that I spent last night hooked up to a sleep measuring device ... I usually feel better when my alarm doesn't go off (today being one of those days)
+- Brandon ... I am well. 
+
+### WWWs from last time
+- Brandon ... follow your topical community protocol for this week ... ongoing
+- Brandon ... meditate and keep track of which days ... ongoing
+- Brandon ... add two more images for the SolSeedCreed v2.2 ... by next call
+- <s>Ben ... follow your topical community protocol for this week ... ongoing
+- Ben ... meditate and keep track of which days ... ongoing
+- Ben ... prepare my story for the equinox ... by two Saturdays ago
+- Ben ... copy the notes from three weeks ago to the wiki ... by tonight
+- Eric ... follow your topical community protocol for this week ... ongoing
+- Eric ... meditate and keep track of which days ... ongoing</s> (lost count in the second week)
+- Eric ... check out Les Brasseurs du Temps... by next call 
+
+### WWWs
+- Brandon ... follow your topical community protocol for this week ... ongoing
+- Brandon ... meditate and keep track of which days ... ongoing
+- Brandon ... watch Allan Savory's TED talk ... by next call
+- Brandon ... talk with Shelley about Earth Day and stuff (http://ecowiki.pdx.edu/opportunities/view/get-involved-psu-earth-day-festival) ... by next call
+- Brandon ... add two more images for the SolSeedCreed v2.2 ... by next call
+- Ben ... follow your topical community protocol for this week ... ongoing
+- Ben ... meditate and keep track of which days ... ongoing
+- Eric ... follow your topical community protocol for this week ... ongoing
+- Eric ... meditate and keep track of which days ... ongoing
+- Eric ... check out Les Brasseurs du Temps... by next call 
+- Eric... watch Allan Savory's TED talk ... by next call
+- Shelley ... put together photos from recent events (ice skating, story telling, etc) for the newsletter ... by next call
+
+### Weekly Events Logistics
+Service Saturday April 6, 9:00am PDT  12:00 EDT (Eric)
+Rotation: Brandon, Eric, Shelley, Ben
+
+Work-Bee Sunday April 7, 1:30 pm PDST 16:30 EDT
+
+Seeing Nature Readings and Practices: next is 2013-04-21 13:00 EST 
+
+### Mid-Spring event, Earth Day
+- Eric proposes Cinco de Mayo
+  - Shelley's birthday is May 7
+  - Shelley is on call April 27-29
+- What to do?
+  - Have some friends over
+  - Have a Maypole
+  - Plant a tree
+    - Eric could plant one near the cottage: http://www.meetup.com/SolSeed-Ottawa/events/111967942/
+    - Shelley has three pots that need trees
+- Earth day is April 21
+  - City Repair has canceled their event
+  - PSU has an event April 22: http://ecowiki.pdx.edu/opportunities/view/get-involved-psu-earth-day-festival
+  - Ben would prefer not to come to Portland
+- The Dalai Lama will be in town for an Environmental Summit on May 12: http://www.dalailamaportland2013.net/
+
+### Sol 2013
+Eric will get a minivan to get the Sanders and their luggage to the cottage on June 19, then come back for Ben later that evening
+
+### Newsletter
+- Ice skating on Groundhog Day
+- Storytelling for the Equinox
+- Working on the One-Page Plan
+
+### Portland EcoHouse Update
+- The remaining lot at Waverly Commons is on a corner, long and narrow
+  - This made Brandon widen his thinking to maybe going somewhere else (no farther than Sauvie Island) and building a hobbit house
+
+### Equinox
+- http://solseed.org/2013_Spring_Equinox_Storytelling_and_Suishi_Feast
+- Ben isn't sure that cameras with wide-angle lenses would be a good idea
+
+### Evaluation
+- Eric ... it's been good
+- Brandon ... I was kind of distractible and flighty today ... spring fever, I guess
+- Ben ... Really thankful to have good friends even though they are many miles away

@@ -1,0 +1,43 @@
+{
+  "canonical_path": "/File:Music_Festival_photo_for_newsletter.jpg",
+  "current_revision_id": 42413,
+  "database_title": "Music_Festival_photo_for_newsletter.jpg",
+  "display_title": "File:Music Festival photo for newsletter.jpg",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 6,
+  "original_revision_count": 1,
+  "page_id": 1071,
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "BenSibelman",
+      "comment": "A photo from the January 2011 [[Music Festival]], cropped and scaled down for use in the [[First Quarter 2011 Report]].",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 42413,
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": 2468,
+      "same_as_previous_public": false,
+      "timestamp": "2011-04-05T04:12:58Z",
+      "wikitext_bytes": 119,
+      "wikitext_sha256": "75a2accb12fa595f27161d11d72bebfdff6c3272eac098e995edae1b71e53167"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 2468,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 161,
+      "markdown_sha256": "eea6b430ecc9e8ad0ac663ac0c07c341c184e503e383bff5c614889271f5720a",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": 2468,
+      "previous_public_revision_id": 2468,
+      "revision_id": 42413,
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z"
+    }
+  ],
+  "site_revision_count": 1
+}

@@ -1,0 +1,63 @@
+{
+  "canonical_path": "/Project_habits_and_mojo",
+  "current_revision_id": "43173",
+  "database_title": "Project_habits_and_mojo",
+  "display_title": "Project habits and mojo",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 2,
+  "page_id": "27575",
+  "published_revision_count": 2,
+  "revisions": [
+    {
+      "author": "BenSibelman",
+      "comment": "Created page from notes",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": "40848",
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": "40843",
+      "same_as_previous_public": false,
+      "timestamp": "2016-08-27T20:28:23Z",
+      "wikitext_bytes": 1444,
+      "wikitext_sha256": "89de2bd756f430488275d0533490de4b3f57769de54cfa35a0e0cc95a4f947ff",
+      "source_format": "wikitext",
+      "source_extension": "wiki"
+    },
+    {
+      "author": "BenSibelman",
+      "comment": "Created page from the Google doc",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": "43173",
+      "original_parent_revision_id": "40843",
+      "previous_public_revision_id": "40843",
+      "revision_id": "40848",
+      "same_as_previous_public": false,
+      "timestamp": "2016-08-27T20:31:51Z",
+      "wikitext_bytes": 1505,
+      "wikitext_sha256": "7a47d8a0a57bcd2e863a40817270a802ac2ed14cf3848b881618ee80b5fbaf23",
+      "source_format": "wikitext",
+      "source_extension": "wiki"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 40848,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 1566,
+      "markdown_sha256": "ab083a0fe0dbe6bc665c57a20c05e1ffa4e18f09309696b408254d86670a05e6",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": "40848",
+      "previous_public_revision_id": "40848",
+      "revision_id": "43173",
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z",
+      "wikitext_bytes": 1566,
+      "wikitext_sha256": "ab083a0fe0dbe6bc665c57a20c05e1ffa4e18f09309696b408254d86670a05e6",
+      "source_extension": "md"
+    }
+  ],
+  "site_revision_count": 1
+}

@@ -1,0 +1,43 @@
+{
+  "canonical_path": "/Greater_Movement",
+  "current_revision_id": 42223,
+  "database_title": "Greater_Movement",
+  "display_title": "Greater Movement",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 1,
+  "page_id": 667,
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "Brandon CS Sanders",
+      "comment": "Redirecting to [[GreaterMovement]]",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 42223,
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": 1700,
+      "same_as_previous_public": false,
+      "timestamp": "2010-06-17T06:27:56Z",
+      "wikitext_bytes": 29,
+      "wikitext_sha256": "6b613e5aba49f356de7fb10bcceb91bf536b8f41dbd759184109889491416696"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 1700,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 69,
+      "markdown_sha256": "c7df351904493a6c838f6fc097eb6d31c49eb02757127b6b04f6233d6ab3cae5",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": 1700,
+      "previous_public_revision_id": 1700,
+      "revision_id": 42223,
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z"
+    }
+  ],
+  "site_revision_count": 1
+}

@@ -1,0 +1,43 @@
+{
+  "canonical_path": "/Seeds",
+  "current_revision_id": 42095,
+  "database_title": "Seeds",
+  "display_title": "Seeds",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 1,
+  "page_id": 536,
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "BenSibelman",
+      "comment": "redirect",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 42095,
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": 1429,
+      "same_as_previous_public": false,
+      "timestamp": "2010-03-27T22:32:36Z",
+      "wikitext_bytes": 18,
+      "wikitext_sha256": "f23f63db35aad597d0bdc659cfb075f7964f2d36650b519bd16836e965eadf53"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 1429,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 47,
+      "markdown_sha256": "d4e50dd9d2a98d215ee24197602f150e9d12883248009f28344e8f6a86582058",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": 1429,
+      "previous_public_revision_id": 1429,
+      "revision_id": 42095,
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z"
+    }
+  ],
+  "site_revision_count": 1
+}

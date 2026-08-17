@@ -1,0 +1,63 @@
+{
+  "canonical_path": "/Universal_Basic_Income_/_Andrew_Yang_for_president",
+  "current_revision_id": "43341",
+  "database_title": "Universal_Basic_Income_/_Andrew_Yang_for_president",
+  "display_title": "Universal Basic Income / Andrew Yang for president",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 2,
+  "page_id": "27743",
+  "published_revision_count": 2,
+  "revisions": [
+    {
+      "author": "BenSibelman",
+      "comment": "Created page",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": "41559",
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": "41480",
+      "same_as_previous_public": false,
+      "timestamp": "2018-08-09T20:41:15Z",
+      "wikitext_bytes": 3933,
+      "wikitext_sha256": "2ec49a0c356972ca442693c43bcfc1c64e1d04a5aab7b485b205782bd1427389",
+      "source_format": "wikitext",
+      "source_extension": "wiki"
+    },
+    {
+      "author": "BenSibelman",
+      "comment": "/* Discussion */",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": "43341",
+      "original_parent_revision_id": "41480",
+      "previous_public_revision_id": "41480",
+      "revision_id": "41559",
+      "same_as_previous_public": false,
+      "timestamp": "2018-11-05T05:20:13Z",
+      "wikitext_bytes": 3932,
+      "wikitext_sha256": "c7b3f850fc5a4303ac696e7b9f51197fd6b100265a5b63866702735df4209b7f",
+      "source_format": "wikitext",
+      "source_extension": "wiki"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 41559,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 4057,
+      "markdown_sha256": "22d9344580de17965f2ce1e07b14507020201e86064725ce0de29d7cba73529e",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": "41559",
+      "previous_public_revision_id": "41559",
+      "revision_id": "43341",
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z",
+      "wikitext_bytes": 4057,
+      "wikitext_sha256": "22d9344580de17965f2ce1e07b14507020201e86064725ce0de29d7cba73529e",
+      "source_extension": "md"
+    }
+  ],
+  "site_revision_count": 1
+}

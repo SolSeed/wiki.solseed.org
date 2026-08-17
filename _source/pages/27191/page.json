@@ -1,0 +1,43 @@
+{
+  "canonical_path": "/Kindred_2015_Invitation_(DRAFT)",
+  "current_revision_id": 42793,
+  "database_title": "Kindred_2015_Invitation_(DRAFT)",
+  "display_title": "Kindred 2015 Invitation (DRAFT)",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 1,
+  "page_id": 27191,
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "Brandon CS Sanders",
+      "comment": "moved [[Kindred 2015 Invitation (DRAFT)]] to [[Kindred 2015 Invitation - DRAFT]]",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 42793,
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": 39574,
+      "same_as_previous_public": false,
+      "timestamp": "2014-01-22T23:37:13Z",
+      "wikitext_bytes": 45,
+      "wikitext_sha256": "0efab2dc69fa1584dd3a65955f020e736f754df18c78e48d5cdc633bc07aa3f6"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 39574,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 101,
+      "markdown_sha256": "2fb32ab897bdfd3735cec949f4c975080ff6128e15e2c9bc18eee320bd9833d9",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": 39574,
+      "previous_public_revision_id": 39574,
+      "revision_id": 42793,
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z"
+    }
+  ],
+  "site_revision_count": 1
+}

@@ -1,0 +1,63 @@
+{
+  "canonical_path": "/SolSeed_and_Atheism",
+  "current_revision_id": "41657",
+  "database_title": "SolSeed_and_Atheism",
+  "display_title": "SolSeed and Atheism",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 2,
+  "page_id": "87",
+  "published_revision_count": 2,
+  "revisions": [
+    {
+      "author": "Scifiben",
+      "comment": "New page: [[SolSeed]] > [[SolSeed and Religion]] > Atheism __NOTOC__  [[SolSeed]] is not a religion, but some members identify themselves with various religions, while others do not.  Specifically, ...",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": "1116",
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": "171",
+      "same_as_previous_public": false,
+      "timestamp": "2008-11-08T22:34:25Z",
+      "wikitext_bytes": 860,
+      "wikitext_sha256": "4cc879885e4cbbcd68897fc13394dffe76e26cdcb6b25f3d12dde14991ee56c0",
+      "source_format": "wikitext",
+      "source_extension": "wiki"
+    },
+    {
+      "author": "BenSibelman",
+      "comment": "Switched the >'s to <'s",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": "41657",
+      "original_parent_revision_id": "171",
+      "previous_public_revision_id": "171",
+      "revision_id": "1116",
+      "same_as_previous_public": false,
+      "timestamp": "2009-11-14T18:35:46Z",
+      "wikitext_bytes": 860,
+      "wikitext_sha256": "f35fc75a55d493a3da1fb7bd87ddc55d36ffdb8f3027e80291e794eeba415b15",
+      "source_format": "wikitext",
+      "source_extension": "wiki"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 1116,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 923,
+      "markdown_sha256": "965aeb21bd25fbd8e7216a0573adcbe6a791df0975187e4906e79afe40ab8312",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": "1116",
+      "previous_public_revision_id": "1116",
+      "revision_id": "41657",
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z",
+      "wikitext_bytes": 923,
+      "wikitext_sha256": "965aeb21bd25fbd8e7216a0573adcbe6a791df0975187e4906e79afe40ab8312",
+      "source_extension": "md"
+    }
+  ],
+  "site_revision_count": 1
+}

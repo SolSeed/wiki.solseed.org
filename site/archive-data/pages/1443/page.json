@@ -1,0 +1,48 @@
+{
+  "canonical_path": "/File:Ben's_Solstice_2011_photos.jpg",
+  "current_revision_id": "42441",
+  "database_title": "Ben's_Solstice_2011_photos.jpg",
+  "display_title": "File:Ben's Solstice 2011 photos.jpg",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 6,
+  "original_revision_count": 1,
+  "page_id": "1443",
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "BenSibelman",
+      "comment": "Thumbnails for the photos [[Ben]] took during the [[Summer Solstice 2011]] hike.",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": "42441",
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": "2880",
+      "same_as_previous_public": false,
+      "timestamp": "2011-07-24T04:21:14Z",
+      "wikitext_bytes": 80,
+      "wikitext_sha256": "576cd0aed3c85c4a061d3399cf3c7de4eb364847ec1335b7d3c1d4524301dc60",
+      "source_format": "wikitext",
+      "source_extension": "wiki"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 2880,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 106,
+      "markdown_sha256": "2cb83140d1fe94ed1be22945477f101e490e46c47fbc4fb92416cce49ab7dd4d",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": "2880",
+      "previous_public_revision_id": "2880",
+      "revision_id": "42441",
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z",
+      "wikitext_bytes": 106,
+      "wikitext_sha256": "2cb83140d1fe94ed1be22945477f101e490e46c47fbc4fb92416cce49ab7dd4d",
+      "source_extension": "md"
+    }
+  ],
+  "site_revision_count": 1
+}

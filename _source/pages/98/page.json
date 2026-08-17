@@ -1,0 +1,43 @@
+{
+  "canonical_path": "/Octavia_Butler",
+  "current_revision_id": 41668,
+  "database_title": "Octavia_Butler",
+  "display_title": "Octavia Butler",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 1,
+  "page_id": 98,
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "BenSibelman",
+      "comment": "Copied page over from AboutUs.",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 41668,
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": 195,
+      "same_as_previous_public": false,
+      "timestamp": "2008-12-18T05:45:31Z",
+      "wikitext_bytes": 917,
+      "wikitext_sha256": "a045502ad93f3b37f3a6990ce65c67becd2874bde4577f269ab3d69a332686ad"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 195,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 1060,
+      "markdown_sha256": "1e0ac85a65235e5378f0e52905bf58dff9b920952888868b08e18c0ba8d5546a",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": 195,
+      "previous_public_revision_id": 195,
+      "revision_id": 41668,
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z"
+    }
+  ],
+  "site_revision_count": 1
+}

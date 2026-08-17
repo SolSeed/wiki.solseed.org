@@ -1,0 +1,48 @@
+{
+  "canonical_path": "/SolSeed_Book_of_Days",
+  "current_revision_id": "43355",
+  "database_title": "SolSeed_Book_of_Days",
+  "display_title": "SolSeed Book of Days",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 1,
+  "page_id": "27757",
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "EricSaumur",
+      "comment": "moved [[SolSeed Book of Days]] to [[Metaphoriuminomicon]]: Better name!",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": "43355",
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": "41551",
+      "same_as_previous_public": false,
+      "timestamp": "2018-09-21T22:20:15Z",
+      "wikitext_bytes": 33,
+      "wikitext_sha256": "6b3d9210b241dca68ed6353d0354ec33e04dc6432c3fc6cd0a83b80d850fcd92",
+      "source_format": "wikitext",
+      "source_extension": "wiki"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 41551,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 77,
+      "markdown_sha256": "c0f23d8867c8955ca68f5c78386376a3974e5ad1537a3b45c4f7a3e92a6b94ad",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": "41551",
+      "previous_public_revision_id": "41551",
+      "revision_id": "43355",
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z",
+      "wikitext_bytes": 77,
+      "wikitext_sha256": "c0f23d8867c8955ca68f5c78386376a3974e5ad1537a3b45c4f7a3e92a6b94ad",
+      "source_extension": "md"
+    }
+  ],
+  "site_revision_count": 1
+}

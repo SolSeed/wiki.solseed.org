@@ -1,0 +1,43 @@
+{
+  "canonical_path": "/Parables_of_the_Sower",
+  "current_revision_id": 42137,
+  "database_title": "Parables_of_the_Sower",
+  "display_title": "Parables of the Sower",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 1,
+  "page_id": 580,
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "Brandon CS Sanders",
+      "comment": "Redirecting to [[Parable of the Sower]]",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 42137,
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": 1479,
+      "same_as_previous_public": false,
+      "timestamp": "2010-04-07T18:04:42Z",
+      "wikitext_bytes": 34,
+      "wikitext_sha256": "aa63e70ede0b55bc1e7fd25654f1349d8b5368432a68bc7020644bab5c47fd47"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 1479,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 79,
+      "markdown_sha256": "6b4623a8b10fca99fc7aa7804112b15fbaa0576d980f5347565615ebf0ab78e8",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": 1479,
+      "previous_public_revision_id": 1479,
+      "revision_id": 42137,
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z"
+    }
+  ],
+  "site_revision_count": 1
+}

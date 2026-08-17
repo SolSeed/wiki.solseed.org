@@ -1,0 +1,74 @@
+This logo/emblem design was originally a variant on the Earth-as-a-tree concept that emphasizes our rootedness in energy from [[Sol]], thus helping to explain the term [[SolSeed]].  It now accomplishes much more.  For one thing, it could resolve the [[June 2, 2009: Flower and Roots Metaphor#Topic 2: Roots and Flowers (15_mins)|debate]] about metaphors for members of the [[SolSeedMovement]] who prefer to focus on literal vs. metaphorical interpretations of [[TheDestiny]]: the latter represent the "[[Sol]] aspect" of the movement, while the former represent the "[[Seed]] aspect."  (And of course some people are in between.)
+
+I created three versions of the logo, from a very simple line drawing to a more "busy" but visually appealing graphic for posters.
+
+<table border="1">
+<tr>
+<td>'''Description'''</td>
+<td>'''Image''' (click for larger version)</td>
+<td>'''On the surface'''</td>
+<td>'''Closer look'''</td>
+<td>'''Deeper meaning'''</td>
+</tr>
+<tr>
+<td valign="top">
+Basic emblem design, suitable for many uses and many media (ink, thread, wire, etc.)
+</td>
+<td valign="top">
+[[Image:Logo-simple.gif|150px]]
+</td>
+<td valign="top">
+* The O is a symbolic [[Sol]] with four rays.
+* The d represents a maple [[seed]].
+</td>
+<td valign="top">
+* The S is shaped roughly like a yin-yang symbol and could also be viewed as [http://peacebuttons.info/E-News/ecologysymbol.htm the ecology symbol, theta].
+* The two e's trace the spiral path of a whirling maple seed.
+</td>
+<td valign="top">
+* As noted above, the two words represent two intertwined aspects of the [[SolSeedMovement]]:
+** ''SOL'' represents [[SolSeedCommunity|community]], sustainability, centeredness, a focus on the present.  It might be defined as the "feminine principle."
+** ''Seed'' represents outward motion, progress, [[change]], a focus on the future.  It might be defined as the "masculine principle" (the maple seed is even kind of phallic).
+** Compare with the logo of the gender advocacy group [http://equalitynow.org Equality Now]: [[Image:EqualityNow.png|24px]]
+</td>
+</tr>
+<tr>
+<td valign="top">
+Four-color logo, suitable for using on fancy official documents and online, but still amenable to other media such as embroidery
+</td>
+<td valign="top">
+[[Image:Logo-medium.gif|250px]]
+</td>
+<td valign="top">
+* The two S's in SolSeed are now shown in separate colors, but still intertwined.
+* The S's also form part of a stylized tree growing out of the O representing [[Sol]].  (At least I hope that's obvious.)
+</td>
+<td valign="top">
+* The new curved dashes, forming a circle beginning at the base of the L, represent the counterclockwise orbit of [[Terra]] around [[Sol]].
+</td>
+<td valign="top">
+* Color scheme:
+** Green represents [[Life]], of course.
+** White represents the stable center and the cyclical patterns of the universe.
+** Blue represents human civilization and its potential to create positive material change, the outward spiral that contrasts and complements the cycles.
+** Brown represents the technology that, when placed in the service of [[Life]], can make a [[TheDestiny|wondrous future]] possible.
+* Starting at the bottom of the S, humanity is on the outside of the circle, building on top of nature without seeing ourselves as part of it.  By the time we reach the top, humanity is re-embedded within [[SolSeed]], the body of all life.
+</td>
+</tr>
+<tr>
+<td valign="top">
+Graphical poster version, to be printed on glossy paper and used to draw the interest of passersby.  Could also be useful in animated videos.
+</td>
+<td valign="top">
+[[Image:Logo graphical.png|300px]]
+</td>
+<td valign="top">
+* To emphasize that the S represents [[Terra]], I've added a sunlit swirl of cloud on the side facing [[Sol]] and city lights on the side facing away.
+</td>
+<td valign="top"></td>
+<td valign="top">
+* The spiraling lines on the trunk represent the [[Upward Spiral]] of spiritual and moral growth necessary for us to become [[starfarers]].
+* The spiral of the hurricane-like clouds represents the inward spiral of spiritual self-discovery as described in [[The Untethered Soul]]--finding your consciousness/awareness as the calm eye at the center of the storm.
+</td>
+</tr>
+</table>

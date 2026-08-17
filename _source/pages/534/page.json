@@ -1,0 +1,43 @@
+{
+  "canonical_path": "/Category:SolSeedVirtues",
+  "current_revision_id": 42093,
+  "database_title": "SolSeedVirtues",
+  "display_title": "Category:SolSeedVirtues",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 14,
+  "original_revision_count": 1,
+  "page_id": 534,
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "BenSibelman",
+      "comment": "Added brief description.",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 42093,
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": 1426,
+      "same_as_previous_public": false,
+      "timestamp": "2010-03-27T22:25:25Z",
+      "wikitext_bytes": 159,
+      "wikitext_sha256": "be22b57c81702598b08d43512cfaf0f9e54ac861d946be18492eb8908e98c109"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 1426,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 170,
+      "markdown_sha256": "d7968c8e66e8b7c6d34f0cde85435cc78a6df4a02285fe37610bcde172d5ee61",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": 1426,
+      "previous_public_revision_id": 1426,
+      "revision_id": 42093,
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z"
+    }
+  ],
+  "site_revision_count": 1
+}

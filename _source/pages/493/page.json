@@ -1,0 +1,43 @@
+{
+  "canonical_path": "/Conference_Calls_and_Small-Group_Structure",
+  "current_revision_id": 42055,
+  "database_title": "Conference_Calls_and_Small-Group_Structure",
+  "display_title": "Conference Calls and Small-Group Structure",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 1,
+  "page_id": 493,
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "BenSibelman",
+      "comment": "Created page.",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 42055,
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": 1326,
+      "same_as_previous_public": false,
+      "timestamp": "2010-01-03T23:28:10Z",
+      "wikitext_bytes": 1409,
+      "wikitext_sha256": "016044b24ddaafe3366bca4bab6fd217dc283e3033d38bd9272406208a0175ef"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 1326,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 1553,
+      "markdown_sha256": "333334c53ecc6ac2af77ae23c21457ec3ac28abe42869d172e3200a547415269",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": 1326,
+      "previous_public_revision_id": 1326,
+      "revision_id": 42055,
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z"
+    }
+  ],
+  "site_revision_count": 1
+}

@@ -1,0 +1,48 @@
+{
+  "canonical_path": "/User_talk:Acorn1104",
+  "current_revision_id": "41780",
+  "database_title": "Acorn1104",
+  "display_title": "User talk:Acorn1104",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 3,
+  "original_revision_count": 1,
+  "page_id": "214",
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "Brandon CS Sanders",
+      "comment": "Welcome to the movement :-)",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": "41780",
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": "563",
+      "same_as_previous_public": false,
+      "timestamp": "2009-02-22T22:16:13Z",
+      "wikitext_bytes": 135,
+      "wikitext_sha256": "770a28a3ba194114d0e04f032afdea531ad885710783ebfbfc3ce407fabef1c3",
+      "source_format": "wikitext",
+      "source_extension": "wiki"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 563,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 160,
+      "markdown_sha256": "fce8e037a1593a9b620a7b79f9cd26770a11e6b7ba7b7577728fe1795f3a4921",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": "563",
+      "previous_public_revision_id": "563",
+      "revision_id": "41780",
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z",
+      "wikitext_bytes": 160,
+      "wikitext_sha256": "fce8e037a1593a9b620a7b79f9cd26770a11e6b7ba7b7577728fe1795f3a4921",
+      "source_extension": "md"
+    }
+  ],
+  "site_revision_count": 1
+}

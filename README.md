@@ -3,6 +3,13 @@
 Static, preservation-oriented restoration of the historical SolSeed MediaWiki
 1.16 site, published at <https://wiki.solseed.org/>.
 
+The current migration direction is Markdown-first: approved historical
+wikitext remains immutable, while each maintainable current page is introduced
+as a clearly labeled site-authored Markdown revision. See
+[`docs/markdown-migration-plan.md`](docs/markdown-migration-plan.md) for the
+test-driven, worktree-based execution plan and [`AGENTS.md`](AGENTS.md) for
+model routing and repository working rules.
+
 This is the public output repository. Generated HTML, public media, styles,
 scripts, route directories, and public provenance data belong under `site/`.
 Source database dumps, the MediaWiki installation, credentials, private user
@@ -12,7 +19,8 @@ data, temporary uploads, and restoration tooling do not belong here.
 
 ```text
 .
-├── .github/workflows/deploy-pages.yml  # Build search and publish Pages
+├── .github/workflows/deploy-pages.yml  # Test, build, and publish Pages
+├── scripts/check-supply-chain.mjs      # Reject package and mutable CI inputs
 ├── scripts/build-static-version.mjs    # Generate deployment identity page
 ├── site/                               # Public URL root
 │   ├── .nojekyll
@@ -22,10 +30,10 @@ data, temporary uploads, and restoration tooling do not belong here.
 └── README.md
 ```
 
-GitHub Actions copies `site/` to an untracked `_site/` staging directory,
-builds a Pagefind search index there, and deploys `_site/` as a GitHub Pages
-artifact. Consequently, `site/index.html` is served as `/`, not `/site/`, and
-no deployment branch is required.
+GitHub Actions validates the dependency-free policy, runs the tests, copies
+`site/` to an untracked `_site/` staging directory, and deploys `_site/` as a
+GitHub Pages artifact. Consequently, `site/index.html` is served as `/`, not
+`/site/`, and no deployment branch is required.
 
 Each deployment also generates `/static-version/index.html`. Visiting
 `/static-version` shows the SemVer 2 release number from `VERSION` and the full
@@ -59,33 +67,40 @@ historical MediaWiki routes wherever practical, including `/SolSeed` and
 `/A_Frame_of_Paper_And_Ink`, by using directory indexes or another static,
 GitHub Pages-compatible layout.
 
-## Search
+## Dependency policy
 
-The workflow runs Pagefind 1.5.2 after staging the HTML. It writes the generated
-browser bundle and index to `_site/pagefind/`; those files are deployed but are
-not committed. The generated version page ensures every deployment has at least
-one HTML document even before the historical archive is added.
+The archive has no package manifest, dependency installation, or one-off package
+execution. Build and test files are checked into this repository and run
+directly with Node. `scripts/check-supply-chain.mjs` rejects package-manager
+manifests and lockfiles, package-manager execution in automation, mutable
+third-party GitHub Action references, and executable binary files.
 
-Generated pages can load Pagefind's component UI with:
-
-```html
-<link href="/pagefind/pagefind-component-ui.css" rel="stylesheet">
-<script src="/pagefind/pagefind-component-ui.js" type="module"></script>
-<pagefind-modal-trigger></pagefind-modal-trigger>
-<pagefind-modal></pagefind-modal>
-```
-
-Use `data-pagefind-body` on the main article element when generated pages contain
-navigation or other boilerplate that should not be indexed.
+Search is intentionally omitted until it can be implemented with small,
+reviewed, dependency-free code stored in this repository.
 
 ## Local preview
 
-After generating the archive, assemble and index it with:
+Validate and generate the archive with:
+
+```sh
+node scripts/check-supply-chain.mjs
+node --test
+node scripts/build-archive.mjs
+```
+
+During page editing, rebuild only the changed page by passing its numeric page
+ID. This preserves the rest of `site/` and keeps the Markdown development loop
+fast:
+
+```sh
+node scripts/build-archive.mjs _source site 1
+```
+
+Then assemble and preview it with:
 
 ```sh
 cp -a site _site
 node scripts/build-static-version.mjs _site "$(git rev-parse HEAD)"
-npx --yes pagefind@1.5.2 --site _site
 python3 -m http.server 8080 --directory _site
 ```
 

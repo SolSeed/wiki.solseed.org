@@ -1,0 +1,56 @@
+{
+  "canonical_path": "/Help:Editing",
+  "current_revision_id": 43293,
+  "database_title": "Editing",
+  "display_title": "Help:Editing",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 12,
+  "original_revision_count": 2,
+  "page_id": 27695,
+  "published_revision_count": 2,
+  "revisions": [
+    {
+      "author": "Shawn G Marincas",
+      "comment": "created page as a copy of wikipedias help page",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 41211,
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": 41209,
+      "same_as_previous_public": false,
+      "timestamp": "2018-03-06T18:09:23Z",
+      "wikitext_bytes": 83398,
+      "wikitext_sha256": "5f5d99ea24e4b406e0b1f2a834d55919449aef2c536839a980f19e0a5b77aca9"
+    },
+    {
+      "author": "Shawn G Marincas",
+      "comment": "added link to pandoc for converting to/from wikitext",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 43293,
+      "original_parent_revision_id": 41209,
+      "previous_public_revision_id": 41209,
+      "revision_id": 41211,
+      "same_as_previous_public": false,
+      "timestamp": "2018-03-06T21:16:06Z",
+      "wikitext_bytes": 83469,
+      "wikitext_sha256": "dbcbcc2060704cdb8d845d0e7397c7e859916a07f9fe68233c97f192936d5bc5"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 41211,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 94233,
+      "markdown_sha256": "b760119091b8e4c60bea9713a7ce0fb949266fa46c9cdd50855038838700d7c2",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": 41211,
+      "previous_public_revision_id": 41211,
+      "revision_id": 43293,
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z"
+    }
+  ],
+  "site_revision_count": 1
+}

@@ -1,0 +1,48 @@
+{
+  "canonical_path": "/File:Science_and_religion.JPG",
+  "current_revision_id": "42610",
+  "database_title": "Science_and_religion.JPG",
+  "display_title": "File:Science and religion.JPG",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 6,
+  "original_revision_count": 1,
+  "page_id": "11840",
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "BenSibelman",
+      "comment": "This is a table created by [[Brandon]] and [[Eric]] for the first draft of a[[Religious Method]].",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": "42610",
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": "15427",
+      "same_as_previous_public": false,
+      "timestamp": "2012-07-01T23:02:16Z",
+      "wikitext_bytes": 97,
+      "wikitext_sha256": "e7ae1aebb3175cd56cdf4de0e7fea82d2ff132169533fd9882b07e5ab1a72992",
+      "source_format": "wikitext",
+      "source_extension": "wiki"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 15427,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 128,
+      "markdown_sha256": "46e9d5d877095e337921863661cba115933d30e2459f41ef8290105997c1f768",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": "15427",
+      "previous_public_revision_id": "15427",
+      "revision_id": "42610",
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z",
+      "wikitext_bytes": 128,
+      "wikitext_sha256": "46e9d5d877095e337921863661cba115933d30e2459f41ef8290105997c1f768",
+      "source_extension": "md"
+    }
+  ],
+  "site_revision_count": 1
+}

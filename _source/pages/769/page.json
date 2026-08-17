@@ -1,0 +1,56 @@
+{
+  "canonical_path": "/File:Cylinder_colony.jpg",
+  "current_revision_id": 42325,
+  "database_title": "Cylinder_colony.jpg",
+  "display_title": "File:Cylinder colony.jpg",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 6,
+  "original_revision_count": 2,
+  "page_id": 769,
+  "published_revision_count": 2,
+  "revisions": [
+    {
+      "author": "BenSibelman",
+      "comment": "Public-domain image of a cylindrical space colony, painted by Don Davis, from http://www.donaldedavis.com/BIGPUB/STANTRUS.jpg",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 1985,
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": 1984,
+      "same_as_previous_public": false,
+      "timestamp": "2010-11-16T04:34:55Z",
+      "wikitext_bytes": 125,
+      "wikitext_sha256": "9def3429e817ab4708227f3f3b46087be6f6cff3c48aedb0461e221d9e99de0f"
+    },
+    {
+      "author": "BenSibelman",
+      "comment": "Fixed a link",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 42325,
+      "original_parent_revision_id": 1984,
+      "previous_public_revision_id": 1984,
+      "revision_id": 1985,
+      "same_as_previous_public": false,
+      "timestamp": "2010-11-16T04:35:44Z",
+      "wikitext_bytes": 125,
+      "wikitext_sha256": "f1cc1f2274307aa0059b096f7f5733d98ab1738b55d12b50ca1e601c6a49fc5c"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 1985,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 126,
+      "markdown_sha256": "698be79d34260f1fca18357a26d8b8269b1b06ced1aa0b19768e3412dba11a8b",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": 1985,
+      "previous_public_revision_id": 1985,
+      "revision_id": 42325,
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z"
+    }
+  ],
+  "site_revision_count": 1
+}

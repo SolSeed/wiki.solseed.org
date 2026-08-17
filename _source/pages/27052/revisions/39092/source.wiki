@@ -1,0 +1,1 @@
+The logo for John Boswell and Will Crowley's album of songs about science.

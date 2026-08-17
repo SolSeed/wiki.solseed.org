@@ -1,6 +1,6 @@
 {
   "canonical_path": "/SolSeed",
-  "current_revision_id": 41536,
+  "current_revision_id": 41573,
   "database_title": "SolSeed",
   "display_title": "SolSeed",
   "excluded_spam_revision_count": 13,
@@ -220,7 +220,7 @@
     {
       "author": "Brandon CS Sanders",
       "comment": "Reverted edits by [[Special:Contributions/Wernheli|Wernheli]] ([[User talk:Wernheli|talk]]) to last revision by [[User:Brandon CS Sanders|Brandon CS Sanders]]",
-      "excluded_revision_count_since_previous_public": 1,
+      "excluded_revision_count_since_previous_public": 0,
       "next_public_revision_id": 3680,
       "original_parent_revision_id": 3590,
       "previous_public_revision_id": 2567,
@@ -233,7 +233,7 @@
     {
       "author": "Brandon CS Sanders",
       "comment": "Reverted edits by [[Special:Contributions/Marbun|Marbun]] ([[User talk:Marbun|talk]]) to last revision by [[User:Brandon CS Sanders|Brandon CS Sanders]]",
-      "excluded_revision_count_since_previous_public": 1,
+      "excluded_revision_count_since_previous_public": 0,
       "next_public_revision_id": 4216,
       "original_parent_revision_id": 3672,
       "previous_public_revision_id": 3591,
@@ -246,7 +246,7 @@
     {
       "author": "BenSibelman",
       "comment": "Undo revision 4204 by [[Special:Contributions/Peettait|Peettait]] ([[User talk:Peettait|talk]])",
-      "excluded_revision_count_since_previous_public": 1,
+      "excluded_revision_count_since_previous_public": 0,
       "next_public_revision_id": 4245,
       "original_parent_revision_id": 4204,
       "previous_public_revision_id": 3680,
@@ -259,7 +259,7 @@
     {
       "author": "BenSibelman",
       "comment": "Undo revision 4234 by [[Special:Contributions/Harmdels|Harmdels]] ([[User talk:Harmdels|talk]])",
-      "excluded_revision_count_since_previous_public": 1,
+      "excluded_revision_count_since_previous_public": 0,
       "next_public_revision_id": 4347,
       "original_parent_revision_id": 4234,
       "previous_public_revision_id": 4216,
@@ -272,7 +272,7 @@
     {
       "author": "Brandon CS Sanders",
       "comment": "Reverted edits by [[Special:Contributions/Erbyem|Erbyem]] ([[User talk:Erbyem|talk]]) to last revision by [[User:BenSibelman|BenSibelman]]",
-      "excluded_revision_count_since_previous_public": 1,
+      "excluded_revision_count_since_previous_public": 0,
       "next_public_revision_id": 4354,
       "original_parent_revision_id": 4339,
       "previous_public_revision_id": 4245,
@@ -285,7 +285,7 @@
     {
       "author": "BenSibelman",
       "comment": "Reverted spam again",
-      "excluded_revision_count_since_previous_public": 4,
+      "excluded_revision_count_since_previous_public": 0,
       "next_public_revision_id": 4365,
       "original_parent_revision_id": 4353,
       "previous_public_revision_id": 4347,
@@ -298,7 +298,7 @@
     {
       "author": "Brandon CS Sanders",
       "comment": "Reverted spam again.",
-      "excluded_revision_count_since_previous_public": 4,
+      "excluded_revision_count_since_previous_public": 0,
       "next_public_revision_id": 4366,
       "original_parent_revision_id": 4364,
       "previous_public_revision_id": 4354,
@@ -338,7 +338,6 @@
       "author": "Brandon CS Sanders",
       "comment": "side by side videos",
       "excluded_revision_count_since_previous_public": 0,
-      "historical_note": "This revision was current on 2014-06-20 and is the cited wiki homepage state for that date.",
       "next_public_revision_id": 39783,
       "original_parent_revision_id": 39655,
       "previous_public_revision_id": 39655,
@@ -716,7 +715,7 @@
       "author": "EricSaumur",
       "comment": "/* Alliances */",
       "excluded_revision_count_since_previous_public": 0,
-      "next_public_revision_id": null,
+      "next_public_revision_id": 41573,
       "original_parent_revision_id": 41535,
       "previous_public_revision_id": 41535,
       "revision_id": 41536,
@@ -724,7 +723,23 @@
       "timestamp": "2018-09-11T00:58:58Z",
       "wikitext_bytes": 9377,
       "wikitext_sha256": "1ce23e1314667fa1c98663bec57e712e74e5f103a7e4ec79904f27a7685bb9ca"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 41536,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 38499,
+      "markdown_sha256": "088a6cad4835b8dff92d6f1b1f923fd2f031650f85504489323cd5238387dc56",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": 41536,
+      "previous_public_revision_id": 41536,
+      "revision_id": 41573,
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z"
     }
   ],
-  "schema_version": 1
+  "site_revision_count": 1
 }

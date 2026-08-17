@@ -1,0 +1,69 @@
+{
+  "canonical_path": "/SolSeedSong",
+  "current_revision_id": 42764,
+  "database_title": "SolSeedSong",
+  "display_title": "SolSeedSong",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 3,
+  "page_id": 27161,
+  "published_revision_count": 3,
+  "revisions": [
+    {
+      "author": "Brandon CS Sanders",
+      "comment": "moved [[SolSeedSong]] to [[Song: The Seed]]: We'll use SolSeedSong to refer to several different songs",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 39461,
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": 39460,
+      "same_as_previous_public": false,
+      "timestamp": "2013-11-04T00:43:55Z",
+      "wikitext_bytes": 28,
+      "wikitext_sha256": "94db7bd659c4f9d93110f725f56784168c581178f8e182e19b1431cdf1689999"
+    },
+    {
+      "author": "Brandon CS Sanders",
+      "comment": "",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 39462,
+      "original_parent_revision_id": 39460,
+      "previous_public_revision_id": 39460,
+      "revision_id": 39461,
+      "same_as_previous_public": false,
+      "timestamp": "2013-11-04T00:44:14Z",
+      "wikitext_bytes": 48,
+      "wikitext_sha256": "4de70e49a9f38efd319ce1046051b841ea8dc3e2abe8f8c884ff68704097de3a"
+    },
+    {
+      "author": "Brandon CS Sanders",
+      "comment": "",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 42764,
+      "original_parent_revision_id": 39461,
+      "previous_public_revision_id": 39461,
+      "revision_id": 39462,
+      "same_as_previous_public": false,
+      "timestamp": "2013-11-04T00:45:18Z",
+      "wikitext_bytes": 49,
+      "wikitext_sha256": "99a98eb4c6728821df7abf534d9bbd176d21e4eb03d3b75e3081c02e44428d6c"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 39462,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 78,
+      "markdown_sha256": "c5224f207a83936ddf0ed280bb57ddca80fbdd91e574a42082e9e724eebba789",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": 39462,
+      "previous_public_revision_id": 39462,
+      "revision_id": 42764,
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z"
+    }
+  ],
+  "site_revision_count": 1
+}

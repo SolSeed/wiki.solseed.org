@@ -1,0 +1,76 @@
+*This was a session at [Sol 2014](/Sol_2014).*
+
+### Participants
+- [Brandon](/Brandon) (convener)
+- [Shelley](/Shelley)
+- [Ben](/Ben)
+- [Eric](/Eric)
+- [Patrick](/Patrick)
+- [Ted](/Ted)
+
+### Discussion
+#### Out on the lake
+- Eric: I’d prefer to be out in the sticks
+- Ben: I think we should be near a major city to find allies in all the circles of our [Venn diagram](/Venn_diagram)
+  - Eric: I agree that the first SolSeed commune needs to be urban for recruitment, but I envision multiple communes in all kinds of places
+- Shelley: I want it to be a beautiful place, which is easier when it’s farther from a city
+- Patrick: I think you’ll need an urban area to have access to technology
+
+#### Back at the campsite
+- Ted: *The Timeless Way of Building* talks about how to make spaces that have an undefinable quality of “aliveness”
+  - Ben: But how do you measure that?
+  - Brandon: Spaces that have this quality would be used more
+  - Ted: The book has patterns like the “window place,” where people sit in such a way as to include both inside and outside-the-window space in their perception
+  - Another, clearly testable pattern is the “intimacy gradient”: the most private/intimate spaces should be farthest from the front door
+  - Brandon: I feel we’ve accomplished “aliveness” in our back garden
+  - The book talks about going to the target property and feeling out where things should go, rather than just looking at street grids
+- Ted: I cofounded a housing co-op in Chicago, buying a building with 7 other people
+  - We didn’t have the funds to reshape the space the way we’d like, but it’s still a great place
+- Ted: I lived at Daybreak Cohousing in several configurations (with a partner, with a roommate, in a rental space)
+  - The main problem at Daybreak was that the whole thing fell apart financially
+  - The architecture was fascinating, focusing on connection and community rather than privacy, but relationships themselves are more important than architecture
+    - Patrick: I visit with a friend every week even though he lives a half-hour bike ride away
+    - Ted: People often connect through necessity of helping each other
+    - Brandon: People you see a lot become people you see even more
+- Ted: If you build community with the people who are already around you in a neighborhood, that’s an organic way to do it that I’m increasingly fond of
+  - In intentional communities you have intense inward focus that excludes connection with outside neighbors to some degree
+    - Of course, the advantage of intentional community is a built-in expectation of relationships with internal neighbors
+    - But I’d want a long process of establishment to ensure a new intentional community was built on a solid basis of good relationships; I think SolSeed is doing this very well
+  - I love my current neighbors in my ordinary neighborhood
+    - Brandon: How much of that connection came from your boys?
+    - Ted: All of it, although it’s not just about age/school; we’re also friends with the older woman next door
+    - Patrick: We have a similar experience; no longer making new connections with neighbors since I grew up
+- Ted: Cohousing is the worst of both worlds; no vision other than “we want to live in community”
+  - Take a bunch of introverts who don’t know each other and don’t know their current neighbors and throw them in a building together
+    - Brandon (much later): Like being at a social event at a business convention, vs. an event with family and friends
+  - This problem probably gets much less severe in older communities, once people have bandwidth to get to know each other
+  - Ben: Was Daybreak like that?
+    - Ted: We had a 10-point vision, but it was only aspirational and didn’t make any real difference
+  - Now that I’ve tried a bunch of different stuff, I’m a lot less clear on what’s best
+- Brandon: We should avoid “building a box and filling it”
+  - Lord of the Rings metaphor: Don’t build giant centrally-planned dwarven cities; build more like the Shire, where it looks like growth can happen more organically at the “edges”
+  - Ted: But in an urban environment, organic growth is stymied by the fact that houses only go up for sale very rarely
+- Brandon: Trying to build community and failing can be harmful to relationships
+  - We set up a Saturday school with Meg and Lyric, sort of “SolSeed lite,” and when it didn’t work, our relationship collapsed
+  - Ted: I know three families that get together around gaming, which is low-risk, low-commitment, and therefore it’s hard to imagine a dramatic breakup
+    - Ben: Interestingly, Lion is doing a lot of game nights recently, but I don’t think he’s doing it to be low-risk
+    - Patrick, Brandon: Maybe it’s like casual dating, a first contact that can become deeper later
+- Brandon: I get the sense that like me, Ted is a “signer-upper”
+  - Ted: In college, I noticed that I was involved in lots of things but my friends were only involved in one thing: each other
+    - Ben: I get the sense that that kind of intense single focus is what Lion is looking for
+    - Patrick: My friends and I are somewhat like that; if I don’t wake up early enough to go to our regular meet, they’ll usually drive over to my place
+  - Ted: I’ve always been aiming to make the world a better place
+    - Ben: Maybe that kind of person is more likely to be involved in multiple groups
+    - Brandon: But SolSeed has been a constant center for me as my other groups shift, because in other groups, if the goal stops being important to the participants, it just ends
+      - Ben: But it seems like you’re willing to let the SolSeed movement die if something else expresses its vision and principles better
+      - Brandon: Well, right now my ability to shape SolSeed is such that in the near term, there’s little risk that it will stop expressing who I am
+      - On the other hand, I helped found the Buckman Neighborhood Picnic and am now moving away from it; likewise with Recent Changes Camp; they were temporary expressions of my “bring life” values, while SolSeed embodies those values themselves
+- Brandon: I believe that planning is futile (because of the Singularity), but practice is not
+  - Ben: But planning an intentional community is what we were talking about
+  - Brandon: I think planning is a good practice
+    - Ted: But plans are useless
+    - Ted: We have a single One-Page Plan for our family and our business, and had a difficult time filling in our BHAG, so we filled in a draft answer that seemed unrelated to our near-term plans, but it enabled me to do a workshop in Detroit later because it fit the BHAG
+      - This ability to grab BHAG-related opportunities happens with my clients as well
+      - Eric: The important part of planning is getting clear on your values; that’s why I made the snap decision to join SolSeed
+  - Ben: What counts as practice?
+    - Brandon: Practice is about growing your wisdom about some topic; it gives you a deep level of understanding of how something works, so you don’t need rules to follow

@@ -1,0 +1,82 @@
+{
+  "canonical_path": "/Blog/Pre_or_Trans_A_Pagan_Identity_Crisis",
+  "current_revision_id": 43070,
+  "database_title": "Blog/Pre_or_Trans_A_Pagan_Identity_Crisis",
+  "display_title": "Blog/Pre or Trans A Pagan Identity Crisis",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 4,
+  "page_id": 27472,
+  "published_revision_count": 4,
+  "revisions": [
+    {
+      "author": "Brandon CS Sanders",
+      "comment": "Just getting started",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 40564,
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": 40563,
+      "same_as_previous_public": false,
+      "timestamp": "2015-06-30T19:06:09Z",
+      "wikitext_bytes": 2048,
+      "wikitext_sha256": "90736c4ca51179bcfa592e361bfb0eebb665dcd2de50f63a0f7c5733b1defecb"
+    },
+    {
+      "author": "Brandon CS Sanders",
+      "comment": "",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 40565,
+      "original_parent_revision_id": 40563,
+      "previous_public_revision_id": 40563,
+      "revision_id": 40564,
+      "same_as_previous_public": false,
+      "timestamp": "2015-06-30T19:07:07Z",
+      "wikitext_bytes": 2263,
+      "wikitext_sha256": "465a8e2eccd8d8765a1347fedf67c8011d3f9e508fd8547dccf07c8cd07c4131"
+    },
+    {
+      "author": "Brandon CS Sanders",
+      "comment": "",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 40566,
+      "original_parent_revision_id": 40564,
+      "previous_public_revision_id": 40564,
+      "revision_id": 40565,
+      "same_as_previous_public": false,
+      "timestamp": "2015-06-30T19:08:23Z",
+      "wikitext_bytes": 2353,
+      "wikitext_sha256": "62fe1cd137a93964f3c51523f5fe7cb3ac639312ed8a35421d59ac0113e10e05"
+    },
+    {
+      "author": "Brandon CS Sanders",
+      "comment": "",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 43070,
+      "original_parent_revision_id": 40565,
+      "previous_public_revision_id": 40565,
+      "revision_id": 40566,
+      "same_as_previous_public": false,
+      "timestamp": "2015-06-30T19:08:51Z",
+      "wikitext_bytes": 2408,
+      "wikitext_sha256": "146d18aae7e56869cb0ca5037710b1b73e7fe8e46ca86fa2d27393b183b5efa2"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 40566,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 2390,
+      "markdown_sha256": "d4b4d62bce92f904b1f1b608d2198f1d97dc60bbecb667980f0b414c7483d9ab",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": 40566,
+      "previous_public_revision_id": 40566,
+      "revision_id": 43070,
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z"
+    }
+  ],
+  "site_revision_count": 1
+}

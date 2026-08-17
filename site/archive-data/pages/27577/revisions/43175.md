@@ -1,0 +1,65 @@
+### Sunday Agenda
+- Check in
+- Opening Blessing
+- Review WWWs
+- Weekly event logistics
+- Review Agenda
+- Buckleberry
+- Project Work
+  - Ben: Write down thoughts about the anti-oil-pipeline rally
+  - Eric: Read *[Flight in a Cage](/Flight_in_a_Cage)*
+- Evaluation
+- Closing Blessing
+
+### Check-in
+- Ben ... I just got back from attending most of a four hour rally led by Native Americans in solidarity with a civil disobedience encampment in North Dakota against an oil pipeline, and I have so many thoughts about it that we probably shouldn’t get into because there is not enough time.
+- Eric … I hurt my back yesterday working on that loft, not badly, just enough that it's kind of painful to continue working on it … but I got back to it this evening and it's very close to done … 120 square feet of plywood laid, 20 to go
+
+### Opening Blessing
+We come together to do the work, the work we are called to do. May we hear the call clearly.
+-- Blessed Be
+
+### WW(W)s from last time
+Organize the WW(W)s by person and then due date if desired.  We’ll start checking in on topical community protocol and meditation for each mini-period between workbees. Holacracy founder Brian Robertson says these are bad: http://holacracy.org/blog/the-insanity-of-the-what-by-when 
+
+- <s>Ben … meditate regularly with Eric ... ongoing
+- Ben … spend at least 15 minutes a day on *[Flight in a Cage](/Flight_in_a_Cage)* … ongoing</s> (missed 2 or 3 days in the past 2 weeks)
+- Brandon … meditate regularly with Eric ... ongoing
+- Brandon … spend 15 minutes every day on Machine Learning … ongoing
+- Brandon … talk to Shelley about increasing the Sanders' tithe amount … by Monday
+- Brandon … put together a proposal for a more advanced expense tracking system … by next Sunday
+- Eric … meditate regularly with Brandon ... ongoing
+- <s>Eric … meditate regularly with Ben ... ongoing
+- Eric … spend 15 minutes every day on Buckleberry or Auberge Paradis ... ongoing</s>
+
+### WWWs
+- Ben … meditate regularly with Eric ... ongoing
+- Ben … spend at least 15 minutes a day on *[Flight in a Cage](/Flight_in_a_Cage)* … ongoing
+- Eric … meditate regularly with Brandon ... ongoing
+- Eric … meditate regularly with Ben ... ongoing
+- Eric … spend 15 minutes every day on Buckleberry or Auberge Paradis ... ongoing
+- Brandon … meditate regularly with Eric ... ongoing
+- Brandon … spend 15 minutes every day on Machine Learning … ongoing
+
+### Weekly Events Logistics
+Midweek
+- Sept 1 Work-Bee: 6:30 PM PDT / 21:30 EDT 
+
+Weekend
+Service rotation: Eric, Ben, Shelley, Brandon
+- Sept 3 Service: 8:00 AM PDT / 11:00 EDT … Brandon (Eric out (closing cottage))
+- Sept 11 Business Call: 5:30 PM PDT / 20:30 EDT 
+
+- Sept 8 to Oct 6 (Eric out Irish trip)
+
+### Buckleberry
+- Contractor still hasn't called back, and with the new job, Eric hasn't had time to call
+- Eric is working on a blog entry in his 15 minutes a day
+  - Ben suggests drawing pictures of what Eric wants to build
+
+### Evaluation
+- Eric … I love *[Flight in a Cage](/Flight_in_a_Cage)* … it makes me so happy that there's a book that's so aligned with SolSeed's vision
+- Ben … I am not sure what to do with all of the thoughts I wrote down, but it felt important to write them down.
+
+### Closing Blessing
+Sometimes the work that we are called to do is not the work we expected.  As some native Americans say, it is important to listen when our feelings call us to do something that our thinkings minds don’t have a clear reason or plan for, May we balance our feeling and desires and dreams with practical thoughts needed to turn them into reality. --Blessed Be

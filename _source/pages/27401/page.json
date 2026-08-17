@@ -1,0 +1,56 @@
+{
+  "canonical_path": "/Call_to_Practice_Video_1",
+  "current_revision_id": 43000,
+  "database_title": "Call_to_Practice_Video_1",
+  "display_title": "Call to Practice Video 1",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 2,
+  "page_id": 27401,
+  "published_revision_count": 2,
+  "revisions": [
+    {
+      "author": "Brandon CS Sanders",
+      "comment": "Created page with \"[[Videos]] > [[Call to Practice Video 1]]  <YouTube v=\"HcC746lQo0s\" />\"",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 40325,
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": 40324,
+      "same_as_previous_public": false,
+      "timestamp": "2015-01-22T14:43:32Z",
+      "wikitext_bytes": 70,
+      "wikitext_sha256": "a2804a46a7e3d474c464d63b690a65ef7904f0b6a2407df5d23ee678c7619ecb"
+    },
+    {
+      "author": "Brandon CS Sanders",
+      "comment": "moved [[Call to Practice Video]] to [[Call to Practice Video 1]]",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 43000,
+      "original_parent_revision_id": 40324,
+      "previous_public_revision_id": 40324,
+      "revision_id": 40325,
+      "same_as_previous_public": true,
+      "timestamp": "2015-01-22T14:43:52Z",
+      "wikitext_bytes": 70,
+      "wikitext_sha256": "a2804a46a7e3d474c464d63b690a65ef7904f0b6a2407df5d23ee678c7619ecb"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 40325,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 145,
+      "markdown_sha256": "af2fea6481d545ed2f36dbfd74d92fd948fd6df73559579fe08bfe6647c6344e",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": 40325,
+      "previous_public_revision_id": 40325,
+      "revision_id": 43000,
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z"
+    }
+  ],
+  "site_revision_count": 1
+}

@@ -1,0 +1,56 @@
+{
+  "canonical_path": "/File:ViventibusGalaxyPlate.jpg",
+  "current_revision_id": 42758,
+  "database_title": "ViventibusGalaxyPlate.jpg",
+  "display_title": "File:ViventibusGalaxyPlate.jpg",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 6,
+  "original_revision_count": 2,
+  "page_id": 27155,
+  "published_revision_count": 2,
+  "revisions": [
+    {
+      "author": "EricSaumur",
+      "comment": "Created page with \"A plate used to symbolize life spreading through the galaxy like green fire.\"",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 39445,
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": 39444,
+      "same_as_previous_public": false,
+      "timestamp": "2013-10-26T14:09:02Z",
+      "wikitext_bytes": 76,
+      "wikitext_sha256": "1aed8c3b2529032511b7a268174d5c3ad5e7fdcb20745a8a363497bfa5c1384b"
+    },
+    {
+      "author": "EricSaumur",
+      "comment": "uploaded &quot;[[File:ViventibusGalaxyPlate.jpg]]&quot;: A plate",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 42758,
+      "original_parent_revision_id": 39444,
+      "previous_public_revision_id": 39444,
+      "revision_id": 39445,
+      "same_as_previous_public": true,
+      "timestamp": "2013-10-26T14:12:10Z",
+      "wikitext_bytes": 76,
+      "wikitext_sha256": "1aed8c3b2529032511b7a268174d5c3ad5e7fdcb20745a8a363497bfa5c1384b"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 39445,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 77,
+      "markdown_sha256": "f1d4c263529504410174d256818282273bb9ea289a369d2fe466f34b8072d433",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": 39445,
+      "previous_public_revision_id": 39445,
+      "revision_id": 42758,
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z"
+    }
+  ],
+  "site_revision_count": 1
+}

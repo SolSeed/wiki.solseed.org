@@ -1,0 +1,56 @@
+{
+  "canonical_path": "/File:Smokerville.JPG",
+  "current_revision_id": 42559,
+  "database_title": "Smokerville.JPG",
+  "display_title": "File:Smokerville.JPG",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 6,
+  "original_revision_count": 2,
+  "page_id": 8270,
+  "published_revision_count": 2,
+  "revisions": [
+    {
+      "author": "BenSibelman",
+      "comment": "[[Ben]]'s drawing of one of the alien cultures invented for the Cultures of the Imagination game at the 2012 [[Contact Conference]]",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 11446,
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": 11445,
+      "same_as_previous_public": false,
+      "timestamp": "2012-04-29T04:09:48Z",
+      "wikitext_bytes": 131,
+      "wikitext_sha256": "2930117493c4f296a0d911da58904668d0dbf7398d4b548c2367464dafbaa165"
+    },
+    {
+      "author": "BenSibelman",
+      "comment": "Added more detailed description",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 42559,
+      "original_parent_revision_id": 11445,
+      "previous_public_revision_id": 11445,
+      "revision_id": 11446,
+      "same_as_previous_public": false,
+      "timestamp": "2012-04-29T04:11:38Z",
+      "wikitext_bytes": 288,
+      "wikitext_sha256": "35fd08b83159d40cb9d0ced3738090fdecf83e71a5eb24a7b01b0b51a69029a6"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 11446,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 312,
+      "markdown_sha256": "8fa1a98bb9ba0682c584915d22ff568e8f5934f6450a86084624a88d0856069c",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": 11446,
+      "previous_public_revision_id": 11446,
+      "revision_id": 42559,
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z"
+    }
+  ],
+  "site_revision_count": 1
+}

@@ -1,0 +1,66 @@
+**Poetry,
+**Music,
+**Meaning-making,
+**Community,
+**Connection with the Holy.
+
+**Please join us for our first [SolSeed Service](/SolSeedServices).**
+
+Saturday, February 6, 2010
+11 am Service.
+12:30 pm Potluck. Please bring a drink, dessert, or side dish (e.g. salsa) to share. Shelley & Brandon will provide Haystacks (aka American Taco)
+Sanders' home, 1824 SE Oak St, Portland OR 97214
+
+**Core/seed topic:** [Empathy](/Empathy)
+
+### Order of Service
+Lighting of the Chalice
+
+Opening Words
+**All: Our [world](/Terra) is one world, and we are one people.**
+Reader: We gather this day in celebration of [life](/life) and spirit.
+**All: The human heart can hold both joy and sorrow.**
+Reader: This day let us hold one another and all that is sacred.
+
+Song: "Spirit of Life" from [*Singing the Living Tradition*](http://www.amazon.com/Singing-Tradition-Unitarian-Universalist-Association/dp/1558962603), p. 123
+
+Poem: ["Spring and Fall" by Gerard Manley Hopkins](http://www.potw.org/archive/potw29.html), read by [Shelley Sanders](/Shelley_Sanders)
+
+Empathy Presentation and Discussion with [Mark Hansen](/Mark_Hansen)
+
+Song: ["Lean on Me" by Bill Withers](http://www.weddingvendors.com/music/lyrics/b/bill-withers/lean-on-me), performed by Steve and Judy Sibelman
+
+Meditation
+Only your compassion and your loving kindness are invincible, and without limit.
+-Thich Nhat Hanh
+
+Song: "Our World is One World" from *Singing the Living Tradition*, p. 134
+
+Silence
+
+Closing Words
+Reader: So with a boundless heart should one cherish all living beings.
+**All: So may it be.'''
+Reader: Blessed be.
+
+### Notes from the empathy discussion
+- Empathy can only exist after a child can see him/herself as separate from his/her mother
+- Levels of empathy
+  - First level: "That person hurts, therefore I must hurt"
+    - Requires that you have had the same experience you're witnessing someone else have
+  - Second level: "I have no idea what you must be feeling"
+    - Trying to understand/relate to an experience someone else is having that we have never had
+  - Third level: Putting aside one's own feelings and "living into" another person's feelings
+- Compassion is a product of suffering, but suffering can lead to jadedness instead
+- [Stories](/Stories) help build a repertoire of experiences to identify with, even though we're just reading about how characters feel in those situations
+- There is a darker side to empathy
+  - You can understand/relate to the experiences of an enemy
+  - This can help you figure out what would hurt that enemy most
+- Is empathy nature or nurture?
+  - Neither/both: we're born with a certain amount, but can learn more
+    - Similar to communication styles, where you have a naturally dominant style but can learn the others
+- Some people express "empathy" for starving people in poor countries whom they will never meet, while failing to empathize well with those immediately around them
+  - Avoids letting the other have empathy for you in return, which can be dangerous?
+- Developmentally, [trust](/trust) comes before empathy
+  - Einstein quote (?): "The most important question anyone can ask is, 'Do we live in a safe universe?'"
+  - People who are abused as children learn not to trust the world, and this makes empathy very difficult for them

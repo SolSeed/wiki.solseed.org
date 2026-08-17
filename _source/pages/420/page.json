@@ -1,0 +1,56 @@
+{
+  "canonical_path": "/Book_25",
+  "current_revision_id": 41984,
+  "database_title": "Book_25",
+  "display_title": "Book 25",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 2,
+  "page_id": 420,
+  "published_revision_count": 2,
+  "revisions": [
+    {
+      "author": "Brandon CS Sanders",
+      "comment": "Starting the [[Book 25]] page.",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 1298,
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": 1181,
+      "same_as_previous_public": false,
+      "timestamp": "2009-11-28T23:39:38Z",
+      "wikitext_bytes": 436,
+      "wikitext_sha256": "5ab582588bfea7f524256970ce2c1c248c34118cec99c87a5740cace18e1359c"
+    },
+    {
+      "author": "Tempestterror",
+      "comment": "",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 41984,
+      "original_parent_revision_id": 1181,
+      "previous_public_revision_id": 1181,
+      "revision_id": 1298,
+      "same_as_previous_public": false,
+      "timestamp": "2009-12-28T21:06:05Z",
+      "wikitext_bytes": 638,
+      "wikitext_sha256": "459dedf3f87eb79d6f6dc70c1160f672bdd62f331d9e18a9942afc70070b6804"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 1298,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 704,
+      "markdown_sha256": "aa55f27a36960b957dac986760bfa74d6247cd35625dd5e9d008a3f065699a31",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": 1298,
+      "previous_public_revision_id": 1298,
+      "revision_id": 41984,
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z"
+    }
+  ],
+  "site_revision_count": 1
+}

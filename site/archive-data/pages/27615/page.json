@@ -1,0 +1,48 @@
+{
+  "canonical_path": "/January_9th:_Sol_Formed_Like_a_Broken_Cup_Jumping_Together",
+  "current_revision_id": "43213",
+  "database_title": "January_9th:_Sol_Formed_Like_a_Broken_Cup_Jumping_Together",
+  "display_title": "January 9th: Sol Formed Like a Broken Cup Jumping Together",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 1,
+  "page_id": "27615",
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "EricSaumur",
+      "comment": "moved [[January 9th: Sol Formed Like a Broken Cup Jumping Together]] to [[Sol Formed Like a Broken Cup Jumping Together]]: bod date should not be part of title",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": "43213",
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": "40946",
+      "same_as_previous_public": false,
+      "timestamp": "2017-01-15T15:37:57Z",
+      "wikitext_bytes": 59,
+      "wikitext_sha256": "427dd99eabb8a99220307a8b6886d5e0a445baf5678611170a21808651a3c83c",
+      "source_format": "wikitext",
+      "source_extension": "wiki"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 40946,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 129,
+      "markdown_sha256": "5760c836995f2c4c51f5227aa69c0c35079243de5b60e3c92b41fc8f8cee9480",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": "40946",
+      "previous_public_revision_id": "40946",
+      "revision_id": "43213",
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z",
+      "wikitext_bytes": 129,
+      "wikitext_sha256": "5760c836995f2c4c51f5227aa69c0c35079243de5b60e3c92b41fc8f8cee9480",
+      "source_extension": "md"
+    }
+  ],
+  "site_revision_count": 1
+}

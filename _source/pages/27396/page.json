@@ -1,0 +1,43 @@
+{
+  "canonical_path": "/File:Pale_Blue_Dot.jpg",
+  "current_revision_id": 42995,
+  "database_title": "Pale_Blue_Dot.jpg",
+  "display_title": "File:Pale Blue Dot.jpg",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 6,
+  "original_revision_count": 1,
+  "page_id": 27396,
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "EricSaumur",
+      "comment": "Created page with \"Image from [http:\\\\en.wikipedia\\wiki\\Pale_Blue_Dot]\"",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 42995,
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": 40305,
+      "same_as_previous_public": false,
+      "timestamp": "2015-01-17T11:17:46Z",
+      "wikitext_bytes": 51,
+      "wikitext_sha256": "774659a56cc297efe56f51824d4c17f6f3bb25c814e1f837c3abc48549ddb161"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 40305,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 52,
+      "markdown_sha256": "b5235c1e05acb48e50a939ab253611bec894ff85942ed465e46d110dc15d27a7",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": 40305,
+      "previous_public_revision_id": 40305,
+      "revision_id": 42995,
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z"
+    }
+  ],
+  "site_revision_count": 1
+}

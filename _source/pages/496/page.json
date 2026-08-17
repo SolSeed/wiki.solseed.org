@@ -1,0 +1,43 @@
+{
+  "canonical_path": "/File:Longest_Night_Festival_circle.jpg",
+  "current_revision_id": 42058,
+  "database_title": "Longest_Night_Festival_circle.jpg",
+  "display_title": "File:Longest Night Festival circle.jpg",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 6,
+  "original_revision_count": 1,
+  "page_id": 496,
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "BenSibelman",
+      "comment": "A panoramic stitch of the circle at the [[Longest Night Festival]] Open Space, fixed up in PhotoShop to restore part of [[Shelley]]'s head and reattach [[Brandon]]'s and [[Arthur Brock|Art]]'s arms (sometimes the stitching algorithm just doesn't do what y",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 42058,
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": 1333,
+      "same_as_previous_public": false,
+      "timestamp": "2010-01-04T00:27:46Z",
+      "wikitext_bytes": 268,
+      "wikitext_sha256": "c17fc14287d526ee73313c20407da4fc725a2b17af0c87c049cec834773c50a8"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 1333,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 308,
+      "markdown_sha256": "3e7391cd84c71d0b42c7fe87d5e7b8a9279a2f390f3181236b3831f4e890b80b",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": 1333,
+      "previous_public_revision_id": 1333,
+      "revision_id": 42058,
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z"
+    }
+  ],
+  "site_revision_count": 1
+}

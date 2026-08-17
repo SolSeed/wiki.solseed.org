@@ -1,0 +1,48 @@
+{
+  "canonical_path": "/Fruits",
+  "current_revision_id": "43225",
+  "database_title": "Fruits",
+  "display_title": "Fruits",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 1,
+  "page_id": "27627",
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "Brandon CS Sanders",
+      "comment": "Redirected page to [[Fruit]]",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": "43225",
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": "40983",
+      "same_as_previous_public": false,
+      "timestamp": "2017-02-07T05:40:52Z",
+      "wikitext_bytes": 19,
+      "wikitext_sha256": "8482816b697f0ced5221a9f86476bedb88de21f3d92513d5595b1bc5e4b37dc3",
+      "source_format": "wikitext",
+      "source_extension": "wiki"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 40983,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 49,
+      "markdown_sha256": "65c1f699516481b128b111a9ded503a02d931ba8bfd0dd0c11b9538b513d473f",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": "40983",
+      "previous_public_revision_id": "40983",
+      "revision_id": "43225",
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z",
+      "wikitext_bytes": 49,
+      "wikitext_sha256": "65c1f699516481b128b111a9ded503a02d931ba8bfd0dd0c11b9538b513d473f",
+      "source_extension": "md"
+    }
+  ],
+  "site_revision_count": 1
+}

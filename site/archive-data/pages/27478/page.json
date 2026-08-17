@@ -1,0 +1,48 @@
+{
+  "canonical_path": "/June_21,_2015,_Solstice_trip_to_Maryhill",
+  "current_revision_id": "43076",
+  "database_title": "June_21,_2015,_Solstice_trip_to_Maryhill",
+  "display_title": "June 21, 2015, Solstice trip to Maryhill",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 1,
+  "page_id": "27478",
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "BenSibelman",
+      "comment": "Created page",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": "43076",
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": "40583",
+      "same_as_previous_public": false,
+      "timestamp": "2015-07-20T04:59:25Z",
+      "wikitext_bytes": 1154,
+      "wikitext_sha256": "3d677c19e0db979c4f944e40fbebfec566a9c9104d25b6b89b48cb4dd69658f1",
+      "source_format": "wikitext",
+      "source_extension": "wiki"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 40583,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 1218,
+      "markdown_sha256": "f282cd29965adddafe407a82cf6067f0ecc059700223cb16a2c880ea8a4c50c8",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": "40583",
+      "previous_public_revision_id": "40583",
+      "revision_id": "43076",
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z",
+      "wikitext_bytes": 1218,
+      "wikitext_sha256": "f282cd29965adddafe407a82cf6067f0ecc059700223cb16a2c880ea8a4c50c8",
+      "source_extension": "md"
+    }
+  ],
+  "site_revision_count": 1
+}

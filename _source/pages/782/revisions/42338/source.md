@@ -1,0 +1,1 @@
+Photo of some student attendees at the [SpaceVision 2010 conference](http://spacewiki.com/SpaceVision), gathered around our [SpaceWiki](/SpaceWiki) table to sign up for the website and get a free caricature.  Brandon, in the red shirt on the left, is supervising.

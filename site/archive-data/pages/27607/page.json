@@ -1,0 +1,48 @@
+{
+  "canonical_path": "/Talk:Sequoia",
+  "current_revision_id": "43205",
+  "database_title": "Sequoia",
+  "display_title": "Talk:Sequoia",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 1,
+  "original_revision_count": 1,
+  "page_id": "27607",
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "EricSaumur",
+      "comment": "Created page with \"Sequoia, I think you are old enough to write on this wiki yourself now! --~~~~\"",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": "43205",
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": "40928",
+      "same_as_previous_public": false,
+      "timestamp": "2017-01-15T15:20:11Z",
+      "wikitext_bytes": 133,
+      "wikitext_sha256": "f8707840dbaea892726499c880ea7555ea1a76386f1ae6d406dab9d386859976",
+      "source_format": "wikitext",
+      "source_extension": "wiki"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 40928,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 134,
+      "markdown_sha256": "c123006269a6af1d6b72ccbf7bbd31fa0ae6697ee71fbc0fd338a32120401260",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": "40928",
+      "previous_public_revision_id": "40928",
+      "revision_id": "43205",
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z",
+      "wikitext_bytes": 134,
+      "wikitext_sha256": "c123006269a6af1d6b72ccbf7bbd31fa0ae6697ee71fbc0fd338a32120401260",
+      "source_extension": "md"
+    }
+  ],
+  "site_revision_count": 1
+}

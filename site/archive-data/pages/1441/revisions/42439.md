@@ -1,0 +1,77 @@
+### Agenda
+- Check In
+- Review WWWs
+- Review Agenda
+- Next Service Logistics
+- Business Call Logistics
+- See [Seed-Village-Decisions](http://thesanders.us/Seed-Village-Decisions)
+- [SolSeedCreed](/SolSeedCreed)
+- [OnePagePlan](/OnePagePlan)
+- Evaluation
+ 
+### Check In
+- Shelley ... used up all my gumption ... had to drink coffee the last three days
+- Ben ... feeling like I should do stuff ... but not sure when I'm going to find the time (e.g., political stuff) ... want to start writing in a personal journal again
+- Brandon ... possesses a nice tattoo. Won the Annual Father's Day Schoepflin Sanders Golf Invitational. Doing ok. 
+- Sequoia ... Counted the bumblebees and honey bees today with Grandma Shirley. Played in sand at OMSI barefoot. Ate all the chocolate chips off his banana cake. Hard to complain!
+ 
+### WWWs from last time
+- <s>Brandon ... get modem to take windsurfing so we can do the service ... by next call (Thursday the 23rd)
+- Brandon ... contact Swift about the house raising concept ... by next call
+- Brandon ... pull decisions from the vision exercise ... by next call
+- Brandon ... line Ryan Rhoads up for the caricatures for the Space Elevator conference ... by next call
+- Brandon ... find dvd for lori and Ben's text to include with the dvd ... by next call</s>
+- Shelley ... send another invitation to the Solstice potluck picnic (and go door to door) ... by tomorrow (actually decided not to)
+- <s>Shelley ... do grocery shopping for the hike ... tomorrow
+- Brandon, Shelley, and Ben ... think about the [SolSeedCreed](/SolSeedCreed) ... by Saturday</s>
+ 
+### WWWs
+- Brandon ... get ticket to space elevator conference ... by end of June
+- Brandon ... get address for Kevin to Shelley ... by end of the call
+- Brandon ... try to get back the book content on TypeWith.Me ... by tomorrow
+- Shelley ... send Jerry email about the service call ... by tonight
+- Shelley ... mail the dvd to lori ... by next call
+- Shelley ... send book to Ben and 10 books to Kevin F ... by next call
+- Ben ... start the in--depth vision document (to move toward a firm decision) ... by next call
+ 
+### Review Agenda
+### Next Service Logistics
+10am Saturday June 25, 2011 ... Jerry (or Shelley if not Jerry)
+Rotation: Brandon, Jerry?, Shelley, Ben
+ 
+### Business Call Logistics
+- Brandon has a Buckman Community Association meetings, 6-8:30 PM on Thursdays July 14 and August 11
+  - We can probably just start the business call a bit later on those days
+ 
+### [OnePagePlan](/OnePagePlan)
+#### 2011 1 Year Goals (draft)
+- Village: Start construction on either a backyard cottage or a renovated basement living space
+- Outreach: Two more contributing members
+- Media: Finish the two books and maintain SpaceWiki
+- Spiritual practice: Maintain the spiritual practice (weekly service calls, in-person solstice and equinox events)
+- Service: $10,000 or 200 hour contribution (or some combination) to a service project that brings life
+- Industry: Apply for an SBIR grant related to launching life to another world (possibly a space catapult)
+ 
+#### 2011 3rd Quarter Goals, due 9/30/2011
+- Seed Village
+  - Yellow: Get a good sense for the cost of the basement option (practically a bid)
+  - Green: Either decide not to do the basement option, or create concept plans for the basement
+  - Super Green: Get at least two bids for construction of the basement option
+- Outreach
+  - Yellow: Identify one likely Meetup Group in Portland to participate in
+  - Green: Identify at least 4 prospective SolSeed members by declaration by attending meetups for that group
+  - Super Green: Hold a meetup for that group that introduces SolSeed
+
+- Media:
+  - Yellow: Attend the Space Elevator Conference with our SpaceWiki table
+  - (super) Green: Publish a draft of SolSeed: Helping Life Thrive, On Earth And Beyond (sans pictures)
+ 
+- Spiritual practice
+  - Yellow: Have an equinox celebration
+  - Green: Maintain the weekly calls, experiment with some sort of daily practice that lasts at least two weeks
+  - Super Green: Incorporate the Church
+ 
+### Evaluation
+- Shelley ... is asleep (gently snoring)
+- Ben ... I would say it went pretty well
+- Brandon ... feel good about hitting our goals, bad about needing to go over on the work-bees

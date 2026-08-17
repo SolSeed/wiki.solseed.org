@@ -1,0 +1,43 @@
+{
+  "canonical_path": "/File:Logo_graphical.png",
+  "current_revision_id": 41908,
+  "database_title": "Logo_graphical.png",
+  "display_title": "File:Logo graphical.png",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 6,
+  "original_revision_count": 1,
+  "page_id": 344,
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "BenSibelman",
+      "comment": "Graphical version of a new [[SolSeed Emblem]] concept. See [[Our Name Is Our Logo]] for details.",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 41908,
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": 998,
+      "same_as_previous_public": false,
+      "timestamp": "2009-08-14T05:07:30Z",
+      "wikitext_bytes": 96,
+      "wikitext_sha256": "6b7671794143d710f4447799e9cdae295a83c836f1cd34fba7072a4c2808590c"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 998,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 133,
+      "markdown_sha256": "7e862f9420d65909bbda8ca2a7ac57a4360095c49fd80c8b6ed77551304bdbb4",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": 998,
+      "previous_public_revision_id": 998,
+      "revision_id": 41908,
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z"
+    }
+  ],
+  "site_revision_count": 1
+}

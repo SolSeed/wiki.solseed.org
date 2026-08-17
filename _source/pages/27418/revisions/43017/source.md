@@ -1,0 +1,1 @@
+The ocean and mangrove-wetland biomes inside [Biosphere 2](/Biosphere_2). The wetland is behind the concrete wall at the far end of the ocean.

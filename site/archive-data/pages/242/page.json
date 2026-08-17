@@ -1,0 +1,63 @@
+{
+  "canonical_path": "/File:EthiopiaMapAndPhotos.jpg",
+  "current_revision_id": "41808",
+  "database_title": "EthiopiaMapAndPhotos.jpg",
+  "display_title": "File:EthiopiaMapAndPhotos.jpg",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 6,
+  "original_revision_count": 2,
+  "page_id": "242",
+  "published_revision_count": 2,
+  "revisions": [
+    {
+      "author": "Shelley Schoepflin Sanders",
+      "comment": "Tigray region Ethiopia map and description of water project success",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": "648",
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": "647",
+      "same_as_previous_public": false,
+      "timestamp": "2009-03-12T21:58:15Z",
+      "wikitext_bytes": 67,
+      "wikitext_sha256": "1d65ef2ee7adf779e161d787c9835ef72f083aec8bfb76c33ee63524c060b83d",
+      "source_format": "wikitext",
+      "source_extension": "wiki"
+    },
+    {
+      "author": "Shelley Schoepflin Sanders",
+      "comment": "",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": "41808",
+      "original_parent_revision_id": "647",
+      "previous_public_revision_id": "647",
+      "revision_id": "648",
+      "same_as_previous_public": false,
+      "timestamp": "2009-03-12T22:00:16Z",
+      "wikitext_bytes": 105,
+      "wikitext_sha256": "fec6073412d19613b8935249f39a1bedf57d6478043f339b3e843c3c2e3343f9",
+      "source_format": "wikitext",
+      "source_extension": "wiki"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 648,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 106,
+      "markdown_sha256": "fe4146bcbb82774f97536a92cc4cac857173efca2925d2910079ecabd7d89c04",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": "648",
+      "previous_public_revision_id": "648",
+      "revision_id": "41808",
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z",
+      "wikitext_bytes": 106,
+      "wikitext_sha256": "fe4146bcbb82774f97536a92cc4cac857173efca2925d2910079ecabd7d89c04",
+      "source_extension": "md"
+    }
+  ],
+  "site_revision_count": 1
+}

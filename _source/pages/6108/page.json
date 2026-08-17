@@ -1,0 +1,43 @@
+{
+  "canonical_path": "/File:Planting_at_2012_Spring_Festival.JPG",
+  "current_revision_id": 42528,
+  "database_title": "Planting_at_2012_Spring_Festival.JPG",
+  "display_title": "File:Planting at 2012 Spring Festival.JPG",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 6,
+  "original_revision_count": 1,
+  "page_id": 6108,
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "BenSibelman",
+      "comment": "Planting flower seeds in cups at [[Spring Equinox 2012]].",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 42528,
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": 8767,
+      "same_as_previous_public": false,
+      "timestamp": "2012-03-25T05:32:37Z",
+      "wikitext_bytes": 57,
+      "wikitext_sha256": "a81dfdfb743ebb2ceb1fbea6713e42fa50b1dc249ae07853de37613ed7155105"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 8767,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 78,
+      "markdown_sha256": "02a4e434b8d2eafface55b014fcbbce71f6c97b0147428c2fff268a13844c5c9",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": 8767,
+      "previous_public_revision_id": 8767,
+      "revision_id": 42528,
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z"
+    }
+  ],
+  "site_revision_count": 1
+}

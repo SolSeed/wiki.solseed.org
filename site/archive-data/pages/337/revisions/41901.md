@@ -1,0 +1,125 @@
+Notes from Previous Calls: http://solseed.org/Group_Experiences
+
+Dial-in Number: 1-218-936-4700 
+Participant Access Code: 815066
+
+### May 25, 2009 @8pm PST
+- Opening Words - 5 mins
+- Check in - 10 mins
+- Topic 1: The Untethered Soul - 15 mins
+- Topic 2: Small Groups for [Sol2009](/Sol2009)
+- Logistics / What's next / homework / assign next call - 10 mins
+- Closing Words - 2 mins
+
+### Opening Words - (5 mins)
+http://solseed.org/SolSeedCreed/CallAndResponse
+
+Bonnie:  We believe that: The Destiny of SolSeed is to take root amongst the stars. 
+ 
+Brandon: Sol,  Terra,  you,  me,  we,  ALL,  are precious SolSeed.
+
+Shelley: As SolSeed's intelligent spark, We are its caretakers, We must fulfill The Destiny.
+
+Ben: We believe that:  Our holy duty is to embrace Self Love, cultivate Empathy, and pursue Wisdom,
+
+Brenna: So that our being honors SolSeed, and our striving hastens the fulfillment of The Destiny.
+
+Bonnie: Self Love is motive.  Without Self Love,  Empathy and Wisdom are impotent.
+
+Brandon: I pledge to learn to love myself; to become a person I cherish, admire, and care for.
+
+Shelley: Empathy is transcendent.  Without Empathy, Self Love and Wisdom are evil.
+
+Ben: I pledge to cultivate empathy in myself and others; to share and demonstrate my concern for others and for the growing life all around me. 
+
+Brenna: Wisdom is effective.  Without Wisdom, Self Love and Empathy are feeble and capricious.  
+
+Bonnie: I pledge to seek wisdom; to honor my past, to strive for the future, to be open to new ideas and new beliefs, and to share my wisdom with others.
+
+Brandon: Through Self Love, Empathy, and Wisdom we have come to know that:
+
+All: We are SolSeed; Children of the sun, Awakened by starlight, Growing, nurturing, protecting, We bring life!
+
+### Check in and Reflections (10 mins)
+Shelley: Having a rough time, grieving a lot--bringing grief
+Bonnie: I bring persistence--working on my house
+Kim: I'm bringing the opposite of grief--I've had a great day, including good conversations and achievements at work
+Brandon: I bring "open and connected"--
+Brenna: I bring letting go of personal preferences
+Ben: I bring a little bit of disturbedness because I'm still not sure whether I can be at peace with this book I'm reading ... I talked with Lion who is somewhere in between me and the author on concepts like "when you do something who is actually doing something" ... going to have a much less formal than usual gathering with friends ... movie and hangout
+
+### Topic 1: The Untethered Soul (15 mins)
+Chapters 17-19
+
+Bonnie: I relate to the part about God that he talks about that is the Christian aspect, had a more difficult time with other parts
+Shelley: The description of the Tao spoke to me
+Brenna: There's something to be said for passion--it's good to maintain balance, but at the same time some of the beauty in life lies in passion
+Kim: Balance in your passions--it's okay to have a drink now and then or watch movies, even as you strive for spiritual balance--it was the same with leaders striving for excellence
+Brandon: There's a point where you think about your passion too much and let it control your life
+Bonnie: To embrace a new concept you often have to swing from your current ideas all the way to the "opposite side" and then oscillate until you arrive at a new understanding
+Shelley: I had a strong reaction against some Christian talk--maybe too far
+Kim: I can't yet be comfortable with the SolSeed Creed because of the Church and my upbringing
+Shelley: Back to the question of whether all religions point to the same idea of God?
+Kim: We look at ancient philosophies, religions, etc. in a class and finding that they're all connected and talking about the same values in different words
+Shelley: One of my critiques of Unitarian Universalism is its walking the middle path, drawing from all these different traditions, to the extent of not gaining real depth--vs. Adventism
+Brandon: I'm slowly coming to embrace Christian language and stories, yet I'm choosing that after seeing lots of options
+Kim: Muslim friend was commanded to go out and research other religions
+
+### Topic 2:  Small-group idea (15 mins)
+Bonnie: I want to be connected to you guys more and know each other better
+Kim: I really liked the "story time" sessions at Seed 2009
+Brenna: Deepening of our relationship as a group--many people would like to be part of a sort of family group, where it's okay to be who you are--each of us could develop our own small groups where we live, and each of them could develop their own, etc.--could make a difference in the world
+Brandon: We have a structure that allows you to choose who you talk to at our large-group gatherings--very different from a family
+
+Idea for Sol 2009: do something each day with a set group of 4-6 people
+- Ben: People in a group shouldn't already know each other very well
+- Break up the Sanders!
+- Kim: Questions or projects for these "small-group" sessions--need structure for deepening--activities may depend on what's needed at the campground, like picking up litter
+- Shelley: I will create the groups and work with Brenna and Kim on "deepening exercises"
+- Bonnie: I'd like to get Mark's input, he deals a lot with the problem of getting to know people in a short period of time
+- Mark: I could create a questionnaire to ask in the groups, provocative questions and ones that would facilitate getting into a group process--similar to what we do at my job, starting with a large group and then breaking into groups of about 4
+- Brandon: we need groups that can absorb the impact of people coming and going during the course of the weekend--also, maybe do the small-group times first thing in the mornings
+- Mark: We should have a general, adaptable plan for how to create the groups--also, give each group a particular name related to SolSeed
+- Groups could be responsible for different meals?
+  - Mark: but then the meal schedule determines who's in what group?
+  - Shelley: or groups could self-determine which meals they can do
+- Mark: each group will have a spokesperson/leader to ask the questions
+- Brandon: this will be a great experiment for how we can organize ourselves as we grow
+- Kim: could have problems with early-morning time
+- Shelley: how about we do the opening circle first
+
+### Logistics / What's next / homework / assign next call (10 mins)
+- Ben: Will ask his dad to attend, as he might be able to assist with by-laws
+- Boni and Brandon will discuss by-laws this weekend
+  - Find a registered agent for us to use (lawyer or accountant) for communications to go to
+- Kim will look at by-laws since she has relevant experience
+- Shelley and Brenna will come up with opening and closing rituals and one for the Spectacle
+
+#### Next Call
+- Facilitator (Brandon)
+- Opening/closing words (Ben)
+- Summary and reminder email (Shelley)
+- Topic ideas (Kim)
+  - people who need rides next weekend
+  - Continue metaphor talk?
+  - Permaculture (sustainable agriculture and life in general)
+
+#### Closing Words (2 min)
+The river of life flows.  The more comfortable we are with letting go, the more joy and peace we will know.  Setting our preferences aside we can choose to embrace and enjoy the ride.
+[hey, that rhymes!]
+"Slipping Through My Fist"
+I have drifted down a ways along the shoreline,
+I just watched these ropes give way
+where they were tied.
+I could have reached out quick when the ropes first
+slipped, If I had tried,
+but I was wondering where the wind was trying to take me
+overnight, if I never did resist, and
+what strange breezes make a sailor want to
+let it come to this,
+with lines untied, slipping through my fist.
+It is downhill all the way to the ocean,
+So of course the river wants to flow.
+The river's been here longer,
+It's older and stronger and knows where to go.
+Song by David Wilcox

@@ -1,0 +1,43 @@
+{
+  "canonical_path": "/File:Butterfly.jpg",
+  "current_revision_id": 41704,
+  "database_title": "Butterfly.jpg",
+  "display_title": "File:Butterfly.jpg",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 6,
+  "original_revision_count": 1,
+  "page_id": 138,
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "Kevin",
+      "comment": "Seed2009 butterfly",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 41704,
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": 328,
+      "same_as_previous_public": false,
+      "timestamp": "2009-01-10T16:31:41Z",
+      "wikitext_bytes": 18,
+      "wikitext_sha256": "46e8a1607d827b0901b6e70a6ef184e0d37540868c6b9a74c2d89337b7d15ebc"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 328,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 19,
+      "markdown_sha256": "fea43df41cf9c6f57931632fbf224019b571e1d261862289b997855f9e7cdb60",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": 328,
+      "previous_public_revision_id": 328,
+      "revision_id": 41704,
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z"
+    }
+  ],
+  "site_revision_count": 1
+}

@@ -1,0 +1,43 @@
+{
+  "canonical_path": "/Gaia_the_Editor_of_the_Genetic_Herald",
+  "current_revision_id": 43323,
+  "database_title": "Gaia_the_Editor_of_the_Genetic_Herald",
+  "display_title": "Gaia the Editor of the Genetic Herald",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 1,
+  "page_id": 27725,
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "EricSaumur",
+      "comment": "moved [[Gaia the Editor of the Genetic Herald]] to [[Mammalia and the Genetic Herald]]: I decided part way in to have many different competing publications and then discovered a new Goddess along the way!",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 43323,
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": 41418,
+      "same_as_previous_public": false,
+      "timestamp": "2018-06-28T01:02:51Z",
+      "wikitext_bytes": 45,
+      "wikitext_sha256": "7f28b5b7b7f2a2687fbe894d9771092cba09f2f468253928bfd28bf7d594f870"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 41418,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 101,
+      "markdown_sha256": "189cea0c14551128c1072a48acd01d81cafbe9bff8a670105bcd666ea4d05445",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": 41418,
+      "previous_public_revision_id": 41418,
+      "revision_id": 43323,
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z"
+    }
+  ],
+  "site_revision_count": 1
+}

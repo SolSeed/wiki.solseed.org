@@ -1,0 +1,56 @@
+{
+  "canonical_path": "/SolSeed_books",
+  "current_revision_id": 42060,
+  "database_title": "SolSeed_books",
+  "display_title": "SolSeed books",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 2,
+  "page_id": 499,
+  "published_revision_count": 2,
+  "revisions": [
+    {
+      "author": "BenSibelman",
+      "comment": "Created page.",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 1996,
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": 1344,
+      "same_as_previous_public": false,
+      "timestamp": "2010-01-10T18:54:43Z",
+      "wikitext_bytes": 574,
+      "wikitext_sha256": "917334f5f101927a768331de50a1a1c46cfb5cf23854c6671dcfd8396b3fae29"
+    },
+    {
+      "author": "BenSibelman",
+      "comment": "Updated description of the big book and added the bigger book",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 42060,
+      "original_parent_revision_id": 1344,
+      "previous_public_revision_id": 1344,
+      "revision_id": 1996,
+      "same_as_previous_public": false,
+      "timestamp": "2010-11-20T06:50:29Z",
+      "wikitext_bytes": 947,
+      "wikitext_sha256": "0f8655afc679bb78f8eafe9551d7028e6f5268a224d6b8bbcad8f834e422a424"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 1996,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 1078,
+      "markdown_sha256": "42773ec91abaa708c5a9cf271ef55c0f0703ce2ad84d7d99df5fb03f282e5fb4",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": 1996,
+      "previous_public_revision_id": 1996,
+      "revision_id": 42060,
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z"
+    }
+  ],
+  "site_revision_count": 1
+}

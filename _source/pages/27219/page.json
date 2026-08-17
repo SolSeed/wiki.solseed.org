@@ -1,0 +1,43 @@
+{
+  "canonical_path": "/8th_Season",
+  "current_revision_id": 42820,
+  "database_title": "8th_Season",
+  "display_title": "8th Season",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 1,
+  "page_id": 27219,
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "Brandon CS Sanders",
+      "comment": "Redirected page to [[Viventibus Galaxia]]",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 42820,
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": 39677,
+      "same_as_previous_public": false,
+      "timestamp": "2014-04-27T21:06:00Z",
+      "wikitext_bytes": 32,
+      "wikitext_sha256": "ef4829ab161053689b4c08b0221eb8a1e65a1805e6341fafc6a92498ad1decf1"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 39677,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 75,
+      "markdown_sha256": "378e54905a658ac588a1e9169487a98cf448af7923de0ef412cb7712241e4f27",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": 39677,
+      "previous_public_revision_id": 39677,
+      "revision_id": 42820,
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z"
+    }
+  ],
+  "site_revision_count": 1
+}

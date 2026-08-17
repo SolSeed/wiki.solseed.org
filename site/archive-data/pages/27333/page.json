@@ -1,0 +1,48 @@
+{
+  "canonical_path": "/File:UUFOlogo.jpg",
+  "current_revision_id": "42932",
+  "database_title": "UUFOlogo.jpg",
+  "display_title": "File:UUFOlogo.jpg",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 6,
+  "original_revision_count": 1,
+  "page_id": "27333",
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "EricSaumur",
+      "comment": "Unitarian Universalist Fellowship of Ottawa Logo; a Unitarian chalice inside the letter O.",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": "42932",
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": "40135",
+      "same_as_previous_public": false,
+      "timestamp": "2014-10-21T02:42:34Z",
+      "wikitext_bytes": 90,
+      "wikitext_sha256": "a57bf7fc0b1195d36d0cb3fadb482d405f354ce437ab472d24e97b042fd22b0e",
+      "source_format": "wikitext",
+      "source_extension": "wiki"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 40135,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 91,
+      "markdown_sha256": "163958d22d4c2d485aeca6a13815be22912bc8ab777e3af11786f3e2e5db6646",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": "40135",
+      "previous_public_revision_id": "40135",
+      "revision_id": "42932",
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z",
+      "wikitext_bytes": 91,
+      "wikitext_sha256": "163958d22d4c2d485aeca6a13815be22912bc8ab777e3af11786f3e2e5db6646",
+      "source_extension": "md"
+    }
+  ],
+  "site_revision_count": 1
+}

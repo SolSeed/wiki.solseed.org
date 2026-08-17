@@ -1,0 +1,48 @@
+{
+  "canonical_path": "/File:EarthSeed.jpg",
+  "current_revision_id": "43352",
+  "database_title": "EarthSeed.jpg",
+  "display_title": "File:EarthSeed.jpg",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 6,
+  "original_revision_count": 1,
+  "page_id": "27754",
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "EricSaumur",
+      "comment": "Hand holding soil and plant symbolizing the role of humanity in shaping the Earth.",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": "43352",
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": "41532",
+      "same_as_previous_public": false,
+      "timestamp": "2018-09-11T00:53:27Z",
+      "wikitext_bytes": 82,
+      "wikitext_sha256": "5296b86a67e193fe0ff8bac6071f93b3755dcaa09703d73473611a691157311d",
+      "source_format": "wikitext",
+      "source_extension": "wiki"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 41532,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 83,
+      "markdown_sha256": "199efca629a61698e99ae822cd6168e1a405f64ba772aee57d893348f1b8c18d",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": "41532",
+      "previous_public_revision_id": "41532",
+      "revision_id": "43352",
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z",
+      "wikitext_bytes": 83,
+      "wikitext_sha256": "199efca629a61698e99ae822cd6168e1a405f64ba772aee57d893348f1b8c18d",
+      "source_extension": "md"
+    }
+  ],
+  "site_revision_count": 1
+}

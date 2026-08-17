@@ -1,0 +1,42 @@
+[SolSeed](/SolSeed) < [SolSeed and Religion](/SolSeed_and_Religion) < Christianity
+__NOTOC__
+
+[SolSeed](/SolSeed) is a religion, but all members are free to identify themselves with various other religions.  [SolSeed](/SolSeed) is not a jealous religion.  By all means you can have other religions before and after ours.  Specifically, this page looks at how [SolSeed](/SolSeed) fits with those who identify themselves as Christians.
+
+### What Christianity Teaches Us
+#### Matthew 22:35-40
+*Then one of them, which was a lawyer, asked him a question, tempting him, and saying, Master, which is the great commandment in the law? *
+
+*Jesus said unto him, Thou shalt love the Lord thy God with all thy heart, and with all thy soul, and with all thy mind. This is the first and great commandment. And the second is like unto it, Thou shalt love thy neighbour as thyself.*
+
+*On these two commandments hang all the law and the prophets.*
+
+God is the embodiment of all [beauty](/BeautyMovement) ... to "love God with all thy heart" asks us to cultivate and embrace beauty wherever we find it.
+
+God illuminates our [moral duty](/ValuesMovement) ... to "love God with all thy soul" asks us to encourage the "still small voice" of our souls as we choose our path through life.
+
+God is the source of all [truth](/TruthMovement) ... to "love God with all thy mind" asks us to use the minds God has given us to seek the truth.
+
+To "love thy neighbour as thyself" asks us to:
+1. Love ourselves well so that our capacity to love others grows accordingly
+1. Identify with others so that the love we show for ourselves naturally applies to them
+
+#### The words that [SolSeed](/SolSeed) uses for these truths
+[Wisdom](/Wisdom) ... To seek truth with our minds and discern our moral duty
+
+[SelfLove](/SelfLove) ... To love ourselves and encourage beauty
+
+[Empathy](/Empathy) ... To love others as ourselves
+
+### One way of relating Heaven and Hell to our planet
+"But what the hell do you stand for?" she demanded.  "What do you pray to?"
+
+"Ourselves," I said.  "What else is there?"
+
+*Parable of the Sower* by [Octavia Butler](/Octavia_Butler)
+
+The standard Christian message: We are all sinners to one degree or another.  It's only natural; to err is human.  Unrepentant sinners go to Hell.  But if you accept Jesus as your personal savior, and follow the teachings of the Bible as best you can, then there will be a place for you in Heaven.
+
+A rephrasing of the [SolSeed](/SolSeed) message: The human species, like all other species, has a biological tendency to grow beyond its resource base, and increasing numbers of people have a societally-driven tendency to overvalue self-interest and undervalue service to others.  If we don't change course, these tendencies will bring disaster.  But if we accept that **we can be our own saviors**, and work to follow the [principles of SolSeed](/SolSeedCreed), then we may one day gain the ability to travel to the stars.
+
+In Christian theology, Heaven is defined as eternal bliss, rather the opposite of the material world where so many pleasures are sinful and to be avoided.  Similarly, the "sins" of individualism and the will to expand could become virtues on the interstellar frontier.  In particular, the dictum "Be fruitful and multiply" could come to stand for the principle that more colonies means less risk that a single calamity could wipe us all out, even though the work of establishing those colonies will require independent, adventurous people who thrive on risk.

@@ -1,0 +1,116 @@
+### Sunday Agenda
+- Check in
+- Opening Blessing
+- Review WWWs
+- Weekly event logistics
+- Review Agenda
+- Earthseed 
+  - Next steps
+  - OEB event
+- May cross-quarter and Summer Solstice
+- SolSeedCreed revisions
+- Evaluation
+- Closing Blessing
+
+### Check In
+- Eric … I am very full
+- Brandon … I am feeling optimistic about AI
+- Ben … I am excited because I get to be on Brandon’s AI show and the contact conference just had a cancellation and I probably get to be a speaker (hopefully 57 minutes wasn’t long enough to fill it)
+
+### Opening Blessing
+May our bellies always be full, our hearts optimistic, and our opportunities always joyously unexpected.  May our work lead us always closer to our highest aspirations. --Blessed Be
+
+### WW(W)s from last time
+Organize the WW(W)s by person and then due date if desired.  We’ll start checking in on topical community protocol and meditation for each mini-period between workbees. Holacracy founder Brian Robertson says these are bad: http://holacracy.org/blog/the-insanity-of-the-what-by-when 
+
+- <s>Ben … meditate regularly with Eric ... ongoing
+- Ben … follow your topical community protocol for this period ... ongoing
+- Ben … buy some green apples … by Sunday</s>
+- Ben … write a new blog entry for the Earthseed blog … by next call
+- <s>Eric … meditate regularly with Ben... ongoing</s>
+- Eric … meditate regularly with Brandon... ongoing
+- Eric … follow your topical community protocol for this period ... ongoing
+- <s>Eric … write a story for the equinox!
+- Eric … think about travel options</s>
+- Brandon … meditate regularly with Eric ... ongoing
+- Brandon … follow your topical community protocol for this period ... ongoing
+- <s>Brandon … sign up Shelley for the equinox event on Facebook</s>
+- <s>Brandon … bring spiral slicer for apples</s>
+- <s>Brandon … bring some snacks</s>
+- <s>Brandon … reach out to John (perhaps a quick phone call)</s>
+- <s>Brandon … write a story for the equinox</s>
+
+### WWWs
+- Ben … meditate regularly with Eric ... ongoing
+- Ben … follow your topical community protocol for this period ... ongoing
+- Ben … send a bio for the Octavia Butler event to John … by tonight
+- Ben … learn more about the Octavia Butler event … by next call
+- Ben … sign up for the Octavia Butler event … by next call
+- Ben … buy plane tickets and arrange lodging … by next call
+- Eric … meditate regularly with Ben ... ongoing
+- Eric … meditate regularly with Brandon ... ongoing
+- Eric … follow your topical community protocol for this period ... ongoing
+- Eric … schedule an event with Gaia’s People  … by the call after that
+- Eric … contact members of Gaia’s People with a survey to find out what they want from the group … by next call
+- Eric… learn more about the Octavia Butler event … by next call
+- Brandon … meditate regularly with Eric ... ongoing
+- Brandon … follow your topical community protocol for this period ... ongoing
+- Brandon … upload the stories … very soon
+- Brandon … work on SolSeed/Earthseed service calls … on the workbee
+- Brandon … check whether John is going to OEB regardless of acceptance
+
+### Gaia's People report
+The Gaia's People Ottawa group just reached 100 members, and many of them are from atheist groups like the Center for Inquiry, the Humanist Association, and Ottawa Skeptics
+- Eric really needs to hold an event
+
+### Weekly Events Logistics
+Midweek
+- March 31 Work-Bee: 6:30 PM PST / 21:30 EST
+
+Weekend
+Service rotation: Eric, Ben, Shelley, Brandon
+- April 2 Service: 8 AM PST / 11 EST … Shelley
+- April 3 Business Call: 5:30 PM PST / 20:30 EST (Ben out due to Contact Conference)
+
+### Next steps with Earthseed
+- Invite Tony for a service call
+- Invite John for a service call
+- Suggest helping set up an Earthseed service call that they would organize
+- We should not stop the Service calls until EarthSeed can match them.
+
+### Octavia Butler event
+We know we want to do both a panel and a ritual.
+- We could connect with John and Tony on calls to do dry runs of these
+
+Another thing to consider is outreach and interacting with and getting to know the people who are there.
+- Ben should make a new version of the trifold
+- Brandon will print more copies of the current *We Believe* book to bring
+  - We're planning a new one but it likely won't be ready by early June (especially since they might be influenced by our Earthseed-related activities)
+
+### Beltane and Summer Solstice
+Moment of Beltane: Thursday May 5, 6:02 PM PDT / 21:02 EDT
+- Eric will plant a tree
+- West coast crew could do a Saturday work party at the Arboretum on April 30 or May 7 (Shelley's birthday)
+- We could also try to find a tree-planting event in Portland with Friends of Trees, or a bioswale making event or something
+
+Moment of Solstice: Monday June 20, 3:34 PM PDT / 18:34 EDT
+- We're thinking next year for a big get-together at Eric's place
+- Ben could host something near Seattle
+  - Just a hike?
+  - Maybe a weekend camping open space?
+    - Could we include Eric somehow or would signal strength be too minimal?
+  - Plant trees?
+  - Outdoor class, e.g. Basket weaving English Ivy?
+  - YayLifeTri? (Ben would need a lot of help organizing it)
+- There is a "Stonehenge" radio tower in Portland
+- Eric will try to do a YayLifeTri
+  - Michelle and Patrick are already signed up for the Kilt Run that weekend (In theory they could bike 40 km to BuckleBerry Briar and Brook afterward, but in practice they wouldn't have the energy)
+- West Coast people could connect to Eric while he's doing something in Gatineau Park
+
+### Evaluation
+- Brandon … Fun
+- Ben … Kind of overwhelmed.
+- Eric ... Wow, so much going on and so little time.  Kind of a target rich environment for fun things to do.
+
+### Closing Blessing
+Because our bellies are full and our hearts are optimistic about our personal futures, we often feel less urgency to pursue our work.  May we find the right level of urgency to keep us moving but not overwhelmed and thus progress toward our highest aspirations.  -- Blessed Be

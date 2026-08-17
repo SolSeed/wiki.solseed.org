@@ -1,0 +1,1 @@
+I believe wikipedia images are in the public domain, so I am placing this dragonfly here to illustrate how all living things bring life with the ["being indoors each one dwells"](http://www.bartleby.com/122/34.html). --[Shelley Schoepflin Sanders](/User:Shelley_Schoepflin_Sanders) 06:15, 22 October 2008 (UTC)

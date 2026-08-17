@@ -1,0 +1,1 @@
+Free stock photo of wind turbines (with some unfortunate JPEG artifacts), from http://www.sxc.hu/photo/1032727

@@ -1,0 +1,48 @@
+{
+  "canonical_path": "/File:WebIntroGraphic.png",
+  "current_revision_id": "42092",
+  "database_title": "WebIntroGraphic.png",
+  "display_title": "File:WebIntroGraphic.png",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 6,
+  "original_revision_count": 1,
+  "page_id": "533",
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "BenSibelman",
+      "comment": "A SolSeed logo embellished with images of [[Sol]], [[Terra]], and the [[Milky Way]].",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": "42092",
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": "1421",
+      "same_as_previous_public": false,
+      "timestamp": "2010-03-27T22:04:20Z",
+      "wikitext_bytes": 84,
+      "wikitext_sha256": "d9c98ade623368b34dfe9f91e2e2fa16566d3aad24ce982033cd8772078a2a70",
+      "source_format": "wikitext",
+      "source_extension": "wiki"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 1421,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 105,
+      "markdown_sha256": "a257ed654f0f553b97d2681c06568f8d98bf7e91720ea3c98cd2ef6b0a11155e",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": "1421",
+      "previous_public_revision_id": "1421",
+      "revision_id": "42092",
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z",
+      "wikitext_bytes": 105,
+      "wikitext_sha256": "a257ed654f0f553b97d2681c06568f8d98bf7e91720ea3c98cd2ef6b0a11155e",
+      "source_extension": "md"
+    }
+  ],
+  "site_revision_count": 1
+}

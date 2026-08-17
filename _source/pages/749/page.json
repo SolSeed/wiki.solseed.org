@@ -1,0 +1,43 @@
+{
+  "canonical_path": "/Equinox_Celebration",
+  "current_revision_id": 42305,
+  "database_title": "Equinox_Celebration",
+  "display_title": "Equinox Celebration",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 1,
+  "page_id": 749,
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "BenSibelman",
+      "comment": "redirect",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 42305,
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": 1924,
+      "same_as_previous_public": false,
+      "timestamp": "2010-10-23T21:46:12Z",
+      "wikitext_bytes": 32,
+      "wikitext_sha256": "a60cf8c66e994e8b9aadfa323687bad4d1e5e3bb7eca8b5c98539c4e85df373d"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 1924,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 75,
+      "markdown_sha256": "9e65f94eb85720bfb1be62e4a87ae42d41b54895b91863f933952c6753187781",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": 1924,
+      "previous_public_revision_id": 1924,
+      "revision_id": 42305,
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z"
+    }
+  ],
+  "site_revision_count": 1
+}

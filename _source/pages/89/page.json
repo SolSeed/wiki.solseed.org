@@ -1,0 +1,69 @@
+{
+  "canonical_path": "/GaiaEarthseed_and_the_SolSeedMovement",
+  "current_revision_id": 41659,
+  "database_title": "GaiaEarthseed_and_the_SolSeedMovement",
+  "display_title": "GaiaEarthseed and the SolSeedMovement",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 3,
+  "page_id": 89,
+  "published_revision_count": 3,
+  "revisions": [
+    {
+      "author": "Scifiben",
+      "comment": "New page: In 2005, the inspiration for [[SolSeed]], the fictional religion of [[Earthseed]] central to the science-fiction novels ''Parable of the Sower'' and ''Parable of the Talents'' by [[Octavia...",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 175,
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": 174,
+      "same_as_previous_public": false,
+      "timestamp": "2008-11-08T23:40:12Z",
+      "wikitext_bytes": 2355,
+      "wikitext_sha256": "44c4b124a39465e5ef7d5149b4c09125b27e0ce45037ee606f884004469aa150"
+    },
+    {
+      "author": "Scifiben",
+      "comment": "",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 1815,
+      "original_parent_revision_id": 174,
+      "previous_public_revision_id": 174,
+      "revision_id": 175,
+      "same_as_previous_public": false,
+      "timestamp": "2008-11-08T23:40:54Z",
+      "wikitext_bytes": 2386,
+      "wikitext_sha256": "4569af5577007c2e4525b5777f23eae8f6afbbb3ea02f8470d362408f388cd7d"
+    },
+    {
+      "author": "BenSibelman",
+      "comment": "Modified excuse",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 41659,
+      "original_parent_revision_id": 175,
+      "previous_public_revision_id": 175,
+      "revision_id": 1815,
+      "same_as_previous_public": false,
+      "timestamp": "2010-08-24T07:26:46Z",
+      "wikitext_bytes": 2414,
+      "wikitext_sha256": "fc6406e8c87994313a1055b114726f8fc7e96b85b60d41d135cded66981386f1"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 1815,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 2499,
+      "markdown_sha256": "04946a3a22f50ffbfca1746688c82bba662df46172654d9e747b994b84d522bf",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": 1815,
+      "previous_public_revision_id": 1815,
+      "revision_id": 41659,
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z"
+    }
+  ],
+  "site_revision_count": 1
+}

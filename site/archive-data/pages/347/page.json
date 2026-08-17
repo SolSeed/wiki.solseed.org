@@ -1,0 +1,48 @@
+{
+  "canonical_path": "/File:Logo-medium.jpg",
+  "current_revision_id": "41911",
+  "database_title": "Logo-medium.jpg",
+  "display_title": "File:Logo-medium.jpg",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 6,
+  "original_revision_count": 1,
+  "page_id": "347",
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "BenSibelman",
+      "comment": "Since the website can't currently display thumbnails for gifs, here's a jpeg version.",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": "41911",
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": "1003",
+      "same_as_previous_public": false,
+      "timestamp": "2009-08-21T04:27:39Z",
+      "wikitext_bytes": 85,
+      "wikitext_sha256": "12870f4081e3088a6b5e549ad8c8821a4097b16870c37172b8ee53684cb348cb",
+      "source_format": "wikitext",
+      "source_extension": "wiki"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 1003,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 86,
+      "markdown_sha256": "22d8b04e1b7c408171dfa8f96e1c203239abe8cf657f47ad40de0a8ed01cbe3a",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": "1003",
+      "previous_public_revision_id": "1003",
+      "revision_id": "41911",
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z",
+      "wikitext_bytes": 86,
+      "wikitext_sha256": "22d8b04e1b7c408171dfa8f96e1c203239abe8cf657f47ad40de0a8ed01cbe3a",
+      "source_extension": "md"
+    }
+  ],
+  "site_revision_count": 1
+}

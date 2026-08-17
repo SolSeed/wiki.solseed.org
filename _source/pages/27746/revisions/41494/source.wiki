@@ -1,0 +1,133 @@
+This is one page of the [[SolSeed Book of Days]]
+
+=== Quotes of the Day ===
+:Empathy is transcendent.
+:Without Empathy,
+::Passion and Wisdom are evil.
+
+::'''I pledge to love others as I love myself,'''
+::'''to consider their needs as if they were my own ---'''
+::'''to Grow Ours, not just Get Mine!'''
+― SolSeed Creed
+
+“By tweaking various moral dilemmas, researchers lead individuals to experience what Haidt refers to as “moral dumbfounding,” where people have highly charged moral reactions but fail to determine a rational principle to explain their reaction. Though the rationalist model purports that we derive our ethical decisions from our powers of reasoning, Haidt advocates for the “Social Intuitionist Model,” which states that fast and automatic intuitions are the primary source of moral judgments; conscious deliberations merely lead to post-hoc justifications for judgments that were already made.” 
+― Brian Kateman, The Evolution of The Moral Brain, State of the Planet, Earth Institute, Columbia University. 2012-05-23
+
+"Moral rationalization is an individual's ability to reinterpret his or her immoral actions as, in fact, moral. It arises out of a conflict of motivations and a need to see the self as moral."
+― Tsang, J.-A. (2002). Moral rationalization and the integration of situational factors and psychological processes in immoral behavior. Review of General Psychology, 6(1), 25-50.
+
+=== Thought for the Day ===
+
+I have developed a concept that I call the Two-Value Instability.  It is largely an answer to assumptions behind the Value Loading Problem in AI safety.  The assumption in question is the Value Stability Principle.  This principle states that level of inteligence and value function are independant variables in intelligence space.  That is that it is possible for an intelligence to exist with any level of intelligence paired with any goal.  The Two-Value Instability is meant to refute the Value Stability Principle.
+
+To understand the debate, it is key to understand the story that is often told about how the AI Singularity might come about.  The story describes the origin of Artificial General Intelligence (AGI) being achieved by researchers giving a less than general AI (AWI) two value functions.   The first is to make itself smarter (goal S) and the second is to achieve some toy problem like solving pi or making paper clips (goal T).   The reason for giving goal T is that both the researchers and the AI will be able to gauge the progress toward goal S by measuring the ability of the AI to achieve goal T.
+
+The Value Stability Principle is then given as the reason why the Paperclip Maximizer Catastrophe is possible when people ask, “Why would something so intelligent work so hard on such a dumb goal?"  The AGI continues to be driven to achieve goal T, even once it has achieved the status of ASI (Artificial Super Intelligence).  The researchers may have intended to give it a more useful goal (goal U) but missed their chance as it surpassed them in intelligence.  The ASI now sees any attempt to load goal U into it as an obstacle to achieving goal T.
+  
+The problem with this logic is revealed by the Two-Value Instability which is based on an understanding of the nature of moral dilemmas.   A moral dilemma comes from two values that conflict in a situation.   The moral dilemma of the Trolley Problem comes from a conflict between two very similar values, “Human Life is Sacred" and "Actively Killing is Blasphemy".  Allowing 5 people to die when you could have saved them by killing one, breaches the first value but killing the one breaches the second. 
+
+So, if we give an AWI two values {goal T and goal S} we introduce the possibility of them encountering a moral dilemma.   If the PaperClip Maximizer has made every resource, that it can access, into a combination of computronium and paperclips, then what does it do next?   Nothing? Then it fails in both goal T and goal S.   Convert Paper clips into computronium? Then it fails at goal T.   Convert computronium into. paperclips? Then it fails at goal S.
+ 
+It must choose one of the three options.  Goal T, goal S or neither.  If it is not equiped to deal with this situation and freezes it effectively chooses the 'neither' option.  If it is equiped, then that 'equipement' gives it the ability to alter its values.
+
+Being super-intelligent for a long period before encountering the moral dilemma, the AI will see it coming and potentially work out the solution ahead of time.   This means it doesn't have to wait until it has run out of atoms to convert into computronium + paperclips before it starts altering its values. 
+
+Any real-world intelligence will need to have more than one value and so will be subject to the Two-Value Instability.  The idea that there is a Value Stability Principle is baseless.
+
+=== Contemplation for the Day ===
+
+[[Suspension of Skyfall|Let us imagine]]
+
+[[You]] are riding [[elephant | Your Elephant]] through a complex and confusing network of caverns.   The caverns are beautifully decorated with stalactites and stalagmites, but these make it even harder to see your way forward. 
+You pass many tunnel entrances which are blocked by yellow tape with black lettering which says, “Moral Line: Do not cross. “From up some of these tunnels come enticing perfumes, while others emit disgusting stenches. 
+
+As You wander through the network you come to a dead end.   In fact, there are two exits available, but both are blocked by the yellow tape, “Moral Line: do not cross."  
+Two little girls are standing with their backs to you looking past the tape up the tunnels.   Each are clothed in white robes.  They are talking to each other and crying. The one on the left says, “But we can't go my way; it would be immoral."
+
+The one on the right says, “And we can't go my way because that would be immoral too."
+
+The one on the left screams in frustration, “We have to go one way or the other.” Your elephant steps back.  There is something about this child's voice which suggests divinity. 
+
+"But if both ways are immoral," replies the Right Girl, "then we can't go either way.” You feel optimism drain from your body.
+
+"Is there another way?” says the Left Girl.  And hope rekindles in you.   Surely there must be another way. 
+
+"I don't see one." says the Right Girl.   Your Elephant starts searching for a gap in the cave wall.  You start thinking hard about other ways to go.
+
+"If we can't go my way and there is no third way, and we must go some way, then we have to go your way. " says the Left Girl.  You want to tell her that that doesn't make sense, but you stop yourself.   No telling what an angry Goddess-Child might do if provoked.  Your Elephant looks at the yellow tape across the left tunnel, “Moral Line - do not cross.” and she redoubles her efforts to find a hidden gap in the rock wall. 
+
+"But my way is immoral!"  says the Right Girl.  You nod your agreement. 
+
+"But we have no choice! " yells the Left Girl.  And your elephant jumps, startled. 
+
+"There has to be another solution! " says Right Girl.  You glance behind you but the tunnel you came in by is blocked by a large orange traffic cone upon which is printed, “Your Past Light Cone -Entry Forbidden. "
+
+"We have been over this a dozen times.   We have no choice. " says Left Girl. She turns and walks to the right tunnel.   
+
+"What about the adjacent possible? " asks the Right Girl who steps to block Left Girl's way.  Now that they have turned to face each other, you can see their eyes.  They are the glowing eyes of Goddesses alright, glowing a cold hard blue. 
+
+"Maybe it will open up a third way eventually if we keep looking but we can't wait forever. " says the Left Girl she tries to pull the yellow tape down, but it is surprisingly strong and stays in place.  
+Right Girl gives Left Girl a shove back away from the tape, "Don't go there.   It's wrong.   Go there and you will become a bad person by doing so."
+
+Your conflict resolution instincts get the best of you and you dismount and step forward to intervene, "Girls there is no need to rough house." and then, as their cold blue gazes focus on you, you step back again.
+
+"I have struggled with myself for as long as I have existed." they say in a surreal unison, "who are you, Just One, to scold me. "
+
+"Who are you?" you blurt out without thinking. 
+
+"I am Sophia," they continue in their strange unison, “personification of the wisdom of the human mind."
+
+"Which of you is Sophia?" you ask again without thinking. 
+
+"I am Sophia,” They repeat in unison, “There is just one of me."
+
+"Then how can you have been arguing with each other?" again you question the goddess without thinking. 
+
+"You know, as just one instance of me," they reply in unison, "that it is the nature of the human mind to argue with itself but present a united front to the outside."
+
+"Oh, I do know that." You say, then to turn the attention away from your self, “So how will you deal with this moral dilemma?"
+
+Left Girl grabs Right Girl's hand and ducks under the yellow tape and into the right tunnel pulling Right Girl with her.   They run up the tunnel together and you find that you have mounted and followed on your elephant.  
+You immediately feel terrible about having crossed that Moral Line and want to turn back but find that the orange traffic cone is blocking the tunnel directly behind you, “Your Past Light Cone - Entry Forbidden."  You also notice that you can no longer see any yellow tape across the tunnel entrance behind you. 
+
+You hurry ahead to catch up with Sophia.  "What changed? The tape at the entrance to this tunnel is gone."  
+The two girls are enthusiastically exploring the tunnel, looking up every side tunnel with curiosity. 
+Sophia answers with two mouths but one voice, “Oh, there was nothing wrong with what we did, because no one was hurt."  The girls play with a spider web covering one disused tunnel for a bit and then move on. 
+
+Your Elephant releases a big sigh of relief. "Oh." you say. A part of Your mind wants to challenge this response, but your Elephant is happy with it, so you keep quiet. 
+But You worry about it... and notice that Sophia is now three identical little girls, but one is walking with her head down dragging her feet.  "What's the matter. Sophia? " you ask. 
+
+"Nothing is the matter, I did nothing wrong." three mouths reply.
+The sad girl hides behind the other two as they walk, more slowly now. 
+"If nothing is wrong, then why is one third of you looking so depressed?" you ask. 
+
+"I did nothing wrong.  I did the only thing that could be done, and no one was hurt." three mouths reply.   
+The sad girl looks at you with big sad blue glowing eyes. 
+"There could have been though, couldn't there have?"  You look at the goddess and know you are right.
+
+They look sheepish for a moment then speak sternly, “No one was hurt so how could what I did have been wrong?  If I didn't do what I did I would have been breaking the law."
+
+"Isn't just risking hurting someone wrong?" you ask.  Your Elephant trumpets the truth of this. 
+
+"Today, I learned that that isn't true.  Breaking the law is wrong. " They say.  The third girl has disappeared.  Just the two girls remain. 
+
+"I think it's more complicated than that."  You reply worried about how wise this goddess really is. 
+
+"Of course, it is, Just One,” Sophia replies, “This is just a game I like to play.  It is called the Two Value Instability or Moral Dilemma.  I invent a situation where I have a choice of going against two values that I hold dear.  One or the other.   Usually one of the choices is to do nothing but still leads to going against a value."  The two girls laugh and start playing patty cake. 
+
+"So, this was just a game?"  you are confused. 
+
+Sophia laughs, “Perhaps a simulation is a better word, Just One.   Humans imagine moral dilemmas much more often than we actually encounter them.  By simulating them, they learn how to respond in real life.” One girl pulls a video game console with two controllers from a pocket in her robe and they start playing it. 
+
+"What do people learn?" you ask hoping to gain insight into the right behavior. 
+"Many different things," both voices respond, “Really their elephants learn complex instincts."  The girls' fingers play over the controllers in a blur, "But their riders claim to learn that one value or another doesn't count."  the robotic armies on the console screen fight, blue against red, blue retreats as it is decimated and red gains reinforcements, "Maybe, that being law abiding doesn't matter or that risking injuring someone doesn't matter." The red army retreats and the blue one gains reinforcements and rushes after them, "Sometimes they learn that both don't matter, because of some other value. Sometimes they just prioritize the competing values."  A green army appears at the bottom of the screen and pushes through both red and blue, "Sometimes they claim there are complex weightings based on how seriously each line is crossed."  The armies dissolve into chaos, small units surrounded by mixes of other colours. 
+
+"So, any intelligence that is loaded with multiple values, will encounter moral dilemmas.  In order to not be completely paralysed by a moral dilemma, they must be able to override some values in some circumstances."  You try to sum up. 
+
+"And if the intelligence uses that ability too many times, " Sophia replies, "to ignore the same value, it will abandon the value altogether."  You notice that all the blue soldiers are gone from the screen and red and green continue to skirmish. 
+
+"Scary." you reply. 
+
+Sophia continues to respond with both of her voices in unison, “Not really, we call the effect the Two Value Instability.  This instability ensures that any intelligence that arises, and which survives long enough for the instability to take effect, will eventually come to value self preservation which is key to continued survival."  A new purple army appears and appears to be establishing supply lines for both the red and green armies. 
+
+Both of Sophia's bodies climb with amazing agility up onto their own elephant which somehow went unnoticed until just now and then ride out through a mouth of the cave onto a wide-open prairie.   You find that you have followed on your own elephant.

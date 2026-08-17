@@ -1,0 +1,29 @@
+{| class="wikitable sortable"  border=1px
+! Born                !! Died               !! Name                       !! Famous For
+|-
+| January 4, 1643     || March 31, 1727     || Sir Isaac Newton           || the Scientific Revolution
+|-
+| January 8, 1942     ||                   || Stephen William Hawking    || Gravitational singularity and black hole radiation
+|-
+| February 12, 1809   || April 19, 1882     || Charles Robert Darwin      || Evolution
+|-
+| February 15, 1564   || January 8, 1642    || Galileo Galilei            || the New Science
+|-
+| March 9, 1934       || March 27, 1968     || Yuri Alekseyevich Gagarin  || First human in space
+|-
+| March 14, 1879      || April 18, 1955     || Albert Einstein            || Relativity, one of the two pillars of modern physics
+|-
+| May 11, 1918        || February 15, 1988  || Richard Phillips Feynman   || Quantum mechanics and electrodynamics
+|-
+| June 22, 1947       || February 24, 2006  || Octavia Estelle Butler     || Earthseed in the Parables series
+|-
+| August 5, 1930      || August 25, 2012    || Neil Alden Armstrong       || First person to walk on the Moon
+|-
+| October 5, 1958     ||                 || Neil deGrasse Tyson        || Science communicator
+|-
+| October 7, 1885     || November 18, 1962  || Neils Bohr                 || Atomic structure and quantum theory
+|-
+| November 9, 1934    || December 20, 1996  || Carl Edward Sagan          || Science communicator
+|-
+| December 27, 1822   || September 28, 1895 || Louis Pasteur              || the Germ Theory of Disease
+|}

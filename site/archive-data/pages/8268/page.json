@@ -1,0 +1,63 @@
+{
+  "canonical_path": "/Graxes_Rock",
+  "current_revision_id": "42557",
+  "database_title": "Graxes_Rock",
+  "display_title": "Graxes Rock",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 2,
+  "page_id": "8268",
+  "published_revision_count": 2,
+  "revisions": [
+    {
+      "author": "BenSibelman",
+      "comment": "Created page from Anthony's Word doc",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": "11442",
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": "11441",
+      "same_as_previous_public": false,
+      "timestamp": "2012-04-29T04:00:01Z",
+      "wikitext_bytes": 25954,
+      "wikitext_sha256": "1080e69377c6fa728b187b8f1fa1bb642ac5d8fab4dc3f8ead9680c8a4aad5f5",
+      "source_format": "wikitext",
+      "source_extension": "wiki"
+    },
+    {
+      "author": "BenSibelman",
+      "comment": "Added link",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": "42557",
+      "original_parent_revision_id": "11441",
+      "previous_public_revision_id": "11441",
+      "revision_id": "11442",
+      "same_as_previous_public": false,
+      "timestamp": "2012-04-29T04:01:35Z",
+      "wikitext_bytes": 25980,
+      "wikitext_sha256": "c6102714c63d517312ccf5e5d7f3607ac0f9688ec017d17e099023753647457c",
+      "source_format": "wikitext",
+      "source_extension": "wiki"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 11442,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 25511,
+      "markdown_sha256": "210da358d3a11d6ce0ae2c820821737beee4c7cef6733aa0839c55a18bc555d7",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": "11442",
+      "previous_public_revision_id": "11442",
+      "revision_id": "42557",
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z",
+      "wikitext_bytes": 25511,
+      "wikitext_sha256": "210da358d3a11d6ce0ae2c820821737beee4c7cef6733aa0839c55a18bc555d7",
+      "source_extension": "md"
+    }
+  ],
+  "site_revision_count": 1
+}

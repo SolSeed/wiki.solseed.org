@@ -1,0 +1,43 @@
+{
+  "canonical_path": "/Shelley",
+  "current_revision_id": 41792,
+  "database_title": "Shelley",
+  "display_title": "Shelley",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 1,
+  "page_id": 226,
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "Brandon CS Sanders",
+      "comment": "Redirecting to [[User:Shelley Schoepflin Sanders]]",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 41792,
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": 621,
+      "same_as_previous_public": false,
+      "timestamp": "2009-03-11T14:38:08Z",
+      "wikitext_bytes": 45,
+      "wikitext_sha256": "50f411c47466303d482dedaf470075baf2c4655e8a22e9de82cb2d51f09ac1aa"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 621,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 101,
+      "markdown_sha256": "b6af901b2f1ce347fe1e96df1c8e35347c8a2236192df8f98ad62ffd0a89667c",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": 621,
+      "previous_public_revision_id": 621,
+      "revision_id": 41792,
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z"
+    }
+  ],
+  "site_revision_count": 1
+}

@@ -1,0 +1,43 @@
+##### Religion
+[Ben](/Ben): First significant suggestions for the wording in the sixth season: “the beliefs that spark large-scale community into being,”
+
+[Eric](/Eric): I think that all communities large and small come from religion or at least shared values.  In the early times, all of these were religions.  Now we other names for them, movements, causes, visions, etc...  In this sense a subdivision isn't a community until and if ever its people get together and work together toward a common goal.  This they will only do if they share common values.  What is meant by common values is What is important and what things matter.  This is the indisputable realm of religion.  As Michael Dowd says, "Religions have always helped people to understand two fundamental questions: what's real and what's important. Or how things are, and which things matter."  Now science will tell you what is real but only religion can tell you what matters.  So if it is telling you what matters, then it is giving you values, and it is in some sense religion.  And without values you cannot be a community.  So all communities are religion-defined.  The more religion-like their source of value then the stronger the community.
+
+[Ben](/Ben): A housing subdivision isn't a real community, but I'd argue that a band of chimpanzees or other nonsapient mammals *is* a community, even though it lacks religion. We referred to them as "society" in the words for the fifth season, but "community" works fine too. Religion does something a little more specific, something beyond simple mammalian small-group solidarity; that's why I want an adjective. It doesn't have to be "large-scale." My second thought was "intentional community," but that term is probably way too modern.
+
+[Eric](/Eric): How about two lines:
+Beliefs that bind bands into cities
+Beliefs that infuse cities with community
+
+I know it isn't perfect.  There are religions that never built cities but we are trying to condense all of civilized history into a half dozen stanzas.  There is only so far we can go.  The key is to get across the contribution of religion to civilization.
+
+##### Democracy
+[Ben](/Ben): Second suggestion: “Making striving for their self-chosen destinies/ Freely available to all living citizens.” (Or something more along those lines, anyway.) 
+
+Speaking of choice, I still think we need language more like "striving for their self-chosen destinies." Our vision of [The Destiny](/The_Destiny) is not the only thing democracy enables, nor should it ever be. At [Seed 2009](/Seed_2009), we agreed that the SolSeed Movement is not a totalizing system; unlike Christianity, we don't want everyone to join us.
+
+[Eric](/Eric): I like it.  I am making that change.
+
+##### Industry / Agriculture
+###### Words
+[Ben](/Ben): Also, instead of “industry, our first job,” can we find more general (and inspiring) words that encompass agriculture as well? Something along the lines of “The labor of many, organized and specialized to perform immense tasks...”
+
+[Eric](/Eric): Also, I wanted to be specific about industry in the industry paragraph.  I am really referring to the industrial revolution.  The revolution which gave us the ability to make really big complex stuff, like space shuttles and DNA sequencers.  It created the concept of job.  Serfs and Peasants didn't have jobs.  They worked but their work was organized in a completely different way.  They were tied to one place, one lord or baron and one kind of work; usually farming.  They didn't have any choices to make.  They inherited their work from their parents.  But a job is something that you go out and find, you have some choice in the matter, you can move to different cities.  You can try to learn new skills that will make you employable in different jobs.  That kind of choice wasn't available before the industrial revolution and so Industry was our first job.
+
+[Ben](/Ben): You say the importance of jobs is that they give people choice, but that's a form of social [progress](/progress) covered by the general concept of democracy. The content of the "industry" section is all about the *material* progress enabled by civilization, and to tell that story without including agriculture is a little like building only the top floor of a skyscraper.
+
+[Eric](/Eric): How about this:
+
+Agriculture, the first massive division of labour
+Making Scientists and Priests possible
+Allowing Artisans to evolve into Industry
+
+[Ben](/Ben): I like it! My only remaining objection is that I think we could find something a bit more accurate and inspiring than "the first massive division of labour" to describe agriculture. Hunter-gatherer societies had a pretty massive division (you know, into hunters and gatherers :-), so what else is inspiringly new about agriculture? "The first non-nomadic lifestyle"? "The first act of ecological engineering"? I don't much like those either; anyone else have ideas?
+
+###### Actions
+[Ben](/Ben): And speaking of material progress, I think it would be a shame if we didn't have *any* physical materials for this ritual, given that civilization is what produces those materials. I'm thinking maybe a beaker for science (plastic ones for the kids) and some LEGO gears for industry, set up so you can turn a crank that turns the gears.
+
+[Eric](/Eric): I like it.  I will add the action.  Patrick is now the keeper of the Saumur family Lego and can build a gear box for each of us.  I am certain that [Brandon](/Brandon) and [Sequoia](/Sequoia) can come up with something too.
+
+##### Names
+[Eric](/Eric): Possible names for this season could include Urbem (latin for city) or Cultus (latin for civilization) or Civis (Latin for Citizen)

@@ -1,0 +1,23 @@
+### Thursday Agenda
+- Check in
+- Opening Blessing
+- Project Work
+  - Brandon: Deep Learning research for Concerning AI
+  - Ben: Call advice nurse about my neck
+  - Ben: Post on the Concerning AI Facebook page
+- Evaluation
+- Closing Blessing
+
+### Check In
+- Ben: feeling like things are burning down around me!
+- Brandon: I feel fairly good … besides having too many things to do at one time
+
+### Opening Blessing
+Life is change. God is Change, to some. Because change is so unsettling, it can lead us high in the air with no clear landing place. May our connections to each other, to positive visions, and to our practice provide a reference point and a modicum of stability amidst the chaos. May the work be its own ground.  -- Blessed Be
+
+### Evaluation
+- Ben: I’m much calmer now.  Posted one of my strongest arguments on Concerning AI.  Reply to one of the responses to my first argument.  And then I hung out on Facebook and read the comics.
+- Brandon: I worked on my Deep Learning survey, and evaluating open-source machine-learning frameworks. It was fun.
+
+### Closing Blessing
+Sometimes we feel centered in a place where we can make forward progess in many directions.  Other times we feel like we are in a hole that we have to dig ourselves out of before we can do anything else.  May our friendship continue to help us in both types of endeavor. -- Blessed Be

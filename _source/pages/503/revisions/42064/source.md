@@ -1,0 +1,68 @@
+#### Agenda
+- [Peer Coaching Triads](/Peer_Coaching_Triads) ... email is sent ... review
+  - Forward to [Shelley](/Shelley) and to [Lyric](/Lyric)'s new email
+- First "service" meeting ... Probably February 6
+  - At [Brandon](/Brandon) and [Shelley](/Shelley)'s House
+  - With potluck following
+  - Brandon and Shelley to provide American Tacos
+  - Approximate schedule: Service at 11, Lunch at noon, Done by 2pm
+  - Order of Service
+    - Welcome
+    - Opening Words ... lighting the Chalice
+    - Sharing of Joys and Concerns
+    - Singing a Song
+    - Silent time to think about topic?
+    - Thought-provoking reading (out loud?)
+      - ex. Unitarian Universalist sermon from web
+    - Concepts from discussion at [Longest Night Festival](/Longest_Night_Festival):
+      - Rituals to begin and end service
+      - Announcement time for what will be happening in the community 
+      - Some part of structure that is aesthetically focused (ex. singing) 
+      - Space within structure for interchange 
+        - People talking about what matters to them 
+        - Making meaning together 
+  - Theme/seed concept brainstorming
+    - Something about where the [SolSeedMovement](/SolSeedMovement) is currently going
+    - Something appropos to the moment
+    - Environmental focus ... what is one action I could take 
+      - Advocacy? (write your senator, look at emails from environmental groups)
+      - Individual actions? (bike riding, replace bulbs w/ CFLs, etc)
+    - Other action-focused ideas
+      - Eco-village
+    - [Brandon](/Brandon): But have a greater focus on non-business-specific, inspirational concepts, focused around appreciation of [Life](/Life)
+    - Birth of [Gaia](/Gaia) out of [Chaos](/Chaos) (UU sermon)
+    - Reading like the one at church today
+    - Discussion of the Destiny as a possible theme
+      - If we have a church it will almost certainly have to be a church of [TheDestiny](/TheDestiny) as well as a church of life
+      - Visualize something on a laptop from the Hubble Space Telescope or something like it
+- NorWesCon (April 1-4)
+  - Register for the Con
+  - Get a dealer's booth (t-shirts and books)
+    - Business name: "SolSeed Store?"
+  - Also get a fan table "SolSeed"
+  - Ideas for the booth
+    - "Gaian" aesthetic - green shag carpet, potted plants?
+      - Give away healthy non-processed food as "party favors" (Apples maybe?)
+      - Must be careful about not violating sanitation rules ... etc
+      - Labeled with SolSeed or in a cute little bag?
+      - Tea bags ... want people eating it right in front of everybody
+    - [Seed](/Seed) packets! ... come with a button that says "I'm planting Seeds"
+    - Remote Controlled Helicopters ... raffle to win it
+    - Pictures of space and the Galaxy
+    - Karoake in the dealer's booth?
+  - Design and print shirts
+  - Get *Parable of the Sower* books
+  - Selling the [children's book](/Happy_in_the_Sun)
+- Google Sites + email
+  - Have email groups (discuss on future call)
+    - Membership
+    - Friends
+    - Triads
+    - Book program from OryCon
+
+#### WWWs
+- Shelley ... email to Ben about February 6 (ben to forward) ... tonight
+- Shelley ... service program outline ... by next meeting (Sunday)
+- Ben ... booth and table applications sent ... by next meeting (Sunday)
+- Brandon ... invite Mark and Ted to NorWesCon ... by next meeting (Sunday)
+- Ben ... email triad ... tonight (ask Shelley for phone #s if they don't reply)

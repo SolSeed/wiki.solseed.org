@@ -1,0 +1,1 @@
+Theá Me Plokámia is a Biosphere Communion Mother; a personification of a linked group of [World Mother](/World_Mother)s.  She symbolizes the Body of All Biospheres in the Universe.  She is imagined as a personification of that body worshiped by all world mothers everywhere.

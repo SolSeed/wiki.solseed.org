@@ -1,0 +1,74 @@
+This is a music video concept by [Ben](/Ben) based on the ideas in [Bringing life to our world#Crossing the gap](/Bringing_life_to_our_world#Crossing_the_gap), using the song "Dawn" by Poets of the Fall. Its purpose would be to popularize the idea of a middle ground between two perspectives on environmental activism, "failure is not an option" and "it's too late, abandon all hope." The video depicts a civilization undone by environmental catastrophes, followed by the beginning of a new, more sustainable civilization that learns from the mistakes of its predecessors.
+
+**Lyrics**
+ **Visuals**
+
+Opening shot: Black smoke pouring out of smokestacks. Follow the smoke upward and zoom in until it fills the screen.
+
+When darkness is no less
+ Fade to a dimly rudlit room with posters on the wall: a large factory, a skyscraper, a station with a futuristic train coming out of it.
+
+Than everything you've built become undone
+ Pan across the posters to a woman looking out the window at a city in flames under a black sky, with a large street protest being barely held back by a wall of riot police.
+
+There's no fight, and no flight
+ Follow the woman as she walks across the room, passing two more posters on the opposite wall: an aircraft carrier and a large rocket rising into orbit.
+
+Disaster leaves your passion overrun
+ The woman sits down at a desk and slumps in despair. The desk is covered in blueprints, on top of which is a newspaper with headlines "FOOD RIOTS: Global Drought Worsens" and "RISING SEAS."
+
+It's time to let go
+ A man puts his hand on the woman's shoulder and gently gets her to stand up.
+
+Time to carry on with the show
+ They enter a hallway lit by a flashing fire alarm and start to hurry toward an exit stairway.
+
+Don't mourn what is gone
+ They leave the building by a small side door and hurry away behind the backs of the riot police. Zoom in on an angry, tearful protester whose sign reads "R.I.P.: LIVABLE CLIMATE, 10 MILLION SPECIES, CIVILIZATION."
+
+Greet the dawn
+ Fade to white, then to sunrise over a bay.
+
+And I will be standing by your side
+ Pull back to show the man and woman standing on a promontory overlooking the seaside city, which is still burning.
+
+Together we'll face the turning tide
+ Fade to the same scene, but with the sea having risen to flood the streets and the fires having largely gone out, leaving burnt-out, skeletal buildings surrounded by water.
+
+(Instrumental section)
+ Montage of environmental destruction: a forest fire, dead brown crops, floods, storms, etc.
+
+Remembrance can be a sentence
+ Pan down from the ruined city on the horizon, past a broken-down combine harvester in a huge fallow field, to the man and woman, now older, working among others on a small organic farm plot as storm clouds mass overhead.
+
+But it comes to you with a second chance in tow
+ The man and woman hurrying into a small room with torrential rain beating against the windows, drenched and looking beaten-down.
+
+Don't lose it, don't refuse it
+ The woman sits at a desk and opens a book to diagrams labeled "Internal Combustion Engine" and "Coal-Fired Power Plant."
+
+For you cannot learn a thing you think you know
+ The woman closes the book and pushes it aside. Its cover reads "Blueprints for Civilization."
+
+A new light is warm
+ A sunbeam appears, shining through a grimy window behind the woman.
+
+Shining down on you after the storm
+ Sunlight illuminates the desk. The woman gets out a sketchpad and starts drawing.
+
+Don't mourn what is gone
+ The man looks over her shoulder and they both smile.
+
+Be the dawn
+ Fade to white, then to sunrise over the bay.
+
+And I will be standing by your side
+ Pull back to show the man and woman standing on a promontory overlooking the ruined, flooded city.
+
+Together we'll face the turning tide
+ They turn to join a large group of people headed down the hill toward the city, carrying building materials.
+
+(Instrumental section)
+ Montage of the city being reclaimed and rebuilt using sustainable technologies: wind turbines, solar panels, green roofs, electric boats, etc. Alternate with shots of people sleeping in tents, then in unfinished rooms open to the sky.
+
+Finally, we see the two main characters getting out of bed in a finished, comfortable apartment, with posters of a space elevator and a Biosphere 2-like structure on their wall. They look out the window and we see a final shot of the city with the sun rising in the background.

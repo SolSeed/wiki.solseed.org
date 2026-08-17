@@ -1,0 +1,43 @@
+{
+  "canonical_path": "/File:OlbersParadox.gif",
+  "current_revision_id": 42960,
+  "database_title": "OlbersParadox.gif",
+  "display_title": "File:OlbersParadox.gif",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 6,
+  "original_revision_count": 1,
+  "page_id": 27361,
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "EricSaumur",
+      "comment": "Animation of Olbers' Paradox in action from Wikipedia's page on Olbers' paradox",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 42960,
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": 40238,
+      "same_as_previous_public": false,
+      "timestamp": "2015-01-01T18:04:36Z",
+      "wikitext_bytes": 79,
+      "wikitext_sha256": "adffa7406cefb959dbb0bec91a25f9ab2dacd5d02eb513fa6b3e7ef5cd376cdb"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 40238,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 80,
+      "markdown_sha256": "ed2a026330975ade7180c39736be652a11343e2bfdf3846237d06a12e2b94904",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": 40238,
+      "previous_public_revision_id": 40238,
+      "revision_id": 42960,
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z"
+    }
+  ],
+  "site_revision_count": 1
+}

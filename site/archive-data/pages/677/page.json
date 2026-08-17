@@ -1,0 +1,63 @@
+{
+  "canonical_path": "/July_12,_2010:_Online_Work_Bee",
+  "current_revision_id": "42233",
+  "database_title": "July_12,_2010:_Online_Work_Bee",
+  "display_title": "July 12, 2010: Online Work Bee",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 2,
+  "page_id": "677",
+  "published_revision_count": 2,
+  "revisions": [
+    {
+      "author": "BenSibelman",
+      "comment": "Created page from the EtherPad clone",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": "1736",
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": "1730",
+      "same_as_previous_public": false,
+      "timestamp": "2010-07-13T04:39:37Z",
+      "wikitext_bytes": 3361,
+      "wikitext_sha256": "bea1ebc01b13308e86f2f381f14728daf50acab1efeef981130f2dda1a453b4d",
+      "source_format": "wikitext",
+      "source_extension": "wiki"
+    },
+    {
+      "author": "Brandon CS Sanders",
+      "comment": "/* WWWs */",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": "42233",
+      "original_parent_revision_id": "1730",
+      "previous_public_revision_id": "1730",
+      "revision_id": "1736",
+      "same_as_previous_public": false,
+      "timestamp": "2010-07-19T15:00:52Z",
+      "wikitext_bytes": 3413,
+      "wikitext_sha256": "76ec761267c0492a3969a187fc66cf8fd7f40ffe48099ed0a6f22c732af8230d",
+      "source_format": "wikitext",
+      "source_extension": "wiki"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 1736,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 3458,
+      "markdown_sha256": "cc7780876df2cbf3aeb41af68b9791a1528478f1d5b41eaaff55cbb0b0567184",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": "1736",
+      "previous_public_revision_id": "1736",
+      "revision_id": "42233",
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z",
+      "wikitext_bytes": 3458,
+      "wikitext_sha256": "cc7780876df2cbf3aeb41af68b9791a1528478f1d5b41eaaff55cbb0b0567184",
+      "source_extension": "md"
+    }
+  ],
+  "site_revision_count": 1
+}

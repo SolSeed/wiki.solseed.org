@@ -1,0 +1,69 @@
+{
+  "canonical_path": "/March_6,_2011:_Online_Work_Bee",
+  "current_revision_id": 42401,
+  "database_title": "March_6,_2011:_Online_Work_Bee",
+  "display_title": "March 6, 2011: Online Work Bee",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 3,
+  "page_id": 915,
+  "published_revision_count": 3,
+  "revisions": [
+    {
+      "author": "BenSibelman",
+      "comment": "Created page from the TypeWith.me",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 2293,
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": 2292,
+      "same_as_previous_public": false,
+      "timestamp": "2011-03-07T06:09:12Z",
+      "wikitext_bytes": 5873,
+      "wikitext_sha256": "ae84ec2f6d28b22db8a7acbb5dc515864bc9b9429dfbc4be8a0ca48010be7da9"
+    },
+    {
+      "author": "BenSibelman",
+      "comment": "Removed extraneous items",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 2500,
+      "original_parent_revision_id": 2292,
+      "previous_public_revision_id": 2292,
+      "revision_id": 2293,
+      "same_as_previous_public": false,
+      "timestamp": "2011-03-07T06:09:42Z",
+      "wikitext_bytes": 5691,
+      "wikitext_sha256": "523ad1a30ba005c4a68573a5119450ef961770b63f735a4869c0fbae2fda7a75"
+    },
+    {
+      "author": "BenSibelman",
+      "comment": "",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 42401,
+      "original_parent_revision_id": 2293,
+      "previous_public_revision_id": 2293,
+      "revision_id": 2500,
+      "same_as_previous_public": false,
+      "timestamp": "2011-04-11T05:07:27Z",
+      "wikitext_bytes": 5613,
+      "wikitext_sha256": "743f2fb8a0cd857dea3ba79ee61d38eb4035b1d2f059e13d302325a801f2a2db"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 2500,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 5673,
+      "markdown_sha256": "d9a6054dc9e86509190ff7b37dd591c003cd2321216ffda15c459628ececc15f",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": 2500,
+      "previous_public_revision_id": 2500,
+      "revision_id": 42401,
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z"
+    }
+  ],
+  "site_revision_count": 1
+}

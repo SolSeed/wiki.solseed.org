@@ -1,0 +1,23 @@
+<blockquote class="templatequote">Nothing that is worth doing can be achieved in our lifetime;  
+
+therefore, we must be saved by hope.  
+
+  
+
+Nothing which is true or beautiful or good makes complete sense in any immediate context of history;  
+
+therefore, we must be saved by faith.  
+
+  
+
+Nothing we do, however virtuous, could be accomplished alone;  
+
+therefore, we must be saved by love.  
+
+  
+
+No virtuous act is quite as virtuous from the standpoint of our friend or foe as it is from our own standpoint;  
+
+therefore, we must be saved by the final form of love, which is forgiveness.
+      —[Reinhold Niebuhr](/Reinhold_Niebuhr), **[The Irony of American History - 1952](http://www.amazon.com/Irony-American-History-Reinhold-Niebuhr/dp/0226583988)**
+</blockquote>

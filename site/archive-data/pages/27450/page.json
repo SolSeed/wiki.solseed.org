@@ -1,0 +1,63 @@
+{
+  "canonical_path": "/May_10,_2015:_Business_Call",
+  "current_revision_id": "43048",
+  "database_title": "May_10,_2015:_Business_Call",
+  "display_title": "May 10, 2015: Business Call",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 2,
+  "page_id": "27450",
+  "published_revision_count": 2,
+  "revisions": [
+    {
+      "author": "BenSibelman",
+      "comment": "Created page from the Google doc",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": "40506",
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": "40498",
+      "same_as_previous_public": false,
+      "timestamp": "2015-05-11T01:47:24Z",
+      "wikitext_bytes": 9534,
+      "wikitext_sha256": "d9287600bd99997bfafc6f4a4eb04986e264094f006dd39f27b76673c9267b26",
+      "source_format": "wikitext",
+      "source_extension": "wiki"
+    },
+    {
+      "author": "BenSibelman",
+      "comment": "moved [[May 10, 2015: Online Work Bee]] to [[May 10, 2015: Business Call]]: Renamed to the correct type of call",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": "43048",
+      "original_parent_revision_id": "40498",
+      "previous_public_revision_id": "40498",
+      "revision_id": "40506",
+      "same_as_previous_public": true,
+      "timestamp": "2015-05-15T02:42:37Z",
+      "wikitext_bytes": 9534,
+      "wikitext_sha256": "d9287600bd99997bfafc6f4a4eb04986e264094f006dd39f27b76673c9267b26",
+      "source_format": "wikitext",
+      "source_extension": "wiki"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 40506,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 9511,
+      "markdown_sha256": "a1b63187cd9fa163033fa1b89e32ae55022e791f242b2aa03f105a1de16b6ba1",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": "40506",
+      "previous_public_revision_id": "40506",
+      "revision_id": "43048",
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z",
+      "wikitext_bytes": 9511,
+      "wikitext_sha256": "a1b63187cd9fa163033fa1b89e32ae55022e791f242b2aa03f105a1de16b6ba1",
+      "source_extension": "md"
+    }
+  ],
+  "site_revision_count": 1
+}

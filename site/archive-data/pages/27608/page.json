@@ -1,0 +1,48 @@
+{
+  "canonical_path": "/December_25th_:_The_Flow_of_Time",
+  "current_revision_id": "43206",
+  "database_title": "December_25th_:_The_Flow_of_Time",
+  "display_title": "December 25th : The Flow of Time",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 1,
+  "page_id": "27608",
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "EricSaumur",
+      "comment": "moved [[December 25th : The Flow of Time]] to [[The Flow of Time]]: book of days date should not be part of the title",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": "43206",
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": "40931",
+      "same_as_previous_public": false,
+      "timestamp": "2017-01-15T15:30:26Z",
+      "wikitext_bytes": 30,
+      "wikitext_sha256": "f3ca49bca76b55e8d5aac64cb5951b27542eb5ff55dc43683e6f4995603398b1",
+      "source_format": "wikitext",
+      "source_extension": "wiki"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 40931,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 71,
+      "markdown_sha256": "b2477ca9507e335c0e69b8dd812d9a514d5c34b6459fde5c9d362e81793f6243",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": "40931",
+      "previous_public_revision_id": "40931",
+      "revision_id": "43206",
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z",
+      "wikitext_bytes": 71,
+      "wikitext_sha256": "b2477ca9507e335c0e69b8dd812d9a514d5c34b6459fde5c9d362e81793f6243",
+      "source_extension": "md"
+    }
+  ],
+  "site_revision_count": 1
+}

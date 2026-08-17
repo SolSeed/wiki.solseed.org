@@ -1,0 +1,106 @@
+### Sunday Agenda
+- Check in
+- Opening Blessing
+- Review WWWs
+- Weekly event logistics
+- Review Agenda
+- 5 minutes on Winter Solstice to :21
+- 20 minutes Strategy/Tactics Talk to :41
+- 14 minutes Blog Post to :55
+- Evaluations
+- Closing Blessing
+
+### Check-in
+- Brandon … feeling sick
+- Ben … my picture of the world keeps getting darker and darker
+- Eric … the minutiae seem to expand to take up all available time
+
+### Opening Blessing
+We come together to do the work. But in many ways, the real reason that we come together is to be together. In many ways, being together is the work, because we want to build a movement, and how can a movement exist without people coming together? May our coming together be the efforts in the right direction that seem smaller than necessary but call forth the allies we need.
+ --Blessed Be
+
+### WW(W)s from last time
+- Brandon … spend 15 minutes every day on Machine Learning … ongoing
+- Brandon … make a daily 1 minute video check-in for Ben and Eric … ongoing
+- <s>Brandon … Meditate regularly with Eric … ongoing</s>
+- <s>Ben … meditate regularly with Eric ... ongoing</s>
+- Ben … spend at least 15 minutes a day on *[Flight in a Cage](/Flight_in_a_Cage)* … ongoing
+- <s>Ben … invite SF&F Book Club to Solstice … by tonight</s>
+- Ben … Send Brandon/Eric a video message each day about what I did … ongoing
+- <s>Eric … Send Brandon/Ben a video message each day about what I did … ongoing
+- Eric … Work on Buckleberry at least 15 minutes a day… ongoing
+- Eric … Meditate regularly with Ben … ongoing
+- Eric … Meditate regularly with Brandon … ongoing</s>
+
+### WW(W)s
+- Brandon … spend 15 minutes every day on Machine Learning … ongoing
+- Brandon … make a daily 1 minute video check-in for Ben and Eric … ongoing
+- Brandon … Meditate regularly with Eric … ongoing
+- Brandon … send invitations for Solstice … by tonight
+- Ben … meditate regularly with Eric ... ongoing
+- Ben … spend at least 15 minutes a day on *[Flight in a Cage](/Flight_in_a_Cage)* … ongoing
+- Ben … Send Brandon/Eric a video message each day about what I did … ongoing
+- Ben … Send Brandon the link to the intro videos … by today
+- Eric … Send Brandon/Ben a video message each day about what I did … ongoing
+- Eric … Work on Buckleberry at least 15 minutes a day… ongoing
+- Eric … Meditate regularly with Ben … ongoing
+- Eric … Meditate regularly with Brandon … ongoing
+
+### Weekly Events Logistics
+Service rotation: Eric, Ben, Shelley, Brandon
+- Dec 17 Service: 8:00 AM PDT / 11:00 EDT … Shelley
+- Jan 8 Business Call: 8:00 AM PDT / 11:00 EDT
+
+### Winter Solstice
+- Ben: Report nobody from the sci-fi fantasy group is interested in the lego thing
+- Ben: Did the Sanders get anybody to come?
+  - Brandon: I haven’t invited
+  - Ben: Is it worth inviting people?
+  - Brandon: I think so
+  - Ben:  Most people will have plans.  But if we invite people today then (if you send me the email addresses I can send the invitations)
+  - Brandon: I will do it.
+- Ben: Do we need a projector?  Low return on investment for getting a bigger screen to show the intro videos.
+  - Brandon:  We have a big TV in the family room. Which we can hook a laptop to.
+  - Ben: My laptop only has VGA
+  - Brandon: I can hook my laptops to it.
+
+### Strategy Talk
+#### Six Thinking Hats
+- Green … brainstorming
+- Yellow … positive (Sunny) evaluation
+- Black … negative (Shadow) evaluation
+- Red … emotional <done>
+- White … logic only
+- Blue … process (noticing which hat is happening, actively selecting a hat)
+
+#### Blue Hatting
+- Eric: What do we want out of this process?
+- Ben: Narrow down the options from brainstorming … we can't do them all.
+- Eric: But why are we doing this at all? Seems like we feel a change is needed.
+- Ben: I think we want to do more than our individual projects.
+- Brandon: Curious about where our passion is so I am interested in the red hatting.
+- Ben: But what else is there to do on red hatting?
+- Eric: We could ask whether we're passionate enough about these ideas to really commit to doing them.
+- Ben: It's hard to predict whether our passions will last long enough to accomplish much of anything ...I just wish there was some way of judging whether we’d be passionate enough to keep doing something for the long term.
+- Eric: We could add a new element to the Creed that says money motivates us ... Having invested substantially in Buckleberry I’m very motivated to ensure that it happens.
+- Ben: Can we talk about what action it would take to make us feel really invested in each of the project areas?
+- Eric: That might work … but the statement I made is an example of the Sunk Cost Fallacy (even though it drives my elephant) … just because I have put money into something doesn't mean I have to put more in … that's true of effort and other resources as well
+- Ben: Are we OK with being driven by the sunken cost fallacy?
+- Eric: Most science-based groups would be horrified by that, but when you include psychology in your science and say "but it works on your elephants," it starts to make sense.
+- Brandon: I think I know the answer: We need to be fearful of punishment. We need someone to punish us if we don't do the things we aspire to … I'm partly joking.
+- Ben: We need a stick but no carrot? … or you could argue that the aspirations themselves are the carrot.
+- Ben: Any candidates for punishment? ... In a sense, having spent too much money with nothing to show for it is a form of punishment, so that could be what drives Eric to do Buckleberry.
+- Eric: There's a pride thing too … when you've stepped up and put some resources down in a way that's highly visible to someone else, you don't want to look like the schmuck who just threw away a bunch of resources … Buckleberry and the workout bets work the same way, they work because there's an audience watching me, mainly Michelle and Patrick … I'm putting down resources that belong to the whole family, and that's what creates the obligation to really turn them into something … it's the same thing that gets you to go to work each day: the obligation to my family to manage our resources so we get to keep living the way we want.
+- Ben: Going to work is something I do even without a family obligation (unless you count the audience of my parents who I might have to move back in with if I failed) ... The Sanders could hold each other accountable in the same way Eric is talking about, but in my case, work keeps me alive, SolSeed just adds spice to my life.
+- Eric: So how do we apply this to finding a beautiful way to motivate ourselves?
+- Ben: According to the author of *The Dandelion Insurrection*, Love is the only motivation we need.  The family thing is based on Love.
+- Eric: The difficulty is with connecting at the moment when you decide between minutiae … finding a way to connect Love of Gaia to the choices you make … in the moment of the minutiae, scrolling through my Facebook newsfeed and commenting on a post about a big issue feels like an expression of Love for Gaia, but going and putting insulation on the wall in the garage does not.
+- Ben: The problem is between what feels like a solid action versus what we intellectually know is one.  Our feelings are pretty dumb.  And yet they are all we have that motivates us.
+
+### Evaluation
+- Brandon: I have to go to Oaks Park now with the family to ride the Holiday Express … I feel negative (just do) … it's hard to get past that.  
+- Eric: I feel like we're getting somewhere, we've got our teeth into an important question
+- Ben: I am finding it difficult to reconcile working on SolSeed with the dire straits that the world seems to be in.  Not certain how to motivate myself to work on these giant issues that seem hopeless either.
+
+### Closing Blessing
+We came together to be together. And yet still, we feel a lack of success. How confused our elephants are, how torn in so many directions. May we carry from this meeting some inkling of how to calm and center these poor beasts.  -- Blessed Be

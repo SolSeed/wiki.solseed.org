@@ -1,0 +1,56 @@
+{
+  "canonical_path": "/Ecovillage_guilt_trip",
+  "current_revision_id": 43182,
+  "database_title": "Ecovillage_guilt_trip",
+  "display_title": "Ecovillage guilt trip",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 2,
+  "page_id": 27584,
+  "published_revision_count": 2,
+  "revisions": [
+    {
+      "author": "BenSibelman",
+      "comment": "Created page from written notes",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 40870,
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": 40869,
+      "same_as_previous_public": false,
+      "timestamp": "2016-09-18T02:23:10Z",
+      "wikitext_bytes": 499,
+      "wikitext_sha256": "74f3b365f439a70e31f524736adbc4429fbe2a05447614eb5e64d57ef45bd3d2"
+    },
+    {
+      "author": "BenSibelman",
+      "comment": "Added link",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 43182,
+      "original_parent_revision_id": 40869,
+      "previous_public_revision_id": 40869,
+      "revision_id": 40870,
+      "same_as_previous_public": false,
+      "timestamp": "2016-09-18T02:23:34Z",
+      "wikitext_bytes": 503,
+      "wikitext_sha256": "19c7e337bc267d0b0788787810c06c6ab68c51e8b3d475940039d284e8dc9103"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 40870,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 564,
+      "markdown_sha256": "489a78ce6095c783f66b863955f315490c02f0f4cccfcbe89b5a6885287941ac",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": 40870,
+      "previous_public_revision_id": 40870,
+      "revision_id": 43182,
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z"
+    }
+  ],
+  "site_revision_count": 1
+}

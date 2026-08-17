@@ -1,0 +1,213 @@
+This was a process for generating and studying ideas for future [SolSeed Businesses](/SolSeed_Businesses) that occurred during the business calls throughout December 2014 and into January 2015. [Brandon](/Brandon), [Ben](/Ben), and [Eric](/Eric) were the participants.
+
+### Ideas that survived the first two rounds of Yellow Hattting
+#### +++ 3D Printing of living trees
+Print long living wood beams tapered at both ends (one end printed as root the other as trunk) from tree stem cells or cellulose matrix (seeing as wood isn’t all living in a living tree) and then print cambium and bark etc onto the outside.  Include the printing of branch buds on the trunk end and rootlet buds on the root end.  The newly printed tree would have to be supported in terms of nutrients and needs and then hardened off (printed tissue is known to be initially very soft) but then could be dropped into a drill hole and as the branch and root buds grew, an adult tree could be planted very easily.  Mass produced this could allow reforestation to be almost instantaneous (compared to planting seedlings).  The feedstock would come from stem cell cultures from a lot of different trees (to prevent creating a monoculture) and grown in a vat.  We would need to research how existing early-stage human tissue printing techniques would apply to plants, and how fast stem cells could be grown compared with cells in a normal growing tree.
+- Positive comments
+  - If it worked it would help solve global warming by making reforestation faster.
+  - If the trees we created worked exactly the same as naturally grown trees, it would demonstrate that synthetic biology isn't always as scary as environmentalists tend to think.
+  - It would also teach us a lot about the structure and function of trees, a critical learning process for Eric's long-term goal of creating trees that can thrive in currently treeless environments.
+
+#### ++ Museum of Big Time
+Michael Dowd and other proponents of religious naturalism view the development of a "deep time" or "big time" perspective, one that encompasses an understanding of the universe's billions-of-years-long history, as important for spiritual growth in a non-theistic context. SolSeed shares this view and has already developed a [Cosmic Calendar](/Cosmic_Calendar) that expands on Carl Sagan's concept for teaching deep history by extending it into the future as well. With our gradually developing skills at presenting these ideas in words and images, we may be able to create a prospectus for a museum exhibit, perhaps to be displayed first in the Oregon Museum of Science and Industry's Changing Exhibits Hall, if and when we can get it funded.
+- Positive comments
+  - This would be incredibly awesome; it would be like coming home when I went to work!
+  - We could start simple on this and grow it slowly over time … there is an easy organic growth path
+  - It's an aspect of SolSeed thought that is particularly accessible, much easier than just jumping straight into "creating a family of living worlds."
+  - I have been to two Museums of Big Time and they were my favorite indoor places and both have been redone and the Big Time aspect has been lost and I miss them.
+
+#### ++ Kindred mapping FB app
+If we only allow Kindred to be added to your map through inviting them to use the app, this has the potential to have a viral coefficient greater than 1.  There are several support tickets requesting this functionality from Facebook indicating that groups are interested in the feature (although may not be willing to pay for it).  It’s unclear how to monetize the traffic even if we did build interest.  We would use the app to create visibility for our kindred groups and perhaps discover other kindred (dogfood).
+- Positive comments
+  - We have some of these skills
+  - Could have a viral coefficient greater than one (could get huge quickly)
+  - Could serve as a spring-board to creating a comprehensive reputation system (a difficult billion dollar opportunity)
+  - We would use it ourselves.
+
+#### ++ CELSS/Biosphere 3
+##### CELSS
+Closed Ecological Life-Support Systems used to be an active area of NASA research, but most funding for such projects in the U.S. has dried up, although some interesting work is still ongoing here and there (details needed). Starting from our existing duckweed experiments, the SolSeed Movement could contribute to this field relatively cheaply and, if we can prove our ability to run tightly controlled experiments, possibly get some research grant money for more ambitious projects.
+- Positive comments
+  - I would love to spend more time with my DuckWeed!
+  - CELSS is the existing technology that most closely matches the SolSeed vision of the future (though obviously it has a long way to go before we can grow an ecosystem similar in complexity to ones we see in the wild).
+  - It would be great to join the community of CELSS researchers and turn it into a kindred group.
+  - Once we get good enough at this, we could propose a CELSS experiment that would have a serious chance of getting selected to fly to the ISS (or that could be launched as a small satellite).
+
+##### Biosphere 3
+[Biosphere 2](https://en.wikipedia.org/wiki/Biosphere_2) is probably the most ambitious experiment to date in creating closed, self-sustaining ecosystems. It's widely perceived as a failure, due to both ecological and sociological breakdowns that happened during the main 2-year mission in 1991-1993, but the University of Arizona continues to do research there, although it hasn't been sealed off from the outside air for many years. If the SolSeed Movement can develop our skills at creating CELSS's (see below), we may eventually have a credible chance to build something ambitious enough to qualify as a successor to Biosphere 2. It would have to be a large enclosed chamber where humans could live for extended periods, with one or more ecosystems inside that effectively transform the humans' waste products back into food, clean water, and oxygen in sufficient quantities to keep them alive.
+- Positive comments
+  - This is such a core SolSeed thing to do!
+  - It would be incredibly awesome
+  - An initial market could be adding an oxygen exchanger living component to passive houses requiring even less exchange with the outside.
+  - We would control the outreach for the project, allowing us to point out that the system is not just for supporting humans; it also supports all the other living things inside!
+  - We could conceivably make it a part of the [SolSeed Village](/SolSeed_Village), making a clear and impressive visual statement about who we are and what we stand for.
+  - It would be a major stepping stone toward actually putting a working CELSS on a space station.
+
+#### + High frontier style game
+Ben's idea: Players would grow an ecosystem in a space colony (probably inside a hollow asteroid), starting with bacteria and working their way up, with the goal of either making the colony human-habitable or providing habitat for endangered species from Earth. The idea would be to promote both space colonization and ecological thinking. Could conceivably be cross-branded with [Kim Stanley Robinson's novel *2312.*](http://www.orbitbooks.net/2312/)
+- Positive comments
+  - Education
+  - We have some of the skills needed
+  - Ben might get to work with his favorite sci-fi author
+  - Could help break down barriers between environmentalist and space-enthusiast mindsets
+  - Games can reach young audiences
+  - If the simulation is realistic enough, it can teach us a lot about ecosystems, both in the process of researching how to make it realistic and in observing how it behaves.
+
+#### + Earthrise Graphic Design (serving both space advocacy and environmental groups)
+A major problem for SolSeed is how polarized the environmentalist and space enthusiast communities are, with many members of each group having extremely negative views about the other. The theory behind Earthrise Graphic Design is that such ideological differences probably can't be resolved with words, but maybe images with emotional impact can help (the Apollo 8 Earthrise photograph being a premier example). Ben has taken several graphic-design courses, and Brandon and Eric have at least done some amateur graphics work, so we have a starting point toward becoming skilled enough to attract customers. (Also, nonprofits generally have lower standards than most other graphic-design customers, given their limited budgets.)
+- Positive comments
+  - We have some of the skills needed
+  - Could help break down barriers between environmentalist and space-enthusiast mindsets
+  - Ben really likes making graphics
+  - As our graphic skills increase we could use them to promote SolSeed
+
+#### + Implement JP Aerospace’s airship to orbit (test aspects of it)
+This would be risky from the following standpoints: 1) will it even work?  2) are there intermediate businesses from which we can derive sustainable income?  If we made things that are cool to look at, it would raise our profile within the space enthusiast community.  Stages 1 and 2 of the JP Aerospace concept, zeppelins that travel between the surface and a high-altitude balloon platform, are certainly feasible and may be worth doing even if stage 3, the airship that actually achieves orbit, never works; after all, launching an ordinary rocket from that platform would save a lot of fuel due to the reduced air resistance. It might also one day be a viable base station for a space elevator or some other advanced space-launch technology.
+- Positive comments
+  - This sounds like too much fun.  I am particularly fond of proving H2 as a lift gas.
+  - This truly democratizes access to space by making the entire launch infrastructure accessible to a much wider audience (doesn’t have the natural monopoly issues of big infrastructure like space elevator, launch loop, star tram, etc.) and requiring very little real estate.
+  - Could possibly do a shipping business as an interim project
+  - Very low environmental impact
+  - The Dark Sky Station could drift around the planet with the stratospheric winds, allowing easy access from many different nations at various times
+  - The sort of infrastructure one could imagine monks of a religious order running as part of their meditation (slow and peaceful)
+  - speaks to the better parts of human nature and the upward spiral (slow, not flashy, high in the drainage-ish)
+
+#### + Closed Circle Humanure Transport (linking people with composting toilets to people with organic farms)
+When humans consume food, some of the atoms involved end up in our waste. In order to ensure a continuing food supply without degrading the environment, we need to return those atoms to the food-growing process. Sewage is too toxic for this purpose, but composting toilets probably produce an output that can safely be used to grow food for human consumption (certainly some gardeners are using it that way already). Although composting toilets aren't currently commonplace, there might be enough of them in environmentally conscious cities like Portland for a business model that literally pays people for their composted poop, using part of the proceeds from selling it to organic farmers. Some of the proceeds would also be needed for operating a truck or van capable of moving the compost from the toilets to the farms. We have contacts (Mathew and Molly) with expertise in composting toilets, which could help us get started and avoid pitfalls. (Important seeing as no one wants to fall in that kind of pit)
+- Positive comments
+  - This is so organic; so green; it seems like such a Life-loving work.
+  - It might help make composting toilets a bit more popular.
+  - It could grow by branching into a CSA service, and a urban-community agriculture service
+
+#### + Food-producing Green Roofs/Walls (high in the watershed!)
+A business which simply installed standard green walls and roofs and then creates a CSA like relationship between citizens living nearby (or even in the building) and farmers who would use that "land" to grow food to sell.  The added benefit to the city is that the amount of storm water that has to be processed is much less when people have green roofs and the citizens have easy access to a 100 meter diet!
+- Positive comments
+  - Another organic green idea that feels very Life-loving.
+  - Once we really get started with the [SolSeed Village](/SolSeed_Village), adding one of these will help establish its visual identity and show what we're about (and is much easier to get going than a large-scale CELSS, which could become a later unique feature of the village … see Biosphere 3 above).
+
+#### Living Geodesic trees (grafting) (see also organic architecture and botany buildings)
+This idea is to grow circles of trees, train their branches and graft them together at carefully calculated intervals to form a geodesic dome.  Then new circles can be grown concentrically around the first to create nested domes linked by living branch struts.  Floors, walls and ceilings could be hung from the branches to create living spaces inside the domes.  Eventually neighbouring domes could be grafted together to create a living city.  The strength of the interconnected domes would make this city virtually impervious to wind storms, by grafting branches of fruit and nut trees to the domes, food could grown by the buildings themselves.
+- Positive comments
+  - The city would be beautiful beyond measure.  I for one would love to live there.
+  - Would be soo awesome.
+  - This would lead to the village by growing it.
+  - Would bring in more support from people who love domes, like Hank and various Buckminster Fuller fans.
+
+### Items eliminated during the second round of Yellow-Hatting
+#### +++ Lighter than air stratospheric habitats
+See http://en.wikipedia.org/wiki/Cloud_Nine_%28tensegrity_sphere%29 -- the basic idea, originated by Buckminster Fuller, is to make a geodesic bubble big enough to float just because the air inside is a little warmer than outside, and put a city inside the bubble. We would want to start much smaller-scale, maybe beginning with a tethered balloon big enough for a mouse to live inside with a supply of food and water for a day or two.  A major research question is what materials would be best for the surface of the bubble, as well as for the geodesic struts.
+- Positive comments
+  - We could film the movie version of Flight in a Cage inside one of these! (Well if we can get the movie rights from the author)
+  - Urban sprawl would be less of an issue if people didn't have to live on the ground.
+  - The view from up there would be incredible.
+  - Space launch from a stratospheric habitat would be cheaper than from the ground due to reduced air resistance.
+  - The inside of one of these would be a great place to experiment with flying trees (another one of Eric’s dreams)
+
+#### +++ Teaching technology camps/workshops
+We would need an event space to at least rent on a regular basis.  The first time we could probably rent the Epicodus space during their next internship month.  The Epicodus space is located downtown with several dozen 27” iMacs for pairing or working through the seminar.  This is something that we have reasonable skills to do.  It would allow us to earn money from the enterprise by offering content of interest to them (e.g., Mastering Docker).  It would allow us to empower the disenfranchised by offering free beginning programming classes to the underprivileged.  It could also give us a space we could use to hold services and other events.
+- Positive comments
+  - It would be good for children!
+  - We have some of the skills needed
+  - It would be a new way to put our values of [empathy](/empathy) and compassion into action.
+  - Programming is an extremely vital skill for living in today's computer-driven world, and existing grade-school computer classes (where they exist at all) don't do enough to disseminate this skill.
+
+#### ++ Large scale consensus for governance issues, especially generation of legal codes
+Brandon has successfully done this for groups up to 100 in size and has been paid to do this for one enterprisey customer indicating that we can both make it work and get paid to do it.  It has the potential to improve on current forms of democracy … especially with respect to polarization.
+- Positive comments
+  - This sounds like it could be really useful to a wide base of groups.  I think there is a lot of potential in terms of a customer stream.
+  - There is potential to get lots of press if successfully applied to seriously knotty problems
+  - Governments themselves will probably have to evolve in the direction of using novel Internet-based governance mechanisms, and this could help show the way
+
+#### + Nonprofit that raises money from the ultra-wealthy by providing a version of the SolSeed vision that appeals specifically to them
+This would be a website with four main sections. The frontpage would feature at least three visualizations of a bright future of "sustainable luxury," e.g. high-tech telecommuting from a lawn chair on a large green roof with a beautiful view, where your kids can play and you get fresh strawberries. A second page would cite the work of the Rocky Mountain Institute (RMI) and the [New Climate Economy Report](http://newclimateeconomy.report/) to show a practical way forward to that future, "led by business for profit." A third page would cite people like Jared Diamond to explain why an alternative future, where the rich elites build enclaves or space stations just for themselves and let the rest of civilization collapse, is not going to work. Finally we'd quote Elon Musk and other spaceflight thought leaders on what "the next great adventure" could look like if we first ensure that there's a sustainable Earth-based civilization to support it. Most of the money we would raise would be redistributed to established groups like RMI, the Climate Reality Project, and the Planetary Society.
+- Positive comments
+  - Robin Hood meets SolSeed; cool.
+  - Works around the political problems with grassroots-motivated policy changes (e.g. toward replacing fossil fuels and increasing NASA funding) in an era of hyper-concentrated wealth and power
+
+#### + Comet/Asteroid surface simulators
+In order to test systems for robotic probes to Comets and Asteroids a dedicated simulator would be useful.  We could build a large vacuum chamber with typical comet/asteroid temperatures and lighting (very cold, slightly dim) and rough icy surfaces, and allow space agencies to test components in the environment.  By making the surfaces nearly vertical, a robot tethered to the ceiling of the simulator would have zero gravitation force attracting it to the surface of the comet.  A slightly tilted surface would allow for microgravity.  We could also allow “tourists” to do low pressure extreme cold rock climbing in space suits (who knows, it might catch on or it might be good for people to practice climbing really tall peaks on Earth (like Everest)).
+- Positive comments
+  - I think this could be so useful to the space industry
+  - At some point we could put a small CELSS module inside the vacuum chamber to test its ability to withstand the conditions of space
+
+#### + Space station simulator (a rotating space station so there is gravity but instead of the room you're in rotating the whole view outside the windows rotates.)
+This is a straightforward tourism idea.  People would pay to spend some time inside the simulator.  The idea would be to simulate a space station that had artificial gravity due to its rotation.  However because we are here on Earth the station would actually have gravity.  So the tourists enter a room (perhaps after a ride that simulates a rocket ride to low Earth orbit).  The room can be a bit of a space museum or it can be a dinner/theatre event.  Looking out the windows, an IMAX projector would project a view of low Earth orbit onto a screen surrounding the simulator so that the rotation of the station is simulated by rotating the view outside.
+- Positive comments
+  - This would be such a ride!  It could help people love space by letting them experience it at a price most anyone could afford.
+  - It's one of the simplest ideas to implement (depending on the complexity of the rocket ride simulation)
+
+#### + Micro-interplanetary probes (pushing miniaturization)
+This idea is based on the idea that the delta-V of a rocket is inversely proportional to the mass of its payload, especially if you use enough stages.  Could we build a probe with a mass of only a few grams that could be launched with a really small rocket?… Obviously it would need a large dish but that could be made from really light materials that expand once in vacuum.  Computers are already so small that it could probably have more computing power than Voyageur for less than a gram.  A single camera could be built that was tiny (like a cell phone camera.  We would probably only get a single flyby of an object with simple pictures taken and not much other science but it would still be heady stuff!
+- Positive comments
+  - Imagine the publicity possible if SolSeed could send back even just a couple of close up pictures of a NEO.
+  - This idea plays to some of our strengths (there will be software involved)
+  - It would enable us to make an early start at really contributing to space-based projects, long before we get really good at CELSS
+
+#### + Genetically engineered trees for arctic climates
+Plants can’t grow on ice for three reasons, they can’t get minerals; they currently need liquid water; their metabolisms go into hibernation below certain temperatures.  However, for some plants, the lowest temperature that they can metabolize at is below 0 degrees C.  Genetically engineering such plants to produce salt in order to liquify ice and then reabsorb both the melt water and the salt would allow them to access liquid water with their roots dug into ice.  Genetically engineering plants that create a network of roots to share resources over large distances (perhaps using funguses which already create single organism networks the size of forests or mangroves which already share roots and desalinate water) would allow localized mineral sources (e.g. rocky outcrops) to be exploited by these plants and used over large areas.  Growing a forest across the antarctic ice sheet would absorb so much carbon as to actually reverse a couple of decades of CO2 emissions.
+- Positive comments
+  - SolSeed could become the heroes of Earth by mitigating the climate crisis.
+  - I love trees.  This would make me very happy (~Eric)
+  - It's important for us to have long-term vision … this would take a long time to come to fruition
+
+#### + Continue Dr. Mautner’s experiments
+Dr. Mautner designed simple experiments to test the idea that plants can grow on Cometary or Asteroid materials.  Using information coming back from new probes (like Rosetta-Philae and Dawn) we could create artificial Comet/Asteroid soil approximations and then experiment with growing plants on them.
+- Positive comments
+  - this could create great outreach with Solis/Panspermia
+  - this area of research is publishable
+  - it would lend increased scientific credibility to the SolSeed vision
+
+#### Web design business
+We have some experience in this area.  People regularly get paid to do this kind of work.  It would improve our web design skills that we could then use to improve our own sites.  This kind of consulting work tends to be all consuming … some consultancies lament not having time to develop their own products to break out of the hourly work for pay business.  Notable counter examples include Zurb (although do they get paid for foundation and their other products?) and 37signals (now basecamp).
+- Positive comments
+  - playing to our core skills
+  - Would be faster to get off the ground than any of the other ideas
+  - Ben really likes making graphics, which are required for good web design
+
+### Items eliminated during the first round of Yellow-Hatting
+- Greenhouse business
+- Greenhouse supply business
+- Viventibus Galaxia plate business (variants)
+- Genetically engineered flying (floating) plants (air phytoplankton)
+- Software house for robotic space missions
+- [Geodesic Winter Holiday](/Geodesic_Winter_Holiday)
+- Church of SolSeed (build it and they will come)
+- Living Geodesic trees (grafting)
+- Living temple construction (growing) for other Pagan groups.
+- Water desalination and pipelines for greening deserts
+- Cellular robotics (cellular automata in robotics with self-assembly)
+- Fusion research
+- Large scale vacuum chamber manufacturing
+- Kinetic launchers (mass drivers, light gas guns)
+- Vertical Cities … small scale
+- Natural Spirituality/Religion Retreat Space
+- Media company promoting shift in consciousness toward the three obligations
+- Micro-machining R&D
+- Autonomous mining robots
+- Overlook effect tours and vacations
+- Tree engineering simulator game
+- Earn as much money as possible … try to earn a billion $ so that we can be Elon Musk
+- Work for Elon Musk
+- Research and publish various behavior modifications for footprint reduction
+- Religious method research for positive spiritual/religious fruits
+- Viral FB app
+- Research and publish best practices for establishing eco-villages
+- Social media meta app (allows a user to post to all his social media accounts at once and read them all together)
+- Preparing humanity for its AI children
+- Eco-burial (System for hygienic composting and tree growing from our loved ones when they decease, can maybe partner with Herland Cemetery at Windward?)
+- Business analytics consulting firm (playing to Eric's skills in particular)
+- 3D Printing something
+- 3D Printing of greenhouse components
+- Taking orders from people who don't own 3D printers but want something printed by a small local business
+- Space ventures co-working space
+- Windsurfing every day
+- Become ultra competitive professional athletes and make millions for SolSeed
+- Airship dropped gliders for commuting purposes
+
+### Blue Hat (talking process)
+- Yellow hat dot voting (9 votes each, plus 3 among the narrowed down choices, plus we can bring back one that got eliminated)
+- White hat (provide objective information about the ideas)
+- Yellow hat (positive evaluation of selected ideas)
+- Yellow hat dot voting (5 votes each)
+- Black hat (critique ideas we don't like)
+- Think of it as a cycle so we don't feel pressured to be exhaustive at each step

@@ -1,0 +1,135 @@
+### Agenda
+- Check in
+- Review WWWs
+- Daily Practice/Metrics
+- Weekly event logistics
+- Review Agenda
+- Gaia.wiki
+- SolSeed Village/Business
+- Evaluation
+
+### Check-in (gratinews)
+- Eric … I am sick again damnit.
+- Ben … I’m looking at this new Gaia wiki thing you (Brandon) and Jason made. I’m excited that I’m very nearly done with the second chapter of my novel and I’m going to send out the draft of it soon.
+- Brandon … I’m struggling a bit … I'm excited that I know an about-to-win-an-award science fiction novelist. 
+
+### WW(W)s from last time
+Organize the WWWs by person and then due date.  We’ll start checking in on topical community protocol and meditation for each mini-period between workbees.
+
+Holacracy founder Brian Robertson says these are bad: http://holacracy.org/blog/the-insanity-of-the-what-by-when 
+
+- <s>Brandon ... follow your topical community protocol for this period ... ongoing</s>
+- <s>Brandon ... meditate and keep track of which days ... ongoing</s>
+- Ben ... follow your topical community protocol for this period ... ongoing
+- <s>Ben ... meditate and keep track of which days ... ongoing
+- Ben … post my article (or a summary & link) to spacesettlers@yahoogroups.com … by next call</s> (didn't seem to work)
+- Eric ... follow your topical community protocol for this period ... ongoing
+- Eric ... meditate and keep track of which days ... ongoing
+- Eric … order parachutes for rockets … by next call
+- Eric … read last attempt at Village documents including [Vision Workshop](/Vision_Workshop) and [SolSeedVillage#Governance Draft](/SolSeedVillage#Governance_Draft) … by next call
+
+### WWWs
+- Ben ... follow your topical community protocol for this period ... ongoing
+- Ben ... meditate and keep track of which days ... ongoing
+- Ben … finish sheet music for Psalm of Solstice … by next call
+- Ben … create user page on Gaia.wiki … by next call
+- Ben … figure out what food to bring for the Solstice party … by next Friday
+- Brandon ... follow your topical community protocol for this period ... ongoing
+- Brandon ... meditate and keep track of which days ... ongoing
+- Eric ... follow your topical community protocol for this period ... ongoing
+- Eric ... meditate and keep track of which days ... ongoing
+- Eric … order parachutes for rockets … by next call
+- Eric … read last attempt at Village documents including [Vision Workshop](/Vision_Workshop) and [SolSeedVillage#Governance Draft](/SolSeedVillage#Governance_Draft) … by next call
+
+### Weekly Events Logistics
+Weekend
+Service rotation: Eric, Shelley, Brandon, Ben
+- December 13 Service: 9:00 AM PDT, 12:00 EST  (Eric) (Ben will be very sleepy)
+- December 14 Work-Bee: 5:30 PM PST, 20:30 EST 
+
+Midweek
+- December 18 Work-Bee: 6:30 PM PST, 21:30 EST
+
+### Gaia.wiki
+If you do a search for SolSeed, the band Sol Seed shows up higher than us … Brandon doesn't like this
+- Ben: We need to contact those people
+- Brandon wants Spacewiki and Gaia.wiki to attract lots of people and send lots of link love our way
+  - Gaia.wiki is owned by Top Level Design … they will spend some effort to attract people, but we have to do our part
+  - Ben: It's been ages since we did anything with Spacewiki, and we're pretty stretched thin with the projects we already had … how are we going to make time for all this?
+
+Eric: Let's discuss what's appropriate for Gaia.wiki vs. SolSeed vs. Spacewiki
+- Ben: the SolSeed wiki is where we put stuff about the SolSeed Movement and its vision and practices
+- Brandon: On my draft Kindred map I have "Cherish Earth," "Embrace Science," "Starfarers," and "Religious" circles
+  - Ben: So Spacewiki would be for Starfarers who probably Embrace Science
+  - Brandon: And Gaia.wiki would be for the Cherish Earth types, many of whom are probably Religious
+    - It's easier to invite people in only one or two circles to edit these than to join the SolSeed wiki
+    - I also think they will attract organic traffic … but it turns out Spacewiki currently doesn't get significantly more traffic than SolSeed.org
+  - Ben: I worry about the clean split we’ve got here.  We don’t want Gaia.wiki to become a place where people who Embrace Science look at it and cringe.
+    - Brandon: We earn the right to continue to shape that by contributing a lot there
+    - Ben: So it's definitely time for me to re-read Lovelock's *The Ages of Gaia*
+- Brandon: seems like we should focus on Gaia.wiki right now … there is opportunity here
+  - Ben: sure, it seems like that one needs a lot more work than spacewiki to be viable
+
+### SolSeed Village/Business
+#### Green Hat (Generating Ideas)
+- ++++ 3D Printing of living trees
+Print long living wood beams tapered at both ends (one end printed as root the other as trunk) from tree stem cells or cellulose matrix (seeing as wood isn’t all living in a living tree) and then print cambium and bark etc onto the outside.  Include the printing of branch buds on the trunk end and rootlet buds on the root end.  The newly printed tree would have to be supported in terms of nutrients and needs and then hardened off (printed tissue is known to be initially very soft) but then could be dropped into a drill hole and as the branch and root buds grew, an adult tree could be planted very easily.  Mass produced this could allow reforestation to be almost instantaneous (compared to planting seedlings).  The feedstock would come from stem cell cultures from a lot of different trees (to prevent creating a monoculture) and grown in a vat.  We would need to research how existing early-stage human tissue printing techniques would apply to plants, and how fast stem cells could be grown compared with cells in a normal growing tree.
+
+- +++ Lighter than air stratospheric habitats
+See http://en.wikipedia.org/wiki/Cloud_Nine_%28tensegrity_sphere%29 -- the basic idea, originated by Buckminster Fuller, is to make a geodesic bubble big enough to float just because the air inside is a little warmer than outside, and put a city inside the bubble. We would want to start much smaller-scale, maybe beginning with a tethered balloon big enough for a mouse to live inside with a supply of food and water for a day or two.  A major research question is what materials would be best for the surface of the bubble, as well as for the geodesic struts.
+
+- +++ High frontier style game
+Ben's idea: Players would grow an ecosystem in a space colony (probably inside a hollow asteroid), starting with bacteria and working their way up, with the goal of either making the colony human-habitable or providing habitat for endangered species from Earth. The idea would be to promote both space colonization and ecological thinking. Could conceivably be cross-branded with [Kim Stanley Robinson's novel *2312.*](http://www.orbitbooks.net/2312/)
+
+- +++ Earthrise Graphic Design (serving both space advocacy and environmental groups)
+A major problem for SolSeed is how polarized the environmentalist and space enthusiast communities are, with many members of each group having extremely negative views about the other. The theory behind Earthrise Graphic Design is that such ideological differences probably can't be resolved with words, but maybe images with emotional impact can help (the Apollo 8 Earthrise photograph being a premier example). Ben has taken several graphic-design courses, and Brandon and Eric have at least done some amateur graphics work, so we have a starting point toward becoming skilled enough to attract customers. (Also, nonprofits generally have lower standards than most other graphic-design customers, given their limited budgets.)
+
+- +++ Teaching technology camps/workshops (earn money from the enterprise, empower the disenfranchised, have an space we can use for other events as well)
+
+- +++ Biosphere 3
+[Biosphere 2](https://en.wikipedia.org/wiki/Biosphere_2) is probably the most ambitious experiment to date in creating closed, self-sustaining ecosystems. It's widely perceived as a failure, due to both ecological and sociological breakdowns that happened during the main 2-year mission in 1991-1993, but the University of Arizona continues to do research there, although it hasn't been sealed off from the outside air for many years. If the SolSeed Movement can develop our skills at creating CELSS's (see below), we may eventually have a credible chance to build something ambitious enough to qualify as a successor to Biosphere 2. It would have to be a large enclosed chamber where humans could live for extended periods, with one or more ecosystems inside that effectively transform the humans' waste products back into food, clean water, and oxygen in sufficient quantities to keep them alive.
+
+- +++ Museum of Big Time
+Michael Dowd and other proponents of religious naturalism view the development of a "deep time" or "big time" perspective, one that encompasses an understanding of the universe's billions-of-years-long history, as important for spiritual growth in a non-theistic context. SolSeed shares this view and has already developed a [Cosmic Calendar](/Cosmic_Calendar) that expands on Carl Sagan's concept for teaching deep history by extending it into the future as well. With our gradually developing skills at presenting these ideas in words and images, we may be able to create a prospectus for a museum exhibit, perhaps to be displayed first in the Oregon Museum of Science and Industry's Changing Exhibits Hall, if and when we can get it funded.
+
+- ++ Kindred mapping FB app
+- ++ Implement JP Aerospace’s airship to orbit (test aspects of it)
+- ++ Large scale consensus for governance issues, especially generation of legal codes
+
+- + Closed Circle Humanure Transport (linking people with composting toilets to people with organic farms)
+When humans consume food, some of the atoms involved end up in our waste. In order to ensure a continuing food supply without degrading the environment, we need to return those atoms to the food-growing process. Sewage is too toxic for this purpose, but composting toilets probably produce an output that can safely be used to grow food for human consumption (certainly some gardeners are using it that way already). Although composting toilets aren't currently commonplace, there might be enough of them in environmentally conscious cities like Portland for a business model that literally pays people for their composted poop, using part of the proceeds from selling it to organic farmers. Some of the proceeds would also be needed for operating a truck or van capable of moving the compost from the toilets to the farms. We have contacts (Mathew and Molly) with expertise in composting toilets, which could help us get started and avoid pitfalls.
+
+- + CELSS
+
+- + Food-producing Green Roofs/Walls (high in the watershed!)
+A business which simply installed standard green walls and roofs and then creates a CSA like relationship between citizens living nearby (or even in the building) and farmers who would use that "land" to grow food to sell.  The added benefit to the city is that the amount of storm water that has to be processed is much less when people have green roofs and the citizens have easy access to a 100 meter diet!
+
+- + Nonprofit that raises money from the ultra-wealthy by providing a version of the SolSeed vision that appeals specifically to them
+
+- + Comet/Asteroid surface simulators
+In order to test systems for robotic probes to Comets and Asteroids a dedicated simulator would be useful.  We could build a large vacuum chamber with typical comet/asteroid temperatures and lighting (very cold, slightly dim) and rough icy surfaces, and allow space agencies to test components in the environment.  By making the surfaces nearly vertical, a robot tethered to the ceiling of the simulator would have zero gravitation force attracting it to the surface of the comet.  A slightly tilted surface would allow for microgravity.  We could also allow “tourists” to do low pressure extreme cold rock climbing in space suits (who knows, it might catch on or it might be good for people to practice climbing really tall peaks on Earth (like Everest)).
+
+- + Space station simulator (a rotating space station so there is gravity but instead of the room you're in rotating the whole view outside the windows rotates.)
+This is a straightforward tourism idea.  People would pay to spend some time inside the simulator.  The idea would be to simulate a space station that had artificial gravity due to its rotation.  However because we are here on Earth the station would actually have gravity.  So the tourists enter a room (perhaps after a ride that simulates a rocket ride to low Earth orbit).  The room can be a bit of a space museum or it can be a dinner/theatre event.  Looking out the windows, an IMAX camera would project a view of low Earth orbit onto a screen surrounding the simulator so that the rotation of the station is simulated by rotating the view outside.
+
+- + Micro-interplanetary probes (pushing miniaturization)
+This idea is based on the idea that the delta-V of a rocket is inversely proportional to the mass of its payload, especially if you use enough stages.  Could we build a probe with a mass of only a few grams that could be launched with a really small rocket?… (more to come)
+
+- + Genetically engineered trees for arctic climates
+- + Continue Dr. Mautner’s experiments
+- Web design business (playing to our core skills)
+
+- Living Geodesic trees (grafting) (see also organic architecture and botany buildings)
+This idea is to grow circles of trees, train their branches and graft them together at carefully calculated intervals to form a geodesic dome.  Then new circles can be grown concentrically around the first to create nested domes linked by living branch struts.  Floors, walls and ceilings could be hung from the branches to create living spaces inside the domes.  Eventually neighbouring domes could be grafted together to create a living city.  The strength of the interconnected domes would make this city virtually impervious to wind storms, by grafting branches of fruit and nut trees to the domes, food could grown by the buildings themselves.  The city would be beautiful beyond measure.  I for one would love to live there.
+
+#### Blue Hat (talking process)
+- Yellow hat dot voting (9 votes each, plus 3 among the narrowed down choices, plus we can bring back one that got eliminated)
+- White hat (provide objective information about the ideas)
+- Yellow hat evaluation of selected ideas
+- Black hat (critique ideas we don't like)
+- Think of it as a cycle so we don't feel pressured to be exhaustive at each step
+
+### Evaluation
+- Eric … I'm still sick, but I felt better while I was on the call … it felt like I was doing something worthwhile
+- Brandon … I enjoy these calls and enjoy doing good things with you guys. 
+- Ben … I am, as I said before, kind of scared of biting off more than we can chew at once … I feel like maybe we need to step up our recruiting efforts and get a fourth or fifth person who can take on some work

@@ -1,0 +1,43 @@
+{
+  "canonical_path": "/4th_Season",
+  "current_revision_id": 42827,
+  "database_title": "4th_Season",
+  "display_title": "4th Season",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 1,
+  "page_id": 27226,
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "EricSaumur",
+      "comment": "moved [[4th Season]] to [[Diversitas]]: The season has been named",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 42827,
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": 39696,
+      "same_as_previous_public": false,
+      "timestamp": "2014-05-10T13:43:42Z",
+      "wikitext_bytes": 24,
+      "wikitext_sha256": "3b59dc2b95490e154fbc6b66fa18cfc9a72d708ecccf9877f231e455e430892a"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 39696,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 59,
+      "markdown_sha256": "3bc5628ffb1988e0c3dec7ed50a04ea8a2b5dd0f01faace0d40304e37db44c89",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": 39696,
+      "previous_public_revision_id": 39696,
+      "revision_id": 42827,
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z"
+    }
+  ],
+  "site_revision_count": 1
+}

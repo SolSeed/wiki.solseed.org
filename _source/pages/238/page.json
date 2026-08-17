@@ -1,0 +1,56 @@
+{
+  "canonical_path": "/RecruitingAndWelcoming",
+  "current_revision_id": 41804,
+  "database_title": "RecruitingAndWelcoming",
+  "display_title": "RecruitingAndWelcoming",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 2,
+  "page_id": 238,
+  "published_revision_count": 2,
+  "revisions": [
+    {
+      "author": "Brandon CS Sanders",
+      "comment": "New page: == Attracting and Caring for New Members - 15 mins (Shelley and Ben) == Not sure what it would take to get a table at a convention like (Comic-Con and WorldCon).  Mark knows someone who go...",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 638,
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": 637,
+      "same_as_previous_public": false,
+      "timestamp": "2009-03-11T14:57:25Z",
+      "wikitext_bytes": 1351,
+      "wikitext_sha256": "72ca0f99a40fe8a671ffb9cad6629e8863233ab1f8beab8e2cfc3ec48d03ba3b"
+    },
+    {
+      "author": "Brandon CS Sanders",
+      "comment": "",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 41804,
+      "original_parent_revision_id": 637,
+      "previous_public_revision_id": 637,
+      "revision_id": 638,
+      "same_as_previous_public": false,
+      "timestamp": "2009-03-11T14:58:37Z",
+      "wikitext_bytes": 1810,
+      "wikitext_sha256": "a640931e15c88ecefc58c20e928c5b14febf6987144fac34b54ff8f8815fd265"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 638,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 1826,
+      "markdown_sha256": "1bda3110d4577e831a5ae2c1180ef21feeb4a899c06e71d5651d42ceafd3b257",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": 638,
+      "previous_public_revision_id": 638,
+      "revision_id": 41804,
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z"
+    }
+  ],
+  "site_revision_count": 1
+}

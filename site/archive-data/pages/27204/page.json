@@ -1,0 +1,48 @@
+{
+  "canonical_path": "/File:TrappedInMachine.jpg",
+  "current_revision_id": "42805",
+  "database_title": "TrappedInMachine.jpg",
+  "display_title": "File:TrappedInMachine.jpg",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 6,
+  "original_revision_count": 1,
+  "page_id": "27204",
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "EricSaumur",
+      "comment": "A face trapped behind the glass of a monitor on an ancient computer with the quote, \"A person in the model of contingency of existence just doesn't fit.\"",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": "42805",
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": "39614",
+      "same_as_previous_public": false,
+      "timestamp": "2014-02-11T02:43:47Z",
+      "wikitext_bytes": 153,
+      "wikitext_sha256": "165726d4431d1380c517edee1340fcf9d63429683123c17a00b652c7db46c2a5",
+      "source_format": "wikitext",
+      "source_extension": "wiki"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 39614,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 154,
+      "markdown_sha256": "5c184cf5967e9db1a124503c4abf73c8a9a56820fef79d3a343b789b72596932",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": "39614",
+      "previous_public_revision_id": "39614",
+      "revision_id": "42805",
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z",
+      "wikitext_bytes": 154,
+      "wikitext_sha256": "5c184cf5967e9db1a124503c4abf73c8a9a56820fef79d3a343b789b72596932",
+      "source_extension": "md"
+    }
+  ],
+  "site_revision_count": 1
+}

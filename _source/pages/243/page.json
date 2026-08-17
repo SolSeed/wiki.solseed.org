@@ -1,0 +1,43 @@
+{
+  "canonical_path": "/File:Ethiopia_Text_and_Pictures.jpg",
+  "current_revision_id": 41809,
+  "database_title": "Ethiopia_Text_and_Pictures.jpg",
+  "display_title": "File:Ethiopia Text and Pictures.jpg",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 6,
+  "original_revision_count": 1,
+  "page_id": 243,
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "Shelley Schoepflin Sanders",
+      "comment": "Text about the Ethiopian village of Atebes, where a single clean water source has changed the lives of hundreds.",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 41809,
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": 649,
+      "same_as_previous_public": false,
+      "timestamp": "2009-03-12T22:02:45Z",
+      "wikitext_bytes": 112,
+      "wikitext_sha256": "4a08106d6e15d3c8bd48e1e90d85fac3fa7b7d898af2cc44beb46dc4e4902cb1"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 649,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 113,
+      "markdown_sha256": "599a86cef58065b666da717d95f2dd1349f0f80149586c85aea6f4fbeecae067",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": 649,
+      "previous_public_revision_id": 649,
+      "revision_id": 41809,
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z"
+    }
+  ],
+  "site_revision_count": 1
+}

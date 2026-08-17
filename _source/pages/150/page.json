@@ -1,0 +1,43 @@
+{
+  "canonical_path": "/Purpose",
+  "current_revision_id": 41716,
+  "database_title": "Purpose",
+  "display_title": "Purpose",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 1,
+  "page_id": 150,
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "Brandon CS Sanders",
+      "comment": "The purpose that coalesced during [[Seed 2009]]",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 41716,
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": 375,
+      "same_as_previous_public": false,
+      "timestamp": "2009-01-15T05:10:55Z",
+      "wikitext_bytes": 235,
+      "wikitext_sha256": "94c9fbfaf811e70f3e95bd4f9e239a14969304038eff8a1261b9c4fc3b3ffb41"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 375,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 337,
+      "markdown_sha256": "72c665b3dac38c90f277819b5b00918d96afa3d850f5a9048eb126181b620ce2",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": 375,
+      "previous_public_revision_id": 375,
+      "revision_id": 41716,
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z"
+    }
+  ],
+  "site_revision_count": 1
+}

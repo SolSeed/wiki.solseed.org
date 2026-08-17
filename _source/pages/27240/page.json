@@ -1,0 +1,43 @@
+{
+  "canonical_path": "/Reach_for_the_Stars",
+  "current_revision_id": 42841,
+  "database_title": "Reach_for_the_Stars",
+  "display_title": "Reach for the Stars",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 1,
+  "page_id": 27240,
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "BenSibelman",
+      "comment": "Added my current ideas for the visuals",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 42841,
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": 39733,
+      "same_as_previous_public": false,
+      "timestamp": "2014-05-26T19:35:20Z",
+      "wikitext_bytes": 4971,
+      "wikitext_sha256": "e88f37bfa6decfeb538c934b6f34bfe8eadbfb512bcf3f6e1222b3d723b3e2a2"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 39733,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 5056,
+      "markdown_sha256": "ca2aa549ac92bfe60972d04b8d40dcf5d28a192b4d41f3c3f218d1c96bf2e38b",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": 39733,
+      "previous_public_revision_id": 39733,
+      "revision_id": 42841,
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z"
+    }
+  ],
+  "site_revision_count": 1
+}

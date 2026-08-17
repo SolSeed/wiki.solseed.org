@@ -1,0 +1,43 @@
+{
+  "canonical_path": "/User:Bonnie_Sanders",
+  "current_revision_id": 41887,
+  "database_title": "Bonnie_Sanders",
+  "display_title": "User:Bonnie Sanders",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 2,
+  "original_revision_count": 1,
+  "page_id": 323,
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "Brandon CS Sanders",
+      "comment": "New page: [[Image:BoniAtSeed2009.jpg|600px]]",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 41887,
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": 887,
+      "same_as_previous_public": false,
+      "timestamp": "2009-06-05T03:34:59Z",
+      "wikitext_bytes": 34,
+      "wikitext_sha256": "644f49c0d99475b9756e5c24d51f7614150a567e9f26167f3e3b2e4a514c52e7"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 887,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 45,
+      "markdown_sha256": "1be4b31ef4f66085c5ceba5b7778f48cd82f8b8c09f936c9e5820adb85b0e4e5",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": 887,
+      "previous_public_revision_id": 887,
+      "revision_id": 41887,
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z"
+    }
+  ],
+  "site_revision_count": 1
+}

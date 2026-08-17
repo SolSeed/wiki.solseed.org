@@ -1,0 +1,82 @@
+{
+  "canonical_path": "/Kim_Edwards",
+  "current_revision_id": 41652,
+  "database_title": "Kim_Edwards",
+  "display_title": "Kim Edwards",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 4,
+  "page_id": 82,
+  "published_revision_count": 4,
+  "revisions": [
+    {
+      "author": "Kimisu",
+      "comment": "New page: Somehow I am logged on as Kimisu but registered as Kim Edwards ... and now I have two pages, methinks!  Anyway, you're welcome to get in touch with me at kime16@gmail.com.",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 862,
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": 159,
+      "same_as_previous_public": false,
+      "timestamp": "2008-11-04T02:24:18Z",
+      "wikitext_bytes": 171,
+      "wikitext_sha256": "9bab66ad267e10cb1381e35912665682cf9c05c5620d333c62a4021b290aefb9"
+    },
+    {
+      "author": "Kimisu",
+      "comment": "",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 863,
+      "original_parent_revision_id": 159,
+      "previous_public_revision_id": 159,
+      "revision_id": 862,
+      "same_as_previous_public": false,
+      "timestamp": "2009-05-30T04:29:03Z",
+      "wikitext_bytes": 1768,
+      "wikitext_sha256": "2ba2c77c4300584a1a731e3a22b924855db01f63e0940b7fd8e307408ee2a6f8"
+    },
+    {
+      "author": "Kimisu",
+      "comment": "",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 865,
+      "original_parent_revision_id": 862,
+      "previous_public_revision_id": 862,
+      "revision_id": 863,
+      "same_as_previous_public": false,
+      "timestamp": "2009-05-30T04:30:35Z",
+      "wikitext_bytes": 1786,
+      "wikitext_sha256": "f45fabea81daa3204e3b2d99ab3ecc2c346136c8e09d6fd2c7e5e22da0d6c2ec"
+    },
+    {
+      "author": "Kimisu",
+      "comment": "",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 41652,
+      "original_parent_revision_id": 863,
+      "previous_public_revision_id": 863,
+      "revision_id": 865,
+      "same_as_previous_public": false,
+      "timestamp": "2009-05-30T05:46:13Z",
+      "wikitext_bytes": 4316,
+      "wikitext_sha256": "b56e8eb6622611f3ac8ab4dd13eb44e48f982a8e13d6c6b9423cc2c583292347"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 865,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 4284,
+      "markdown_sha256": "07b365e65325819b249265b5c1bb57ee76c5dae8d4d7c65b90bb987dfb427ce9",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": 865,
+      "previous_public_revision_id": 865,
+      "revision_id": 41652,
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z"
+    }
+  ],
+  "site_revision_count": 1
+}

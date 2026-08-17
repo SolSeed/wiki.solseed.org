@@ -1,0 +1,85 @@
+''This was a session at the August 2018 [[Resilient Communities Mini-Unconference]]. It was combined with [[Systems science]] and [[Can we make resilience look more smooth and less like a series of collapses and recoveries?]] but [[Ben]] has made an effort to separate the subjects into their own pages.''
+
+== Attendees ==
+* Steve (convener)
+* [[Ben]] (note-taker)
+* [[Shawn]]
+* Judy
+
+== Draft list of ingredients ==
+
+== Discussion ==
+* Steve: Resilience is persistence over time
+** Judy: Resilience is bouncing back
+* Steve: One ingredient of resilience in community is people having a shared approach to life and how the community ought to work
+** It may be important to define the amount of required agreement, and it may be that there can be less of that in larger communities
+** Example arising from the political argument*: Agreement around what counts as sexual misbehavior
+* Judy: Children can pull a community together
+** We lived in a neighborhood with a babysitting co-op that pulled together the parents of young children, but no one else who lived there
+*** People gravitated to each other on political grounds, by contrast with the religious grounds that unite Hasidic communities e.g. in New York
+** Children are also obstacles to community-building because they're so exigent, e.g. when they're tired you have to take time to put them to bed
+* Judy: Another ingredient is a place for elders
+** Kibbutzim do this well
+** Have a built-in way for young people, focused on themselves and their tasks, to tap the wisdom of elders
+*** Shawn: I've always thought a good model is for people who are retiring from work to participate in childcare (?)
+* Shawn: A key ingredient is trust in each other and the community as a whole
+** Steve and Judy: How to balance this with diversity? How do we learn to trust the other?
+*** Shawn: Give opportunities to trust each other
+**** I'm working with Better Angels to bring Democrats and Republicans together to do a workshop; another similar group is having them share meals
+**** *Argument over The Righteous Mind and the morality of Republicans
+**** Judy: See also the Oregon Conversation Project
+***** Unfortunately, not many conservatives show up
+***** Shawn: This may be because conservatives are more likely to be low on the personality trait of openness to new experiences
+* Steve: Religion and science as ingredients
+** Shawn: Shared source of truth
+** Judy: We need wisdom, and there's some of that in religion, but often magical thinking leads to unwisdom
+*** E.g. Jehovah's Witnesses building Kingdom Halls as windowless fortresses against collapse
+*** Vs. Jewish principle of Tikkun Olam, taking personal responsibility for continuity and caring for the world
+*** Vs. Mormons, who have a wise practice of storing a year's worth of food that we would do well to learn
+*** It takes critical thinking to choose among these sources of “wisdom”
+* Judy: Another ingredient is respect
+** Extending to the notion that the value of everyone's life is equal
+** Meaning that everyone has a right to water, food, healthcare, education, etc
+*** Shawn: The ability to make that work depends on the size of the community
+*** Steve: And availability of outside resources
+* Shawn: Every dependency the community has on something outside itself is a strike against its resilience, e.g. if transportation breaks down
+* Steve: The community should have a way to respond to violations of core rules such as respect for everyone
+* Shawn: Is property a necessary ingredient?
+** Steve: I need some control over my physical situation, e.g. having access to pants when I need them, but collective ownership can work, so I'm nervous about elevating property too high in a pantheon of values
+* Judy: Transition Town neighborhood map: People and their skills, available tools and other assets
+** If we made maps of mile-square areas and handed them out to every household (and kept them up to date), it would be highly valuable for resilience in emergencies
+*** And also help people feel needed and therefore good about ourselves
+** Shawn: We do a similar thing with Portland's Neighborhood Emergency Teams, mapping who's in it and who has caches of basics, whether there's a school, etc
+** Judy: Map available land to use for farming
+* Steve: Preservation of knowledge as an ingredient
+** ''A Canticle for Liebowitz'' is a post-nuclear-apocalypse novel where a priesthood is protecting knowledge in a time where knowledge is viewed with suspicion because “it's what blew up the world,” e.g. storing books in buried barrels
+** Max Headroom includes a character living in dystopian urban area who points out that books are a more resilient, “nonvolatile” storage medium
+*** Electronic media are definitely less resilient
+*** Storing info in our heads isn't very resilient either
+** Judy: The idea that there is objective truth has been lost
+*** I agree that truth is subjective in some ways, but if an event happens and you say “that didn't just happen...”
+** Shawn: My philosophy is that life is an embodiment of cosmic knowledge (see [[Philosophy of life as knowledge, panspermia, and the simulation hypothesis|later session]])
+*** Steve: I'm skeptical about “the plant knows how to grow” being the same kind of thing as “I know how to sew a button”
+** Judy: Knowledge we need to preserve: numeracy, literacy, encouragement of critical thinking and imagination, while also teaching the distinction between those two
+*** Related to separation of church and state?
+*** Shawn: Emotional intelligence is also important
+*** So are ethics!
+**** Religious people don't feel they can trust atheists because they don't think people can be moral/ethical without a god
+**** Judy: We went to services by the Washington Ethical Society, a church without a god
+**** Steve: I think ethics are mostly shared across religions, while stories are not
+***** Judy: Counterexample: abortion
+***** Steve: Another one: jihadis who claim to love death rather than life
+** Steve: One “source of knowledge” is the wise leader, e.g. Chairman Mao, but I'd prefer to organize a resilient community that's not based on a cult of personality
+*** Corporate organizations are resilient because everyone can be replaced
+**** Ben: But some of them might be lost without their current leaders
+**** Shawn: The Pope is another good example of a replaceable leader, while the leader of the Rajneeshis was not
+* Judy: How do we replicate the resilience of America to the Depression and World War II? The ability to pull together and rise above this?
+** Is it associated with a leader like FDR? A philosohpy or religion?
+** Shawn: I think people were more self-reliant back then
+* Steve: Nondependence on nonrenewable resources as an ingredient
+* Judy: A clinic, a library, and a <s>grocery store</s> storehouse as ingredients
+* Is a market needed?
+** Judy: But not implying a money economy as necessary?
+** Shawn: Adam Smith says what's needed for an economy is information flow about supply and demand
+* Air, water, food, clothing, shelter
+** Ben: In some places, clothing isn't necessary

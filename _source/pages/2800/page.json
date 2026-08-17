@@ -1,0 +1,43 @@
+{
+  "canonical_path": "/Where_ideas_come_from",
+  "current_revision_id": 42490,
+  "database_title": "Where_ideas_come_from",
+  "display_title": "Where ideas come from",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 1,
+  "page_id": 2800,
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "BenSibelman",
+      "comment": "Created page with a revised version of a section from the book",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": 42490,
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": 4791,
+      "same_as_previous_public": false,
+      "timestamp": "2012-01-23T05:08:54Z",
+      "wikitext_bytes": 1734,
+      "wikitext_sha256": "15f4895cda5df8020e8574f5ac197b23f94531c09d2779f27b526b98bd7ab0c0"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 4791,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 1748,
+      "markdown_sha256": "311d08ad2f47525086c48c276057e9d2dedb4ad57da856f8725cb9aee2df2ef4",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": 4791,
+      "previous_public_revision_id": 4791,
+      "revision_id": 42490,
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z"
+    }
+  ],
+  "site_revision_count": 1
+}

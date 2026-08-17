@@ -1,0 +1,63 @@
+{
+  "canonical_path": "/Boxy_and_Tinman_on_Why_SolSeed_is_a_Religion",
+  "current_revision_id": "42999",
+  "database_title": "Boxy_and_Tinman_on_Why_SolSeed_is_a_Religion",
+  "display_title": "Boxy and Tinman on Why SolSeed is a Religion",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 2,
+  "page_id": "27400",
+  "published_revision_count": 2,
+  "revisions": [
+    {
+      "author": "Brandon CS Sanders",
+      "comment": "Created page with \"<youtube v=\"Z3vmFqHThXA\" />  == Response from [[Legal Organization]] ==  * I don't think this video presents the argument for a church very well for three reasons: ** The compute...\"",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": "40322",
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": "40321",
+      "same_as_previous_public": false,
+      "timestamp": "2015-01-22T14:29:30Z",
+      "wikitext_bytes": 1068,
+      "wikitext_sha256": "603c0d446c9b47aaf8a71fd67242455e8ed6d0ce581cbeb5d6c470c4a1105dcd",
+      "source_format": "wikitext",
+      "source_extension": "wiki"
+    },
+    {
+      "author": "Brandon CS Sanders",
+      "comment": "",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": "42999",
+      "original_parent_revision_id": "40321",
+      "previous_public_revision_id": "40321",
+      "revision_id": "40322",
+      "same_as_previous_public": false,
+      "timestamp": "2015-01-22T14:29:53Z",
+      "wikitext_bytes": 1131,
+      "wikitext_sha256": "82075948438ceab9d15ea0c4fdd7795340df338efb021fb71d22c81901959640",
+      "source_format": "wikitext",
+      "source_extension": "wiki"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 40322,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 1245,
+      "markdown_sha256": "0aa599cba69e8cfc7a366dbd7e898b4c8873c22c7910479cfd9b4a3217aa7fc2",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": "40322",
+      "previous_public_revision_id": "40322",
+      "revision_id": "42999",
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z",
+      "wikitext_bytes": 1245,
+      "wikitext_sha256": "0aa599cba69e8cfc7a366dbd7e898b4c8873c22c7910479cfd9b4a3217aa7fc2",
+      "source_extension": "md"
+    }
+  ],
+  "site_revision_count": 1
+}

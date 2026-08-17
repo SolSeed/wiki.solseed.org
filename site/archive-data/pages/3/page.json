@@ -1,0 +1,48 @@
+{
+  "canonical_path": "/File:SpiralSky.jpg",
+  "current_revision_id": "41575",
+  "database_title": "SpiralSky.jpg",
+  "display_title": "File:SpiralSky.jpg",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 6,
+  "original_revision_count": 1,
+  "page_id": "3",
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "Brandon CS Sanders",
+      "comment": "One of the [[BatchOfNine]] paintings created by [[Mark Nilsson]] to illustrate some essays about [[SolSeed]] concepts.",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": "41575",
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": "3",
+      "same_as_previous_public": false,
+      "timestamp": "2008-09-13T04:17:21Z",
+      "wikitext_bytes": 118,
+      "wikitext_sha256": "85207ade228a3eb407ccfd3b46b175042afee1d39970b22b80ff51f8c22ddc82",
+      "source_format": "wikitext",
+      "source_extension": "wiki"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 3,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 152,
+      "markdown_sha256": "ff62a20d18603b37a42ad7f4c3f655ad63f687f65d9bdbdf6eab187cb1040aa9",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": "3",
+      "previous_public_revision_id": "3",
+      "revision_id": "41575",
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z",
+      "wikitext_bytes": 152,
+      "wikitext_sha256": "ff62a20d18603b37a42ad7f4c3f655ad63f687f65d9bdbdf6eab187cb1040aa9",
+      "source_extension": "md"
+    }
+  ],
+  "site_revision_count": 1
+}

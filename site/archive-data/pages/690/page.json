@@ -1,0 +1,48 @@
+{
+  "canonical_path": "/File:Longest_Day_Party_food_table.jpg",
+  "current_revision_id": "42246",
+  "database_title": "Longest_Day_Party_food_table.jpg",
+  "display_title": "File:Longest Day Party food table.jpg",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 6,
+  "original_revision_count": 1,
+  "page_id": "690",
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "BenSibelman",
+      "comment": "A panorama created using two photos from the [[LongestDayParty]].",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": "42246",
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": "1756",
+      "same_as_previous_public": false,
+      "timestamp": "2010-07-30T04:32:11Z",
+      "wikitext_bytes": 65,
+      "wikitext_sha256": "b9a8c6a8e30eb776083a4d4bfe9b42991c9af4921398a4790b0907e2ac737325",
+      "source_format": "wikitext",
+      "source_extension": "wiki"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 1756,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 82,
+      "markdown_sha256": "dfc8787d04b46e1900f4a6a79afcf21c8a35817ec16a2552b713e69c303a49d9",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": "1756",
+      "previous_public_revision_id": "1756",
+      "revision_id": "42246",
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z",
+      "wikitext_bytes": 82,
+      "wikitext_sha256": "dfc8787d04b46e1900f4a6a79afcf21c8a35817ec16a2552b713e69c303a49d9",
+      "source_extension": "md"
+    }
+  ],
+  "site_revision_count": 1
+}

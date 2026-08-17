@@ -1,0 +1,48 @@
+{
+  "canonical_path": "/September_13,_2015:_Online_Work_Bee",
+  "current_revision_id": "43091",
+  "database_title": "September_13,_2015:_Online_Work_Bee",
+  "display_title": "September 13, 2015: Online Work Bee",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 1,
+  "page_id": "27493",
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "BenSibelman",
+      "comment": "moved [[September 13, 2015: Online Work Bee]] to [[September 13, 2015: Business Call]]: Renamed to the right type of call",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": "43091",
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": "40642",
+      "same_as_previous_public": false,
+      "timestamp": "2015-09-18T02:48:21Z",
+      "wikitext_bytes": 47,
+      "wikitext_sha256": "4b2b378739ebe02a2c6c1e2797a66218c7d2bc92b24100c009740bdb13770169",
+      "source_format": "wikitext",
+      "source_extension": "wiki"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 40642,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 105,
+      "markdown_sha256": "c43fd3c889bcfc11352858a3576a0bc8153518721a07f62a0ac310ba898bada2",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": "40642",
+      "previous_public_revision_id": "40642",
+      "revision_id": "43091",
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z",
+      "wikitext_bytes": 105,
+      "wikitext_sha256": "c43fd3c889bcfc11352858a3576a0bc8153518721a07f62a0ac310ba898bada2",
+      "source_extension": "md"
+    }
+  ],
+  "site_revision_count": 1
+}

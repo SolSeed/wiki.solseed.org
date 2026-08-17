@@ -1,0 +1,48 @@
+{
+  "canonical_path": "/File:Around_the_Yule_log.JPG",
+  "current_revision_id": "42363",
+  "database_title": "Around_the_Yule_log.JPG",
+  "display_title": "File:Around the Yule log.JPG",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 6,
+  "original_revision_count": 1,
+  "page_id": "808",
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "BenSibelman",
+      "comment": "People in the [[Seed Village]] backyard at [[Solstice2010]].",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": "42363",
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": "2121",
+      "same_as_previous_public": false,
+      "timestamp": "2011-01-01T05:37:04Z",
+      "wikitext_bytes": 60,
+      "wikitext_sha256": "c1b3e28ecc53a8f29ad39bbf6a574579e23a16b4dd0d50faa23288bb78ef3c38",
+      "source_format": "wikitext",
+      "source_extension": "wiki"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 2121,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 87,
+      "markdown_sha256": "f39e7213cf99398735a092e1f90dc81aa48c941f43aeac52864412307f6f9e01",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": "2121",
+      "previous_public_revision_id": "2121",
+      "revision_id": "42363",
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z",
+      "wikitext_bytes": 87,
+      "wikitext_sha256": "f39e7213cf99398735a092e1f90dc81aa48c941f43aeac52864412307f6f9e01",
+      "source_extension": "md"
+    }
+  ],
+  "site_revision_count": 1
+}

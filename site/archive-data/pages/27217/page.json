@@ -1,0 +1,48 @@
+{
+  "canonical_path": "/1st_Season",
+  "current_revision_id": "42818",
+  "database_title": "1st_Season",
+  "display_title": "1st Season",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 0,
+  "original_revision_count": 1,
+  "page_id": "27217",
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "Brandon CS Sanders",
+      "comment": "Redirected page to [[Genesis]]",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": "42818",
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": "39665",
+      "same_as_previous_public": false,
+      "timestamp": "2014-04-27T21:01:38Z",
+      "wikitext_bytes": 21,
+      "wikitext_sha256": "d727677ad3c71f8e17ba7f9243dc0a9ced4b0a90f392b14133be849c0a8103a6",
+      "source_format": "wikitext",
+      "source_extension": "wiki"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 39665,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 53,
+      "markdown_sha256": "354db34068c14a58bec82cadcad04318c825b9a4227010f019837e78e0f3a6bf",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": "39665",
+      "previous_public_revision_id": "39665",
+      "revision_id": "42818",
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z",
+      "wikitext_bytes": 53,
+      "wikitext_sha256": "354db34068c14a58bec82cadcad04318c825b9a4227010f019837e78e0f3a6bf",
+      "source_extension": "md"
+    }
+  ],
+  "site_revision_count": 1
+}

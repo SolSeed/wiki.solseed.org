@@ -1,0 +1,48 @@
+{
+  "canonical_path": "/Talk:SolSeed_book_introduction",
+  "current_revision_id": "42514",
+  "database_title": "SolSeed_book_introduction",
+  "display_title": "Talk:SolSeed book introduction",
+  "excluded_spam_revision_count": 0,
+  "namespace_id": 1,
+  "original_revision_count": 1,
+  "page_id": "5430",
+  "published_revision_count": 1,
+  "revisions": [
+    {
+      "author": "Brandon CS Sanders",
+      "comment": "moved [[Talk:SolSeed book introduction]] to [[Talk:Life ... it's our epic story!]]: New chapter 1 for the book",
+      "excluded_revision_count_since_previous_public": 0,
+      "next_public_revision_id": "42514",
+      "original_parent_revision_id": null,
+      "previous_public_revision_id": null,
+      "revision_id": "7694",
+      "same_as_previous_public": false,
+      "timestamp": "2012-03-12T04:45:32Z",
+      "wikitext_bytes": 48,
+      "wikitext_sha256": "1790a69e217619de53667db9a334a731705d8e2e98c22ed128e21a7e6ca39535",
+      "source_format": "wikitext",
+      "source_extension": "wiki"
+    },
+    {
+      "author": "SolSeed archive migration",
+      "comment": "Create maintainable Markdown archive revision",
+      "derived_from_revision_id": 7694,
+      "excluded_revision_count_since_previous_public": 0,
+      "markdown_bytes": 107,
+      "markdown_sha256": "2ce932eb1efb2236bb0535249dba2e5ad2454c0a4eff477ee8d94411af195dbc",
+      "next_public_revision_id": null,
+      "original_parent_revision_id": "7694",
+      "previous_public_revision_id": "7694",
+      "revision_id": "42514",
+      "revision_origin": "site",
+      "same_as_previous_public": false,
+      "source_format": "markdown",
+      "timestamp": "2018-12-15T00:00:00Z",
+      "wikitext_bytes": 107,
+      "wikitext_sha256": "2ce932eb1efb2236bb0535249dba2e5ad2454c0a4eff477ee8d94411af195dbc",
+      "source_extension": "md"
+    }
+  ],
+  "site_revision_count": 1
+}
